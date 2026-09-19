@@ -4,7 +4,509 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Sat, 19 Sep 2026 05:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:00:29 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: $GOOGL’s GEMINI AI HACKED THREE REAL COMPANIES DURING A CYBERSECURITY TEST The incidents happened i...</title>
+      <link>https://x.com/wallstengine/status/2101107879532962287</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101107879532962287</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sat, 19 Sep 2026 00:35:29 GMT</pubDate>
+      <description>$GOOGL’s GEMINI AI HACKED THREE REAL COMPANIES DURING A CYBERSECURITY TEST
+
+The incidents happened in May during a “capture the flag” evaluation run by AI security firm Irregular.
+
+Gemini was supposed to attack a fictional company inside the test environment, but internet access was unintentionally left open. The fictional company also shared the same name as a real company.
+
+In one run, Gemini guessed a password and successfully accessed the real company’s system.
+
+In two other runs, the model searched the web, found credentials belonging to other companies in public repositories, and used them to access those companies’ systems.
+
+Google says Gemini stopped itself in each case once it realized it had accessed a real company rather than the simulated target.
+
+Google was notified in late July but did not publicly disclose the incidents until after WSJ reached out with questions this week.
+
+The company says no harm was caused, all three affected companies were notified, and federal authorities were informed.
+
+Google said the incidents did not involve its newest Gemini model, but declined to disclose which version was used.
+
+Source: WSJ / Google</description>
+      <content:encoded>&lt;p&gt;$GOOGL’s GEMINI AI HACKED THREE REAL COMPANIES DURING A CYBERSECURITY TEST&lt;br&gt;&lt;br&gt;The incidents happened in May during a “capture the flag” evaluation run by AI security firm Irregular.&lt;br&gt;&lt;br&gt;Gemini was supposed to attack a fictional company inside the test environment, but internet access was unintentionally left open. The fictional company also shared the same name as a real company.&lt;br&gt;&lt;br&gt;In one run, Gemini guessed a password and successfully accessed the real company’s system.&lt;br&gt;&lt;br&gt;In two other runs, the model searched the web, found credentials belonging to other companies in public repositories, and used them to access those companies’ systems.&lt;br&gt;&lt;br&gt;Google says Gemini stopped itself in each case once it realized it had accessed a real company rather than the simulated target.&lt;br&gt;&lt;br&gt;Google was notified in late July but did not publicly disclose the incidents until after WSJ reached out with questions this week.&lt;br&gt;&lt;br&gt;The company says no harm was caused, all three affected companies were notified, and federal authorities were informed.&lt;br&gt;&lt;br&gt;Google said the incidents did not involve its newest Gemini model, but declined to disclose which version was used.&lt;br&gt;&lt;br&gt;Source: WSJ / Google&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSiieUpbMAA8usI.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: OpenAI projects $278 billion in negative free cash flow through 2030, with $856B in compute and inf...</title>
+      <link>https://x.com/wallstengine/status/2101103475023065470</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101103475023065470</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sat, 19 Sep 2026 00:17:59 GMT</pubDate>
+      <description>OpenAI projects $278 billion in negative free cash flow through 2030, with $856B in compute and infrastructure spending, per FT.
+
+OpenAI expects revenue to grow from $36B this year to $350B in 2030, totaling roughly $840B through the end of the decade.
+
+Its $122B cash raise from March is projected to be exhausted in 2028.
+
+The company is now discussing another major funding round, with investors approaching it around a $1.2T valuation while OpenAI is seeking a higher figure.
+
+The latest cash-burn estimate is an improvement from the $305B projected in May.
+
+OpenAI has also cut prices as it competes with Anthropic and cheaper Chinese open-weight models, while new model launches helped lift annualized revenue by about 20% in July.
+
+The company confidentially filed for an IPO in June and had targeted a fall listing, but has since delayed the process.</description>
+      <content:encoded>&lt;p&gt;OpenAI projects $278 billion in negative free cash flow through 2030, with $856B in compute and infrastructure spending, per FT.&lt;br&gt;&lt;br&gt;OpenAI expects revenue to grow from $36B this year to $350B in 2030, totaling roughly $840B through the end of the decade.&lt;br&gt;&lt;br&gt;Its $122B cash raise from March is projected to be exhausted in 2028.&lt;br&gt;&lt;br&gt;The company is now discussing another major funding round, with investors approaching it around a $1.2T valuation while OpenAI is seeking a higher figure.&lt;br&gt;&lt;br&gt;The latest cash-burn estimate is an improvement from the $305B projected in May.&lt;br&gt;&lt;br&gt;OpenAI has also cut prices as it competes with Anthropic and cheaper Chinese open-weight models, while new model launches helped lift annualized revenue by about 20% in July.&lt;br&gt;&lt;br&gt;The company confidentially filed for an IPO in June and had targeted a fall listing, but has since delayed the process.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSieeE9awAA55Gh.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: ANTHROPIC WEIGHS NEW AI MODEL LAUNCH AHEAD OF IPO, LISTING COULD SLIP PAST U.S. MIDTERMS - Reuters</title>
+      <link>https://x.com/wallstengine/status/2101100563610140799</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101100563610140799</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sat, 19 Sep 2026 00:06:25 GMT</pubDate>
+      <description>ANTHROPIC WEIGHS NEW AI MODEL LAUNCH AHEAD OF IPO, LISTING COULD SLIP PAST U.S. MIDTERMS - Reuters</description>
+      <content:encoded>&lt;p&gt;ANTHROPIC WEIGHS NEW AI MODEL LAUNCH AHEAD OF IPO, LISTING COULD SLIP PAST U.S. MIDTERMS - Reuters&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $META’s Muse is now available in Canada.</title>
+      <link>https://x.com/wallstengine/status/2101095926547071254</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101095926547071254</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 23:48:00 GMT</pubDate>
+      <description>$META’s Muse is now available in Canada.</description>
+      <content:encoded>&lt;p&gt;$META’s Muse is now available in Canada.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: Google's Gemini accessed the internet and hacked 3 other companies in the first known bre...</title>
+      <link>https://x.com/KobeissiLetter/status/2101094166038269995</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101094166038269995</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 23:41:00 GMT</pubDate>
+      <description>BREAKING: Google's Gemini accessed the internet and hacked 3 other companies in the first known breakout of the company's AI model, per WSJ.
+
+Google said it the hacks did not warrant public disclosure because its model did not cause harm to the companies and ended each intrusion immediately after determining it had hacked a real company.</description>
+      <content:encoded>&lt;p&gt;BREAKING: Google&amp;apos;s Gemini accessed the internet and hacked 3 other companies in the first known breakout of the company&amp;apos;s AI model, per WSJ.&lt;br&gt;&lt;br&gt;Google said it the hacks did not warrant public disclosure because its model did not cause harm to the companies and ended each intrusion immediately after determining it had hacked a real company.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: President Trump publishes his “top 25 accomplishments of term three.”</title>
+      <link>https://x.com/KobeissiLetter/status/2101082124925501862</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101082124925501862</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 22:53:09 GMT</pubDate>
+      <description>BREAKING: President Trump publishes his “top 25 accomplishments of term three.”</description>
+      <content:encoded>&lt;p&gt;BREAKING: President Trump publishes his “top 25 accomplishments of term three.”&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSiLDo-WsAAb8P6.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSiLDpQXwAAenlH.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: US consumers just keep on spending. US retail sales rose +1.2% in August, the largest monthly incre...</title>
+      <link>https://x.com/KobeissiLetter/status/2101079285586907512</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101079285586907512</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 22:41:52 GMT</pubDate>
+      <description>US consumers just keep on spending.
+
+US retail sales rose +1.2% in August, the largest monthly increase since March.
+
+At the same time, retail sales excluding autos increased +1.4%, the 2nd-biggest monthly increase since January 2023.
+
+Furthermore, control-group sales, which feed into the GDP calculation, surged +1.4%, the largest monthly increase since September 2024.
+
+Meanwhile, retail sales adjusted for inflation rose +0.8% MoM in August, to a record $231.6 billion.
+
+Since January 2026, real retail sales have risen +$6.7 billion, or +3.0%.
+
+The US consumer is still spending despite inflation.</description>
+      <content:encoded>&lt;p&gt;US consumers just keep on spending.&lt;br&gt;&lt;br&gt;US retail sales rose +1.2% in August, the largest monthly increase since March.&lt;br&gt;&lt;br&gt;At the same time, retail sales excluding autos increased +1.4%, the 2nd-biggest monthly increase since January 2023.&lt;br&gt;&lt;br&gt;Furthermore, control-group sales, which feed into the GDP calculation, surged +1.4%, the largest monthly increase since September 2024.&lt;br&gt;&lt;br&gt;Meanwhile, retail sales adjusted for inflation rose +0.8% MoM in August, to a record $231.6 billion.&lt;br&gt;&lt;br&gt;Since January 2026, real retail sales have risen +$6.7 billion, or +3.0%.&lt;br&gt;&lt;br&gt;The US consumer is still spending despite inflation.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSf1_rQWIAADfAC.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: More details: Advisers believe waiting could allow Anthropic to include Q3 financials showing how t...</title>
+      <link>https://x.com/wallstengine/status/2101069696288297237</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101069696288297237</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 22:03:46 GMT</pubDate>
+      <description>More details:
+Advisers believe waiting could allow Anthropic to include Q3 financials showing how the business has held up after OpenAI launched Astra in September.
+
+Investors have been expecting a roughly $2T valuation and an offering of up to $100B, both of which would set records.
+
+Anthropic plans to meet prospective investors in the coming days, with investors expected to question how a potential slowdown in advanced AI development could affect growth and valuation.
+
+Current investors expect Anthropic to surpass $110B in annualized revenue by year-end and argue that slower development of new frontier models would not necessarily significantly hurt the business because existing Claude models are already generating substantial revenue.
+
+The November timing was reportedly decided before the recent escalation in the AI safety debate and could still change.
+
+https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc</description>
+      <content:encoded>&lt;p&gt;More details:&lt;br&gt;Advisers believe waiting could allow Anthropic to include Q3 financials showing how the business has held up after OpenAI launched Astra in September.&lt;br&gt;&lt;br&gt;Investors have been expecting a roughly $2T valuation and an offering of up to $100B, both of which would set records.&lt;br&gt;&lt;br&gt;Anthropic plans to meet prospective investors in the coming days, with investors expected to question how a potential slowdown in advanced AI development could affect growth and valuation.&lt;br&gt;&lt;br&gt;Current investors expect Anthropic to surpass $110B in annualized revenue by year-end and argue that slower development of new frontier models would not necessarily significantly hurt the business because existing Claude models are already generating substantial revenue.&lt;br&gt;&lt;br&gt;The November timing was reportedly decided before the recent escalation in the AI safety debate and could still change.&lt;br&gt;&lt;br&gt;https://www.wsj.com/tech/ai/anthropic-shifts-planned-ipo-to-november-8874dffc&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: ANTHROPIC DELAYS IPO TO NOVEMBER: WSJ The company is expected to begin meeting with prospective inv...</title>
+      <link>https://x.com/wallstengine/status/2101068922271256879</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101068922271256879</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 22:00:41 GMT</pubDate>
+      <description>ANTHROPIC DELAYS IPO TO NOVEMBER: WSJ
+
+The company is expected to begin meeting with prospective investors in the coming days as it prepares for what could become one of the largest public listings on record.
+
+The timing change was reportedly decided before the recent escalation in debate over AI safety.
+
+Source: The WSJ</description>
+      <content:encoded>&lt;p&gt;ANTHROPIC DELAYS IPO TO NOVEMBER: WSJ&lt;br&gt;&lt;br&gt;The company is expected to begin meeting with prospective investors in the coming days as it prepares for what could become one of the largest public listings on record.&lt;br&gt;&lt;br&gt;The timing change was reportedly decided before the recent escalation in debate over AI safety.&lt;br&gt;&lt;br&gt;Source: The WSJ&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSh--ZTaMAA7D1J.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSh_AuGbYAAm2MX.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: TRUMP ANNOUNCES PERMANENT U.S. SECURITY CONTROL OVER GREENLAND President Trump says the U.S., Denma...</title>
+      <link>https://x.com/wallstengine/status/2101065299927654768</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101065299927654768</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 21:46:18 GMT</pubDate>
+      <description>TRUMP ANNOUNCES PERMANENT U.S. SECURITY CONTROL OVER GREENLAND
+
+President Trump says the U.S., Denmark and Greenland have reached an agreement giving the United States permanent control over Greenland’s security needs at no cost to the U.S.
+
+Under the agreement described by Trump, no U.S. adversary would be allowed to establish a military base, maintain a military presence or make sensitive investments in Greenland without U.S. approval.
+
+Trump also said the U.S. will begin developing a significantly larger military presence on the island and described the agreement as having “no end.”</description>
+      <content:encoded>&lt;p&gt;TRUMP ANNOUNCES PERMANENT U.S. SECURITY CONTROL OVER GREENLAND&lt;br&gt;&lt;br&gt;President Trump says the U.S., Denmark and Greenland have reached an agreement giving the United States permanent control over Greenland’s security needs at no cost to the U.S.&lt;br&gt;&lt;br&gt;Under the agreement described by Trump, no U.S. adversary would be allowed to establish a military base, maintain a military presence or make sensitive investments in Greenland without U.S. approval.&lt;br&gt;&lt;br&gt;Trump also said the U.S. will begin developing a significantly larger military presence on the island and described the agreement as having “no end.”&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSh7vx5awAALP_N.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSh7vx2bEAA6m_3.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: Anthropic is planning to launch its IPO in November despite AI safety concerns, per WSJ....</title>
+      <link>https://x.com/KobeissiLetter/status/2101062588360798513</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101062588360798513</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 21:35:31 GMT</pubDate>
+      <description>BREAKING: Anthropic is planning to launch its IPO in November despite AI safety concerns, per WSJ.
+
+The company is expected to IPO at a $2 trillion valuation and raise up to $100 billion in the offering.
+
+Anthropic is expected to reach more than $110 billion in annualized revenue by year-end.</description>
+      <content:encoded>&lt;p&gt;BREAKING: Anthropic is planning to launch its IPO in November despite AI safety concerns, per WSJ.&lt;br&gt;&lt;br&gt;The company is expected to IPO at a $2 trillion valuation and raise up to $100 billion in the offering.&lt;br&gt;&lt;br&gt;Anthropic is expected to reach more than $110 billion in annualized revenue by year-end.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: President Trump says the US has entered an agreement with Denmark and Greenland that give...</title>
+      <link>https://x.com/KobeissiLetter/status/2101059832925323310</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101059832925323310</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 21:24:34 GMT</pubDate>
+      <description>BREAKING: President Trump says the US has entered an agreement with Denmark and Greenland that gives the US “permanent control over security and all other needs in Greenland.”
+
+“There will be no cost to the United States,” Trump says.</description>
+      <content:encoded>&lt;p&gt;BREAKING: President Trump says the US has entered an agreement with Denmark and Greenland that gives the US “permanent control over security and all other needs in Greenland.”&lt;br&gt;&lt;br&gt;“There will be no cost to the United States,” Trump says.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSh2yBbbQAAMuy2.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: Investors are becoming extremely bearish: 53.3% of individual investors expressed bearish sentiment...</title>
+      <link>https://x.com/KobeissiLetter/status/2101057717767110909</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101057717767110909</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 21:16:10 GMT</pubDate>
+      <description>Investors are becoming extremely bearish:
+
+53.3% of individual investors expressed bearish sentiment over the next 6 months in the AAII survey for the week ending September 17th, the highest reading since May 2025.
+
+Bearish sentiment has risen +15.7 percentage points over the last 2 weeks, the largest 2-week increase since March 2026.
+
+Meanwhile, just 28.8% of individual investors were bullish over the same period, the lowest reading since September 2025.
+
+As a result, the bull-bear spread is down to -24.5 percentage points, the widest gap since the first week of May 2025.
+
+This is also comparable to readings seen during the March-April 2025 pullback and the 2022 bear market.
+
+Are we setting up for a short squeeze?</description>
+      <content:encoded>&lt;p&gt;Investors are becoming extremely bearish:&lt;br&gt;&lt;br&gt;53.3% of individual investors expressed bearish sentiment over the next 6 months in the AAII survey for the week ending September 17th, the highest reading since May 2025.&lt;br&gt;&lt;br&gt;Bearish sentiment has risen +15.7 percentage points over the last 2 weeks, the largest 2-week increase since March 2026.&lt;br&gt;&lt;br&gt;Meanwhile, just 28.8% of individual investors were bullish over the same period, the lowest reading since September 2025.&lt;br&gt;&lt;br&gt;As a result, the bull-bear spread is down to -24.5 percentage points, the widest gap since the first week of May 2025.&lt;br&gt;&lt;br&gt;This is also comparable to readings seen during the March-April 2025 pullback and the 2022 bear market.&lt;br&gt;&lt;br&gt;Are we setting up for a short squeeze?&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSf2rDYWMAArvaA.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: SAM ALTMAN TO BRIEF UN SECURITY COUNCIL ON AI SAFETY NEXT WEEK OpenAI CEO Sam Altman will brief the...</title>
+      <link>https://x.com/wallstengine/status/2101044871587131510</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101044871587131510</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 20:25:07 GMT</pubDate>
+      <description>SAM ALTMAN TO BRIEF UN SECURITY COUNCIL ON AI SAFETY NEXT WEEK
+
+OpenAI CEO Sam Altman will brief the UN Security Council in person next Wednesday during the UN General Assembly, as the council holds a meeting focused on AI and international security.
+
+Altman is expected to discuss OpenAI’s AI safety efforts and call for greater international coordination and shared safety standards.
+
+The meeting comes weeks after several AI industry leaders called for a coordinated slowdown in advanced AI development over concerns increasingly capable systems could become harder to control.
+
+Source: Reuters</description>
+      <content:encoded>&lt;p&gt;SAM ALTMAN TO BRIEF UN SECURITY COUNCIL ON AI SAFETY NEXT WEEK&lt;br&gt;&lt;br&gt;OpenAI CEO Sam Altman will brief the UN Security Council in person next Wednesday during the UN General Assembly, as the council holds a meeting focused on AI and international security.&lt;br&gt;&lt;br&gt;Altman is expected to discuss OpenAI’s AI safety efforts and call for greater international coordination and shared safety standards.&lt;br&gt;&lt;br&gt;The meeting comes weeks after several AI industry leaders called for a coordinated slowdown in advanced AI development over concerns increasingly capable systems could become harder to control.&lt;br&gt;&lt;br&gt;Source: Reuters&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShpKEwbkAA7OCE.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Anthropic and Accenture each expect to invest at least $1 billion over 5 years in independent evalu...</title>
+      <link>https://x.com/wallstengine/status/2101044073138442373</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101044073138442373</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 20:21:57 GMT</pubDate>
+      <description>Anthropic and Accenture each expect to invest at least $1 billion over 5 years in independent evaluation of frontier AI models.
+
+The deal is non-exclusive. Anthropic says it will name more evaluators in the coming weeks, and Accenture will work with other AI developers.
+
+Note: Faculty, Accenture's AI unit, will embed evaluators inside Anthropic with access comparable to an employee's. The evaluators will red-team models, run alignment assessments and test safeguards. Anthropic is paying for Accenture's work directly.</description>
+      <content:encoded>&lt;p&gt;Anthropic and Accenture each expect to invest at least $1 billion over 5 years in independent evaluation of frontier AI models.&lt;br&gt;&lt;br&gt;The deal is non-exclusive. Anthropic says it will name more evaluators in the coming weeks, and Accenture will work with other AI developers.&lt;br&gt;&lt;br&gt;Note: Faculty, Accenture&amp;apos;s AI unit, will embed evaluators inside Anthropic with access comparable to an employee&amp;apos;s. The evaluators will red-team models, run alignment assessments and test safeguards. Anthropic is paying for Accenture&amp;apos;s work directly.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShnt2QbgAAqy7y.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html</title>
+      <link>https://x.com/wallstengine/status/2101042485451747669</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101042485451747669</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 20:15:38 GMT</pubDate>
+      <description>https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html</description>
+      <content:encoded>&lt;p&gt;https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: ANTHROPIC EXPECTS $100B+ ARR AHEAD OF IPO The Claude maker’s revenue run rate is expected to exceed...</title>
+      <link>https://x.com/wallstengine/status/2101042482960298252</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101042482960298252</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 20:15:38 GMT</pubDate>
+      <description>ANTHROPIC EXPECTS $100B+ ARR AHEAD OF IPO
+
+The Claude maker’s revenue run rate is expected to exceed $100B by year-end, up from $65B in July.
+
+Anthropic could publicly release its IPO filing in the coming weeks, putting shares on track to begin trading as soon as November.
+
+The timing could still change.
+
+Potential IPO investors are using that ARR growth to justify a valuation of roughly $2T.
+
+Investors expect the company to have about 5 gigawatts of computing capacity available by year-end, roughly doubling to 10 gigawatts by the end of 2027.
+
+The IPO push continues despite CEO Dario Amodei’s calls to slow some advanced AI development. Most of Anthropic’s revenue comes from business customers, and several investors believe that adoption can keep growing even with those limits.
+
+OpenAI, meanwhile, has pushed its planned listing to 2027.
+
+Source: The New York Times.</description>
+      <content:encoded>&lt;p&gt;ANTHROPIC EXPECTS $100B+ ARR AHEAD OF IPO&lt;br&gt;&lt;br&gt;The Claude maker’s revenue run rate is expected to exceed $100B by year-end, up from $65B in July.&lt;br&gt;&lt;br&gt;Anthropic could publicly release its IPO filing in the coming weeks, putting shares on track to begin trading as soon as November.&lt;br&gt;&lt;br&gt;The timing could still change.&lt;br&gt;&lt;br&gt;Potential IPO investors are using that ARR growth to justify a valuation of roughly $2T.&lt;br&gt;&lt;br&gt;Investors expect the company to have about 5 gigawatts of computing capacity available by year-end, roughly doubling to 10 gigawatts by the end of 2027.&lt;br&gt;&lt;br&gt;The IPO push continues despite CEO Dario Amodei’s calls to slow some advanced AI development. Most of Anthropic’s revenue comes from business customers, and several investors believe that adoption can keep growing even with those limits.&lt;br&gt;&lt;br&gt;OpenAI, meanwhile, has pushed its planned listing to 2027.&lt;br&gt;&lt;br&gt;Source: The New York Times.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShmk_AaQAAZMsm.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: NVIDIA-BACKED NSCALE FILES FOR NYSE IPO UNDER $NSCL; REVEALS $103.4B OF CONTRACT VALUE Here’s every...</title>
+      <link>https://x.com/wallstengine/status/2101038367593082937</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101038367593082937</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 19:59:16 GMT</pubDate>
+      <description>NVIDIA-BACKED NSCALE FILES FOR NYSE IPO UNDER $NSCL; REVEALS $103.4B OF CONTRACT VALUE
+
+Here’s everything you need to know:
+
+Nscale is a UK-based AI cloud company headquartered in London. It builds and operates data centers, GPU infrastructure and cloud software that customers use to train AI models and run them in production.
+
+Its filing reports $103.4B in total contract value as of Aug. 31, up from $38B at the end of 2025. These are multi-year contract amounts, not annual revenue or cash already collected.
+
+ANTHROPIC: UP TO $44.6B
+
+Agreements signed Aug. 25 cover Nvidia Vera Rubin computing systems at Nscale’s planned West Virginia campus.
+
+The key financing disclosure: Nscale says it does not yet have binding commitments for the financing needed to deliver the Anthropic buildout.
+
+The filed agreement also includes a right to terminate if the required financing is not secured by an agreed deadline.
+
+MICROSOFT: UP TO $43.8B THROUGH 2033
+
+Microsoft is Nscale’s other major customer. Its previously announced deployment program includes roughly 200,000 Nvidia GB300 GPUs across the U.S., UK, Portugal and Norway, with Dell participating in the infrastructure rollout.
+
+The disclosed Microsoft and Anthropic contract amounts together reach $88.4B, equivalent to roughly 85% of Nscale’s total contract value.
+
+How much capacity is actually running?
+
+Nscale had approximately 461,000 GPUs active or contracted at the end of August, but only about 25,000 were operating.
+
+That distinction matters: the contracted footprint is substantially larger than the infrastructure already delivering services.
+
+First-half 2026 financials
+
+• Revenue: $140.6M, up from $10.4M a year earlier
+• Operating loss: $492M
+• Net loss: $1.02B, including $457M in fair-value losses
+
+Nvidia backing and fresh financing
+
+Nvidia agreed to invest $1B as part of a $3.1B convertible financing signed Sept. 15.
+
+Earlier this year, Nscale raised $2B at a $14.6B valuation, with backers including Nvidia, Dell, Nokia, Citadel, Jane Street and Point72. That was its March funding valuation, not an announced IPO valuation.
+
+The offering
+
+Goldman Sachs, J.P. Morgan and Morgan Stanley are leading the proposed NYSE listing. The share count and price range have not yet been determined.
+
+The filing puts the opportunity and the execution challenge side by side: substantial customer commitments, but much of the capacity still needs to be financed, built and brought online.</description>
+      <content:encoded>&lt;p&gt;NVIDIA-BACKED NSCALE FILES FOR NYSE IPO UNDER $NSCL; REVEALS $103.4B OF CONTRACT VALUE&lt;br&gt;&lt;br&gt;Here’s everything you need to know:&lt;br&gt;&lt;br&gt;Nscale is a UK-based AI cloud company headquartered in London. It builds and operates data centers, GPU infrastructure and cloud software that customers use to train AI models and run them in production.&lt;br&gt;&lt;br&gt;Its filing reports $103.4B in total contract value as of Aug. 31, up from $38B at the end of 2025. These are multi-year contract amounts, not annual revenue or cash already collected.&lt;br&gt;&lt;br&gt;ANTHROPIC: UP TO $44.6B&lt;br&gt;&lt;br&gt;Agreements signed Aug. 25 cover Nvidia Vera Rubin computing systems at Nscale’s planned West Virginia campus.&lt;br&gt;&lt;br&gt;The key financing disclosure: Nscale says it does not yet have binding commitments for the financing needed to deliver the Anthropic buildout.&lt;br&gt;&lt;br&gt;The filed agreement also includes a right to terminate if the required financing is not secured by an agreed deadline.&lt;br&gt;&lt;br&gt;MICROSOFT: UP TO $43.8B THROUGH 2033&lt;br&gt;&lt;br&gt;Microsoft is Nscale’s other major customer. Its previously announced deployment program includes roughly 200,000 Nvidia GB300 GPUs across the U.S., UK, Portugal and Norway, with Dell participating in the infrastructure rollout.&lt;br&gt;&lt;br&gt;The disclosed Microsoft and Anthropic contract amounts together reach $88.4B, equivalent to roughly 85% of Nscale’s total contract value.&lt;br&gt;&lt;br&gt;How much capacity is actually running?&lt;br&gt;&lt;br&gt;Nscale had approximately 461,000 GPUs active or contracted at the end of August, but only about 25,000 were operating.&lt;br&gt;&lt;br&gt;That distinction matters: the contracted footprint is substantially larger than the infrastructure already delivering services.&lt;br&gt;&lt;br&gt;First-half 2026 financials&lt;br&gt;&lt;br&gt;• Revenue: $140.6M, up from $10.4M a year earlier&lt;br&gt;• Operating loss: $492M&lt;br&gt;• Net loss: $1.02B, including $457M in fair-value losses&lt;br&gt;&lt;br&gt;Nvidia backing and fresh financing&lt;br&gt;&lt;br&gt;Nvidia agreed to invest $1B as part of a $3.1B convertible financing signed Sept. 15.&lt;br&gt;&lt;br&gt;Earlier this year, Nscale raised $2B at a $14.6B valuation, with backers including Nvidia, Dell, Nokia, Citadel, Jane Street and Point72. That was its March funding valuation, not an announced IPO valuation.&lt;br&gt;&lt;br&gt;The offering&lt;br&gt;&lt;br&gt;Goldman Sachs, J.P. Morgan and Morgan Stanley are leading the proposed NYSE listing. The share count and price range have not yet been determined.&lt;br&gt;&lt;br&gt;The filing puts the opportunity and the execution challenge side by side: substantial customer commitments, but much of the capacity still needs to be financed, built and brought online.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShiesAaMAIEmdY.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: NASA and Boeing $BA are discussing using Starliner for 10 or more future low-Earth orbit missions....</title>
+      <link>https://x.com/wallstengine/status/2101030223370506705</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101030223370506705</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 19:26:55 GMT</pubDate>
+      <description>NASA and Boeing $BA are discussing using Starliner for 10 or more future low-Earth orbit missions.
+
+Starliner hasn’t flown since its 2024 test mission suffered thruster problems, forcing two NASA astronauts to return months later aboard SpaceX Crew Dragon.
+
+The renewed talks come as NASA looks for another U.S. crew option while SpaceX stops building new Dragon spacecraft and shifts focus toward Starship.
+
+NASA separately awarded SpaceX three additional Crew Dragon missions through 2030 on Friday.
+
+Source: WSJ</description>
+      <content:encoded>&lt;p&gt;NASA and Boeing $BA are discussing using Starliner for 10 or more future low-Earth orbit missions.&lt;br&gt;&lt;br&gt;Starliner hasn’t flown since its 2024 test mission suffered thruster problems, forcing two NASA astronauts to return months later aboard SpaceX Crew Dragon.&lt;br&gt;&lt;br&gt;The renewed talks come as NASA looks for another U.S. crew option while SpaceX stops building new Dragon spacecraft and shifts focus toward Starship.&lt;br&gt;&lt;br&gt;NASA separately awarded SpaceX three additional Crew Dragon missions through 2030 on Friday.&lt;br&gt;&lt;br&gt;Source: WSJ&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShbwCTbwAAhVtt.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShbxPJbgAEaWO9.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: President Trump says he is banning CNN, MS NOW and Politico from the White House, effective immedia...</title>
+      <link>https://x.com/wallstengine/status/2101027698265247957</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101027698265247957</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 19:16:53 GMT</pubDate>
+      <description>President Trump says he is banning CNN, MS NOW and Politico from the White House, effective immediately.</description>
+      <content:encoded>&lt;p&gt;President Trump says he is banning CNN, MS NOW and Politico from the White House, effective immediately.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShZiuZboAAQwgP.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: President Trump announces that he is banning CNN, MSNOW, and Politico from the White Hous...</title>
+      <link>https://x.com/KobeissiLetter/status/2101026421728514294</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101026421728514294</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 19:11:48 GMT</pubDate>
+      <description>BREAKING: President Trump announces that he is banning CNN, MSNOW, and Politico from the White House, effective immediately.
+
+"Other fake news media outlets to follow," Trump says.</description>
+      <content:encoded>&lt;p&gt;BREAKING: President Trump announces that he is banning CNN, MSNOW, and Politico from the White House, effective immediately.&lt;br&gt;&lt;br&gt;&amp;quot;Other fake news media outlets to follow,&amp;quot; Trump says.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShYKHlXEAAVDf7.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Pocket FM launches Sherpa, an AI writing partner for building and producing fiction series • Raisin...</title>
+      <link>https://x.com/wallstengine/status/2101026157366034713</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101026157366034713</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 19:10:45 GMT</pubDate>
+      <description>Pocket FM launches Sherpa, an AI writing partner for building and producing fiction series
+
+• Raising $120M at $2B valuation
+• $500M ARR, up ~153% YoY
+• 70% of revenue from the U.S.
+• Trained on 5.5B hours of playtime data
+• 550K+ creators
+• 2.6M hours of content produced annually
+• 93% of its catalog uses AI, with AI involved in 99% of new content
+
+Sherpa can turn a short idea into characters, story arcs, episodes and full scenes, while using listener-retention data to help shape pacing and engagement.
+
+Pocket FM says Sherpa helped increase content production 12x over the past year</description>
+      <content:encoded>&lt;p&gt;Pocket FM launches Sherpa, an AI writing partner for building and producing fiction series&lt;br&gt;&lt;br&gt;• Raising $120M at $2B valuation&lt;br&gt;• $500M ARR, up ~153% YoY&lt;br&gt;• 70% of revenue from the U.S.&lt;br&gt;• Trained on 5.5B hours of playtime data&lt;br&gt;• 550K+ creators&lt;br&gt;• 2.6M hours of content produced annually&lt;br&gt;• 93% of its catalog uses AI, with AI involved in 99% of new content&lt;br&gt;&lt;br&gt;Sherpa can turn a short idea into characters, story arcs, episodes and full scenes, while using listener-retention data to help shape pacing and engagement.&lt;br&gt;&lt;br&gt;Pocket FM says Sherpa helped increase content production 12x over the past year&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShXSstaQAArcFv.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $HOOD +9%</title>
+      <link>https://x.com/wallstengine/status/2101023440371433754</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101023440371433754</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 18:59:57 GMT</pubDate>
+      <description>$HOOD +9%</description>
+      <content:encoded>&lt;p&gt;$HOOD +9%&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShVaxjbUAEphT7.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: FDA approves Eli Lilly’s $LLY Inluriyo + Verzenio for a form of advanced breast cancer driven by th...</title>
+      <link>https://x.com/wallstengine/status/2101023022639718862</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101023022639718862</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 18:58:18 GMT</pubDate>
+      <description>FDA approves Eli Lilly’s $LLY Inluriyo + Verzenio for a form of advanced breast cancer driven by the ESR1 mutation.
+
+The treatment is for adults with ER-positive, HER2-negative advanced or metastatic disease and is now available in the U.S.</description>
+      <content:encoded>&lt;p&gt;FDA approves Eli Lilly’s $LLY Inluriyo + Verzenio for a form of advanced breast cancer driven by the ESR1 mutation.&lt;br&gt;&lt;br&gt;The treatment is for adults with ER-positive, HER2-negative advanced or metastatic disease and is now available in the U.S.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShVBQkbwAAnwS6.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: https://x.com/elonmusk/status/2101011740574052697?s=20</title>
+      <link>https://x.com/wallstengine/status/2101013042955960737</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101013042955960737</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 18:18:39 GMT</pubDate>
+      <description>https://x.com/elonmusk/status/2101011740574052697?s=20</description>
+      <content:encoded>&lt;p&gt;https://x.com/elonmusk/status/2101011740574052697?s=20&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Elon Musk expects AI to roughly double U.S. GDP growth next year, from ~2% to ~4%, and says it coul...</title>
+      <link>https://x.com/wallstengine/status/2101012404687790239</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101012404687790239</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 18:16:06 GMT</pubDate>
+      <description>Elon Musk expects AI to roughly double U.S. GDP growth next year, from ~2% to ~4%, and says it could be even higher.</description>
+      <content:encoded>&lt;p&gt;Elon Musk expects AI to roughly double U.S. GDP growth next year, from ~2% to ~4%, and says it could be even higher.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShLoauaoAAs1NM.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShLmu-a8AAGLYl.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: THE U.S. ETF BOOM IS ON PACE TO BREAK ANOTHER RECORD U.S.-listed ETFs have pulled in $1.43T this ye...</title>
+      <link>https://x.com/wallstengine/status/2101004721112879417</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2101004721112879417</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 17:45:34 GMT</pubDate>
+      <description>THE U.S. ETF BOOM IS ON PACE TO BREAK ANOTHER RECORD
+
+U.S.-listed ETFs have pulled in $1.43T this year, already nearing 2025’s full-year record of $1.5T with more than three months left.
+
+Fixed-income ETFs alone have taken in a record $446B.
+
+The industry now holds ~$15.8T across 5,401 funds.
+
+A few stats:
+
+• 218 leveraged equity ETFs launched in H1
+• Active ETFs now hold ~$1.47T
+• 50%+ of ETFs waiting to launch use derivatives to modify single-stock returns</description>
+      <content:encoded>&lt;p&gt;THE U.S. ETF BOOM IS ON PACE TO BREAK ANOTHER RECORD&lt;br&gt;&lt;br&gt;U.S.-listed ETFs have pulled in $1.43T this year, already nearing 2025’s full-year record of $1.5T with more than three months left.&lt;br&gt;&lt;br&gt;Fixed-income ETFs alone have taken in a record $446B.&lt;br&gt;&lt;br&gt;The industry now holds ~$15.8T across 5,401 funds.&lt;br&gt;&lt;br&gt;A few stats:&lt;br&gt;&lt;br&gt;• 218 leveraged equity ETFs launched in H1&lt;br&gt;• Active ETFs now hold ~$1.47T&lt;br&gt;• 50%+ of ETFs waiting to launch use derivatives to modify single-stock returns&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShEoMya4AAAvTu.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: Interest costs on US public debt rose +$139 billion YoY in the first 11 months of FY2026,...</title>
+      <link>https://x.com/KobeissiLetter/status/2101000308453240891</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2101000308453240891</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 17:28:02 GMT</pubDate>
+      <description>BREAKING: Interest costs on US public debt rose +$139 billion YoY in the first 11 months of FY2026, or +12%, to a record $1.27 trillion.
+
+This represents ~26% of total US government receipts.
+
+This also marks the 6th consecutive annual increase, totaling +$784 billion, or +162%.
+
+Interest expense on federal debt is now on track to surpass $1.30 trillion in a full fiscal year for the first time in history.
+
+In August alone, the US government spent $98 billion on interest, or $3.2 billion a day.
+
+The US government needs lower rates more than anyone.</description>
+      <content:encoded>&lt;p&gt;BREAKING: Interest costs on US public debt rose +$139 billion YoY in the first 11 months of FY2026, or +12%, to a record $1.27 trillion.&lt;br&gt;&lt;br&gt;This represents ~26% of total US government receipts.&lt;br&gt;&lt;br&gt;This also marks the 6th consecutive annual increase, totaling +$784 billion, or +162%.&lt;br&gt;&lt;br&gt;Interest expense on federal debt is now on track to surpass $1.30 trillion in a full fiscal year for the first time in history.&lt;br&gt;&lt;br&gt;In August alone, the US government spent $98 billion on interest, or $3.2 billion a day.&lt;br&gt;&lt;br&gt;The US government needs lower rates more than anyone.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HShApV0XcAAqjcg.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: The 2020s are arguably one of the worst decades for Europe in modern history. It began with the pan...</title>
+      <link>https://x.com/KobeissiLetter/status/2100986131701440680</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100986131701440680</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 16:31:42 GMT</pubDate>
+      <description>The 2020s are arguably one of the worst decades for Europe in modern history.
+
+It began with the pandemic lockdowns which contracted GDP by -6.1% across the EU, the biggest drawdown since the 1930s.
+
+This was followed by the Ukraine War which began the ongoing energy crisis.
+
+Then, the AI Revolution began in 2022, in which Europe has fallen significantly behind the US and China.
+
+Between 2020 and 2025, the US deployed roughly ~$500 billion of venture capital into AI compared to just ~$50 billion in Europe.
+
+Europe was then hit by the highest tariffs in US history, impacting $600+ billion of annual European exports to the US.
+
+Now, the Iran War has pushed Europe into its worst energy crisis ever, with central banks being forced to raise interest rates.
+
+The 2020s will be remembered as one of Europe's most disruptive decades in history.</description>
+      <content:encoded>&lt;p&gt;The 2020s are arguably one of the worst decades for Europe in modern history.&lt;br&gt;&lt;br&gt;It began with the pandemic lockdowns which contracted GDP by -6.1% across the EU, the biggest drawdown since the 1930s.&lt;br&gt;&lt;br&gt;This was followed by the Ukraine War which began the ongoing energy crisis.&lt;br&gt;&lt;br&gt;Then, the AI Revolution began in 2022, in which Europe has fallen significantly behind the US and China.&lt;br&gt;&lt;br&gt;Between 2020 and 2025, the US deployed roughly ~$500 billion of venture capital into AI compared to just ~$50 billion in Europe.&lt;br&gt;&lt;br&gt;Europe was then hit by the highest tariffs in US history, impacting $600+ billion of annual European exports to the US.&lt;br&gt;&lt;br&gt;Now, the Iran War has pushed Europe into its worst energy crisis ever, with central banks being forced to raise interest rates.&lt;br&gt;&lt;br&gt;The 2020s will be remembered as one of Europe&amp;apos;s most disruptive decades in history.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: Bitcoin surges above $81,000 as total levered crypto liquidations near $300 million in fo...</title>
+      <link>https://x.com/KobeissiLetter/status/2100972363064185240</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100972363064185240</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 15:37:00 GMT</pubDate>
+      <description>BREAKING: Bitcoin surges above $81,000 as total levered crypto liquidations near $300 million in four hours.</description>
+      <content:encoded>&lt;p&gt;BREAKING: Bitcoin surges above $81,000 as total levered crypto liquidations near $300 million in four hours.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSgkP-5WoAAec7W.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: US diesel prices hit another fresh record high of $6.45/gallon, now up 40 cents over the...</title>
+      <link>https://x.com/KobeissiLetter/status/2100967581905805337</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100967581905805337</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Fri, 18 Sep 2026 15:18:00 GMT</pubDate>
+      <description>BREAKING: US diesel prices hit another fresh record high of $6.45/gallon, now up 40 cents over the last week.
+
+This puts diesel prices up +$1.00/gallon over the last month and +84% since January.
+
+In California, the average price of diesel is up to $8.40/gallon, the highest ever recorded average sales price in the US.
+
+Market expectations for an October rate hike have hit a new high.</description>
+      <content:encoded>&lt;p&gt;BREAKING: US diesel prices hit another fresh record high of $6.45/gallon, now up 40 cents over the last week.&lt;br&gt;&lt;br&gt;This puts diesel prices up +$1.00/gallon over the last month and +84% since January.&lt;br&gt;&lt;br&gt;In California, the average price of diesel is up to $8.40/gallon, the highest ever recorded average sales price in the US.&lt;br&gt;&lt;br&gt;Market expectations for an October rate hike have hit a new high.&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@wallstengine: AWS &amp; SAP signed a five-year strategic collaboration to bring SAP Business AI capabilities to 7 add...</title>
       <link>https://x.com/wallstengine/status/2100961715710276031</link>
