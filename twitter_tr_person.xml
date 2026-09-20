@@ -4,7 +4,7 @@
     <title>Twitter — tr_person</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: tr_person</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:03:44 +0000</lastBuildDate>
     <item>
       <title>@orkungodek: Herkese iyi pazarlar diliyorum. Çok fazla gürültü, "ben demiştim", "ben uyarmıştım", "böyle olacağı...</title>
       <link>https://x.com/orkungodek/status/2101665104555118988</link>
@@ -120,6 +120,39 @@ Dediğim gibi, zor zamanlar. İtidali sağlayarak sektör profesyonellerinin üz
 
 ⬟ Argus'a göre biyodizel fiyatı tarihi dibin ardından 1.240 dolara toparlandı.</description>
       <content:encoded>&lt;p&gt;Biyodizel fiyatı tarihi düşük seviyeye indi&lt;br&gt;&lt;br&gt;⬟ Argus&amp;apos;a göre Rotterdam&amp;apos;da biyodizel 14 Eylül&amp;apos;de ton başına 985 dolara geriledi. Bu, Temmuz&amp;apos;daki 1.388 dolarlık seviyeden sert düşüşle tarihi bir dip oldu.&lt;br&gt;&lt;br&gt;⬟ Argus&amp;apos;a göre AB karbon kuralları ve denizcilik karbon kotaları dahil edildiğinde biyodizel maliyeti &amp;quot;neredeyse tüm&amp;quot; geleneksel deniz yakıtlarının altında.&lt;br&gt;&lt;br&gt;⬟ Argus&amp;apos;a göre biyodizel fiyatı tarihi dibin ardından 1.240 dolara toparlandı.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@BoraOzkent: Benim gibi yazılım geliştirme bilmeden yapay zeka ile bir şeyler yaratmaya çalışıyorsanız tek yapay...</title>
+      <link>https://x.com/BoraOzkent/status/2101570762851107032</link>
+      <guid isPermaLink="true">https://x.com/BoraOzkent/status/2101570762851107032</guid>
+      <dc:creator>@BoraOzkent</dc:creator>
+      <pubDate>Sun, 20 Sep 2026 07:14:49 GMT</pubDate>
+      <description>Benim gibi yazılım geliştirme bilmeden yapay zeka ile bir şeyler yaratmaya çalışıyorsanız tek yapay zekayı kullanmak kesinlikle yetmiyor.
+
+Çünkü yapay zekanın yazdığı kodu değerlendirecek bilgim yok. Ve yapay zeka bazen epey saçma şeyler yapıyor.
+
+Çaresi ne?
+
+Birden çok model kullanmak. Benim akışım şu:
+
+Ön Araştırma: Perplexity (Otomatik Model Seçimi)
+Araştırma Denetleme: ChatGPT6-Astra
+Planlama: Claude Fable 5.1
+Planı Denetleme: ChatGPT6-Astra
+Kodu Yazma: Claude Opus 5
+Kodu Denetleme: ChatGPT6-Astra
+Deployment: Claude Opus 5
+Düzenli Güvenlik, Kullanıcı Deneyimi Testleri: GrokBot
+Kullanıcı Geribildirimi İnceleme: Claude Sonnet
+Yazılımı Geliştirme: Claude Opus 5
+Stress Test: Grok 4.6
+
+Bu şekilde kullanım toplam Token giderlerimi de kontrol altında tutmamı sağlıyor.
+
+An itibarıyla API için büyük oranda Claude kullanıyorum. Ama bazı uygulamaları ChatGPT 6'ya teslim edeceğim.
+
+ChatGPT 6 fiyat/performans olarak açıkça üstün bu arada.</description>
+      <content:encoded>&lt;p&gt;Benim gibi yazılım geliştirme bilmeden yapay zeka ile bir şeyler yaratmaya çalışıyorsanız tek yapay zekayı kullanmak kesinlikle yetmiyor.&lt;br&gt;&lt;br&gt;Çünkü yapay zekanın yazdığı kodu değerlendirecek bilgim yok. Ve yapay zeka bazen epey saçma şeyler yapıyor.&lt;br&gt;&lt;br&gt;Çaresi ne?&lt;br&gt;&lt;br&gt;Birden çok model kullanmak. Benim akışım şu:&lt;br&gt;&lt;br&gt;Ön Araştırma: Perplexity (Otomatik Model Seçimi)&lt;br&gt;Araştırma Denetleme: ChatGPT6-Astra&lt;br&gt;Planlama: Claude Fable 5.1&lt;br&gt;Planı Denetleme: ChatGPT6-Astra&lt;br&gt;Kodu Yazma: Claude Opus 5&lt;br&gt;Kodu Denetleme: ChatGPT6-Astra&lt;br&gt;Deployment: Claude Opus 5&lt;br&gt;Düzenli Güvenlik, Kullanıcı Deneyimi Testleri: GrokBot&lt;br&gt;Kullanıcı Geribildirimi İnceleme: Claude Sonnet&lt;br&gt;Yazılımı Geliştirme: Claude Opus 5&lt;br&gt;Stress Test: Grok 4.6&lt;br&gt;&lt;br&gt;Bu şekilde kullanım toplam Token giderlerimi de kontrol altında tutmamı sağlıyor.&lt;br&gt;&lt;br&gt;An itibarıyla API için büyük oranda Claude kullanıyorum. Ama bazı uygulamaları ChatGPT 6&amp;apos;ya teslim edeceğim.&lt;br&gt;&lt;br&gt;ChatGPT 6 fiyat/performans olarak açıkça üstün bu arada.&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@e507: Şükran günü hindisinin "yaş - esenlik eğrisi" 🥲</title>
