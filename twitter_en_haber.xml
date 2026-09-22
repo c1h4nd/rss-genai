@@ -4,7 +4,52 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Tue, 22 Sep 2026 16:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:00:28 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: ANTHROPIC LAUNCHES CLAUDE OPUS 5.5, FIRST MODEL IN NEW 5.5 FAMILY Anthropic says Opus 5.5 performs...</title>
+      <link>https://x.com/wallstengine/status/2102437088209891380</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102437088209891380</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 16:37:17 GMT</pubDate>
+      <description>ANTHROPIC LAUNCHES CLAUDE OPUS 5.5, FIRST MODEL IN NEW 5.5 FAMILY
+
+Anthropic says Opus 5.5 performs at roughly the level of Claude Fable 5.1 on most tasks, while costing 40% less to run than Opus 5 and generating output 30%+ faster.
+
+Here’s everything you need to know:
+
+Opus 5.5 is Anthropic’s new flagship model, with major gains in agentic coding, computer use and knowledge work.
+
+Pricing:
+input_4M tokens
+• Output: $20/M
+• Cache reads: $0.20/M, 60% cheaper than Opus 5
+
+Benchmark highlights:
+• Terminal-Bench 4.0: 66.4% vs. 52.3% for Opus 5
+• CursorBench 4.0: 57.8% vs. 46.6%
+• GDPval-AA: 1846 vs. 1708
+• OSWorld 2.0: 81.8% vs. 74.0%
+
+Anthropic says Opus 5.5 is especially strong on long-running coding work. In one test, it audited and fixed a 200K-line codebase in under 3 hours, versus more than 20 hours for Opus 5.
+
+Safety also improved. Anthropic says Opus 5.5 scored best among its recent models on its behavioral alignment audit and attempted to cross containment boundaries about 85% less often than Opus 5 or Mythos 5.1.
+
+Opus 5.5 is available now across Claude, AWS, Google Cloud and Microsoft Azure.
+
+Claude Sonnet 5.5 and Haiku 5.5 are coming in the next few weeks.</description>
+      <content:encoded>&lt;p&gt;ANTHROPIC LAUNCHES CLAUDE OPUS 5.5, FIRST MODEL IN NEW 5.5 FAMILY&lt;br&gt;&lt;br&gt;Anthropic says Opus 5.5 performs at roughly the level of Claude Fable 5.1 on most tasks, while costing 40% less to run than Opus 5 and generating output 30%+ faster.&lt;br&gt;&lt;br&gt;Here’s everything you need to know:&lt;br&gt;&lt;br&gt;Opus 5.5 is Anthropic’s new flagship model, with major gains in agentic coding, computer use and knowledge work.&lt;br&gt;&lt;br&gt;Pricing:&lt;br&gt;input_4M tokens&lt;br&gt;• Output: $20/M&lt;br&gt;• Cache reads: $0.20/M, 60% cheaper than Opus 5&lt;br&gt;&lt;br&gt;Benchmark highlights:&lt;br&gt;• Terminal-Bench 4.0: 66.4% vs. 52.3% for Opus 5&lt;br&gt;• CursorBench 4.0: 57.8% vs. 46.6%&lt;br&gt;• GDPval-AA: 1846 vs. 1708&lt;br&gt;• OSWorld 2.0: 81.8% vs. 74.0%&lt;br&gt;&lt;br&gt;Anthropic says Opus 5.5 is especially strong on long-running coding work. In one test, it audited and fixed a 200K-line codebase in under 3 hours, versus more than 20 hours for Opus 5.&lt;br&gt;&lt;br&gt;Safety also improved. Anthropic says Opus 5.5 scored best among its recent models on its behavioral alignment audit and attempted to cross containment boundaries about 85% less often than Opus 5 or Mythos 5.1.&lt;br&gt;&lt;br&gt;Opus 5.5 is available now across Claude, AWS, Google Cloud and Microsoft Azure.&lt;br&gt;&lt;br&gt;Claude Sonnet 5.5 and Haiku 5.5 are coming in the next few weeks.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1bTb4aEAAhLTz.png?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1bUw0bcAQX-r_.png?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1bVyhbcAY9111.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1bXTrbcAEd8sz.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Apple has been working for several months on a screenless fitness tracker designed to compete with...</title>
+      <link>https://x.com/wallstengine/status/2102433629821694447</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102433629821694447</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 16:23:33 GMT</pubDate>
+      <description>Apple has been working for several months on a screenless fitness tracker designed to compete with Whoop, Oura and Garmin.
+
+$AAPL has not yet decided whether to release the device.</description>
+      <content:encoded>&lt;p&gt;Apple has been working for several months on a screenless fitness tracker designed to compete with Whoop, Oura and Garmin.&lt;br&gt;&lt;br&gt;$AAPL has not yet decided whether to release the device.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1YPCvacAAdtWa.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@Hedgeye: Diesel prices rise to $6.53</title>
       <link>https://x.com/Hedgeye/status/2102433490990137352</link>
@@ -13,6 +58,34 @@
       <pubDate>Tue, 22 Sep 2026 16:23:00 GMT</pubDate>
       <description>Diesel prices rise to $6.53</description>
       <content:encoded>&lt;p&gt;Diesel prices rise to $6.53&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $META IS TESTING HUMAN OPERATORS BEHIND SOME MUSE AI PHONE CALLS The experiment began shortly after...</title>
+      <link>https://x.com/wallstengine/status/2102428989285654870</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102428989285654870</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 16:05:06 GMT</pubDate>
+      <description>$META IS TESTING HUMAN OPERATORS BEHIND SOME MUSE AI PHONE CALLS
+
+The experiment began shortly after Meta launched Muse’s phone-calling feature, according to internal posts seen by Reuters.
+
+Some employees have raised privacy concerns, warning that users could share sensitive information without realizing a call-center contractor is involved.
+
+Meta says the test is internal for now and is being used to work through safety and privacy protections.
+
+If the feature launches publicly, the company says it will include proper disclosures.
+
+Source: Reuters</description>
+      <content:encoded>&lt;p&gt;$META IS TESTING HUMAN OPERATORS BEHIND SOME MUSE AI PHONE CALLS&lt;br&gt;&lt;br&gt;The experiment began shortly after Meta launched Muse’s phone-calling feature, according to internal posts seen by Reuters.&lt;br&gt;&lt;br&gt;Some employees have raised privacy concerns, warning that users could share sensitive information without realizing a call-center contractor is involved.&lt;br&gt;&lt;br&gt;Meta says the test is internal for now and is being used to work through safety and privacy protections.&lt;br&gt;&lt;br&gt;If the feature launches publicly, the company says it will include proper disclosures.&lt;br&gt;&lt;br&gt;Source: Reuters&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1TgsTboAAb_aL.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Grok Bot reached 418,000 weekly users as of Sept. 14, up 24% from the prior week, presentation seen...</title>
+      <link>https://x.com/wallstengine/status/2102426084340125835</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102426084340125835</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 15:53:34 GMT</pubDate>
+      <description>Grok Bot reached 418,000 weekly users as of Sept. 14, up 24% from the prior week, presentation seen by Bloomberg</description>
+      <content:encoded>&lt;p&gt;Grok Bot reached 418,000 weekly users as of Sept. 14, up 24% from the prior week, presentation seen by Bloomberg&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1RPT6asAA13La.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1RXxVb0AAALF8.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@Hedgeye: The cost to ship Gulf oil to China has spiked to $1 million a day, the highest on record.</title>
@@ -46,6 +119,57 @@ See how our Global Investing Process works: https://app.hedgeye.com/education</d
       <content:encoded>&lt;p&gt;11% percent of investors say they own cryptocurrency, down from 17% in 2025, per Gallup&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@wallstengine: $META is partnering with PayPal to let users shop and check out through Muse across $PYPL merchants...</title>
+      <link>https://x.com/wallstengine/status/2102419061292650620</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102419061292650620</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 15:25:39 GMT</pubDate>
+      <description>$META is partnering with PayPal to let users shop and check out through Muse across $PYPL merchants worldwide.</description>
+      <content:encoded>&lt;p&gt;$META is partnering with PayPal to let users shop and check out through Muse across $PYPL merchants worldwide.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1K-s7bwAAuS1c.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: MORE DETAILS ON DIGITALOCEAN’S NEW MANAGED AGENTS: Each agent session runs inside its own isolated...</title>
+      <link>https://x.com/wallstengine/status/2102417000660365478</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102417000660365478</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 15:17:28 GMT</pubDate>
+      <description>MORE DETAILS ON DIGITALOCEAN’S NEW MANAGED AGENTS:
+
+Each agent session runs inside its own isolated Firecracker microVM, with its files, processes and context preserved even when the session is paused.
+
+DigitalOcean only charges for CPU actually being used.
+
+A 2-vCPU agent averaging 25% utilization for an hour will cost about $0.06 in CPU + memory vs. $0.126 if the full allocated capacity were billed.
+
+Paused sessions stop CPU and memory charges while keeping their state, and DigitalOcean says they can resume in about 305ms.
+
+The Action Gateway gives agents access to 16,000+ tools across 500+ providers, while keeping credentials outside both the model and the sandbox. Sensitive actions can also be set to require human approval.
+
+DigitalOcean says its tool discovery system matched agent intent to the correct tool with 99.3% accuracy in internal testing.
+
+Early customer Qencode says its support agent is already saving roughly 4-8 hours per week and reducing some response times from hours to nearly instant.
+
+I’d definitely use the $0.06 vs $0.126 example + 305ms resume + credentials never reaching the agent. Those three make the product much easier to understand than another generic “one cloud, one bill” post.</description>
+      <content:encoded>&lt;p&gt;MORE DETAILS ON DIGITALOCEAN’S NEW MANAGED AGENTS:&lt;br&gt;&lt;br&gt;Each agent session runs inside its own isolated Firecracker microVM, with its files, processes and context preserved even when the session is paused.&lt;br&gt;&lt;br&gt;DigitalOcean only charges for CPU actually being used.&lt;br&gt;&lt;br&gt;A 2-vCPU agent averaging 25% utilization for an hour will cost about $0.06 in CPU + memory vs. $0.126 if the full allocated capacity were billed.&lt;br&gt;&lt;br&gt;Paused sessions stop CPU and memory charges while keeping their state, and DigitalOcean says they can resume in about 305ms.&lt;br&gt;&lt;br&gt;The Action Gateway gives agents access to 16,000+ tools across 500+ providers, while keeping credentials outside both the model and the sandbox. Sensitive actions can also be set to require human approval.&lt;br&gt;&lt;br&gt;DigitalOcean says its tool discovery system matched agent intent to the correct tool with 99.3% accuracy in internal testing.&lt;br&gt;&lt;br&gt;Early customer Qencode says its support agent is already saving roughly 4-8 hours per week and reducing some response times from hours to nearly instant.&lt;br&gt;&lt;br&gt;I’d definitely use the $0.06 vs $0.126 example + 305ms resume + credentials never reaching the agent. Those three make the product much easier to understand than another generic “one cloud, one bill” post.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1JG8wbYAAdbO4.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: DIGITALOCEAN LAUNCHES MANAGED AGENTS IN PUBLIC PREVIEW DigitalOcean is launching a managed runtime...</title>
+      <link>https://x.com/wallstengine/status/2102415628816806187</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102415628816806187</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 15:12:01 GMT</pubDate>
+      <description>DIGITALOCEAN LAUNCHES MANAGED AGENTS IN PUBLIC PREVIEW
+
+DigitalOcean is launching a managed runtime for AI agents, letting developers run Claude Code, Codex, LangGraph or their own agents without stitching together separate sandbox, inference and tool providers.
+
+Agents run in isolated environments that can pause when idle and resume later, while tool access is routed through one governed endpoint.
+
+Developers can choose from 75+ open and proprietary models, with agent runtime, inference and tools all handled on one cloud and one bill.
+
+https://x.com/digitalocean/status/2102414817797550320/video/1</description>
+      <content:encoded>&lt;p&gt;DIGITALOCEAN LAUNCHES MANAGED AGENTS IN PUBLIC PREVIEW&lt;br&gt;&lt;br&gt;DigitalOcean is launching a managed runtime for AI agents, letting developers run Claude Code, Codex, LangGraph or their own agents without stitching together separate sandbox, inference and tool providers.&lt;br&gt;&lt;br&gt;Agents run in isolated environments that can pause when idle and resume later, while tool access is routed through one governed endpoint.&lt;br&gt;&lt;br&gt;Developers can choose from 75+ open and proprietary models, with agent runtime, inference and tools all handled on one cloud and one bill.&lt;br&gt;&lt;br&gt;https://x.com/digitalocean/status/2102414817797550320/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1HHjUXcAA1yL4.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@WatcherGuru: JUST IN: 🇺🇸 President Trump says he is renaming Artificial Intelligence to "Super Intelligence."</title>
       <link>https://x.com/WatcherGuru/status/2102415508826194043</link>
       <guid isPermaLink="true">https://x.com/WatcherGuru/status/2102415508826194043</guid>
@@ -68,6 +192,23 @@ See how our Global Investing Process works: https://app.hedgeye.com/education</d
 • XRP
 • Tron</description>
       <content:encoded>&lt;p&gt;JUST IN: 🇷🇺 Russia&amp;apos;s Moscow Exchange launches perpetual futures for 5 major cryptocurrencies.&lt;br&gt;&lt;br&gt;• Bitcoin&lt;br&gt;• Ethereum&lt;br&gt;• Solana&lt;br&gt;• XRP&lt;br&gt;• Tron&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: TRUMP SAYS U.S. WILL CALL AI “SUPER INTELLIGENCE" Speaking at the UN General Assembly, President Tr...</title>
+      <link>https://x.com/wallstengine/status/2102414559214784583</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102414559214784583</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 15:07:46 GMT</pubDate>
+      <description>TRUMP SAYS U.S. WILL CALL AI “SUPER INTELLIGENCE"
+
+Speaking at the UN General Assembly, President Trump said U.S. government documents will use the term “Super Intelligence,” arguing that “artificial” makes the technology sound fake.
+
+“Whoever wins super intelligence wins,” Trump said, adding that he does not want to stifle development of a technology he believes could become bigger than the Industrial Revolution.
+
+He also rejected international efforts to broadly control AI development.
+
+https://x.com/atrupar/status/2102413962729968116/video/1</description>
+      <content:encoded>&lt;p&gt;TRUMP SAYS U.S. WILL CALL AI “SUPER INTELLIGENCE&amp;quot;&lt;br&gt;&lt;br&gt;Speaking at the UN General Assembly, President Trump said U.S. government documents will use the term “Super Intelligence,” arguing that “artificial” makes the technology sound fake.&lt;br&gt;&lt;br&gt;“Whoever wins super intelligence wins,” Trump said, adding that he does not want to stifle development of a technology he believes could become bigger than the Industrial Revolution.&lt;br&gt;&lt;br&gt;He also rejected international efforts to broadly control AI development.&lt;br&gt;&lt;br&gt;https://x.com/atrupar/status/2102413962729968116/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2102413924410753024/img/9rNJkJcajowEHml5.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@Hedgeye: "If the #MOAB (Mother of All Bubbles) wasn't a thing, you wouldn't have had that kind of #Quad2 Sho...</title>
@@ -104,6 +245,23 @@ Top 3 US Equity Market Factor Squeezes (yesterday):
       <description>Here comes Sandisk 👀
 $SNDK</description>
       <content:encoded>&lt;p&gt;Here comes Sandisk 👀&lt;br&gt;$SNDK&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1C8B0WIAA1qPq.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: TRUMP: I HAVE A BIG DECISION TO MAKE ON IRAN I BELIEVE WE'LL MAKE DEAL WITH IRAN RIGHT AFTER US ELE...</title>
+      <link>https://x.com/wallstengine/status/2102407981296238757</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102407981296238757</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 14:41:38 GMT</pubDate>
+      <description>TRUMP:
+
+I HAVE A BIG DECISION TO MAKE ON IRAN
+
+I BELIEVE WE'LL MAKE DEAL WITH IRAN RIGHT AFTER US ELECTION
+
+I WILL GIVE NO CREDENCE TO THE ELECTION WHEN IT COMES TO IRAN
+
+ONLY THING THAT MATTERS IS IRAN WILL NEVER HAVE A NUCLEAR WEAPON</description>
+      <content:encoded>&lt;p&gt;TRUMP:&lt;br&gt;&lt;br&gt;I HAVE A BIG DECISION TO MAKE ON IRAN&lt;br&gt;&lt;br&gt;I BELIEVE WE&amp;apos;LL MAKE DEAL WITH IRAN RIGHT AFTER US ELECTION&lt;br&gt;&lt;br&gt;I WILL GIVE NO CREDENCE TO THE ELECTION WHEN IT COMES TO IRAN&lt;br&gt;&lt;br&gt;ONLY THING THAT MATTERS IS IRAN WILL NEVER HAVE A NUCLEAR WEAPON&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@KobeissiLetter: Institutional investors are cutting their bullish bets on the US Dollar. Long speculative positioni...</title>
@@ -161,6 +319,59 @@ Read the full note 👇</description>
       <content:encoded>&lt;p&gt;“Valuation is never the setup for a trade; it&amp;apos;s only ever the punchline.”&lt;br&gt;&lt;br&gt;Patrick Kent @Hedgeye_HELS on one of the biggest misconceptions investors repeatedly fall for, and why growth, momentum and sentiment matter first.&lt;br&gt;&lt;br&gt;Read the full note 👇&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0flnGWcAARo2U.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@wallstengine: Microsoft $MSFT began a new round of layoffs on Tuesday affecting around 500 employees, concentrate...</title>
+      <link>https://x.com/wallstengine/status/2102399567119733169</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102399567119733169</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 14:08:12 GMT</pubDate>
+      <description>Microsoft $MSFT began a new round of layoffs on Tuesday affecting around 500 employees, concentrated in its Xbox gaming division but also reaching other units including Cloud and AI. - BI</description>
+      <content:encoded>&lt;p&gt;Microsoft $MSFT began a new round of layoffs on Tuesday affecting around 500 employees, concentrated in its Xbox gaming division but also reaching other units including Cloud and AI. - BI&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $SNDK +7% Rosenblatt starts SanDisk at Buy with a $2,400 PT, calling it “not your father’s SanDisk....</title>
+      <link>https://x.com/wallstengine/status/2102397401164317039</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102397401164317039</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 13:59:35 GMT</pubDate>
+      <description>$SNDK +7%
+
+Rosenblatt starts SanDisk at Buy with a $2,400 PT, calling it “not your father’s SanDisk.”
+
+The firm says AI is turning NAND from commodity storage into a system-critical part of AI infrastructure, while 'SanDisk also just joined the S&amp;P 100.'</description>
+      <content:encoded>&lt;p&gt;$SNDK +7%&lt;br&gt;&lt;br&gt;Rosenblatt starts SanDisk at Buy with a $2,400 PT, calling it “not your father’s SanDisk.”&lt;br&gt;&lt;br&gt;The firm says AI is turning NAND from commodity storage into a system-critical part of AI infrastructure, while &amp;apos;SanDisk also just joined the S&amp;amp;P 100.&amp;apos;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS03KZha0AAHBrd.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $CPRI DRAWS BUYER INTEREST AS POTENTIAL SALE TALKS ADVANCE - WWD Capri Holdings, owner of Michael K...</title>
+      <link>https://x.com/wallstengine/status/2102394265821155502</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102394265821155502</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 13:47:08 GMT</pubDate>
+      <description>$CPRI DRAWS BUYER INTEREST AS POTENTIAL SALE TALKS ADVANCE - WWD
+
+Capri Holdings, owner of Michael Kors and Jimmy Choo, has been in contact with potential buyers, with some parties already reviewing the company’s books.
+
+The process is still informal and a deal is not expected in the near term, but discussions have progressed beyond preliminary interest.</description>
+      <content:encoded>&lt;p&gt;$CPRI DRAWS BUYER INTEREST AS POTENTIAL SALE TALKS ADVANCE - WWD&lt;br&gt;&lt;br&gt;Capri Holdings, owner of Michael Kors and Jimmy Choo, has been in contact with potential buyers, with some parties already reviewing the company’s books.&lt;br&gt;&lt;br&gt;The process is still informal and a deal is not expected in the near term, but discussions have progressed beyond preliminary interest.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS00RMraQAAJluW.png?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS00Sf7boAAr7dh.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Shopify $SHOP shares are up another 8% today following its partnership announcement with $META's Mu...</title>
+      <link>https://x.com/wallstengine/status/2102392707851473071</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102392707851473071</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 13:40:56 GMT</pubDate>
+      <description>Shopify $SHOP shares are up another 8% today following its partnership announcement with $META's Muse.</description>
+      <content:encoded>&lt;p&gt;Shopify $SHOP shares are up another 8% today following its partnership announcement with $META&amp;apos;s Muse.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0yzghbIAAJUuJ.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Apple $AAPL hit a fresh all-time high and tapped a $5 trillion valuation again.</title>
+      <link>https://x.com/wallstengine/status/2102392266304409930</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102392266304409930</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 13:39:11 GMT</pubDate>
+      <description>Apple $AAPL hit a fresh all-time high and tapped a $5 trillion valuation again.</description>
+      <content:encoded>&lt;p&gt;Apple $AAPL hit a fresh all-time high and tapped a $5 trillion valuation again.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0ylQea4AAP_zZ.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@TrendSpider: 🚨 CEO Buy Alert CEO Ryan Cohen just spent another $26M on his own stock yesterday, following a $20...</title>
       <link>https://x.com/TrendSpider/status/2102391996266475593</link>
       <guid isPermaLink="true">https://x.com/TrendSpider/status/2102391996266475593</guid>
@@ -172,6 +383,39 @@ CEO Ryan Cohen just spent another $26M on his own stock yesterday, following a $
       <content:encoded>&lt;p&gt;🚨 CEO Buy Alert&lt;br&gt;&lt;br&gt;CEO Ryan Cohen just spent another $26M on his own stock yesterday, following a $20M purchase less than 2 weeks ago. $GME&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0ySQCWkAAmVUG.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@wallstengine: $SOFI + 5% Became the first national bank to settle payments with a stablecoin on Mastercard’s netw...</title>
+      <link>https://x.com/wallstengine/status/2102390879344594947</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102390879344594947</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 13:33:40 GMT</pubDate>
+      <description>$SOFI + 5%
+
+Became the first national bank to settle payments with a stablecoin on Mastercard’s network, moving its entire $25B+ annualized card program to blockchain-based settlement.</description>
+      <content:encoded>&lt;p&gt;$SOFI + 5%&lt;br&gt;&lt;br&gt;Became the first national bank to settle payments with a stablecoin on Mastercard’s network, moving its entire $25B+ annualized card program to blockchain-based settlement.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0xCnsbwAAxAsz.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $AAPL LAUNCHES NEW MAC MINI AND MAC STUDIO The new Apple Mac mini with M6 delivers up to 4x faster...</title>
+      <link>https://x.com/wallstengine/status/2102385492327338097</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102385492327338097</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 13:12:16 GMT</pubDate>
+      <description>$AAPL LAUNCHES NEW MAC MINI AND MAC STUDIO
+
+The new Apple Mac mini with M6 delivers up to 4x faster AI performance and starts at $899.
+
+The new Mac Studio comes with M5 Max or M5 Ultra, with the top model supporting:
+
+• Up to 512GB unified memory
+• 1.2TB/s memory bandwidth
+• Up to 80-core GPU
+• Large LLMs running fully on-device
+
+Apple is also adding Thunderbolt 5 with RDMA, allowing multiple Mac Studios to be linked together for up to 3x faster distributed AI inference.
+
+Mac Studio starts at $2,499, while the M5 Ultra version starts at $5,499.</description>
+      <content:encoded>&lt;p&gt;$AAPL LAUNCHES NEW MAC MINI AND MAC STUDIO&lt;br&gt;&lt;br&gt;The new Apple Mac mini with M6 delivers up to 4x faster AI performance and starts at $899.&lt;br&gt;&lt;br&gt;The new Mac Studio comes with M5 Max or M5 Ultra, with the top model supporting:&lt;br&gt;&lt;br&gt;• Up to 512GB unified memory&lt;br&gt;• 1.2TB/s memory bandwidth&lt;br&gt;• Up to 80-core GPU&lt;br&gt;• Large LLMs running fully on-device&lt;br&gt;&lt;br&gt;Apple is also adding Thunderbolt 5 with RDMA, allowing multiple Mac Studios to be linked together for up to 3x faster distributed AI inference.&lt;br&gt;&lt;br&gt;Mac Studio starts at $2,499, while the M5 Ultra version starts at $5,499.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0sXQRagAAqKFS.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@Hedgeye: U.S. home prices rise at the fastest annual growth rate in a year, per Redfin</title>
       <link>https://x.com/Hedgeye/status/2102385427831205960</link>
       <guid isPermaLink="true">https://x.com/Hedgeye/status/2102385427831205960</guid>
@@ -181,6 +425,38 @@ CEO Ryan Cohen just spent another $26M on his own stock yesterday, following a $
       <content:encoded>&lt;p&gt;U.S. home prices rise at the fastest annual growth rate in a year, per Redfin&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@wallstengine: $AMGN PHASE 3 SJÖGREN’S TRIAL HITS PRIMARY ENDPOINT Amgen says dazodalibep significantly improved s...</title>
+      <link>https://x.com/wallstengine/status/2102383601220501805</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102383601220501805</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 13:04:45 GMT</pubDate>
+      <description>$AMGN PHASE 3 SJÖGREN’S TRIAL HITS PRIMARY ENDPOINT
+
+Amgen says dazodalibep significantly improved systemic disease activity in patients with moderate-to-severe Sjögren’s disease, with benefits seen as early as Week 4 and sustained through Week 48.
+
+The Phase 3 OASIZ 301 trial enrolled about 621 patients and met its primary endpoint based on the ESSDAI disease activity score.
+
+There are currently no FDA-approved medicines for Sjögren’s disease.
+
+A second Phase 3 study, OASIZ 303, focused on symptomatic Sjögren’s, is expected to complete in Q4.</description>
+      <content:encoded>&lt;p&gt;$AMGN PHASE 3 SJÖGREN’S TRIAL HITS PRIMARY ENDPOINT&lt;br&gt;&lt;br&gt;Amgen says dazodalibep significantly improved systemic disease activity in patients with moderate-to-severe Sjögren’s disease, with benefits seen as early as Week 4 and sustained through Week 48.&lt;br&gt;&lt;br&gt;The Phase 3 OASIZ 301 trial enrolled about 621 patients and met its primary endpoint based on the ESSDAI disease activity score.&lt;br&gt;&lt;br&gt;There are currently no FDA-approved medicines for Sjögren’s disease.&lt;br&gt;&lt;br&gt;A second Phase 3 study, OASIZ 303, focused on symptomatic Sjögren’s, is expected to complete in Q4.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0qvDpbcAEPz0H.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $ITRI PARTNERS WITH CRYTICA TO EMBED CYBER THREAT DETECTION DIRECTLY INTO GRID-EDGE DEVICES Itron i...</title>
+      <link>https://x.com/wallstengine/status/2102379558087565494</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102379558087565494</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 12:48:41 GMT</pubDate>
+      <description>$ITRI PARTNERS WITH CRYTICA TO EMBED CYBER THREAT DETECTION DIRECTLY INTO GRID-EDGE DEVICES
+
+Itron is integrating Crytica Security’s RDAi technology into its Grid Edge Intelligence platform to continuously monitor utility meters, meter-hosted apps and other edge workloads.
+
+Crytica’s probe is under 100KB and can detect unauthorized changes to device instructions within seconds, allowing it to run on resource-constrained grid equipment where traditional endpoint security tools may not work.
+
+The system is designed to cover both IT and operational technology environments, while also generating alerts around device health and reliability.</description>
+      <content:encoded>&lt;p&gt;$ITRI PARTNERS WITH CRYTICA TO EMBED CYBER THREAT DETECTION DIRECTLY INTO GRID-EDGE DEVICES&lt;br&gt;&lt;br&gt;Itron is integrating Crytica Security’s RDAi technology into its Grid Edge Intelligence platform to continuously monitor utility meters, meter-hosted apps and other edge workloads.&lt;br&gt;&lt;br&gt;Crytica’s probe is under 100KB and can detect unauthorized changes to device instructions within seconds, allowing it to run on resource-constrained grid equipment where traditional endpoint security tools may not work.&lt;br&gt;&lt;br&gt;The system is designed to cover both IT and operational technology environments, while also generating alerts around device health and reliability.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0m9HRa8AA25_m.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@Hedgeye: Since 2024, the wealthiest 0.1% gained 8,000 times more per household than the bottom 50%.</title>
       <link>https://x.com/Hedgeye/status/2102377314902560844</link>
       <guid isPermaLink="true">https://x.com/Hedgeye/status/2102377314902560844</guid>
@@ -188,6 +464,41 @@ CEO Ryan Cohen just spent another $26M on his own stock yesterday, following a $
       <pubDate>Tue, 22 Sep 2026 12:39:46 GMT</pubDate>
       <description>Since 2024, the wealthiest 0.1% gained 8,000 times more per household than the bottom 50%.</description>
       <content:encoded>&lt;p&gt;Since 2024, the wealthiest 0.1% gained 8,000 times more per household than the bottom 50%.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0k-caW8AEynep.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $CME TO LAUNCH BITCOIN CASH AND UNISWAP FUTURES ON OCT. 19 CME Group is expanding its crypto deriva...</title>
+      <link>https://x.com/wallstengine/status/2102376299503472951</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102376299503472951</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 12:35:44 GMT</pubDate>
+      <description>$CME TO LAUNCH BITCOIN CASH AND UNISWAP FUTURES ON OCT. 19
+
+CME Group is expanding its crypto derivatives lineup with Bitcoin Cash and Uniswap futures, pending regulatory review.
+
+The contracts will come in both standard and Micro sizes:
+
+Bitcoin Cash: 250 BCH / 25 BCH Micro
+Uniswap: 10,000 UNI / 1,000 UNI Micro
+
+The additions join CME’s existing crypto futures lineup covering Bitcoin, Ether, XRP, Solana, Cardano, Chainlink, Stellar, Avalanche and Sui.
+
+CME says its crypto futures and options averaged $8.3B in daily notional volume in H1 2026, with average open interest of $15.4B.</description>
+      <content:encoded>&lt;p&gt;$CME TO LAUNCH BITCOIN CASH AND UNISWAP FUTURES ON OCT. 19&lt;br&gt;&lt;br&gt;CME Group is expanding its crypto derivatives lineup with Bitcoin Cash and Uniswap futures, pending regulatory review.&lt;br&gt;&lt;br&gt;The contracts will come in both standard and Micro sizes:&lt;br&gt;&lt;br&gt;Bitcoin Cash: 250 BCH / 25 BCH Micro&lt;br&gt;Uniswap: 10,000 UNI / 1,000 UNI Micro&lt;br&gt;&lt;br&gt;The additions join CME’s existing crypto futures lineup covering Bitcoin, Ether, XRP, Solana, Cardano, Chainlink, Stellar, Avalanche and Sui.&lt;br&gt;&lt;br&gt;CME says its crypto futures and options averaged $8.3B in daily notional volume in H1 2026, with average open interest of $15.4B.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0kGNmbcAAJZfn.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: The White House has launched “Trump TV: The Essentials Station.” It will run as a 24/7 YouTube stre...</title>
+      <link>https://x.com/wallstengine/status/2102375330619224362</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2102375330619224362</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 22 Sep 2026 12:31:53 GMT</pubDate>
+      <description>The White House has launched
+
+“Trump TV: The Essentials Station.”
+
+It will run as a 24/7 YouTube stream featuring administration speeches, major remarks and other White House events.
+
+YouTube stream: https://www.youtube.com/watch?v=A4gNgHfZ-v4</description>
+      <content:encoded>&lt;p&gt;The White House has launched&lt;br&gt;&lt;br&gt;“Trump TV: The Essentials Station.”&lt;br&gt;&lt;br&gt;It will run as a 24/7 YouTube stream featuring administration speeches, major remarks and other White House events.&lt;br&gt;&lt;br&gt;YouTube stream: https://www.youtube.com/watch?v=A4gNgHfZ-v4&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@HedgeyeTech: One of our agentic AI Longs is up 20% in the past week. They should send a gift basket to Zuck. We’...</title>
