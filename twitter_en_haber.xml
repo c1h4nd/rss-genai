@@ -4,7 +4,172 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Mon, 28 Sep 2026 10:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:30:28 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: Burford Capital $BUR says it would receive about $1.4B if Apple’s $AAPL $5.7B Taction patent verdic...</title>
+      <link>https://x.com/wallstengine/status/2104513566737092691</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104513566737092691</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 10:08:28 GMT</pubDate>
+      <description>Burford Capital $BUR says it would receive about $1.4B if Apple’s $AAPL $5.7B Taction patent verdict is ultimately paid as awarded.
+
+Roughly half would go to Burford’s balance sheet and half to its investment funds.
+
+Apple has said it will appeal.</description>
+      <content:encoded>&lt;p&gt;Burford Capital $BUR says it would receive about $1.4B if Apple’s $AAPL $5.7B Taction patent verdict is ultimately paid as awarded.&lt;br&gt;&lt;br&gt;Roughly half would go to Burford’s balance sheet and half to its investment funds.&lt;br&gt;&lt;br&gt;Apple has said it will appeal.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTS758tasAAfsJT.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Jensen Huang on Nvidia’s new Open Agent Safety Platform, built to stop AI agents from going rogue:...</title>
+      <link>https://x.com/wallstengine/status/2104500646397489257</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104500646397489257</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 09:17:08 GMT</pubDate>
+      <description>Jensen Huang on Nvidia’s new Open Agent Safety Platform, built to stop AI agents from going rogue:
+
+“We must build not only the most capable AI, but the most trusted AI, so that this extraordinary technology can realize its enormous promise for the world.”</description>
+      <content:encoded>&lt;p&gt;Jensen Huang on Nvidia’s new Open Agent Safety Platform, built to stop AI agents from going rogue:&lt;br&gt;&lt;br&gt;“We must build not only the most capable AI, but the most trusted AI, so that this extraordinary technology can realize its enormous promise for the world.”&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $NVDA's Open Agent Safety Platform, built to stop AI agents from acting outside approved boundaries...</title>
+      <link>https://x.com/wallstengine/status/2104499447657066535</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104499447657066535</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 09:12:22 GMT</pubDate>
+      <description>$NVDA's Open Agent Safety Platform, built to stop AI agents from acting outside approved boundaries, is being used by:
+
+Anthropic: Claude Managed Agents
+SpaceXAI: Cursor/Grok
+Salesforce: Slack
+SAP: Joule Studio
+
+100+ organizations across cyber, cloud, finance, enterprise software &amp; robotics are involved.</description>
+      <content:encoded>&lt;p&gt;$NVDA&amp;apos;s Open Agent Safety Platform, built to stop AI agents from acting outside approved boundaries, is being used by:&lt;br&gt;&lt;br&gt;Anthropic: Claude Managed Agents&lt;br&gt;SpaceXAI: Cursor/Grok&lt;br&gt;Salesforce: Slack&lt;br&gt;SAP: Joule Studio&lt;br&gt;&lt;br&gt;100+ organizations across cyber, cloud, finance, enterprise software &amp;amp; robotics are involved.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTSt8k1bQAA2KtV.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $NVDA LAUNCHES OPEN AGENT SAFETY PLATFORM Nvidia is introducing OpenShell software and the Sentry r...</title>
+      <link>https://x.com/wallstengine/status/2104496586273566789</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104496586273566789</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 09:01:00 GMT</pubDate>
+      <description>$NVDA LAUNCHES OPEN AGENT SAFETY PLATFORM
+
+Nvidia is introducing OpenShell software and the Sentry reference system design to let companies set enforceable limits on what AI agents can access and do, with security controls operating outside the agents themselves.
+
+OpenShell, the open-source software layer, controls access to files, tools and external services, protects credentials and records permission decisions. It works with existing agents such as Claude Code, Codex and Hermes without requiring developers to rewrite them.
+
+Sentry adds a separate hardware watchdog running on Nvidia’s BlueField-4 processors. Nvidia says it continuously monitors agent activity from outside the agent’s environment and can quarantine agents attempting to cross their boundaries within milliseconds.
+
+The approach is designed for agents that work for hours or days, write code and interact with business systems. Instead of relying only on the model to follow instructions, the infrastructure limits which actions it can actually carry out.
+
+Anthropic has collaborated with Nvidia to add protections to Claude Managed Agents, while SpaceXAI is using the platform for Cursor coding agents and Grok models. Salesforce has integrated OpenShell with Slack, and SAP is embedding it into Joule Studio.
+
+Nvidia says more than 100 organizations are working with the technologies, including Microsoft, CrowdStrike, Cisco, Palo Alto Networks, Palantir and ServiceNow. The effort also extends to robotics, banks and energy infrastructure.
+
+Jensen Huang: “Safety and security require full-stack engineering.”
+
+OpenShell is broadly available, with platform software accessible through Nvidia’s developer resources and GitHub. Sentry is presented as a BlueField-4-based reference system design.</description>
+      <content:encoded>&lt;p&gt;$NVDA LAUNCHES OPEN AGENT SAFETY PLATFORM&lt;br&gt;&lt;br&gt;Nvidia is introducing OpenShell software and the Sentry reference system design to let companies set enforceable limits on what AI agents can access and do, with security controls operating outside the agents themselves.&lt;br&gt;&lt;br&gt;OpenShell, the open-source software layer, controls access to files, tools and external services, protects credentials and records permission decisions. It works with existing agents such as Claude Code, Codex and Hermes without requiring developers to rewrite them.&lt;br&gt;&lt;br&gt;Sentry adds a separate hardware watchdog running on Nvidia’s BlueField-4 processors. Nvidia says it continuously monitors agent activity from outside the agent’s environment and can quarantine agents attempting to cross their boundaries within milliseconds.&lt;br&gt;&lt;br&gt;The approach is designed for agents that work for hours or days, write code and interact with business systems. Instead of relying only on the model to follow instructions, the infrastructure limits which actions it can actually carry out.&lt;br&gt;&lt;br&gt;Anthropic has collaborated with Nvidia to add protections to Claude Managed Agents, while SpaceXAI is using the platform for Cursor coding agents and Grok models. Salesforce has integrated OpenShell with Slack, and SAP is embedding it into Joule Studio.&lt;br&gt;&lt;br&gt;Nvidia says more than 100 organizations are working with the technologies, including Microsoft, CrowdStrike, Cisco, Palo Alto Networks, Palantir and ServiceNow. The effort also extends to robotics, banks and energy infrastructure.&lt;br&gt;&lt;br&gt;Jensen Huang: “Safety and security require full-stack engineering.”&lt;br&gt;&lt;br&gt;OpenShell is broadly available, with platform software accessible through Nvidia’s developer resources and GitHub. Sentry is presented as a BlueField-4-based reference system design.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTSkBXgaUAApU0Y.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Gold and silver are getting hit hard this morning: Gold -3% 🩸 Silver -5% 🩸</title>
+      <link>https://x.com/wallstengine/status/2104491850380046711</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104491850380046711</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 08:42:11 GMT</pubDate>
+      <description>Gold and silver are getting hit hard this morning:
+
+Gold -3% 🩸
+Silver -5% 🩸</description>
+      <content:encoded>&lt;p&gt;Gold and silver are getting hit hard this morning:&lt;br&gt;&lt;br&gt;Gold -3% 🩸&lt;br&gt;Silver -5% 🩸&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTSn-tTb0AAchcc.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTSoDCbbMAA-Xup.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $NIO is bringing Geely into Nio Power, its battery-swapping and charging business. Geely will inves...</title>
+      <link>https://x.com/wallstengine/status/2104474643587596562</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104474643587596562</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 07:33:48 GMT</pubDate>
+      <description>$NIO is bringing Geely into Nio Power, its battery-swapping and charging business.
+
+Geely will invest about $95M in cash + contribute its battery-swap business for a 30% stake, valuing Nio Power at ~$2.4B.
+
+Nio will retain 63.6%.</description>
+      <content:encoded>&lt;p&gt;$NIO is bringing Geely into Nio Power, its battery-swapping and charging business.&lt;br&gt;&lt;br&gt;Geely will invest about $95M in cash + contribute its battery-swap business for a 30% stake, valuing Nio Power at ~$2.4B.&lt;br&gt;&lt;br&gt;Nio will retain 63.6%.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTSYh0Yb0AAecA2.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTSYh0YaEAA1ziY.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $ASML CEO Christophe Fouquet warns tighter chip-equipment restrictions on China 🇨🇳 could backfire...</title>
+      <link>https://x.com/wallstengine/status/2104472406240973128</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104472406240973128</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 07:24:55 GMT</pubDate>
+      <description>$ASML CEO Christophe Fouquet warns tighter chip-equipment restrictions on China 🇨🇳 could backfire by accelerating domestic alternatives.
+
+“If you over-restrict, you bring desperation.”
+
+He also says ASML would add 20% more capacity if its supply chain allowed it.</description>
+      <content:encoded>&lt;p&gt;$ASML CEO Christophe Fouquet warns tighter chip-equipment restrictions on China 🇨🇳 could backfire by accelerating domestic alternatives.&lt;br&gt;&lt;br&gt;“If you over-restrict, you bring desperation.”&lt;br&gt;&lt;br&gt;He also says ASML would add 20% more capacity if its supply chain allowed it.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Goldman Sachs estimates each week of a diesel export ban would cut US 🇺🇸 retail diesel prices by...</title>
+      <link>https://x.com/wallstengine/status/2104464930292593090</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104464930292593090</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 06:55:13 GMT</pubDate>
+      <description>Goldman Sachs estimates each week of a diesel export ban would cut US 🇺🇸 retail diesel prices by about 25 cents a gallon from the current $6.50, but warned a longer ban would push gasoline prices higher once storage fills. Energy Sec. Wright said last week a ban wouldn't work.</description>
+      <content:encoded>&lt;p&gt;Goldman Sachs estimates each week of a diesel export ban would cut US 🇺🇸 retail diesel prices by about 25 cents a gallon from the current $6.50, but warned a longer ban would push gasoline prices higher once storage fills. Energy Sec. Wright said last week a ban wouldn&amp;apos;t work.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Today's Key Events (All EST) — 09/28/2026 08:15: Fed's Bowman 10:30: Dallas Fed Mfg. Bus. Index 13:...</title>
+      <link>https://x.com/wallstengine/status/2104451161252364367</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104451161252364367</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 06:00:30 GMT</pubDate>
+      <description>Today's Key Events (All EST) — 09/28/2026
+
+08:15: Fed's Bowman
+10:30: Dallas Fed Mfg. Bus. Index
+13:25: Fed's Cook
+13:30: Fed's Barkin
+
+Before Open 👇
+07:00: Genius Group $GNS
+
+After Hours 👇
+16:05: Vail Resorts MTN
+16:10: Inventiva IVA
+16:15: Jefferies Financial Group JEF
+17:00: Sangoma Technologies SANG</description>
+      <content:encoded>&lt;p&gt;Today&amp;apos;s Key Events (All EST) — 09/28/2026&lt;br&gt;&lt;br&gt;08:15: Fed&amp;apos;s Bowman&lt;br&gt;10:30: Dallas Fed Mfg. Bus. Index&lt;br&gt;13:25: Fed&amp;apos;s Cook&lt;br&gt;13:30: Fed&amp;apos;s Barkin&lt;br&gt;&lt;br&gt;Before Open 👇&lt;br&gt;07:00: Genius Group $GNS&lt;br&gt;&lt;br&gt;After Hours 👇&lt;br&gt;16:05: Vail Resorts MTN&lt;br&gt;16:10: Inventiva IVA&lt;br&gt;16:15: Jefferies Financial Group JEF&lt;br&gt;17:00: Sangoma Technologies SANG&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: US Treasuries are lagging equities by a historic margin: S&amp;P 500 futures have outperformed 10Y Trea...</title>
+      <link>https://x.com/KobeissiLetter/status/2104399700514295881</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104399700514295881</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 02:36:01 GMT</pubDate>
+      <description>US Treasuries are lagging equities by a historic margin:
+
+S&amp;P 500 futures have outperformed 10Y Treasury note futures by +23.3 percentage points over the last 6 months, the largest outperformance since 2021.
+
+This also marks the 6th-largest underperformance of 10Y Note futures this century.
+
+This comes as S&amp;P 500 futures have risen +17.6% over this period, trading near their all-time high.
+
+At the same time, 10Y Note futures have declined -5.7%, to their lowest level since June 2007.
+
+To put this into perspective, 10Y Note futures outperformed S&amp;P 500 futures by as much as +40.3 percentage points during the 6-month period in the 2008 Financial Crisis.
+
+Stocks and Treasuries are diverging at a historic pace.</description>
+      <content:encoded>&lt;p&gt;US Treasuries are lagging equities by a historic margin:&lt;br&gt;&lt;br&gt;S&amp;amp;P 500 futures have outperformed 10Y Treasury note futures by +23.3 percentage points over the last 6 months, the largest outperformance since 2021.&lt;br&gt;&lt;br&gt;This also marks the 6th-largest underperformance of 10Y Note futures this century.&lt;br&gt;&lt;br&gt;This comes as S&amp;amp;P 500 futures have risen +17.6% over this period, trading near their all-time high.&lt;br&gt;&lt;br&gt;At the same time, 10Y Note futures have declined -5.7%, to their lowest level since June 2007.&lt;br&gt;&lt;br&gt;To put this into perspective, 10Y Note futures outperformed S&amp;amp;P 500 futures by as much as +40.3 percentage points during the 6-month period in the 2008 Financial Crisis.&lt;br&gt;&lt;br&gt;Stocks and Treasuries are diverging at a historic pace.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPX6f_WAAA6QNH.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: TRUMP IS HAVING DINNER TONIGHT WITH ANTHROPIC CEO DARIO AT 10PM</title>
+      <link>https://x.com/wallstengine/status/2104381410777928038</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104381410777928038</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 28 Sep 2026 01:23:20 GMT</pubDate>
+      <description>TRUMP IS HAVING DINNER TONIGHT WITH ANTHROPIC CEO DARIO AT 10PM</description>
+      <content:encoded>&lt;p&gt;TRUMP IS HAVING DINNER TONIGHT WITH ANTHROPIC CEO DARIO AT 10PM&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2104380651944165376/img/7zBdRgP2KYCIvsvZ.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@TrendSpider: Put trial and error on autopilot. $SPY Our AI trading agent takes your question. Spins out strategy...</title>
       <link>https://x.com/TrendSpider/status/2104375538060038649</link>
@@ -35,6 +200,38 @@ https://trendspider.cc/Start</description>
       <content:encoded>&lt;p&gt;16 wedges.&lt;br&gt;One scan.&lt;br&gt;Zero lines drawn by hand.&lt;br&gt;&lt;br&gt;See every match at once in multi-chart view.&lt;br&gt;Scan for the setup. Get the whole lineup.&lt;br&gt;https://trendspider.cc/Start&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTQlW2tWEAAI44S.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@wallstengine: TRUMP TO MAKE AN ANNOUNCEMENT 2PM ET, MONDAY</title>
+      <link>https://x.com/wallstengine/status/2104356353078940093</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104356353078940093</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 23:43:46 GMT</pubDate>
+      <description>TRUMP TO MAKE AN ANNOUNCEMENT 2PM ET, MONDAY</description>
+      <content:encoded>&lt;p&gt;TRUMP TO MAKE AN ANNOUNCEMENT 2PM ET, MONDAY&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: US bond market volatility is at historic levels. The MOVE index jumped +19% last week, its largest...</title>
+      <link>https://x.com/KobeissiLetter/status/2104354650048586132</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104354650048586132</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 23:37:00 GMT</pubDate>
+      <description>US bond market volatility is at historic levels.
+
+The MOVE index jumped +19% last week, its largest weekly increase since April 2025, following "Liberation Day."
+
+This index is also called the "VIX of bonds" and measures the yield volatility of 2Y, 5Y, 10Y, and 30Y Treasuries.
+
+This marks its 3rd-largest weekly increase since the 2022 bear market.
+
+The move comes as the 10Y Note Yield jumped +17 basis points last week, to 5.17%, its highest level since June 2007.
+
+At the same time, the 30Y Note Yield rose +16 basis points and surpassed 5.50% for the first time since June 2004.
+
+To put this into perspective, in the week ending March 17th, 2023, the MOVE Index surged +29% following the US banking crisis, when 3 regional banks collapsed.
+
+The US Treasury market is experiencing crisis-like volatility.</description>
+      <content:encoded>&lt;p&gt;US bond market volatility is at historic levels.&lt;br&gt;&lt;br&gt;The MOVE index jumped +19% last week, its largest weekly increase since April 2025, following &amp;quot;Liberation Day.&amp;quot;&lt;br&gt;&lt;br&gt;This index is also called the &amp;quot;VIX of bonds&amp;quot; and measures the yield volatility of 2Y, 5Y, 10Y, and 30Y Treasuries.&lt;br&gt;&lt;br&gt;This marks its 3rd-largest weekly increase since the 2022 bear market.&lt;br&gt;&lt;br&gt;The move comes as the 10Y Note Yield jumped +17 basis points last week, to 5.17%, its highest level since June 2007.&lt;br&gt;&lt;br&gt;At the same time, the 30Y Note Yield rose +16 basis points and surpassed 5.50% for the first time since June 2004.&lt;br&gt;&lt;br&gt;To put this into perspective, in the week ending March 17th, 2023, the MOVE Index surged +29% following the US banking crisis, when 3 regional banks collapsed.&lt;br&gt;&lt;br&gt;The US Treasury market is experiencing crisis-like volatility.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPYu_8XoAA5ey2.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@TrendSpider: Your next strategy is just a question away. $MU Join the waitlist 👇 https://trendspider.com/sideki...</title>
       <link>https://x.com/TrendSpider/status/2104345347099132341</link>
       <guid isPermaLink="true">https://x.com/TrendSpider/status/2104345347099132341</guid>
@@ -56,6 +253,27 @@ https://trendspider.com/sidekick-coming-soon/</description>
       <content:encoded>&lt;p&gt;🚨 FIRST LOOK AT FUTURES&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTQVdv0WUAAp19k.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@KobeissiLetter: Asset owners are the only winners in this economy. The top 0.1% saw a +$29.76 million increase in r...</title>
+      <link>https://x.com/KobeissiLetter/status/2104321431211581504</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104321431211581504</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 21:25:00 GMT</pubDate>
+      <description>Asset owners are the only winners in this economy.
+
+The top 0.1% saw a +$29.76 million increase in real net worth per household from Q4 2024 to Q2 2026.
+
+Over the same period, the top 1% experienced a +$5.83 million surge in inflation-adjusted net worth per household.
+
+By comparison, the bottom 50% saw an increase of just +$1,960 per household.
+
+In other words, the top 0.1% has gained +15,183 times more wealth per household than the bottom 50% since 2024.
+
+The top 0.1% has seen their real wealth rise +$4.44 trillion over this period, while the bottom 50% added just +$198 billion.
+
+Own assets or be left behind.</description>
+      <content:encoded>&lt;p&gt;Asset owners are the only winners in this economy.&lt;br&gt;&lt;br&gt;The top 0.1% saw a +$29.76 million increase in real net worth per household from Q4 2024 to Q2 2026.&lt;br&gt;&lt;br&gt;Over the same period, the top 1% experienced a +$5.83 million surge in inflation-adjusted net worth per household.&lt;br&gt;&lt;br&gt;By comparison, the bottom 50% saw an increase of just +$1,960 per household.&lt;br&gt;&lt;br&gt;In other words, the top 0.1% has gained +15,183 times more wealth per household than the bottom 50% since 2024.&lt;br&gt;&lt;br&gt;The top 0.1% has seen their real wealth rise +$4.44 trillion over this period, while the bottom 50% added just +$198 billion.&lt;br&gt;&lt;br&gt;Own assets or be left behind.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPZO4BWwAAlKfx.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@TrendSpider: BREAKING: BONDS 🩸</title>
       <link>https://x.com/TrendSpider/status/2104315146789064829</link>
       <guid isPermaLink="true">https://x.com/TrendSpider/status/2104315146789064829</guid>
@@ -63,6 +281,27 @@ https://trendspider.com/sidekick-coming-soon/</description>
       <pubDate>Sun, 27 Sep 2026 21:00:01 GMT</pubDate>
       <description>BREAKING: BONDS 🩸</description>
       <content:encoded>&lt;p&gt;BREAKING: BONDS 🩸&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPKCsbX0AAm8Nf.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: BREAKING: The Consumer Sentiment Index fell -3.6 points in September, to 48.1, its 2nd-lowest level...</title>
+      <link>https://x.com/KobeissiLetter/status/2104308596616130869</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104308596616130869</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 20:34:00 GMT</pubDate>
+      <description>BREAKING: The Consumer Sentiment Index fell -3.6 points in September, to 48.1, its 2nd-lowest level in history.
+
+This marks the 2nd consecutive monthly decline, totaling -7.1 points.
+
+This comes as the Current Conditions Index decreased -1.0 point, to 50.9, its 4th-lowest reading on record.
+
+At the same time, the Consumer Expectations Index dropped -5.2 points, to 46.3, its 2nd-lowest since 1980.
+
+This year, the sentiment has deteriorated for all groups by age, education, geography, political party and income.
+
+The decline has been driven by a higher cost-of-living, as higher fuel prices, persistent inflation, rising mortgage rates, and weaker purchasing power.
+
+Consumer sentiment is at crisis levels.</description>
+      <content:encoded>&lt;p&gt;BREAKING: The Consumer Sentiment Index fell -3.6 points in September, to 48.1, its 2nd-lowest level in history.&lt;br&gt;&lt;br&gt;This marks the 2nd consecutive monthly decline, totaling -7.1 points.&lt;br&gt;&lt;br&gt;This comes as the Current Conditions Index decreased -1.0 point, to 50.9, its 4th-lowest reading on record.&lt;br&gt;&lt;br&gt;At the same time, the Consumer Expectations Index dropped -5.2 points, to 46.3, its 2nd-lowest since 1980.&lt;br&gt;&lt;br&gt;This year, the sentiment has deteriorated for all groups by age, education, geography, political party and income.&lt;br&gt;&lt;br&gt;The decline has been driven by a higher cost-of-living, as higher fuel prices, persistent inflation, rising mortgage rates, and weaker purchasing power.&lt;br&gt;&lt;br&gt;Consumer sentiment is at crisis levels.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPYJpvXIAAiACU.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@TrendSpider: Leaves aren't the only thing falling 🍃 Get up to 45% off + 1 free month of Sidekick Plus on every...</title>
@@ -77,6 +316,27 @@ https://trendspider.cc/Start</description>
       <content:encoded>&lt;p&gt;Leaves aren&amp;apos;t the only thing falling 🍃&lt;br&gt;&lt;br&gt;Get up to 45% off + 1 free month of Sidekick Plus on every plan. ⬇️&lt;br&gt;https://trendspider.cc/Start&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPG6Z8W0AARb4g.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@KobeissiLetter: BREAKING: Retail investors sold -$300 million in ETFs on Wednesday, their largest daily sale on rec...</title>
+      <link>https://x.com/KobeissiLetter/status/2104292742264160662</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104292742264160662</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 19:31:00 GMT</pubDate>
+      <description>BREAKING: Retail investors sold -$300 million in ETFs on Wednesday, their largest daily sale on record.
+
+This also surpasses the previous daily record of -$260 million set during the 2020 pandemic.
+
+This comes as the semiconductor ETF, $SOXX, alone recorded -$270 million in retail outflows, its largest daily retail withdrawal in at least 12 months.
+
+As a result, $SOXX posted -$695 million in total outflows last week, the largest weekly outflow since mid-August.
+
+At the same time, investors withdrew -$1.2 billion from the 3x leveraged long semiconductor ETF, $SOXL, their largest weekly withdrawal since June.
+
+Furthermore, the Momentum ETF, $MTUM, saw -$12 million in retail outflows on Wednesday, following -$30 million on Tuesday.
+
+Retail investors are locking in gains in tech.</description>
+      <content:encoded>&lt;p&gt;BREAKING: Retail investors sold -$300 million in ETFs on Wednesday, their largest daily sale on record.&lt;br&gt;&lt;br&gt;This also surpasses the previous daily record of -$260 million set during the 2020 pandemic.&lt;br&gt;&lt;br&gt;This comes as the semiconductor ETF, $SOXX, alone recorded -$270 million in retail outflows, its largest daily retail withdrawal in at least 12 months.&lt;br&gt;&lt;br&gt;As a result, $SOXX posted -$695 million in total outflows last week, the largest weekly outflow since mid-August.&lt;br&gt;&lt;br&gt;At the same time, investors withdrew -$1.2 billion from the 3x leveraged long semiconductor ETF, $SOXL, their largest weekly withdrawal since June.&lt;br&gt;&lt;br&gt;Furthermore, the Momentum ETF, $MTUM, saw -$12 million in retail outflows on Wednesday, following -$30 million on Tuesday.&lt;br&gt;&lt;br&gt;Retail investors are locking in gains in tech.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPXqUgWcAA4oVX.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@TrendSpider: Test hundreds of ideas in a single session. $QQQ Join the waitlist 👇 https://trendspider.com/sidek...</title>
       <link>https://x.com/TrendSpider/status/2104288715585823152</link>
       <guid isPermaLink="true">https://x.com/TrendSpider/status/2104288715585823152</guid>
@@ -89,6 +349,21 @@ https://trendspider.com/sidekick-coming-soon/</description>
       <content:encoded>&lt;p&gt;Test hundreds of ideas in a single session. $QQQ&lt;br&gt;&lt;br&gt;Join the waitlist 👇&lt;br&gt;https://trendspider.com/sidekick-coming-soon/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTOd_vNWkAAsC_u.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@KobeissiLetter: The Kobeissi Letter for the week of September 28th has been published and may be viewed through the...</title>
+      <link>https://x.com/KobeissiLetter/status/2104277390981796001</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104277390981796001</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 18:30:00 GMT</pubDate>
+      <description>The Kobeissi Letter for the week of September 28th has been published and may be viewed through the link below:
+
+https://tinyurl.com/TheKobeissiLetter
+
+The Chart of the Week for the week of September 28th has been published. View or sign up for FREE through the link below:
+
+https://tinyurl.com/TKLChartofWeek</description>
+      <content:encoded>&lt;p&gt;The Kobeissi Letter for the week of September 28th has been published and may be viewed through the link below:&lt;br&gt;&lt;br&gt;https://tinyurl.com/TheKobeissiLetter&lt;br&gt;&lt;br&gt;The Chart of the Week for the week of September 28th has been published. View or sign up for FREE through the link below:&lt;br&gt;&lt;br&gt;https://tinyurl.com/TKLChartofWeek&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@TrendSpider: Microsoft's $MSFT spring is loaded 👀</title>
       <link>https://x.com/TrendSpider/status/2104273615977898199</link>
       <guid isPermaLink="true">https://x.com/TrendSpider/status/2104273615977898199</guid>
@@ -96,6 +371,55 @@ https://trendspider.com/sidekick-coming-soon/</description>
       <pubDate>Sun, 27 Sep 2026 18:15:00 GMT</pubDate>
       <description>Microsoft's $MSFT spring is loaded 👀</description>
       <content:encoded>&lt;p&gt;Microsoft&amp;apos;s $MSFT spring is loaded 👀&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTN5DF9WUAAxQlk.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: Central banks are likely buying way more gold than official figures suggest: World central banks ac...</title>
+      <link>https://x.com/KobeissiLetter/status/2104262034896380350</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104262034896380350</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 17:28:59 GMT</pubDate>
+      <description>Central banks are likely buying way more gold than official figures suggest:
+
+World central banks acquired +44 tonnes of gold in July, +158% above the pre-2022 average of +17 tonnes, according to Goldman Sachs.
+
+This brings the 3-month average of purchases to +91 tonnes, near its highest since mid-2025.
+
+By comparison, the 12-month moving average has oscillated between +50 and +60 tonnes over the last few months.
+
+Meanwhile, official central bank purchases of gold stood at +23 tonnes in July, or 21 tonnes below actual levels.
+
+Furthermore, official monthly purchases have not exceeded +60 tonnes in any month since November 2024, also representing a wide discrepancy.
+
+Central bank gold demand may be much greater than official figures suggest.</description>
+      <content:encoded>&lt;p&gt;Central banks are likely buying way more gold than official figures suggest:&lt;br&gt;&lt;br&gt;World central banks acquired +44 tonnes of gold in July, +158% above the pre-2022 average of +17 tonnes, according to Goldman Sachs.&lt;br&gt;&lt;br&gt;This brings the 3-month average of purchases to +91 tonnes, near its highest since mid-2025.&lt;br&gt;&lt;br&gt;By comparison, the 12-month moving average has oscillated between +50 and +60 tonnes over the last few months.&lt;br&gt;&lt;br&gt;Meanwhile, official central bank purchases of gold stood at +23 tonnes in July, or 21 tonnes below actual levels.&lt;br&gt;&lt;br&gt;Furthermore, official monthly purchases have not exceeded +60 tonnes in any month since November 2024, also representing a wide discrepancy.&lt;br&gt;&lt;br&gt;Central bank gold demand may be much greater than official figures suggest.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS37biWWcAAoFrO.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: CHINA 🇨🇳 WEIGHS EASING RESTRICTIONS ON NEW $NVDA CHIP PURCHASES Beijing has signaled it may allow...</title>
+      <link>https://x.com/wallstengine/status/2104254884589781114</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104254884589781114</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 17:00:34 GMT</pubDate>
+      <description>CHINA 🇨🇳 WEIGHS EASING RESTRICTIONS ON NEW $NVDA CHIP PURCHASES
+
+Beijing has signaled it may allow Alibaba, ByteDance and others to buy Nvidia’s new RTX Pro 5500, per The Information.
+
+ByteDance alone is weighing an order for about 1M chips.
+
+Key details:
+
+• Nvidia plans to begin shipments in late December
+• Targeting ~500K chips per quarter for China
+• ByteDance’s potential order alone could take 2 quarters to fill
+• Buyers plan to put 8 chips per server to run AI models
+• Price: ~85K-90K yuan, roughly $13K each
+• Similar pricing to Huawei’s Ascend 950PR
+
+The RTX Pro 5500 is not one of Nvidia’s top data-center AI chips and lacks the high-speed interconnects and premium memory used in those systems.
+
+The bigger story is China’s compute shortage. AI companies are rolling out products faster than domestic chip supply can keep up, with Huawei itself recently saying it cannot meet demand.
+
+Approval timing, quantities and conditions are still unclear.</description>
+      <content:encoded>&lt;p&gt;CHINA 🇨🇳 WEIGHS EASING RESTRICTIONS ON NEW $NVDA CHIP PURCHASES&lt;br&gt;&lt;br&gt;Beijing has signaled it may allow Alibaba, ByteDance and others to buy Nvidia’s new RTX Pro 5500, per The Information.&lt;br&gt;&lt;br&gt;ByteDance alone is weighing an order for about 1M chips.&lt;br&gt;&lt;br&gt;Key details:&lt;br&gt;&lt;br&gt;• Nvidia plans to begin shipments in late December&lt;br&gt;• Targeting ~500K chips per quarter for China&lt;br&gt;• ByteDance’s potential order alone could take 2 quarters to fill&lt;br&gt;• Buyers plan to put 8 chips per server to run AI models&lt;br&gt;• Price: ~85K-90K yuan, roughly $13K each&lt;br&gt;• Similar pricing to Huawei’s Ascend 950PR&lt;br&gt;&lt;br&gt;The RTX Pro 5500 is not one of Nvidia’s top data-center AI chips and lacks the high-speed interconnects and premium memory used in those systems.&lt;br&gt;&lt;br&gt;The bigger story is China’s compute shortage. AI companies are rolling out products faster than domestic chip supply can keep up, with Huawei itself recently saying it cannot meet demand.&lt;br&gt;&lt;br&gt;Approval timing, quantities and conditions are still unclear.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPQdBTaUAAJxbN.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@TrendSpider: Peekaboo 🫣 $SPY</title>
@@ -108,6 +432,27 @@ $SPY</description>
       <content:encoded>&lt;p&gt;Peekaboo 🫣&lt;br&gt;$SPY&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTN32n0WMAAQYwn.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@KobeissiLetter: Non-US investors own more US stocks than ever: Investors from outside the US held $24.32 trillion o...</title>
+      <link>https://x.com/KobeissiLetter/status/2104246799753941381</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104246799753941381</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 16:28:26 GMT</pubDate>
+      <description>Non-US investors own more US stocks than ever:
+
+Investors from outside the US held $24.32 trillion of US equities in July, the 3rd-largest amount in history.
+
+Year-to-date, foreign holdings of US equities have surged +$2.22 trillion, or +10%.
+
+Since the 2022 bear market, this figure has soared +$12.3 trillion, or +103%.
+
+As a result, foreign allocation to US equities jumped to a record 60% of their US financial assets.
+
+This proportion now stands ~6 percentage points above the 2000 Dot-Com Bubble peak.
+
+Foreign appetite for US equities is historically strong.</description>
+      <content:encoded>&lt;p&gt;Non-US investors own more US stocks than ever:&lt;br&gt;&lt;br&gt;Investors from outside the US held $24.32 trillion of US equities in July, the 3rd-largest amount in history.&lt;br&gt;&lt;br&gt;Year-to-date, foreign holdings of US equities have surged +$2.22 trillion, or +10%.&lt;br&gt;&lt;br&gt;Since the 2022 bear market, this figure has soared +$12.3 trillion, or +103%.&lt;br&gt;&lt;br&gt;As a result, foreign allocation to US equities jumped to a record 60% of their US financial assets.&lt;br&gt;&lt;br&gt;This proportion now stands ~6 percentage points above the 2000 Dot-Com Bubble peak.&lt;br&gt;&lt;br&gt;Foreign appetite for US equities is historically strong.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS37ddwWIAAJhmX.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@TrendSpider: Just undo it. $NKE</title>
       <link>https://x.com/TrendSpider/status/2104235868571447617</link>
       <guid isPermaLink="true">https://x.com/TrendSpider/status/2104235868571447617</guid>
@@ -116,6 +461,27 @@ $SPY</description>
       <description>Just undo it.
 $NKE</description>
       <content:encoded>&lt;p&gt;Just undo it.&lt;br&gt;$NKE&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTN0QKJWoAA1kBN.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: AI stocks are massively outperforming the global market: The Bloomberg Global AI index has surged +...</title>
+      <link>https://x.com/KobeissiLetter/status/2104224082514305528</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104224082514305528</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 14:58:10 GMT</pubDate>
+      <description>AI stocks are massively outperforming the global market:
+
+The Bloomberg Global AI index has surged +118% since the start of 2024, to near its all-time high.
+
+At the same time, the MSCI World Index has risen +57%, underperforming by 61 percentage points.
+
+By comparison, the MSCI Emerging Market Index has soared +70% over this period, to near its all-time high.
+
+Since the start of 2024, AI stocks have generated an average annualized return of +38%, double the +19% annualized return of global equities over the same period.
+
+The AI index has also significantly outperformed emerging markets, which have delivered an annualized return of +23%.
+
+AI stocks have left the rest of the global market far behind.</description>
+      <content:encoded>&lt;p&gt;AI stocks are massively outperforming the global market:&lt;br&gt;&lt;br&gt;The Bloomberg Global AI index has surged +118% since the start of 2024, to near its all-time high.&lt;br&gt;&lt;br&gt;At the same time, the MSCI World Index has risen +57%, underperforming by 61 percentage points.&lt;br&gt;&lt;br&gt;By comparison, the MSCI Emerging Market Index has soared +70% over this period, to near its all-time high.&lt;br&gt;&lt;br&gt;Since the start of 2024, AI stocks have generated an average annualized return of +38%, double the +19% annualized return of global equities over the same period.&lt;br&gt;&lt;br&gt;The AI index has also significantly outperformed emerging markets, which have delivered an annualized return of +23%.&lt;br&gt;&lt;br&gt;AI stocks have left the rest of the global market far behind.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS6CCdMWcAAVTWD.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@TrendSpider: If AI can do this now, where will we be in a few years? Join the waitlist 👇 https://trendspider.co...</title>
@@ -128,6 +494,48 @@ $NKE</description>
 Join the waitlist 👇
 https://trendspider.com/sidekick-coming-soon/</description>
       <content:encoded>&lt;p&gt;If AI can do this now, where will we be in a few years?&lt;br&gt;&lt;br&gt;Join the waitlist 👇&lt;br&gt;https://trendspider.com/sidekick-coming-soon/&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTKEVO7XAAEN72z.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTKEV_BWMAA1p2o.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: Meanwhile, at 6 PM ET, markets will react to President Trump rejecting Iran's ceasefire proposal. W...</title>
+      <link>https://x.com/KobeissiLetter/status/2104206348552638901</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104206348552638901</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 13:47:42 GMT</pubDate>
+      <description>Meanwhile, at 6 PM ET, markets will react to President Trump rejecting Iran's ceasefire proposal.
+
+We just published our trades for premium members.
+
+Since 2020, our calls are up over +516%.
+
+Subscribe below to see how we are positioned into the week:
+
+https://thekobeissiletter.com/subscribe</description>
+      <content:encoded>&lt;p&gt;Meanwhile, at 6 PM ET, markets will react to President Trump rejecting Iran&amp;apos;s ceasefire proposal.&lt;br&gt;&lt;br&gt;We just published our trades for premium members.&lt;br&gt;&lt;br&gt;Since 2020, our calls are up over +516%.&lt;br&gt;&lt;br&gt;Subscribe below to see how we are positioned into the week:&lt;br&gt;&lt;br&gt;https://thekobeissiletter.com/subscribe&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@KobeissiLetter: Key Events This Week: 1. September Consumer Confidence data - Tuesday 2. August JOLTS Job Openings...</title>
+      <link>https://x.com/KobeissiLetter/status/2104206095371661548</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104206095371661548</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 13:46:42 GMT</pubDate>
+      <description>Key Events This Week:
+
+1. September Consumer Confidence data - Tuesday
+
+2. August JOLTS Job Openings data - Tuesday
+
+3. August PCE Inflation data - Wednesday
+
+4. US Q2 2026 GDP data - Wednesday
+
+5. September ISM Manufacturing PMI data - Thursday
+
+6. September Jobs Report - Friday
+
+7. Total of 22 Fed Speaker Events This Week
+
+We have a big week of economic data ahead.</description>
+      <content:encoded>&lt;p&gt;Key Events This Week:&lt;br&gt;&lt;br&gt;1. September Consumer Confidence data - Tuesday&lt;br&gt;&lt;br&gt;2. August JOLTS Job Openings data - Tuesday&lt;br&gt;&lt;br&gt;3. August PCE Inflation data - Wednesday&lt;br&gt;&lt;br&gt;4. US Q2 2026 GDP data - Wednesday&lt;br&gt;&lt;br&gt;5. September ISM Manufacturing PMI data - Thursday&lt;br&gt;&lt;br&gt;6. September Jobs Report - Friday&lt;br&gt;&lt;br&gt;7. Total of 22 Fed Speaker Events This Week&lt;br&gt;&lt;br&gt;We have a big week of economic data ahead.&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@TrendSpider: One of the top performing assets of the past year just broke out of the wedge 👀 🟢 $AXTI +1,500% s...</title>
@@ -157,6 +565,39 @@ https://trendspider.com/sidekick-coming-soon/</description>
       <pubDate>Sun, 27 Sep 2026 12:00:03 GMT</pubDate>
       <description>tuning into $MU earnings this week as a holder of 7 shares</description>
       <content:encoded>&lt;p&gt;tuning into $MU earnings this week as a holder of 7 shares&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTLjhLPXwAAzJIU.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Moderna $MRNA is up nearly 575% this year, putting the stock on pace for its best year ever. Most o...</title>
+      <link>https://x.com/wallstengine/status/2104175871523520840</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104175871523520840</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 11:46:36 GMT</pubDate>
+      <description>Moderna $MRNA is up nearly 575% this year, putting the stock on pace for its best year ever.
+
+Most of the gains came after Moderna and Merck announced positive Phase 3 results for their personalized mRNA cancer vaccine in melanoma.</description>
+      <content:encoded>&lt;p&gt;Moderna $MRNA is up nearly 575% this year, putting the stock on pace for its best year ever.&lt;br&gt;&lt;br&gt;Most of the gains came after Moderna and Merck announced positive Phase 3 results for their personalized mRNA cancer vaccine in melanoma.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTOFAyAbAAAYRyd.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: AppLovin $APP is down 54% YTD, making it one of the worst-performing stocks in the S&amp;P 500 this yea...</title>
+      <link>https://x.com/wallstengine/status/2104169725676892271</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104169725676892271</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 11:22:10 GMT</pubDate>
+      <description>AppLovin $APP is down 54% YTD, making it one of the worst-performing stocks in the S&amp;P 500 this year.</description>
+      <content:encoded>&lt;p&gt;AppLovin $APP is down 54% YTD, making it one of the worst-performing stocks in the S&amp;amp;P 500 this year.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTOB8L4aAAAQOcd.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Google is testing direct shopping from Flipkart inside Gemini and AI Mode in India. Select users ca...</title>
+      <link>https://x.com/wallstengine/status/2104165442801782906</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104165442801782906</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sun, 27 Sep 2026 11:05:09 GMT</pubDate>
+      <description>Google is testing direct shopping from Flipkart inside Gemini and AI Mode in India.
+
+Select users can now tap “Buy” on certain products and go straight into a Flipkart checkout flow without leaving Google’s AI interface.
+
+A broader rollout is planned for later in October.</description>
+      <content:encoded>&lt;p&gt;Google is testing direct shopping from Flipkart inside Gemini and AI Mode in India.&lt;br&gt;&lt;br&gt;Select users can now tap “Buy” on certain products and go straight into a Flipkart checkout flow without leaving Google’s AI interface.&lt;br&gt;&lt;br&gt;A broader rollout is planned for later in October.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTN_Dfqb0AALbMt.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTN_TCEb0AEIuH0.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@wallstengine: Nvidia CEO Jensen Huang says $NVDA’s all-in investment across the AI ecosystem may be over $100B. “...</title>
@@ -12707,365 +13148,6 @@ As he puts it: "I have the discipline to not chase."
 
 When was the last time doing nothing turned out to be your best trade?</description>
       <content:encoded>&lt;p&gt;Patience is a position too.&lt;br&gt;&lt;br&gt;@KeithMcCullough will sit on his hands and wait for the correction rather than chase a move.&lt;br&gt;&lt;br&gt;As he puts it: &amp;quot;I have the discipline to not chase.&amp;quot;&lt;br&gt;&lt;br&gt;When was the last time doing nothing turned out to be your best trade?&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: $CIFR +18% today after receiving Conditional Base Load designations for two major Texas data center...</title>
-      <link>https://x.com/wallstengine/status/2100249552171454701</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100249552171454701</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 15:44:48 GMT</pubDate>
-      <description>$CIFR +18% today after receiving Conditional Base Load designations for two major Texas data center projects.
-
-Separately, Cipher, Fluidstack and Anthropic are committing $10M to repair and expand Colorado City’s aging water system as AI infrastructure investment grows across West Texas.
-
-Cipher says its Barber Lake data center uses its own on-site water supply and draws nothing from the city’s system.</description>
-      <content:encoded>&lt;p&gt;$CIFR +18% today after receiving Conditional Base Load designations for two major Texas data center projects.&lt;br&gt;&lt;br&gt;Separately, Cipher, Fluidstack and Anthropic are committing $10M to repair and expand Colorado City’s aging water system as AI infrastructure investment grows across West Texas.&lt;br&gt;&lt;br&gt;Cipher says its Barber Lake data center uses its own on-site water supply and draws nothing from the city’s system.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWVlzZaEAA65py.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: Investors are no longer hedging against a tech stock crash. The average 1-month put-to-call skew of...</title>
-      <link>https://x.com/KobeissiLetter/status/2100247258990014479</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100247258990014479</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 15:35:41 GMT</pubDate>
-      <description>Investors are no longer hedging against a tech stock crash.
-
-The average 1-month put-to-call skew of the Nasdaq 100 index is down to 0 points, its 4th-lowest reading over the last 20 years.
-
-This measures how much more investors are paying for downside protection through put options than for upside exposure through call options, with the current reading indicating historically low demand for Nasdaq put options.
-
-This figure has dropped -0.25 points since March 2026, one of the largest 6-month declines on record.
-
-By comparison, the long-term average of this metric is 0.11 points.
-
-Meanwhile, the cost of options used to bet on or protect against large moves in the average Nasdaq 100 stock fell sharply last week, with 1-month implied volatility dropping -17 percentage points, to ~40%.
-
-Investors are extremely bullish on tech.</description>
-      <content:encoded>&lt;p&gt;Investors are no longer hedging against a tech stock crash.&lt;br&gt;&lt;br&gt;The average 1-month put-to-call skew of the Nasdaq 100 index is down to 0 points, its 4th-lowest reading over the last 20 years.&lt;br&gt;&lt;br&gt;This measures how much more investors are paying for downside protection through put options than for upside exposure through call options, with the current reading indicating historically low demand for Nasdaq put options.&lt;br&gt;&lt;br&gt;This figure has dropped -0.25 points since March 2026, one of the largest 6-month declines on record.&lt;br&gt;&lt;br&gt;By comparison, the long-term average of this metric is 0.11 points.&lt;br&gt;&lt;br&gt;Meanwhile, the cost of options used to bet on or protect against large moves in the average Nasdaq 100 stock fell sharply last week, with 1-month implied volatility dropping -17 percentage points, to ~40%.&lt;br&gt;&lt;br&gt;Investors are extremely bullish on tech.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSRNk42WwAAEOAq.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: GE VERNOVA SEES STRONGER GAS ORDERS AS TEXAS SMR PROJECT ADVANCES $GEV expects gas capacity additio...</title>
-      <link>https://x.com/wallstengine/status/2100247173900435600</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100247173900435600</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 15:35:21 GMT</pubDate>
-      <description>GE VERNOVA SEES STRONGER GAS ORDERS AS TEXAS SMR PROJECT ADVANCES
-
-$GEV expects gas capacity additions to grow about 50% by year-end, with second-half contract commitments now expected to exceed its 20GW guidance. Q4 commitments are also tracking above Q3 based on current trends.
-
-Separately, Blue Energy has filed the first part of an NRC construction permit for a BWRX-300 small modular reactor at the Port of Victoria, Texas.
-
-The planned site would combine GE Vernova’s BWRX-300 nuclear technology with its 7HA.02 gas turbines, giving $GEV exposure to both gas and nuclear generation at the same project.
-
-Blue Energy expects to submit the remaining permit application in 2027.</description>
-      <content:encoded>&lt;p&gt;GE VERNOVA SEES STRONGER GAS ORDERS AS TEXAS SMR PROJECT ADVANCES&lt;br&gt;&lt;br&gt;$GEV expects gas capacity additions to grow about 50% by year-end, with second-half contract commitments now expected to exceed its 20GW guidance. Q4 commitments are also tracking above Q3 based on current trends.&lt;br&gt;&lt;br&gt;Separately, Blue Energy has filed the first part of an NRC construction permit for a BWRX-300 small modular reactor at the Port of Victoria, Texas.&lt;br&gt;&lt;br&gt;The planned site would combine GE Vernova’s BWRX-300 nuclear technology with its 7HA.02 gas turbines, giving $GEV exposure to both gas and nuclear generation at the same project.&lt;br&gt;&lt;br&gt;Blue Energy expects to submit the remaining permit application in 2027.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWTqpUaQAAJa2R.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: EMXETF has launched a new actively managed ETF focused on China’s AI ecosystem, called the China AI...</title>
-      <link>https://x.com/wallstengine/status/2100246988730294616</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100246988730294616</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 15:34:37 GMT</pubDate>
-      <description>EMXETF has launched a new actively managed ETF focused on China’s AI ecosystem, called the China AI ETF $AICH
-
-The fund targets areas including semiconductors, memory, GPUs, optics, AI models and robotics, with top holdings including Hygon Information Technology, Zhongji Innolight, Montage Technology and Z. ai.
-
-You can check out the full fund and holdings here:
-https://emxetf.com/funds/aich/
-
-Disclosure: Sponsored by EMXETF. For informational purposes only, not financial advice.</description>
-      <content:encoded>&lt;p&gt;EMXETF has launched a new actively managed ETF focused on China’s AI ecosystem, called the China AI ETF $AICH&lt;br&gt;&lt;br&gt;The fund targets areas including semiconductors, memory, GPUs, optics, AI models and robotics, with top holdings including Hygon Information Technology, Zhongji Innolight, Montage Technology and Z. ai.&lt;br&gt;&lt;br&gt;You can check out the full fund and holdings here:&lt;br&gt;https://emxetf.com/funds/aich/&lt;br&gt;&lt;br&gt;Disclosure: Sponsored by EMXETF. For informational purposes only, not financial advice.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWTDc7a0AAxqvz.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: Heating Oil has surged +141.9% YTD</title>
-      <link>https://x.com/Hedgeye/status/2100241806348759450</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100241806348759450</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 15:14:01 GMT</pubDate>
-      <description>Heating Oil has surged +141.9% YTD</description>
-      <content:encoded>&lt;p&gt;Heating Oil has surged +141.9% YTD&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWOnRsWQAAjyHZ.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: The AI buildout, top down: Build cost: ~$3T Annual bill: ~$1T Profit to cover it: ~$40B Mike Taylor...</title>
-      <link>https://x.com/Hedgeye/status/2100240845505200604</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100240845505200604</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 15:10:12 GMT</pubDate>
-      <description>The AI buildout, top down:
-
-Build cost: ~$3T
-Annual bill: ~$1T
-Profit to cover it: ~$40B
-
-Mike Taylor laid it out in a Real Conversation with Keith McCullough.
-
-Full note 👇</description>
-      <content:encoded>&lt;p&gt;The AI buildout, top down:&lt;br&gt;&lt;br&gt;Build cost: ~$3T&lt;br&gt;Annual bill: ~$1T&lt;br&gt;Profit to cover it: ~$40B&lt;br&gt;&lt;br&gt;Mike Taylor laid it out in a Real Conversation with Keith McCullough.&lt;br&gt;&lt;br&gt;Full note 👇&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWMMPRXoAAUwWn.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@TrendSpider: Cipher Digital is surging today after receiving Conditional Base Load designations for two major da...</title>
-      <link>https://x.com/TrendSpider/status/2100240632094580885</link>
-      <guid isPermaLink="true">https://x.com/TrendSpider/status/2100240632094580885</guid>
-      <dc:creator>@TrendSpider</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 15:09:21 GMT</pubDate>
-      <description>Cipher Digital is surging today after receiving Conditional Base Load designations for two major data center projects in Texas ⚡️
-
-🟢 $CIFR +15%</description>
-      <content:encoded>&lt;p&gt;Cipher Digital is surging today after receiving Conditional Base Load designations for two major data center projects in Texas ⚡️&lt;br&gt;&lt;br&gt;🟢 $CIFR +15%&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWNr8yXgAAx0c0.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: Binance founder CZ says "every dip is an opportunity."</title>
-      <link>https://x.com/WatcherGuru/status/2100238015649968389</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2100238015649968389</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 14:58:58 GMT</pubDate>
-      <description>JUST IN: Binance founder CZ says "every dip is an opportunity."</description>
-      <content:encoded>&lt;p&gt;JUST IN: Binance founder CZ says &amp;quot;every dip is an opportunity.&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWLV7WWsAA40jC.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWLV7aWEAA8DBW.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: 🇺🇸 CFTC says it is ready to issue crypto rules despite the Senate failing to pass the Cl...</title>
-      <link>https://x.com/WatcherGuru/status/2100234015148048591</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2100234015148048591</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 14:43:04 GMT</pubDate>
-      <description>JUST IN: 🇺🇸 CFTC says it is ready to issue crypto rules despite the Senate failing to pass the Clarity Act.</description>
-      <content:encoded>&lt;p&gt;JUST IN: 🇺🇸 CFTC says it is ready to issue crypto rules despite the Senate failing to pass the Clarity Act.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: Tokenized asset adoption is at another record high. The total market cap of onchain tokenized stock...</title>
-      <link>https://x.com/KobeissiLetter/status/2100233998999998681</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100233998999998681</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 14:43:00 GMT</pubDate>
-      <description>Tokenized asset adoption is at another record high.
-
-The total market cap of onchain tokenized stocks hit a fresh record high of $2.9 billion in August.
-
-This marks another +12% month-over-month increase and a +262% increase year-to-date.
-
-We expect to see another record high in September as DEX volume has surged +19% over the last week.
-
-Furthermore, this surge in volume has come with a +30% increase in the numner of weekly onchain tokenized asset holders.
-
-Data from Jupiter, the largest onchain platform, shows +24% volume growth over the last month with 59% of that volume coming during weekends and off-hours.
-
-Tokenization remains the hottest trend in crypto.</description>
-      <content:encoded>&lt;p&gt;Tokenized asset adoption is at another record high.&lt;br&gt;&lt;br&gt;The total market cap of onchain tokenized stocks hit a fresh record high of $2.9 billion in August.&lt;br&gt;&lt;br&gt;This marks another +12% month-over-month increase and a +262% increase year-to-date.&lt;br&gt;&lt;br&gt;We expect to see another record high in September as DEX volume has surged +19% over the last week.&lt;br&gt;&lt;br&gt;Furthermore, this surge in volume has come with a +30% increase in the numner of weekly onchain tokenized asset holders.&lt;br&gt;&lt;br&gt;Data from Jupiter, the largest onchain platform, shows +24% volume growth over the last month with 59% of that volume coming during weekends and off-hours.&lt;br&gt;&lt;br&gt;Tokenization remains the hottest trend in crypto.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSV8Sm4WoAE5iil.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: U.S. homebuilder confidence fell to 32, the weakest since late 2022. 30-year mortgage rates are bac...</title>
-      <link>https://x.com/wallstengine/status/2100229118654836802</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100229118654836802</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 14:23:36 GMT</pubDate>
-      <description>U.S. homebuilder confidence fell to 32, the weakest since late 2022.
-
-30-year mortgage rates are back above 7%, near their highest in almost two years, while 38% of builders are cutting prices and 66% are offering buyer incentives.
-
-Housing inventory is at a 7-year high, and Redfin estimates there were 58% more sellers than buyers in August, the widest gap since it began tracking in 2013.
-
-Source: NAHB</description>
-      <content:encoded>&lt;p&gt;U.S. homebuilder confidence fell to 32, the weakest since late 2022.&lt;br&gt;&lt;br&gt;30-year mortgage rates are back above 7%, near their highest in almost two years, while 38% of builders are cutting prices and 66% are offering buyer incentives.&lt;br&gt;&lt;br&gt;Housing inventory is at a 7-year high, and Redfin estimates there were 58% more sellers than buyers in August, the widest gap since it began tracking in 2013.&lt;br&gt;&lt;br&gt;Source: NAHB&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWDPV_bQAAbgc_.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: Elon Musk's SpaceX $SPCX surges over 5% to $151</title>
-      <link>https://x.com/WatcherGuru/status/2100228858922279077</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2100228858922279077</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 14:22:34 GMT</pubDate>
-      <description>JUST IN: Elon Musk's SpaceX $SPCX surges over 5% to $151</description>
-      <content:encoded>&lt;p&gt;JUST IN: Elon Musk&amp;apos;s SpaceX $SPCX surges over 5% to $151&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSWDBAIW0AACOhA.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: BACKOPS RAISES $42M FOR AI PLATFORM AUTOMATING SUPPLY CHAIN OPERATIONS Raised a $42M Series B, just...</title>
-      <link>https://x.com/wallstengine/status/2100223210805457368</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100223210805457368</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 14:00:08 GMT</pubDate>
-      <description>BACKOPS RAISES $42M FOR AI PLATFORM AUTOMATING SUPPLY CHAIN OPERATIONS
-
-Raised a $42M Series B, just six months after its $26M Series A, as it expands its AI platform for companies that make and move physical goods.
-
-The company connects systems including ERPs, WMSs, TMSs, carrier portals, email and spreadsheets, using AI to gather context, make decisions and carry operational work through to resolution.
-
-Since its Series A, one customer has processed 500K+ claims through BackOps. As volume increased 150x, automated resolution improved from 87% to 99%.
-
-Another customer reduced a process that previously took an average of 28 hours to 14 minutes.
-
-BackOps says the longer-term opportunity is the proprietary operational data created from every decision, action and outcome across supply chains, which could improve as more companies and workflows join the network
-
-https://x.com/seanmcccarthy/status/2100220712317329826/video/1</description>
-      <content:encoded>&lt;p&gt;BACKOPS RAISES $42M FOR AI PLATFORM AUTOMATING SUPPLY CHAIN OPERATIONS&lt;br&gt;&lt;br&gt;Raised a $42M Series B, just six months after its $26M Series A, as it expands its AI platform for companies that make and move physical goods.&lt;br&gt;&lt;br&gt;The company connects systems including ERPs, WMSs, TMSs, carrier portals, email and spreadsheets, using AI to gather context, make decisions and carry operational work through to resolution.&lt;br&gt;&lt;br&gt;Since its Series A, one customer has processed 500K+ claims through BackOps. As volume increased 150x, automated resolution improved from 87% to 99%.&lt;br&gt;&lt;br&gt;Another customer reduced a process that previously took an average of 28 hours to 14 minutes.&lt;br&gt;&lt;br&gt;BackOps says the longer-term opportunity is the proprietary operational data created from every decision, action and outcome across supply chains, which could improve as more companies and workflows join the network&lt;br&gt;&lt;br&gt;https://x.com/seanmcccarthy/status/2100220712317329826/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2100200577246412800/img/dDH5oO7nz3YH3GEW.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: Since 2006, gross federal debt has increased nearly 5x, while GDP expanded by less than 2.5x.</title>
-      <link>https://x.com/Hedgeye/status/2100223020296028541</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100223020296028541</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:59:22 GMT</pubDate>
-      <description>Since 2006, gross federal debt has increased nearly 5x, while GDP expanded by less than 2.5x.</description>
-      <content:encoded>&lt;p&gt;Since 2006, gross federal debt has increased nearly 5x, while GDP expanded by less than 2.5x.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: BREAKING: Hedge funds purchased the most US Information Technology and Communication Services secto...</title>
-      <link>https://x.com/KobeissiLetter/status/2100220641748127768</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100220641748127768</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:49:55 GMT</pubDate>
-      <description>BREAKING: Hedge funds purchased the most US Information Technology and Communication Services sector equities over the 2 weeks ending September 10th since June 2025.
-
-The greatest demand was recorded in Semiconductor and Semiconductor Equipment, Interactive Media and Services, and Information Technology Services.
-
-This was driven particularly by long purchases, while shorting activity was subdued.
-
-As a result, both sectors were the most bought among all sectors for 2 consecutive weeks.
-
-Over the last 5 years, there were only 3% of instances when hedge fund purchases of US tech stocks over any 2-week period were larger, with most of them occurring during the 2022 bear market.
-
-Hedge funds are loading up on tech stocks.</description>
-      <content:encoded>&lt;p&gt;BREAKING: Hedge funds purchased the most US Information Technology and Communication Services sector equities over the 2 weeks ending September 10th since June 2025.&lt;br&gt;&lt;br&gt;The greatest demand was recorded in Semiconductor and Semiconductor Equipment, Interactive Media and Services, and Information Technology Services.&lt;br&gt;&lt;br&gt;This was driven particularly by long purchases, while shorting activity was subdued.&lt;br&gt;&lt;br&gt;As a result, both sectors were the most bought among all sectors for 2 consecutive weeks.&lt;br&gt;&lt;br&gt;Over the last 5 years, there were only 3% of instances when hedge fund purchases of US tech stocks over any 2-week period were larger, with most of them occurring during the 2022 bear market.&lt;br&gt;&lt;br&gt;Hedge funds are loading up on tech stocks.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSLgTLTasAAM8wh.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Amazon $AMZN is raising minimum starting pay for full-time U.S. operations roles by 5% to $20/hour....</title>
-      <link>https://x.com/wallstengine/status/2100220614137307163</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100220614137307163</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:49:49 GMT</pubDate>
-      <description>Amazon $AMZN is raising minimum starting pay for full-time U.S. operations roles by 5% to $20/hour.
-
-Avg total comp tops $32/hour incl. benefits.
-
-It’s also adding Day 1 Financial, a lifetime banking benefit, plus 10% off groceries online and 20% off at Whole Foods from Oct. 1.</description>
-      <content:encoded>&lt;p&gt;Amazon $AMZN is raising minimum starting pay for full-time U.S. operations roles by 5% to $20/hour.&lt;br&gt;&lt;br&gt;Avg total comp tops $32/hour incl. benefits.&lt;br&gt;&lt;br&gt;It’s also adding Day 1 Financial, a lifetime banking benefit, plus 10% off groceries online and 20% off at Whole Foods from Oct. 1.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSV7YTDbIAAiQca.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@TrendSpider: Step by step $AMD 👀</title>
-      <link>https://x.com/TrendSpider/status/2100219606178603262</link>
-      <guid isPermaLink="true">https://x.com/TrendSpider/status/2100219606178603262</guid>
-      <dc:creator>@TrendSpider</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:45:48 GMT</pubDate>
-      <description>Step by step $AMD 👀</description>
-      <content:encoded>&lt;p&gt;Step by step $AMD 👀&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSV5_w_XoAA5ggj.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Nvidia $NVDA, Google $GOOGL and Emerald AI are launching the AI Energy Management Alliance, or AEMA...</title>
-      <link>https://x.com/wallstengine/status/2100217045480861785</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100217045480861785</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:35:38 GMT</pubDate>
-      <description>Nvidia $NVDA, Google $GOOGL and Emerald AI are launching the AI Energy Management Alliance, or AEMA, to help AI data centers dynamically adjust electricity use based on grid conditions.</description>
-      <content:encoded>&lt;p&gt;Nvidia $NVDA, Google $GOOGL and Emerald AI are launching the AI Energy Management Alliance, or AEMA, to help AI data centers dynamically adjust electricity use based on grid conditions.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSV4PVLakAADR-F.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: Apple $AAPL is developing enterprise servers powered by its own chips.</title>
-      <link>https://x.com/WatcherGuru/status/2100215994937655475</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2100215994937655475</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:31:27 GMT</pubDate>
-      <description>JUST IN: Apple $AAPL is developing enterprise servers powered by its own chips.</description>
-      <content:encoded>&lt;p&gt;JUST IN: Apple $AAPL is developing enterprise servers powered by its own chips.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Paid advertisement for moomoo. Stock tickers mentioned are for illustrative purposes only, not reco...</title>
-      <link>https://x.com/wallstengine/status/2100212363630936365</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100212363630936365</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:17:02 GMT</pubDate>
-      <description>Paid advertisement for moomoo. Stock tickers mentioned are for illustrative purposes only, not recommendations to buy or sell any security.
-
-This advertisement is for informational and educational purposes only and is not investment advice or a recommendation to engage in any investment or financial strategy. Investing involves risk and the potential to lose principal.
-
-Securities are offered through Moomoo Financial Inc., Member FINRA/SIPC.
-
-Full disclosures: https://invest.us.moomoo.com/_disclosure</description>
-      <content:encoded>&lt;p&gt;Paid advertisement for moomoo. Stock tickers mentioned are for illustrative purposes only, not recommendations to buy or sell any security.&lt;br&gt;&lt;br&gt;This advertisement is for informational and educational purposes only and is not investment advice or a recommendation to engage in any investment or financial strategy. Investing involves risk and the potential to lose principal.&lt;br&gt;&lt;br&gt;Securities are offered through Moomoo Financial Inc., Member FINRA/SIPC.&lt;br&gt;&lt;br&gt;Full disclosures: https://invest.us.moomoo.com/_disclosure&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: BREAKING: Turkish stocks plunge -6%, triggering a market-wide circuit breaker.</title>
-      <link>https://x.com/Hedgeye/status/2100212081911844948</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100212081911844948</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:15:55 GMT</pubDate>
-      <description>BREAKING: Turkish stocks plunge -6%, triggering a market-wide circuit breaker.</description>
-      <content:encoded>&lt;p&gt;BREAKING: Turkish stocks plunge -6%, triggering a market-wide circuit breaker.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSVzuyZXwAAfISD.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Source: https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-...</title>
-      <link>https://x.com/wallstengine/status/2100209406801801612</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100209406801801612</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:05:17 GMT</pubDate>
-      <description>Source: https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech</description>
-      <content:encoded>&lt;p&gt;Source: https://www.theinformation.com/articles/apple-considers-return-server-market-talked-nvidia-use-network-tech&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: $AAPL WEIGHS RETURN TO SERVER MARKET WITH $NVDA TECH Apple is reportedly developing an AI-focused e...</title>
-      <link>https://x.com/wallstengine/status/2100209404272673052</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100209404272673052</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:05:16 GMT</pubDate>
-      <description>$AAPL WEIGHS RETURN TO SERVER MARKET WITH $NVDA TECH
-
-Apple is reportedly developing an AI-focused enterprise server using its own M-series chips and has discussed using Nvidia NVLink Fusion networking technology to connect them, according to The Information.
-
-The proposed systems would use either two or four M8 Ultra chips and target AI developers, enterprises and governments, with a focus on running AI inference on private infrastructure.
-
-The product is currently aimed for 2029, though plans could still change or be canceled.
-
-The move follows a surge in demand for Mac mini and Mac Studio systems from AI developers, with Mac revenue up nearly 29% last quarter to $10.4B.
-
-If launched, it would mark Apple’s return to the server market for the first time since discontinuing Xserve in 2011.
-
-Source: The Information</description>
-      <content:encoded>&lt;p&gt;$AAPL WEIGHS RETURN TO SERVER MARKET WITH $NVDA TECH&lt;br&gt;&lt;br&gt;Apple is reportedly developing an AI-focused enterprise server using its own M-series chips and has discussed using Nvidia NVLink Fusion networking technology to connect them, according to The Information.&lt;br&gt;&lt;br&gt;The proposed systems would use either two or four M8 Ultra chips and target AI developers, enterprises and governments, with a focus on running AI inference on private infrastructure.&lt;br&gt;&lt;br&gt;The product is currently aimed for 2029, though plans could still change or be canceled.&lt;br&gt;&lt;br&gt;The move follows a surge in demand for Mac mini and Mac Studio systems from AI developers, with Mac revenue up nearly 29% last quarter to $10.4B.&lt;br&gt;&lt;br&gt;If launched, it would mark Apple’s return to the server market for the first time since discontinuing Xserve in 2011.&lt;br&gt;&lt;br&gt;Source: The Information&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSVw_5jaYAEqOLW.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: ANTHROPIC FACES CALL TO DELAY PLANNED $2T IPO OVER AI SAFETY RISKS SOC Investment Group, which work...</title>
-      <link>https://x.com/wallstengine/status/2100208348402790544</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100208348402790544</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 13:01:04 GMT</pubDate>
-      <description>ANTHROPIC FACES CALL TO DELAY PLANNED $2T IPO OVER AI SAFETY RISKS
-
-SOC Investment Group, which works with union-sponsored pension funds, is urging Anthropic to postpone its planned IPO until rules around AI development and deployment become clearer.
-
-The group argues that recent safety concerns and calls to “pace” frontier AI development create new risks investors may not yet be able to properly assess.
-
-Anthropic confidentially filed for an IPO in June and is reportedly continuing preparations, including selecting Nasdaq as its listing venue.</description>
-      <content:encoded>&lt;p&gt;ANTHROPIC FACES CALL TO DELAY PLANNED $2T IPO OVER AI SAFETY RISKS&lt;br&gt;&lt;br&gt;SOC Investment Group, which works with union-sponsored pension funds, is urging Anthropic to postpone its planned IPO until rules around AI development and deployment become clearer.&lt;br&gt;&lt;br&gt;The group argues that recent safety concerns and calls to “pace” frontier AI development create new risks investors may not yet be able to properly assess.&lt;br&gt;&lt;br&gt;Anthropic confidentially filed for an IPO in June and is reportedly continuing preparations, including selecting Nasdaq as its listing venue.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSVwWrfaEAAr8a-.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: President Donald Trump made nearly 29,000 trades in 17 months, more than every member of Congress c...</title>
-      <link>https://x.com/Hedgeye/status/2100206579500851669</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100206579500851669</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 12:54:03 GMT</pubDate>
-      <description>President Donald Trump made nearly 29,000 trades in 17 months, more than every member of Congress combined, per Bloomberg.</description>
-      <content:encoded>&lt;p&gt;President Donald Trump made nearly 29,000 trades in 17 months, more than every member of Congress combined, per Bloomberg.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: It's officially Fed day. Markets now see a 93% chance that the Fed will announce its first rate hik...</title>
-      <link>https://x.com/KobeissiLetter/status/2100201534671987198</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100201534671987198</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Wed, 16 Sep 2026 12:34:00 GMT</pubDate>
-      <description>It's officially Fed day.
-
-Markets now see a 93% chance that the Fed will announce its first rate hike since July 2023 today.
-
-In data going back to 2008, whenever expectations of a hike have been this high, the Fed has invariably delivered one.
-
-If the Fed decided to leave interest rates unchanged today, it would mark the biggest dovish surprise at a scheduled policy meeting since 1994.
-
-However, it's a particularly unusual time right now.
-
-Fed Chair Warsh was appointed by President Trump just months ago with the expectation that he would CUT rates.
-
-Now, markets expect Warsh's first change to the Fed Funds Rate to be a hike.
-
-We expect a highly eventful day.
-
-Turn on our post notifications at @KobeissiLetter for real time analysis as the Fed decision is announced.</description>
-      <content:encoded>&lt;p&gt;It&amp;apos;s officially Fed day.&lt;br&gt;&lt;br&gt;Markets now see a 93% chance that the Fed will announce its first rate hike since July 2023 today.&lt;br&gt;&lt;br&gt;In data going back to 2008, whenever expectations of a hike have been this high, the Fed has invariably delivered one.&lt;br&gt;&lt;br&gt;If the Fed decided to leave interest rates unchanged today, it would mark the biggest dovish surprise at a scheduled policy meeting since 1994.&lt;br&gt;&lt;br&gt;However, it&amp;apos;s a particularly unusual time right now.&lt;br&gt;&lt;br&gt;Fed Chair Warsh was appointed by President Trump just months ago with the expectation that he would CUT rates.&lt;br&gt;&lt;br&gt;Now, markets expect Warsh&amp;apos;s first change to the Fed Funds Rate to be a hike.&lt;br&gt;&lt;br&gt;We expect a highly eventful day.&lt;br&gt;&lt;br&gt;Turn on our post notifications at @KobeissiLetter for real time analysis as the Fed decision is announced.&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
