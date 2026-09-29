@@ -4,7 +4,293 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Tue, 29 Sep 2026 18:30:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 19:00:29 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: President Trump said AI companies should largely self-regulate rather than face broad new federal r...</title>
+      <link>https://x.com/wallstengine/status/2105008106195538145</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2105008106195538145</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 18:53:36 GMT</pubDate>
+      <description>President Trump said AI companies should largely self-regulate rather than face broad new federal rules.
+
+Referring to the companies building data centers:
+
+“They love local communities. They love our country, and they’re going to work with local communities for the data centers in particular, and they’re going to work to make the community happy.”</description>
+      <content:encoded>&lt;p&gt;President Trump said AI companies should largely self-regulate rather than face broad new federal rules.&lt;br&gt;&lt;br&gt;Referring to the companies building data centers:&lt;br&gt;&lt;br&gt;“They love local communities. They love our country, and they’re going to work with local communities for the data centers in particular, and they’re going to work to make the community happy.”&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2105007164926709760/img/QzNfXRQzLEo_og-E.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: TRUMP ON AI: SELF-REGULATION IS VERY IMPORTANT</title>
+      <link>https://x.com/wallstengine/status/2105004154754347072</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2105004154754347072</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 18:37:54 GMT</pubDate>
+      <description>TRUMP ON AI: SELF-REGULATION IS VERY IMPORTANT</description>
+      <content:encoded>&lt;p&gt;TRUMP ON AI: SELF-REGULATION IS VERY IMPORTANT&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: FED GOOLSBEE: NOTHING IN THE FEDERAL RESERVE ACT SAYS MAKE SURE BOND MARKET IS HAPPY</title>
+      <link>https://x.com/wallstengine/status/2104991447246413845</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104991447246413845</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:47:24 GMT</pubDate>
+      <description>FED GOOLSBEE:
+
+NOTHING IN THE FEDERAL RESERVE ACT SAYS MAKE SURE BOND MARKET IS HAPPY</description>
+      <content:encoded>&lt;p&gt;FED GOOLSBEE:&lt;br&gt;&lt;br&gt;NOTHING IN THE FEDERAL RESERVE ACT SAYS MAKE SURE BOND MARKET IS HAPPY&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: OPENAI TARGETS $30 BILLION IN FUNDING AT $1.4 TRILLION VALUE: BBG</title>
+      <link>https://x.com/wallstengine/status/2104989020086518168</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104989020086518168</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:37:45 GMT</pubDate>
+      <description>OPENAI TARGETS $30 BILLION IN FUNDING AT $1.4 TRILLION VALUE: BBG</description>
+      <content:encoded>&lt;p&gt;OPENAI TARGETS $30 BILLION IN FUNDING AT $1.4 TRILLION VALUE: BBG&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: OPENAI DEV DAY 2026 RECAP: OpenAI just wrapped its biggest DevDay yet, with updates across ChatGPT,...</title>
+      <link>https://x.com/wallstengine/status/2104986892773282298</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104986892773282298</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:29:18 GMT</pubDate>
+      <description>OPENAI DEV DAY 2026 RECAP:
+
+OpenAI just wrapped its biggest DevDay yet, with updates across ChatGPT, agents, models, Codex, plugins and enterprise products.
+
+Here’s the full recap, roughly in order of what matters most:
+
+1. Dots: always-on AI agents
+
+This was probably the biggest product announcement.
+
+Dots are persistent agents inside ChatGPT that can take on ongoing responsibilities, keep working between conversations and use their own cloud computer.
+
+They can work across connected apps, run scheduled tasks and bring results back when they need your input.
+
+Available for Pro and Business Premium, with Enterprise, Edu and Healthcare beta access.
+
+2. GPT-6.1 Sol
+
+OpenAI launched GPT-6.1 Sol, a major upgrade to GPT-6 Sol focused on agentic coding, computer use and professional work.
+
+OpenAI says it delivers near-Astra intelligence at one-fifth of Astra’s standard input and output token pricing.
+
+Available across the API and ChatGPT plans including Plus, Pro, Business, Enterprise and Edu.
+
+3. GPT-6 Astra Ultrafast
+
+OpenAI introduced a premium speed tier for workloads where latency matters.
+
+Astra Ultrafast can generate up to 300 tokens/second in Codex, around 8x faster, and up to 6x faster through the API.
+
+GPT-6.1 Sol Ultrafast is coming next.
+
+4. ChatGPT is becoming a platform for developers
+
+OpenAI is opening more of the infrastructure it uses to build ChatGPT itself.
+
+Developers can now create Plugin Extensions with their own sidebar presence, interactive interfaces and custom file viewers directly inside ChatGPT.
+
+OpenAI is also improving plugin creation, submission, ranking and discovery.
+
+5. Agents API gets computer use
+
+The Agents API can now power agents that actually interact with software.
+
+It also brings in multi-agent capabilities, tool search, tool calling and context compaction, while OpenAI handles the underlying infrastructure.
+
+Amazon is also launching Bedrock Managed Agents powered by OpenAI, allowing these agents to run natively inside AWS.
+
+6. Codex can now work basically anywhere
+
+Codex can now run on your computer, remotely from your phone or entirely in the cloud.
+
+Reusable cloud development environments let teams give Codex shared setups, permissions and configurations without needing a developer’s laptop running.
+
+Codex also got:
+
+• A redesigned CLI with voice control and multi-agent task management
+• A new Code Review experience for GitHub and GitLab
+• Automatic cloud code reviews while you’re away
+• Codex Security Cloud for scanning repositories, investigating vulnerabilities and preparing fixes
+
+7. ChatGPT Space
+
+OpenAI introduced ChatGPT Space, a shared workspace where teams, ChatGPT and Dots can work together using the same knowledge.
+
+ChatGPT can organize the workspace based on team instructions, while people and agents can continue work from the same context.
+
+Available to Pro, Business and Enterprise users.
+
+8. Pages and collaborative Slides
+
+Pages are new collaborative documents built around humans and AI working together.
+
+Inside a Page, you can write, research, generate charts and images, visualize information and collaborate with other people.
+
+OpenAI is also adding collaborative Slides where multiple people and agents can edit the same deck simultaneously.
+
+Slides can be presented inside ChatGPT or exported to PowerPoint and Google Slides while preserving formatting.
+
+9. Teams can delegate work to ChatGPT
+
+Business and Enterprise users can now create teams and share Pages, Slides, plugins and spreadsheets.
+
+Teams can also delegate recurring work to ChatGPT, such as weekly project updates.
+
+Those tasks can run on a schedule or be triggered by events like a new email or Slack message.
+
+10. ChatGPT comes directly to Slack and Microsoft Teams
+
+Teams can mention @ChatGPT inside channels, threads or DMs.
+
+ChatGPT can use connected company tools and context to answer questions or help with work without everyone needing to move into a separate ChatGPT conversation.
+
+11. Plugins can now trigger automations
+
+OpenAI is adding support for MCP Events.
+
+That means a connected app can trigger ChatGPT automatically when something happens.
+
+Example: a new task appears on a project board, ChatGPT reads the related documents and drafts a plan without waiting for someone to manually ask.
+
+12. Sites can host plugins
+
+Plugins can now be embedded into Sites built with ChatGPT.
+
+Different teammates can use the same application with their own connected data and permissions, while automations can keep shared information updated.
+
+13. Decisions API
+
+OpenAI introduced a new API aimed at fast, structured decisions.
+
+Developers give Luna context plus a predefined set of possible answers, and the model chooses between them.
+
+Potential uses include classification, routing requests and deciding what an agent should do next.
+
+14. Private Intelligence
+
+OpenAI introduced new enterprise privacy infrastructure.
+
+Zero Data Retention with Private Safety Processing allows automated safety checks without OpenAI personnel accessing the underlying content.
+
+OpenAI is also previewing Private Inference, combining confidential computing with verifiable controls, coming this fall.
+
+15. Meetings plugin
+
+ChatGPT can now take meeting notes and save personalized summaries and action items directly into ChatGPT Space.
+
+Those notes can then feed into other work, like updating a project plan or drafting follow-ups.
+
+OpenAI says meeting audio is deleted after the notes are generated.
+
+16. Sign in with ChatGPT
+
+OpenAI is extending ChatGPT subscriptions beyond ChatGPT itself.
+
+Plus and Pro users can use their plan allowance across participating third-party tools.
+
+OpenAI says there are 16 launch partners, including Devin, Notion, Vercel, T3, OpenClaw and Dactyl.
+
+17. New Pro 500 plan
+
+OpenAI launched Pro 500, its highest-usage individual tier.
+
+It offers 25x the ChatGPT Plus usage allowance and includes access to Ultrafast.
+
+18. OpenAI Marketplace
+
+Enterprise customers will be able to apply part of their existing OpenAI commitment toward approved third-party software.
+
+The initial group includes 32 partners, including Adobe, Figma, Salesforce, ServiceNow, CrowdStrike, Palo Alto Networks, Harvey and others.
+
+19. Shareable profiles
+
+Businesses can create profiles showcasing Sites, plugins and other things they’ve built, making them easier for other people to discover and reuse.
+
+ChatGPT has now reached 1.2 billion weekly users.</description>
+      <content:encoded>&lt;p&gt;OPENAI DEV DAY 2026 RECAP:&lt;br&gt;&lt;br&gt;OpenAI just wrapped its biggest DevDay yet, with updates across ChatGPT, agents, models, Codex, plugins and enterprise products.&lt;br&gt;&lt;br&gt;Here’s the full recap, roughly in order of what matters most:&lt;br&gt;&lt;br&gt;1. Dots: always-on AI agents&lt;br&gt;&lt;br&gt;This was probably the biggest product announcement.&lt;br&gt;&lt;br&gt;Dots are persistent agents inside ChatGPT that can take on ongoing responsibilities, keep working between conversations and use their own cloud computer.&lt;br&gt;&lt;br&gt;They can work across connected apps, run scheduled tasks and bring results back when they need your input.&lt;br&gt;&lt;br&gt;Available for Pro and Business Premium, with Enterprise, Edu and Healthcare beta access.&lt;br&gt;&lt;br&gt;2. GPT-6.1 Sol&lt;br&gt;&lt;br&gt;OpenAI launched GPT-6.1 Sol, a major upgrade to GPT-6 Sol focused on agentic coding, computer use and professional work.&lt;br&gt;&lt;br&gt;OpenAI says it delivers near-Astra intelligence at one-fifth of Astra’s standard input and output token pricing.&lt;br&gt;&lt;br&gt;Available across the API and ChatGPT plans including Plus, Pro, Business, Enterprise and Edu.&lt;br&gt;&lt;br&gt;3. GPT-6 Astra Ultrafast&lt;br&gt;&lt;br&gt;OpenAI introduced a premium speed tier for workloads where latency matters.&lt;br&gt;&lt;br&gt;Astra Ultrafast can generate up to 300 tokens/second in Codex, around 8x faster, and up to 6x faster through the API.&lt;br&gt;&lt;br&gt;GPT-6.1 Sol Ultrafast is coming next.&lt;br&gt;&lt;br&gt;4. ChatGPT is becoming a platform for developers&lt;br&gt;&lt;br&gt;OpenAI is opening more of the infrastructure it uses to build ChatGPT itself.&lt;br&gt;&lt;br&gt;Developers can now create Plugin Extensions with their own sidebar presence, interactive interfaces and custom file viewers directly inside ChatGPT.&lt;br&gt;&lt;br&gt;OpenAI is also improving plugin creation, submission, ranking and discovery.&lt;br&gt;&lt;br&gt;5. Agents API gets computer use&lt;br&gt;&lt;br&gt;The Agents API can now power agents that actually interact with software.&lt;br&gt;&lt;br&gt;It also brings in multi-agent capabilities, tool search, tool calling and context compaction, while OpenAI handles the underlying infrastructure.&lt;br&gt;&lt;br&gt;Amazon is also launching Bedrock Managed Agents powered by OpenAI, allowing these agents to run natively inside AWS.&lt;br&gt;&lt;br&gt;6. Codex can now work basically anywhere&lt;br&gt;&lt;br&gt;Codex can now run on your computer, remotely from your phone or entirely in the cloud.&lt;br&gt;&lt;br&gt;Reusable cloud development environments let teams give Codex shared setups, permissions and configurations without needing a developer’s laptop running.&lt;br&gt;&lt;br&gt;Codex also got:&lt;br&gt;&lt;br&gt;• A redesigned CLI with voice control and multi-agent task management&lt;br&gt;• A new Code Review experience for GitHub and GitLab&lt;br&gt;• Automatic cloud code reviews while you’re away&lt;br&gt;• Codex Security Cloud for scanning repositories, investigating vulnerabilities and preparing fixes&lt;br&gt;&lt;br&gt;7. ChatGPT Space&lt;br&gt;&lt;br&gt;OpenAI introduced ChatGPT Space, a shared workspace where teams, ChatGPT and Dots can work together using the same knowledge.&lt;br&gt;&lt;br&gt;ChatGPT can organize the workspace based on team instructions, while people and agents can continue work from the same context.&lt;br&gt;&lt;br&gt;Available to Pro, Business and Enterprise users.&lt;br&gt;&lt;br&gt;8. Pages and collaborative Slides&lt;br&gt;&lt;br&gt;Pages are new collaborative documents built around humans and AI working together.&lt;br&gt;&lt;br&gt;Inside a Page, you can write, research, generate charts and images, visualize information and collaborate with other people.&lt;br&gt;&lt;br&gt;OpenAI is also adding collaborative Slides where multiple people and agents can edit the same deck simultaneously.&lt;br&gt;&lt;br&gt;Slides can be presented inside ChatGPT or exported to PowerPoint and Google Slides while preserving formatting.&lt;br&gt;&lt;br&gt;9. Teams can delegate work to ChatGPT&lt;br&gt;&lt;br&gt;Business and Enterprise users can now create teams and share Pages, Slides, plugins and spreadsheets.&lt;br&gt;&lt;br&gt;Teams can also delegate recurring work to ChatGPT, such as weekly project updates.&lt;br&gt;&lt;br&gt;Those tasks can run on a schedule or be triggered by events like a new email or Slack message.&lt;br&gt;&lt;br&gt;10. ChatGPT comes directly to Slack and Microsoft Teams&lt;br&gt;&lt;br&gt;Teams can mention @ChatGPT inside channels, threads or DMs.&lt;br&gt;&lt;br&gt;ChatGPT can use connected company tools and context to answer questions or help with work without everyone needing to move into a separate ChatGPT conversation.&lt;br&gt;&lt;br&gt;11. Plugins can now trigger automations&lt;br&gt;&lt;br&gt;OpenAI is adding support for MCP Events.&lt;br&gt;&lt;br&gt;That means a connected app can trigger ChatGPT automatically when something happens.&lt;br&gt;&lt;br&gt;Example: a new task appears on a project board, ChatGPT reads the related documents and drafts a plan without waiting for someone to manually ask.&lt;br&gt;&lt;br&gt;12. Sites can host plugins&lt;br&gt;&lt;br&gt;Plugins can now be embedded into Sites built with ChatGPT.&lt;br&gt;&lt;br&gt;Different teammates can use the same application with their own connected data and permissions, while automations can keep shared information updated.&lt;br&gt;&lt;br&gt;13. Decisions API&lt;br&gt;&lt;br&gt;OpenAI introduced a new API aimed at fast, structured decisions.&lt;br&gt;&lt;br&gt;Developers give Luna context plus a predefined set of possible answers, and the model chooses between them.&lt;br&gt;&lt;br&gt;Potential uses include classification, routing requests and deciding what an agent should do next.&lt;br&gt;&lt;br&gt;14. Private Intelligence&lt;br&gt;&lt;br&gt;OpenAI introduced new enterprise privacy infrastructure.&lt;br&gt;&lt;br&gt;Zero Data Retention with Private Safety Processing allows automated safety checks without OpenAI personnel accessing the underlying content.&lt;br&gt;&lt;br&gt;OpenAI is also previewing Private Inference, combining confidential computing with verifiable controls, coming this fall.&lt;br&gt;&lt;br&gt;15. Meetings plugin&lt;br&gt;&lt;br&gt;ChatGPT can now take meeting notes and save personalized summaries and action items directly into ChatGPT Space.&lt;br&gt;&lt;br&gt;Those notes can then feed into other work, like updating a project plan or drafting follow-ups.&lt;br&gt;&lt;br&gt;OpenAI says meeting audio is deleted after the notes are generated.&lt;br&gt;&lt;br&gt;16. Sign in with ChatGPT&lt;br&gt;&lt;br&gt;OpenAI is extending ChatGPT subscriptions beyond ChatGPT itself.&lt;br&gt;&lt;br&gt;Plus and Pro users can use their plan allowance across participating third-party tools.&lt;br&gt;&lt;br&gt;OpenAI says there are 16 launch partners, including Devin, Notion, Vercel, T3, OpenClaw and Dactyl.&lt;br&gt;&lt;br&gt;17. New Pro 500 plan&lt;br&gt;&lt;br&gt;OpenAI launched Pro 500, its highest-usage individual tier.&lt;br&gt;&lt;br&gt;It offers 25x the ChatGPT Plus usage allowance and includes access to Ultrafast.&lt;br&gt;&lt;br&gt;18. OpenAI Marketplace&lt;br&gt;&lt;br&gt;Enterprise customers will be able to apply part of their existing OpenAI commitment toward approved third-party software.&lt;br&gt;&lt;br&gt;The initial group includes 32 partners, including Adobe, Figma, Salesforce, ServiceNow, CrowdStrike, Palo Alto Networks, Harvey and others.&lt;br&gt;&lt;br&gt;19. Shareable profiles&lt;br&gt;&lt;br&gt;Businesses can create profiles showcasing Sites, plugins and other things they’ve built, making them easier for other people to discover and reuse.&lt;br&gt;&lt;br&gt;ChatGPT has now reached 1.2 billion weekly users.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZqaQMbAAAawls.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: OpenAI just launched a new $500/month ChatGPT Pro plan for heavy users. Called Pro 500: 25x usage o...</title>
+      <link>https://x.com/wallstengine/status/2104986201501622510</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104986201501622510</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:26:33 GMT</pubDate>
+      <description>OpenAI just launched a new $500/month ChatGPT Pro plan for heavy users.
+
+Called Pro 500: 25x usage of ChatGPT Plus and includes access to Ultrafast, No 5hr limit.
+
+Ultrafast can generate up to 300 tokens/sec in Codex, up to 8x faster than standard speeds.</description>
+      <content:encoded>&lt;p&gt;OpenAI just launched a new $500/month ChatGPT Pro plan for heavy users.&lt;br&gt;&lt;br&gt;Called Pro 500: 25x usage of ChatGPT Plus and includes access to Ultrafast, No 5hr limit.&lt;br&gt;&lt;br&gt;Ultrafast can generate up to 300 tokens/sec in Codex, up to 8x faster than standard speeds.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZpShXaQAALxPo.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Everything announced today by OpenAI: Dots ChatGPT Space GPT-6.1 Sol $500 Ultrafast Plan Private In...</title>
+      <link>https://x.com/wallstengine/status/2104985222299480077</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104985222299480077</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:22:40 GMT</pubDate>
+      <description>Everything announced today by OpenAI:
+
+Dots
+ChatGPT Space
+GPT-6.1 Sol
+$500 Ultrafast Plan
+Private Intelligence
+Codex in the cloud
+Refreshed Codex CLI
+Code Review
+Codex Security Cloud
+Decisions API
+Agents API with Computer use
+Bedrock Managed Agents, powered by OpenAI
+Plugin extensions
+Improved plugin creation, submission and discovery
+Sites can now host plugins
+MCP events for plugin automations
+Pages
+Collaborative slides
+Create teams and share tasks
+ChatGPT in Slack and Microsoft Teams
+Meetings plugin
+Shareable profiles
+Sign in with ChatGPT
+Pro 500
+OpenAI Marketplace</description>
+      <content:encoded>&lt;p&gt;Everything announced today by OpenAI:&lt;br&gt;&lt;br&gt;Dots&lt;br&gt;ChatGPT Space&lt;br&gt;GPT-6.1 Sol&lt;br&gt;$500 Ultrafast Plan&lt;br&gt;Private Intelligence&lt;br&gt;Codex in the cloud&lt;br&gt;Refreshed Codex CLI&lt;br&gt;Code Review&lt;br&gt;Codex Security Cloud&lt;br&gt;Decisions API&lt;br&gt;Agents API with Computer use&lt;br&gt;Bedrock Managed Agents, powered by OpenAI&lt;br&gt;Plugin extensions&lt;br&gt;Improved plugin creation, submission and discovery&lt;br&gt;Sites can now host plugins&lt;br&gt;MCP events for plugin automations&lt;br&gt;Pages&lt;br&gt;Collaborative slides&lt;br&gt;Create teams and share tasks&lt;br&gt;ChatGPT in Slack and Microsoft Teams&lt;br&gt;Meetings plugin&lt;br&gt;Shareable profiles&lt;br&gt;Sign in with ChatGPT&lt;br&gt;Pro 500&lt;br&gt;OpenAI Marketplace&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: OPENAI LAUNCHES DOTS, ALWAYS-ON AI AGENTS INSIDE CHATGPT OpenAI is rolling out Dots, a new type of...</title>
+      <link>https://x.com/wallstengine/status/2104982762554093591</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104982762554093591</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:12:53 GMT</pubDate>
+      <description>OPENAI LAUNCHES DOTS, ALWAYS-ON AI AGENTS INSIDE CHATGPT
+
+OpenAI is rolling out Dots, a new type of agent powered by GPT-6 Astra that can keep working for you in the background, even between conversations.
+
+Each Dot gets its own cloud computer and browser, can connect to thousands of apps, remember ongoing context, run scheduled tasks and bring results back for review.
+
+Users can also set rules around what the agent can do automatically versus what needs approval.
+
+OpenAI says Dots can research, review calendars, work across connected apps and continue making progress without needing a new prompt every time.
+
+Dots are starting to roll out to Pro users today, with Business Premium support and an Enterprise beta as well.
+
+OpenAI says usage won’t count against eligible plan allowances for the next month.
+
+Users start with a primary Dot, and OpenAI says the longer-term plan is to let people create entire teams of them.</description>
+      <content:encoded>&lt;p&gt;OPENAI LAUNCHES DOTS, ALWAYS-ON AI AGENTS INSIDE CHATGPT&lt;br&gt;&lt;br&gt;OpenAI is rolling out Dots, a new type of agent powered by GPT-6 Astra that can keep working for you in the background, even between conversations.&lt;br&gt;&lt;br&gt;Each Dot gets its own cloud computer and browser, can connect to thousands of apps, remember ongoing context, run scheduled tasks and bring results back for review.&lt;br&gt;&lt;br&gt;Users can also set rules around what the agent can do automatically versus what needs approval.&lt;br&gt;&lt;br&gt;OpenAI says Dots can research, review calendars, work across connected apps and continue making progress without needing a new prompt every time.&lt;br&gt;&lt;br&gt;Dots are starting to roll out to Pro users today, with Business Premium support and an Enterprise beta as well.&lt;br&gt;&lt;br&gt;OpenAI says usage won’t count against eligible plan allowances for the next month.&lt;br&gt;&lt;br&gt;Users start with a primary Dot, and OpenAI says the longer-term plan is to let people create entire teams of them.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2104982225448243200/img/nf5j8siHwrQp3W9-.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: ChatGPT has now reached 1.2 billion weekly users, while more than 2.5 million businesses are using...</title>
+      <link>https://x.com/wallstengine/status/2104981067551920473</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104981067551920473</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 17:06:09 GMT</pubDate>
+      <description>ChatGPT has now reached 1.2 billion weekly users, while more than 2.5 million businesses are using OpenAI products.</description>
+      <content:encoded>&lt;p&gt;ChatGPT has now reached 1.2 billion weekly users, while more than 2.5 million businesses are using OpenAI products.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZk3e8bgAArE_R.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@wallstengine: Anthropic could pay SpaceX up to $84.5 billion for NVIDIA-based computing capacity through 2029. Th...</title>
       <link>https://x.com/wallstengine/status/2104975521126003010</link>
@@ -13209,133 +13495,6 @@ Anthropic says frontier labs should regularly publish metrics like these as AI i
       <description>Microsoft is currently seeing its best relative performance vs the S&amp;P 500 in over a year 👀
 $MSFT</description>
       <content:encoded>&lt;p&gt;Microsoft is currently seeing its best relative performance vs the S&amp;amp;P 500 in over a year 👀&lt;br&gt;$MSFT&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HScinchXQAAPDzp.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: AI firms and the US government are competing for capital: US Treasury issuance excluding T-bills ha...</title>
-      <link>https://x.com/KobeissiLetter/status/2100679471745413273</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100679471745413273</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 20:13:09 GMT</pubDate>
-      <description>AI firms and the US government are competing for capital:
-
-US Treasury issuance excluding T-bills has risen to $5.06 trillion over the last 12 months, the highest since the 2021 record.
-
-Over the same period, corporate debt issuance has surged to a record $2.64 trillion.
-
-This brings total Treasury and corporate debt issuance up to $7.70 trillion, an all-time high.
-
-This is increasingly driven by AI-related firms, whose bond issuance has soared +541% YoY in 2025, to $109 billion, and another +78% in the first half of 2026, to a record $194 billion.
-
-In other words, corporate America is funding one of the largest investment cycles in decades while the US government is running historically high deficits, forcing both public and private borrowers to compete for capital.
-
-This competition is adding to other forces pushing long-term yields higher, including inflation, Fed policy, and economic growth expectations.
-
-The US bond market is entering an era of intense capital competition.</description>
-      <content:encoded>&lt;p&gt;AI firms and the US government are competing for capital:&lt;br&gt;&lt;br&gt;US Treasury issuance excluding T-bills has risen to $5.06 trillion over the last 12 months, the highest since the 2021 record.&lt;br&gt;&lt;br&gt;Over the same period, corporate debt issuance has surged to a record $2.64 trillion.&lt;br&gt;&lt;br&gt;This brings total Treasury and corporate debt issuance up to $7.70 trillion, an all-time high.&lt;br&gt;&lt;br&gt;This is increasingly driven by AI-related firms, whose bond issuance has soared +541% YoY in 2025, to $109 billion, and another +78% in the first half of 2026, to a record $194 billion.&lt;br&gt;&lt;br&gt;In other words, corporate America is funding one of the largest investment cycles in decades while the US government is running historically high deficits, forcing both public and private borrowers to compete for capital.&lt;br&gt;&lt;br&gt;This competition is adding to other forces pushing long-term yields higher, including inflation, Fed policy, and economic growth expectations.&lt;br&gt;&lt;br&gt;The US bond market is entering an era of intense capital competition.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSbMqiHW4AAtb8k.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: U.S. GOVERNMENT SITE USED ALIBABA’S QWEN MODEL FOR AI SEARCH, THEN REMOVED IT The Federal Register...</title>
-      <link>https://x.com/wallstengine/status/2100677555594653715</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100677555594653715</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 20:05:32 GMT</pubDate>
-      <description>U.S. GOVERNMENT SITE USED ALIBABA’S QWEN MODEL FOR AI SEARCH, THEN REMOVED IT
-
-The Federal Register website, run by the National Archives, had offered Qwen-powered search options for browsing public government documents before removing them Wednesday.
-
-The discovery came days after U.S. officials accused Alibaba of using large-scale illicit model distillation against Anthropic.
-
-Because Qwen is open-weight and the Federal Register content is public, experts cited by Reuters said the setup did not necessarily create an immediate security risk.
-
-Source: Reuters</description>
-      <content:encoded>&lt;p&gt;U.S. GOVERNMENT SITE USED ALIBABA’S QWEN MODEL FOR AI SEARCH, THEN REMOVED IT&lt;br&gt;&lt;br&gt;The Federal Register website, run by the National Archives, had offered Qwen-powered search options for browsing public government documents before removing them Wednesday.&lt;br&gt;&lt;br&gt;The discovery came days after U.S. officials accused Alibaba of using large-scale illicit model distillation against Anthropic.&lt;br&gt;&lt;br&gt;Because Qwen is open-weight and the Federal Register content is public, experts cited by Reuters said the setup did not necessarily create an immediate security risk.&lt;br&gt;&lt;br&gt;Source: Reuters&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HScalBJaMAAxmI0.png?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HScas3lbgAA8qyY.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: OPENAI HIRES SPACEX’S BRIAN MCCARTHY AS VP OF WORLDWIDE SALES OpenAI has hired Brian McCarthy to le...</title>
-      <link>https://x.com/wallstengine/status/2100671571820212646</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100671571820212646</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 19:41:45 GMT</pubDate>
-      <description>OPENAI HIRES SPACEX’S BRIAN MCCARTHY AS VP OF WORLDWIDE SALES
-
-OpenAI has hired Brian McCarthy to lead worldwide sales as it pushes to expand enterprise adoption globally.
-
-The role is newly created and McCarthy will work with chief revenue officer Dali Rajic to build out the sales organization and accelerate international growth.
-
-McCarthy joined SpaceX through its acquisition of Cursor and previously led global revenue and field operations there. He has also held senior enterprise sales roles at Rubrik, ThoughtSpot, AppDynamics and Qlik.
-
-The hire comes as OpenAI and Anthropic compete more aggressively for enterprise AI spending ahead of OpenAI’s expected IPO</description>
-      <content:encoded>&lt;p&gt;OPENAI HIRES SPACEX’S BRIAN MCCARTHY AS VP OF WORLDWIDE SALES&lt;br&gt;&lt;br&gt;OpenAI has hired Brian McCarthy to lead worldwide sales as it pushes to expand enterprise adoption globally.&lt;br&gt;&lt;br&gt;The role is newly created and McCarthy will work with chief revenue officer Dali Rajic to build out the sales organization and accelerate international growth.&lt;br&gt;&lt;br&gt;McCarthy joined SpaceX through its acquisition of Cursor and previously led global revenue and field operations there. He has also held senior enterprise sales roles at Rubrik, ThoughtSpot, AppDynamics and Qlik.&lt;br&gt;&lt;br&gt;The hire comes as OpenAI and Anthropic compete more aggressively for enterprise AI spending ahead of OpenAI’s expected IPO&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HScVpI7bYAA9ump.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HScVp9HagAAPn3m.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@TrendSpider: The Fed hiked. The market went higher anyway. But why? Sidekick broke down the move, then marked su...</title>
-      <link>https://x.com/TrendSpider/status/2100668612201574614</link>
-      <guid isPermaLink="true">https://x.com/TrendSpider/status/2100668612201574614</guid>
-      <dc:creator>@TrendSpider</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 19:30:00 GMT</pubDate>
-      <description>The Fed hiked. The market went higher anyway.
-
-But why?
-
-Sidekick broke down the move, then marked supply, support, and pivot levels directly on my $SPY chart.</description>
-      <content:encoded>&lt;p&gt;The Fed hiked. The market went higher anyway.&lt;br&gt;&lt;br&gt;But why?&lt;br&gt;&lt;br&gt;Sidekick broke down the move, then marked supply, support, and pivot levels directly on my $SPY chart.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HScJMdTXUAIKG_i.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: The correlation between crude oil and the US 10-year yield has hit a record high</title>
-      <link>https://x.com/Hedgeye/status/2100664585124745248</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100664585124745248</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 19:14:00 GMT</pubDate>
-      <description>The correlation between crude oil and the US 10-year yield has hit a record high</description>
-      <content:encoded>&lt;p&gt;The correlation between crude oil and the US 10-year yield has hit a record high&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSbYfcwXQAAmHj7.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: BREAKING: US median household income adjusted for inflation rose +$2,250 YoY in 2025, or +2.6%, to...</title>
-      <link>https://x.com/KobeissiLetter/status/2100661067877949893</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100661067877949893</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 19:00:01 GMT</pubDate>
-      <description>BREAKING: US median household income adjusted for inflation rose +$2,250 YoY in 2025, or +2.6%, to a record $87,460.
-
-This marks the 3rd consecutive annual increase, totaling +$6,000, or +7.4%.
-
-At the same time, the top 10% saw real income rise +$4,400 YoY, or +1.7%, to a record +$261,300.
-
-This comes as rising stock-market wealth and low unemployment more than offset persistent inflation throughout 2025.
-
-On the other hand, the bottom 10% posted a -$160 YoY decline, or -0.8%, to $20,010.
-
-Furthermore, females earned ~84% as much as their male counterparts last year, up from ~81% in 2024, marking the largest annual increase in the female-to-male earnings ratio in data going back to the early 1960s.
-
-Inflation is being partially offset by higher wages.</description>
-      <content:encoded>&lt;p&gt;BREAKING: US median household income adjusted for inflation rose +$2,250 YoY in 2025, or +2.6%, to a record $87,460.&lt;br&gt;&lt;br&gt;This marks the 3rd consecutive annual increase, totaling +$6,000, or +7.4%.&lt;br&gt;&lt;br&gt;At the same time, the top 10% saw real income rise +$4,400 YoY, or +1.7%, to a record +$261,300.&lt;br&gt;&lt;br&gt;This comes as rising stock-market wealth and low unemployment more than offset persistent inflation throughout 2025.&lt;br&gt;&lt;br&gt;On the other hand, the bottom 10% posted a -$160 YoY decline, or -0.8%, to $20,010.&lt;br&gt;&lt;br&gt;Furthermore, females earned ~84% as much as their male counterparts last year, up from ~81% in 2024, marking the largest annual increase in the female-to-male earnings ratio in data going back to the early 1960s.&lt;br&gt;&lt;br&gt;Inflation is being partially offset by higher wages.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSb0uExXIAArGt7.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: Gold reserves hits $5 trillion, overtaking U.S. Treasuries as the world's top reserve asset</title>
-      <link>https://x.com/Hedgeye/status/2100656028711027150</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100656028711027150</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 18:40:00 GMT</pubDate>
-      <description>Gold reserves hits $5 trillion, overtaking U.S. Treasuries as the world's top reserve asset</description>
-      <content:encoded>&lt;p&gt;Gold reserves hits $5 trillion, overtaking U.S. Treasuries as the world&amp;apos;s top reserve asset&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSbefdHXYAA0Xmo.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@TrendSpider: Wedge starting to crack open on $ONDS 👀</title>
-      <link>https://x.com/TrendSpider/status/2100654785447751973</link>
-      <guid isPermaLink="true">https://x.com/TrendSpider/status/2100654785447751973</guid>
-      <dc:creator>@TrendSpider</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 18:35:03 GMT</pubDate>
-      <description>Wedge starting to crack open on $ONDS 👀</description>
-      <content:encoded>&lt;p&gt;Wedge starting to crack open on $ONDS 👀&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HScGACGWgAA7P1G.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: 🇺🇸🇮🇷 US sanctions BitBank crypto exchange for supporting the Iranian government.</title>
-      <link>https://x.com/WatcherGuru/status/2100650347907723367</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2100650347907723367</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 18:17:25 GMT</pubDate>
-      <description>JUST IN: 🇺🇸🇮🇷 US sanctions BitBank crypto exchange for supporting the Iranian government.</description>
-      <content:encoded>&lt;p&gt;JUST IN: 🇺🇸🇮🇷 US sanctions BitBank crypto exchange for supporting the Iranian government.&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
