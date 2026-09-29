@@ -4,7 +4,107 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Tue, 29 Sep 2026 16:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:00:28 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: Anthropic could pay SpaceX up to $84.5 billion for NVIDIA-based computing capacity through 2029. Th...</title>
+      <link>https://x.com/wallstengine/status/2104975521126003010</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104975521126003010</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 16:44:07 GMT</pubDate>
+      <description>Anthropic could pay SpaceX up to $84.5 billion for NVIDIA-based computing capacity through 2029.
+
+That’s nearly double the roughly $45B in potential spending $SPCX had previously disclosed.
+
+Anthropic’s original agreement, announced in May, called for payments of about $1.25B per month and could run for 3 years.
+
+The newly disclosed agreements extend through 2029, though most can reportedly be canceled with 90 days’ notice.</description>
+      <content:encoded>&lt;p&gt;Anthropic could pay SpaceX up to $84.5 billion for NVIDIA-based computing capacity through 2029.&lt;br&gt;&lt;br&gt;That’s nearly double the roughly $45B in potential spending $SPCX had previously disclosed.&lt;br&gt;&lt;br&gt;Anthropic’s original agreement, announced in May, called for payments of about $1.25B per month and could run for 3 years.&lt;br&gt;&lt;br&gt;The newly disclosed agreements extend through 2029, though most can reportedly be canceled with 90 days’ notice.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZgEHFbsAIfzcT.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZgC8_boAAI2NM.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Co-Invest, Liquid’s AI trading assistant, is now live on Grok You can use it to research stocks and...</title>
+      <link>https://x.com/wallstengine/status/2104970731348234465</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104970731348234465</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 16:25:05 GMT</pubDate>
+      <description>Co-Invest, Liquid’s AI trading assistant, is now live on Grok
+
+You can use it to research stocks and trade directly through Grok
+
+It already has 10K+ users and has processed 5M+ AI tool calls</description>
+      <content:encoded>&lt;p&gt;Co-Invest, Liquid’s AI trading assistant, is now live on Grok&lt;br&gt;&lt;br&gt;You can use it to research stocks and trade directly through Grok&lt;br&gt;&lt;br&gt;It already has 10K+ users and has processed 5M+ AI tool calls&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2104956792526483456/img/Yd7Sh5DUpigglldp.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: GENERAL COMPUTE TO DEPLOY CEREBRAS CHIPS FOR AI INFERENCE General Compute is expanding its AI infra...</title>
+      <link>https://x.com/wallstengine/status/2104966241765257559</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104966241765257559</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 16:07:15 GMT</pubDate>
+      <description>GENERAL COMPUTE TO DEPLOY CEREBRAS CHIPS FOR AI INFERENCE
+
+General Compute is expanding its AI infrastructure with a new Cerebras deployment alongside NVIDIA GPUs, aimed at improving inference speed and economics.
+
+The company says it will use a disaggregated setup, with GPUs handling prefill and Cerebras systems handling inference.
+
+The idea is to use different types of compute for the parts of the workload where each performs best.
+
+General Compute recently raised $400M in debt to help finance alternative AI hardware deployments, including Cerebras systems.
+
+General Compute says its first Cerebras-powered tokens are expected to go live in Q1 2027.</description>
+      <content:encoded>&lt;p&gt;GENERAL COMPUTE TO DEPLOY CEREBRAS CHIPS FOR AI INFERENCE&lt;br&gt;&lt;br&gt;General Compute is expanding its AI infrastructure with a new Cerebras deployment alongside NVIDIA GPUs, aimed at improving inference speed and economics.&lt;br&gt;&lt;br&gt;The company says it will use a disaggregated setup, with GPUs handling prefill and Cerebras systems handling inference.&lt;br&gt;&lt;br&gt;The idea is to use different types of compute for the parts of the workload where each performs best.&lt;br&gt;&lt;br&gt;General Compute recently raised $400M in debt to help finance alternative AI hardware deployments, including Cerebras systems.&lt;br&gt;&lt;br&gt;General Compute says its first Cerebras-powered tokens are expected to go live in Q1 2027.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZXkHMbIAA52bA.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: INSTACLOUD RAISES $8M TO BUILD CLOUD INFRA FOR AI AGENTS InstaCloud is building an agent-native ser...</title>
+      <link>https://x.com/wallstengine/status/2104963160511766649</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104963160511766649</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 15:55:00 GMT</pubDate>
+      <description>INSTACLOUD RAISES $8M TO BUILD CLOUD INFRA FOR AI AGENTS
+
+InstaCloud is building an agent-native serverless cloud aimed at removing the DevOps work that still comes after AI agents write code.
+
+So if an agent builds an app, it can deploy directly to InstaCloud without developers manually provisioning or managing infrastructure.
+
+Its serverless compute scales automatically with traffic and can scale down to zero when idle, so customers only pay for the compute they actually use.
+
+InstaCloud also lets agents create full replica environments, including data, in seconds to test changes safely before touching production.
+
+The platform can host full applications, AI agents like Claude Code and Codex, and tools like n8n and Grafana, with integrations through MCP and CLI.
+
+https://x.com/hanghuang_/status/2104949571789148416/video/1</description>
+      <content:encoded>&lt;p&gt;INSTACLOUD RAISES $8M TO BUILD CLOUD INFRA FOR AI AGENTS&lt;br&gt;&lt;br&gt;InstaCloud is building an agent-native serverless cloud aimed at removing the DevOps work that still comes after AI agents write code.&lt;br&gt;&lt;br&gt;So if an agent builds an app, it can deploy directly to InstaCloud without developers manually provisioning or managing infrastructure.&lt;br&gt;&lt;br&gt;Its serverless compute scales automatically with traffic and can scale down to zero when idle, so customers only pay for the compute they actually use.&lt;br&gt;&lt;br&gt;InstaCloud also lets agents create full replica environments, including data, in seconds to test changes safely before touching production.&lt;br&gt;&lt;br&gt;The platform can host full applications, AI agents like Claude Code and Codex, and tools like n8n and Grafana, with integrations through MCP and CLI.&lt;br&gt;&lt;br&gt;https://x.com/hanghuang_/status/2104949571789148416/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2104840456416727040/img/LemrpTfnJTDqnah4.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: US OFFERS UP TO 40 MILLION BARRELS FROM STRATEGIC OIL RESERVE</title>
+      <link>https://x.com/wallstengine/status/2104961866304991457</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104961866304991457</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 15:49:51 GMT</pubDate>
+      <description>US OFFERS UP TO 40 MILLION BARRELS FROM STRATEGIC OIL RESERVE</description>
+      <content:encoded>&lt;p&gt;US OFFERS UP TO 40 MILLION BARRELS FROM STRATEGIC OIL RESERVE&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: APPLE’S NEW CEO WEIGHS YEAR-ROUND PRODUCT LAUNCHES, CUTS MANAGEMENT ROLES $AAPL CEO John Ternus is...</title>
+      <link>https://x.com/wallstengine/status/2104956978007310674</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104956978007310674</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 15:30:26 GMT</pubDate>
+      <description>APPLE’S NEW CEO WEIGHS YEAR-ROUND PRODUCT LAUNCHES, CUTS MANAGEMENT ROLES
+
+$AAPL CEO John Ternus is moving quickly to reshape the company just weeks into the job, with plans to speed up product development, reduce management layers and make Apple more engineering-focused, according to Bloomberg.
+
+Apple is considering moving away from its traditional spring and fall launch schedule and introducing products more frequently throughout the year.
+
+The hardware engineering group has already started cutting engineering program manager roles, including several senior directors, as Ternus pushes for fewer layers between engineers and leadership.
+
+Apple also explored using AI to automate more customer support work and potentially cut around 5,000 AppleCare positions, though that plan was ultimately put on hold.
+
+At the same time, Apple has a major product pipeline planned for next year, including camera-equipped AirPods, its first smart glasses and a redesigned 20th-anniversary iPhone.
+
+The broader push is pretty straightforward: ship products faster, operate with fewer layers and find new sources of growth as Services growth slows.
+
+Source: Bloomberg</description>
+      <content:encoded>&lt;p&gt;APPLE’S NEW CEO WEIGHS YEAR-ROUND PRODUCT LAUNCHES, CUTS MANAGEMENT ROLES&lt;br&gt;&lt;br&gt;$AAPL CEO John Ternus is moving quickly to reshape the company just weeks into the job, with plans to speed up product development, reduce management layers and make Apple more engineering-focused, according to Bloomberg.&lt;br&gt;&lt;br&gt;Apple is considering moving away from its traditional spring and fall launch schedule and introducing products more frequently throughout the year.&lt;br&gt;&lt;br&gt;The hardware engineering group has already started cutting engineering program manager roles, including several senior directors, as Ternus pushes for fewer layers between engineers and leadership.&lt;br&gt;&lt;br&gt;Apple also explored using AI to automate more customer support work and potentially cut around 5,000 AppleCare positions, though that plan was ultimately put on hold.&lt;br&gt;&lt;br&gt;At the same time, Apple has a major product pipeline planned for next year, including camera-equipped AirPods, its first smart glasses and a redesigned 20th-anniversary iPhone.&lt;br&gt;&lt;br&gt;The broader push is pretty straightforward: ship products faster, operate with fewer layers and find new sources of growth as Services growth slows.&lt;br&gt;&lt;br&gt;Source: Bloomberg&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZPNLRbEAAbGHe.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@KobeissiLetter: BREAKING: The US 30Y Note Yield rises above 5.60% for the first time since June 2002. That’s anothe...</title>
       <link>https://x.com/KobeissiLetter/status/2104955930983145583</link>
@@ -17,6 +117,21 @@ That’s another +36 basis points this month alone.
 
 8% mortgages will arrive next week.</description>
       <content:encoded>&lt;p&gt;BREAKING: The US 30Y Note Yield rises above 5.60% for the first time since June 2002.&lt;br&gt;&lt;br&gt;That’s another +36 basis points this month alone.&lt;br&gt;&lt;br&gt;8% mortgages will arrive next week.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTZOQtKW8AAsDNZ.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: SeatGeek is a major ticketing platform, and its IT team was still handling roughly 7,000 help-desk...</title>
+      <link>https://x.com/wallstengine/status/2104955108702523507</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104955108702523507</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 15:23:00 GMT</pubDate>
+      <description>SeatGeek is a major ticketing platform, and its IT team was still handling roughly 7,000 help-desk tickets a year.
+
+Using Serval, it automated 50% of those IT requests in just 60 days and built 132 automations in 8 weeks.
+
+And they didn’t cut the team.
+
+Instead, engineers were redeployed to work on harder, higher-value problems across the business.</description>
+      <content:encoded>&lt;p&gt;SeatGeek is a major ticketing platform, and its IT team was still handling roughly 7,000 help-desk tickets a year.&lt;br&gt;&lt;br&gt;Using Serval, it automated 50% of those IT requests in just 60 days and built 132 automations in 8 weeks.&lt;br&gt;&lt;br&gt;And they didn’t cut the team.&lt;br&gt;&lt;br&gt;Instead, engineers were redeployed to work on harder, higher-value problems across the business.&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@WatcherGuru: Source: https://status.claude.com/</title>
@@ -56,6 +171,31 @@ In 2019, the same budget bought a vehicle less than 5 years old with ~58,000 mil
 
 Even used car ownership is becoming a luxury.</description>
       <content:encoded>&lt;p&gt;America’s car affordability crisis is getting worse.&lt;br&gt;&lt;br&gt;The average price paid for a 3-year-old vehicle in the US surged to a record $32,461 in Q2 2026.&lt;br&gt;&lt;br&gt;This officially surpasses the previous record of $31,628 set in 2022.&lt;br&gt;&lt;br&gt;Since 2020, the average price of a 3-year-old vehicle has soared +$9,701, or +43%.&lt;br&gt;&lt;br&gt;The squeeze is becoming even more visible at the lower end of the market, where a $10,000 to $15,000 budget now buys a vehicle averaging nearly 9 years old with ~98,000 miles.&lt;br&gt;&lt;br&gt;In 2019, the same budget bought a vehicle less than 5 years old with ~58,000 miles.&lt;br&gt;&lt;br&gt;Even used car ownership is becoming a luxury.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTPZmsgWcAAwMdU.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: TRUMP LAUNCHES AI-POWERED http://AMERICA.GOV President Trump launched http://America.gov as a singl...</title>
+      <link>https://x.com/wallstengine/status/2104947723149668480</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2104947723149668480</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 29 Sep 2026 14:53:39 GMT</pubDate>
+      <description>TRUMP LAUNCHES AI-POWERED http://AMERICA.GOV
+
+President Trump launched http://America.gov as a single entry point for federal services, with Google’s Gemini and Grok powering the AI experience.
+
+Instead of figuring out which agency or website to visit, users can simply describe what they need, from Medicare eligibility and passport help to Social Security, veterans’ care, federal jobs and business registration.
+
+The platform pulls answers only from official government sources and is designed to bring information currently spread across roughly 29,000 government websites into one place.
+
+The initial version focuses on answering questions and directing users to the right services.
+
+Later this year, passport renewal and Medicare enrollment are expected to be added directly to the site.
+
+The broader plan goes further.
+
+In 2027, http://America.gov is expected to let users complete forms, track applications, update information across agencies and handle more government services without jumping between separate websites.
+
+It’s basically an attempt to turn thousands of government websites into one AI-powered interface for interacting with the government.</description>
+      <content:encoded>&lt;p&gt;TRUMP LAUNCHES AI-POWERED http://AMERICA.GOV&lt;br&gt;&lt;br&gt;President Trump launched http://America.gov as a single entry point for federal services, with Google’s Gemini and Grok powering the AI experience.&lt;br&gt;&lt;br&gt;Instead of figuring out which agency or website to visit, users can simply describe what they need, from Medicare eligibility and passport help to Social Security, veterans’ care, federal jobs and business registration.&lt;br&gt;&lt;br&gt;The platform pulls answers only from official government sources and is designed to bring information currently spread across roughly 29,000 government websites into one place.&lt;br&gt;&lt;br&gt;The initial version focuses on answering questions and directing users to the right services.&lt;br&gt;&lt;br&gt;Later this year, passport renewal and Medicare enrollment are expected to be added directly to the site.&lt;br&gt;&lt;br&gt;The broader plan goes further.&lt;br&gt;&lt;br&gt;In 2027, http://America.gov is expected to let users complete forms, track applications, update information across agencies and handle more government services without jumping between separate websites.&lt;br&gt;&lt;br&gt;It’s basically an attempt to turn thousands of government websites into one AI-powered interface for interacting with the government.&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@WatcherGuru: JUST IN: Anthropic's Claude AI is currently down for many users worldwide.</title>
@@ -13196,113 +13336,6 @@ Inflation is being partially offset by higher wages.</description>
       <pubDate>Thu, 17 Sep 2026 18:17:25 GMT</pubDate>
       <description>JUST IN: 🇺🇸🇮🇷 US sanctions BitBank crypto exchange for supporting the Iranian government.</description>
       <content:encoded>&lt;p&gt;JUST IN: 🇺🇸🇮🇷 US sanctions BitBank crypto exchange for supporting the Iranian government.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Muse invite codes if you need a billion tokens: 8F9YVE ACUWUJ</title>
-      <link>https://x.com/wallstengine/status/2100647979980038551</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100647979980038551</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 18:08:01 GMT</pubDate>
-      <description>Muse invite codes if you need a billion tokens:
-
-8F9YVE
-ACUWUJ</description>
-      <content:encoded>&lt;p&gt;Muse invite codes if you need a billion tokens:&lt;br&gt;&lt;br&gt;8F9YVE&lt;br&gt;ACUWUJ&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: China’s official gold holdings hit 9% of total reserves.</title>
-      <link>https://x.com/Hedgeye/status/2100646969320563068</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100646969320563068</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 18:04:00 GMT</pubDate>
-      <description>China’s official gold holdings hit 9% of total reserves.</description>
-      <content:encoded>&lt;p&gt;China’s official gold holdings hit 9% of total reserves.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSbelHkWwAAEg86.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: JPMorgan says Bitcoin could outperform gold.</title>
-      <link>https://x.com/WatcherGuru/status/2100646560996413527</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2100646560996413527</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 18:02:22 GMT</pubDate>
-      <description>JUST IN: JPMorgan says Bitcoin could outperform gold.</description>
-      <content:encoded>&lt;p&gt;JUST IN: JPMorgan says Bitcoin could outperform gold.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSb-6i8WEAAxckv.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSb-6i4XsAEtWch.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: The AI trade is undergoing a massive reversal: The AI Beneficiaries Index relative to the AI At Ris...</title>
-      <link>https://x.com/KobeissiLetter/status/2100645967607538104</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2100645967607538104</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 18:00:01 GMT</pubDate>
-      <description>The AI trade is undergoing a massive reversal:
-
-The AI Beneficiaries Index relative to the AI At Risk Index has fallen -46% from its late 2025 peak to near its lowest since early 2025.
-
-AI Beneficiaries include semiconductors, tech hardware, and capital-goods companies involved in AI infrastructure such as Nvidia, $NVDA, AMD, $AMD, Microsoft, $MSFT, and Broadcom, $AVGO.
-
-At the same time, AI At Risk includes software and commercial-services companies such as Adobe, $ADBE, Salesforce, $CRM, and ServiceNow, $NOW.
-
-In other words, companies previously expected to benefit from AI have seen the largest drawdown on record relative to companies considered vulnerable to AI disruption.
-
-This comes as investors are increasingly looking beyond AI CapEx and infrastructure, focusing on whether companies can generate tangible benefits from AI, including productivity gains and revenue growth.
-
-This shift also helps explain the turnaround in software stocks, as the group has gone from being viewed as AI's biggest casualty to increasingly being seen as an AI beneficiary itself.
-
-The market is reassessing the winners and losers of AI.</description>
-      <content:encoded>&lt;p&gt;The AI trade is undergoing a massive reversal:&lt;br&gt;&lt;br&gt;The AI Beneficiaries Index relative to the AI At Risk Index has fallen -46% from its late 2025 peak to near its lowest since early 2025.&lt;br&gt;&lt;br&gt;AI Beneficiaries include semiconductors, tech hardware, and capital-goods companies involved in AI infrastructure such as Nvidia, $NVDA, AMD, $AMD, Microsoft, $MSFT, and Broadcom, $AVGO.&lt;br&gt;&lt;br&gt;At the same time, AI At Risk includes software and commercial-services companies such as Adobe, $ADBE, Salesforce, $CRM, and ServiceNow, $NOW.&lt;br&gt;&lt;br&gt;In other words, companies previously expected to benefit from AI have seen the largest drawdown on record relative to companies considered vulnerable to AI disruption.&lt;br&gt;&lt;br&gt;This comes as investors are increasingly looking beyond AI CapEx and infrastructure, focusing on whether companies can generate tangible benefits from AI, including productivity gains and revenue growth.&lt;br&gt;&lt;br&gt;This shift also helps explain the turnaround in software stocks, as the group has gone from being viewed as AI&amp;apos;s biggest casualty to increasingly being seen as an AI beneficiary itself.&lt;br&gt;&lt;br&gt;The market is reassessing the winners and losers of AI.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSb0pDiW4AA1JDB.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: $TSEM +9% Tower Semiconductor and NewPhotonics have begun high-volume shipments of laser-integrated...</title>
-      <link>https://x.com/wallstengine/status/2100644056842047512</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2100644056842047512</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 17:52:25 GMT</pubDate>
-      <description>$TSEM +9%
-
-Tower Semiconductor and NewPhotonics have begun high-volume shipments of laser-integrated optical engine chips for AI data center connectivity.
-
-The chips support 800G to 1.6T today, with 6.4T near-packaged optics planned for future volume production.</description>
-      <content:encoded>&lt;p&gt;$TSEM +9%&lt;br&gt;&lt;br&gt;Tower Semiconductor and NewPhotonics have begun high-volume shipments of laser-integrated optical engine chips for AI data center connectivity.&lt;br&gt;&lt;br&gt;The chips support 800G to 1.6T today, with 6.4T near-packaged optics planned for future volume production.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSb8npMaoAAeb-U.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: 🇺🇸 US federal interest payments have soared to a record $1.2 trillion a year, roughly triple the...</title>
-      <link>https://x.com/Hedgeye/status/2100641684191113437</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100641684191113437</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 17:43:00 GMT</pubDate>
-      <description>🇺🇸 US federal interest payments have soared to a record $1.2 trillion a year, roughly triple the level of the mid-2010s</description>
-      <content:encoded>&lt;p&gt;🇺🇸 US federal interest payments have soared to a record $1.2 trillion a year, roughly triple the level of the mid-2010s&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSbexkEWUAEruKj.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: McCullough: The Fed Is Tightening Into a Slowdown 🔊 On Thursday's edition of The Macro Show, Hedge...</title>
-      <link>https://x.com/Hedgeye/status/2100639922709540924</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2100639922709540924</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 17:36:00 GMT</pubDate>
-      <description>McCullough: The Fed Is Tightening Into a Slowdown
-
-🔊
-
-On Thursday's edition of The Macro Show, Hedgeye CEO @KeithMcCullough explained why falling long-end bond yields are a warning for stocks rather than a green light.
-
-When the crowd sees bond yields fall and rushes to buy equities, McCullough argued, it's missing what those falling yields signal.
-
-The long end coming down means the market is telling you the US is past the critical peak of growth.
-
-Third-quarter GDP, likely around 4%, is the sequential high, and on Wall Street's read it gets cut roughly in half from here.
-
-"That means that the fed is tightening in to a slowdown."
-
-Subscribe to The Macro Show for daily macro insights you won't find anywhere else: https://accounts.hedgeye.com/products/macro-show/764!779</description>
-      <content:encoded>&lt;p&gt;McCullough: The Fed Is Tightening Into a Slowdown&lt;br&gt;&lt;br&gt;🔊&lt;br&gt;&lt;br&gt;On Thursday&amp;apos;s edition of The Macro Show, Hedgeye CEO @KeithMcCullough explained why falling long-end bond yields are a warning for stocks rather than a green light.&lt;br&gt;&lt;br&gt;When the crowd sees bond yields fall and rushes to buy equities, McCullough argued, it&amp;apos;s missing what those falling yields signal.&lt;br&gt;&lt;br&gt;The long end coming down means the market is telling you the US is past the critical peak of growth.&lt;br&gt;&lt;br&gt;Third-quarter GDP, likely around 4%, is the sequential high, and on Wall Street&amp;apos;s read it gets cut roughly in half from here.&lt;br&gt;&lt;br&gt;&amp;quot;That means that the fed is tightening in to a slowdown.&amp;quot;&lt;br&gt;&lt;br&gt;Subscribe to The Macro Show for daily macro insights you won&amp;apos;t find anywhere else: https://accounts.hedgeye.com/products/macro-show/764!779&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2100624553009430528/img/oMynf0EdNR6VHS3f.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@TrendSpider: $OKLO pushing off the bullish RSI divergence 👀</title>
-      <link>https://x.com/TrendSpider/status/2100639194972303439</link>
-      <guid isPermaLink="true">https://x.com/TrendSpider/status/2100639194972303439</guid>
-      <dc:creator>@TrendSpider</dc:creator>
-      <pubDate>Thu, 17 Sep 2026 17:33:06 GMT</pubDate>
-      <description>$OKLO pushing off the bullish RSI divergence 👀</description>
-      <content:encoded>&lt;p&gt;$OKLO pushing off the bullish RSI divergence 👀&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HSb4KgTW8AAiWes.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
