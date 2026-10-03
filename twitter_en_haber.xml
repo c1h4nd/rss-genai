@@ -4,7 +4,42 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Sat, 03 Oct 2026 13:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:00:28 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: JPMorgan sees memory supply remaining tight through 2028, with customer order discussions already e...</title>
+      <link>https://x.com/wallstengine/status/2106377353018626530</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2106377353018626530</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 13:34:30 GMT</pubDate>
+      <description>JPMorgan sees memory supply remaining tight through 2028, with customer order discussions already extending into 2031.
+
+Its estimates point to:
+
+• HBM bit demand growth: +63%
+• Non-HBM server DRAM: +37%
+• CY27 HBM blended ASP: +54% YoY
+
+JPM also believes Micron’s &gt;35% revenue coverage under long-term supply agreements through 2030 could prove conservative, noting Asian memory peers have LTAs covering 50%+ of capacity.</description>
+      <content:encoded>&lt;p&gt;JPMorgan sees memory supply remaining tight through 2028, with customer order discussions already extending into 2031.&lt;br&gt;&lt;br&gt;Its estimates point to:&lt;br&gt;&lt;br&gt;• HBM bit demand growth: +63%&lt;br&gt;• Non-HBM server DRAM: +37%&lt;br&gt;• CY27 HBM blended ASP: +54% YoY&lt;br&gt;&lt;br&gt;JPM also believes Micron’s &amp;gt;35% revenue coverage under long-term supply agreements through 2030 could prove conservative, noting Asian memory peers have LTAs covering 50%+ of capacity.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Trump reiterated his pledge to send $5,000 to every adult U.S. citizen if Republicans retain both t...</title>
+      <link>https://x.com/wallstengine/status/2106374562241978575</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2106374562241978575</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 13:23:24 GMT</pubDate>
+      <description>Trump reiterated his pledge to send $5,000 to every adult U.S. citizen if Republicans retain both the House and Senate in November.</description>
+      <content:encoded>&lt;p&gt;Trump reiterated his pledge to send $5,000 to every adult U.S. citizen if Republicans retain both the House and Senate in November.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2106374490980843520/img/J4A-GjKCOl8maBy1.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: Elon Musk confirms TSMC and Terafab are in talks over potential chip manufacturing cooperation in T...</title>
+      <link>https://x.com/wallstengine/status/2106339202619322830</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2106339202619322830</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 11:02:54 GMT</pubDate>
+      <description>Elon Musk confirms TSMC and Terafab are in talks over potential chip manufacturing cooperation in Texas, including TSMC potentially using Terafab as an anchor customer for a future Texas fab.</description>
+      <content:encoded>&lt;p&gt;Elon Musk confirms TSMC and Terafab are in talks over potential chip manufacturing cooperation in Texas, including TSMC potentially using Terafab as an anchor customer for a future Texas fab.&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@TrendSpider: Stop eyeballing whether a stock is in a real uptrend. Add the full Minervini trend template to your...</title>
       <link>https://x.com/TrendSpider/status/2106217680734929099</link>
@@ -35,6 +70,33 @@ https://trendspider.cc/MinerviniCollection</description>
       <pubDate>Sat, 03 Oct 2026 01:00:02 GMT</pubDate>
       <description>$QQQ taking the lid off 👀</description>
       <content:encoded>&lt;p&gt;$QQQ taking the lid off 👀&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTqHSzfXAAAkO-O.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@hassaanraza: Yesterday we previewed Griffin, a Human Interaction Model capable of seeing, hearing, sounding, and...</title>
+      <link>https://x.com/hassaanraza/status/2106185447361896475</link>
+      <guid isPermaLink="true">https://x.com/hassaanraza/status/2106185447361896475</guid>
+      <dc:creator>@hassaanraza</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 00:51:56 GMT</pubDate>
+      <description>Yesterday we previewed Griffin, a Human Interaction Model capable of seeing, hearing, sounding, and looking like a human does. There have been a lot of questions, so I wanted to take a moment to share our thoughts.
+
+By way of introduction: Tavus is a research lab focused on enabling machines to meet us where we are, and to understand the nuances of how we communicate beyond words.
+
+Griffin, our latest model, isn’t publicly available yet. Yesterday’s announcement was a limited research preview to demonstrate what the model is capable of. With AI progressing so quickly, we prefer to share breakthroughs openly and in real-time as we work on a safe public release.
+
+Face-to-face is how we evolutionarily communicate, it carries the most meaning and intent, and we want computers to be able to help with work that benefits from that emotional understanding, expression, and immersion. Some examples of the kinds of use cases we care deeply about:
+
+- A tutor that can build understanding of how a student learns, see exactly when there is confusion or disengagement, and adapt the lesson to fit them.
+
+- A health expert that can answer any questions about your upcoming appointment or prescription, at the pace you want, at any time you need, even on a weekend.
+
+- A language coach that you can practice speaking with, that can correct your movement and pronunciation, and help build confidence to have real conversations
+
+- Or the perfect assistant for everyone, that understands intent, knows how you work and remembers what matters.
+
+We’re working with partners on safeguards and systems for disclosure, as well as inviting discussions with officials around wider regulation and safe use. People will always know they’re interacting with AI, while providing an interface that removes the need to ‘speak computer’.
+
+We believe in a future where computers understand us well enough to make technology more accessible, more useful, and make us more capable as humans. That is the world we want to build, and we understand the responsibility to do so safely.</description>
+      <content:encoded>&lt;p&gt;Yesterday we previewed Griffin, a Human Interaction Model capable of seeing, hearing, sounding, and looking like a human does. There have been a lot of questions, so I wanted to take a moment to share our thoughts.&lt;br&gt;&lt;br&gt;By way of introduction: Tavus is a research lab focused on enabling machines to meet us where we are, and to understand the nuances of how we communicate beyond words.&lt;br&gt;&lt;br&gt;Griffin, our latest model, isn’t publicly available yet. Yesterday’s announcement was a limited research preview to demonstrate what the model is capable of. With AI progressing so quickly, we prefer to share breakthroughs openly and in real-time as we work on a safe public release.&lt;br&gt;&lt;br&gt;Face-to-face is how we evolutionarily communicate, it carries the most meaning and intent, and we want computers to be able to help with work that benefits from that emotional understanding, expression, and immersion. Some examples of the kinds of use cases we care deeply about:&lt;br&gt;&lt;br&gt;- A tutor that can build understanding of how a student learns, see exactly when there is confusion or disengagement, and adapt the lesson to fit them.&lt;br&gt;&lt;br&gt;- A health expert that can answer any questions about your upcoming appointment or prescription, at the pace you want, at any time you need, even on a weekend.&lt;br&gt;&lt;br&gt;- A language coach that you can practice speaking with, that can correct your movement and pronunciation, and help build confidence to have real conversations&lt;br&gt;&lt;br&gt;- Or the perfect assistant for everyone, that understands intent, knows how you work and remembers what matters.&lt;br&gt;&lt;br&gt;We’re working with partners on safeguards and systems for disclosure, as well as inviting discussions with officials around wider regulation and safe use. People will always know they’re interacting with AI, while providing an interface that removes the need to ‘speak computer’.&lt;br&gt;&lt;br&gt;We believe in a future where computers understand us well enough to make technology more accessible, more useful, and make us more capable as humans. That is the world we want to build, and we understand the responsibility to do so safely.&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@TrendSpider: $NOW you have my attention 👀</title>
@@ -13550,60 +13612,6 @@ It will run as a 24/7 YouTube stream featuring administration speeches, major re
 
 YouTube stream: https://www.youtube.com/watch?v=A4gNgHfZ-v4</description>
       <content:encoded>&lt;p&gt;The White House has launched&lt;br&gt;&lt;br&gt;“Trump TV: The Essentials Station.”&lt;br&gt;&lt;br&gt;It will run as a 24/7 YouTube stream featuring administration speeches, major remarks and other White House events.&lt;br&gt;&lt;br&gt;YouTube stream: https://www.youtube.com/watch?v=A4gNgHfZ-v4&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@HedgeyeTech: One of our agentic AI Longs is up 20% in the past week. They should send a gift basket to Zuck. We’...</title>
-      <link>https://x.com/HedgeyeTech/status/2102374484489486708</link>
-      <guid isPermaLink="true">https://x.com/HedgeyeTech/status/2102374484489486708</guid>
-      <dc:creator>@HedgeyeTech</dc:creator>
-      <pubDate>Tue, 22 Sep 2026 12:28:31 GMT</pubDate>
-      <description>One of our agentic AI Longs is up 20% in the past week. They should send a gift basket to Zuck. We’ll see if Muse mania and personal agents can persist and drive broader AI infra spending. I see it as an Openclaw sequel (without managing the computer). OpenAI may need to counterattack Muse with a stronger GPT Work product.</description>
-      <content:encoded>&lt;p&gt;One of our agentic AI Longs is up 20% in the past week. They should send a gift basket to Zuck. We’ll see if Muse mania and personal agents can persist and drive broader AI infra spending. I see it as an Openclaw sequel (without managing the computer). OpenAI may need to counterattack Muse with a stronger GPT Work product.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: 🇺🇸 US government is up $44 billion on its Intel investment. On August 22, 2025, the gove...</title>
-      <link>https://x.com/WatcherGuru/status/2102373256225308679</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2102373256225308679</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Tue, 22 Sep 2026 12:23:39 GMT</pubDate>
-      <description>JUST IN: 🇺🇸 US government is up $44 billion on its Intel investment.
-
-On August 22, 2025, the government agreed to purchase 433.3 million Intel shares at $20.47 per share, investing $8.9 billion for a 9.9% stake.
-
-$INTC is currently trading at $121.78, making the government's stake worth approximately $52.9 billion.
-
-That represents an unrealized gain of $44 billion, or nearly 495%, in 13 months.</description>
-      <content:encoded>&lt;p&gt;JUST IN: 🇺🇸 US government is up $44 billion on its Intel investment.&lt;br&gt;&lt;br&gt;On August 22, 2025, the government agreed to purchase 433.3 million Intel shares at $20.47 per share, investing $8.9 billion for a 9.9% stake.&lt;br&gt;&lt;br&gt;$INTC is currently trading at $121.78, making the government&amp;apos;s stake worth approximately $52.9 billion.&lt;br&gt;&lt;br&gt;That represents an unrealized gain of $44 billion, or nearly 495%, in 13 months.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0g9ERWUAAoVqt.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0g91qWYAA6LIJ.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: BREAKING: Money market fund assets held by US households rose +$63 billion in Q2 2026, to a record...</title>
-      <link>https://x.com/KobeissiLetter/status/2102372781463597410</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2102372781463597410</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Tue, 22 Sep 2026 12:21:45 GMT</pubDate>
-      <description>BREAKING: Money market fund assets held by US households rose +$63 billion in Q2 2026, to a record $5.11 trillion.
-
-This marks the 17th consecutive quarterly increase, totaling +$2.58 trillion, or an average of +$152 billion per quarter.
-
-Money market fund assets held by US households now stand +89% above the peak recorded during the 2020 pandemic.
-
-Meanwhile, the Fed raised rates for the first time since July 2023 on Wednesday, by 25 basis points, to 4.00%, with markets now pricing in 3 additional hikes by mid-2027.
-
-Risk-free investments are about to get even more popular.</description>
-      <content:encoded>&lt;p&gt;BREAKING: Money market fund assets held by US households rose +$63 billion in Q2 2026, to a record $5.11 trillion.&lt;br&gt;&lt;br&gt;This marks the 17th consecutive quarterly increase, totaling +$2.58 trillion, or an average of +$152 billion per quarter.&lt;br&gt;&lt;br&gt;Money market fund assets held by US households now stand +89% above the peak recorded during the 2020 pandemic.&lt;br&gt;&lt;br&gt;Meanwhile, the Fed raised rates for the first time since July 2023 on Wednesday, by 25 basis points, to 4.00%, with markets now pricing in 3 additional hikes by mid-2027.&lt;br&gt;&lt;br&gt;Risk-free investments are about to get even more popular.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0g5xIWgAABcYi.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: “Valuation is never the setup for a trade; it's only ever the punchline.” Patrick Kent @Hedgeye_HEL...</title>
-      <link>https://x.com/Hedgeye/status/2102371451622080891</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2102371451622080891</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Tue, 22 Sep 2026 12:16:28 GMT</pubDate>
-      <description>“Valuation is never the setup for a trade; it's only ever the punchline.”
-
-Patrick Kent @Hedgeye_HELS on one of the biggest misconceptions investors repeatedly fall for, and why growth, momentum and sentiment matter first.
-
-Read the full note 👇</description>
-      <content:encoded>&lt;p&gt;“Valuation is never the setup for a trade; it&amp;apos;s only ever the punchline.”&lt;br&gt;&lt;br&gt;Patrick Kent @Hedgeye_HELS on one of the biggest misconceptions investors repeatedly fall for, and why growth, momentum and sentiment matter first.&lt;br&gt;&lt;br&gt;Read the full note 👇&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS0flnGWcAARo2U.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
