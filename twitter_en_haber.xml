@@ -4,7 +4,7 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Mon, 05 Oct 2026 02:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 02:30:29 +0000</lastBuildDate>
     <item>
       <title>@WatcherGuru: JUST IN: Former Wall Street banker and whistleblower Simon Andriesz, who exposed Commerce Secretary...</title>
       <link>https://x.com/WatcherGuru/status/2106911542411440306</link>
@@ -13,6 +13,15 @@
       <pubDate>Mon, 05 Oct 2026 00:57:10 GMT</pubDate>
       <description>JUST IN: Former Wall Street banker and whistleblower Simon Andriesz, who exposed Commerce Secretary Howard Lutnick's links to Jeffrey Epstein has died by suicide.</description>
       <content:encoded>&lt;p&gt;JUST IN: Former Wall Street banker and whistleblower Simon Andriesz, who exposed Commerce Secretary Howard Lutnick&amp;apos;s links to Jeffrey Epstein has died by suicide.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@HedgeyeAM: @KeithMcCullough Generally: an unhedged spot ETP has ~1.0 beta to its underlying, with the underlyi...</title>
+      <link>https://x.com/HedgeyeAM/status/2106756376013754480</link>
+      <guid isPermaLink="true">https://x.com/HedgeyeAM/status/2106756376013754480</guid>
+      <dc:creator>@HedgeyeAM</dc:creator>
+      <pubDate>Sun, 04 Oct 2026 14:40:36 GMT</pubDate>
+      <description>@KeithMcCullough Generally: an unhedged spot ETP has ~1.0 beta to its underlying, with the underlying's vol. A hedged ETF uses an options overlay to change effective exposure, so beta and realized vol become variable. Measurement of a hedged ETFs effectiveness lies in risk adjusted returns (think Sharpe or Sortino ratio).</description>
+      <content:encoded>&lt;p&gt;@KeithMcCullough Generally: an unhedged spot ETP has ~1.0 beta to its underlying, with the underlying&amp;apos;s vol. A hedged ETF uses an options overlay to change effective exposure, so beta and realized vol become variable. Measurement of a hedged ETFs effectiveness lies in risk adjusted returns (think Sharpe or Sortino ratio).&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@WatcherGuru: JUST IN: Elon Musk to rename SpaceXAI to SpaceXSI. "SpaceX is a super intelligence company."</title>
@@ -13578,15 +13587,6 @@ Source: Reuters</description>
       <pubDate>Tue, 22 Sep 2026 15:53:34 GMT</pubDate>
       <description>Grok Bot reached 418,000 weekly users as of Sept. 14, up 24% from the prior week, presentation seen by Bloomberg</description>
       <content:encoded>&lt;p&gt;Grok Bot reached 418,000 weekly users as of Sept. 14, up 24% from the prior week, presentation seen by Bloomberg&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1RPT6asAA13La.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1RXxVb0AAALF8.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: The cost to ship Gulf oil to China has spiked to $1 million a day, the highest on record.</title>
-      <link>https://x.com/Hedgeye/status/2102424918390616226</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2102424918390616226</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Tue, 22 Sep 2026 15:48:56 GMT</pubDate>
-      <description>The cost to ship Gulf oil to China has spiked to $1 million a day, the highest on record.</description>
-      <content:encoded>&lt;p&gt;The cost to ship Gulf oil to China has spiked to $1 million a day, the highest on record.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS1QUjVW4AAH_je.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
