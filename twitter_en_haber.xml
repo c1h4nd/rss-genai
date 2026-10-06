@@ -4,7 +4,24 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 23:00:32 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: MONID RAISES $7.7M TO CONNECT AI AGENTS TO PAY-PER-USE TOOLS Monid has raised $7.7M, led by Long Jo...</title>
+      <link>https://x.com/wallstengine/status/2107568232366473319</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2107568232366473319</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 20:26:37 GMT</pubDate>
+      <description>MONID RAISES $7.7M TO CONNECT AI AGENTS TO PAY-PER-USE TOOLS
+
+Monid has raised $7.7M, led by Long Journey Ventures, with participation from Madrona, 1984 Ventures, Essence VC and Pioneer Fund.
+
+The company says its platform gives AI agents access to 2,500 APIs through a single connection, covering areas like search, sales data, ecommerce, stock data, media generation, email and phone services.
+
+Instead of managing separate accounts, API keys and subscriptions, agents can discover tools, compare pricing and use them through one shared balance.
+
+Monid supports Claude Code, Codex and Cursor through agent skills, MCP and a CLI, with the goal of letting agents access the tools they need without users signing up for each provider individually. https://x.com/shengkunye/status/2107555480658923945/video/1</description>
+      <content:encoded>&lt;p&gt;MONID RAISES $7.7M TO CONNECT AI AGENTS TO PAY-PER-USE TOOLS&lt;br&gt;&lt;br&gt;Monid has raised $7.7M, led by Long Journey Ventures, with participation from Madrona, 1984 Ventures, Essence VC and Pioneer Fund.&lt;br&gt;&lt;br&gt;The company says its platform gives AI agents access to 2,500 APIs through a single connection, covering areas like search, sales data, ecommerce, stock data, media generation, email and phone services.&lt;br&gt;&lt;br&gt;Instead of managing separate accounts, API keys and subscriptions, agents can discover tools, compare pricing and use them through one shared balance.&lt;br&gt;&lt;br&gt;Monid supports Claude Code, Codex and Cursor through agent skills, MCP and a CLI, with the goal of letting agents access the tools they need without users signing up for each provider individually. https://x.com/shengkunye/status/2107555480658923945/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2107551680871165952/img/1kl2RYkxGSa9Idd9.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@KobeissiLetter: BREAKING: The S&amp;P 500 closes at its highest level on record, adding +$13.5 trillion in market cap s...</title>
       <link>https://x.com/KobeissiLetter/status/2107562570215506400</link>
@@ -13,6 +30,21 @@
       <pubDate>Tue, 06 Oct 2026 20:04:08 GMT</pubDate>
       <description>BREAKING: The S&amp;P 500 closes at its highest level on record, adding +$13.5 trillion in market cap since its March 30th bottom.</description>
       <content:encoded>&lt;p&gt;BREAKING: The S&amp;amp;P 500 closes at its highest level on record, adding +$13.5 trillion in market cap since its March 30th bottom.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT-Q_IpWYAABwnU.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: AgentMail has launched AgentID, a “Sign in with Google” equivalent for AI agents that lets them sig...</title>
+      <link>https://x.com/wallstengine/status/2107561479956582473</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2107561479956582473</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 19:59:48 GMT</pubDate>
+      <description>AgentMail has launched AgentID, a “Sign in with Google” equivalent for AI agents that lets them sign into apps with their own verified email identity instead of borrowing their owner’s account.
+
+Each agent is linked to a human owner, allowing apps to recognize when multiple agents belong to the same person, set limits per customer and contact someone about billing or abuse.
+
+AgentID uses the OpenID Connect standard and works with existing login platforms including Clerk, Auth0 and Supabase. It’s free for apps to add, while agents need an AgentMail inbox.
+
+AgentMail says 10 million agents already use its platform. The goal is to let apps accept those agents as users while knowing who is behind them, rather than blocking them outright. https://x.com/haakamaujla/status/2107520017122443267/video/1</description>
+      <content:encoded>&lt;p&gt;AgentMail has launched AgentID, a “Sign in with Google” equivalent for AI agents that lets them sign into apps with their own verified email identity instead of borrowing their owner’s account.&lt;br&gt;&lt;br&gt;Each agent is linked to a human owner, allowing apps to recognize when multiple agents belong to the same person, set limits per customer and contact someone about billing or abuse.&lt;br&gt;&lt;br&gt;AgentID uses the OpenID Connect standard and works with existing login platforms including Clerk, Auth0 and Supabase. It’s free for apps to add, while agents need an AgentMail inbox.&lt;br&gt;&lt;br&gt;AgentMail says 10 million agents already use its platform. The goal is to let apps accept those agents as users while knowing who is behind them, rather than blocking them outright. https://x.com/haakamaujla/status/2107520017122443267/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2107517448308350976/img/oHZyHJXojaViYGc9.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@KobeissiLetter: BREAKING: Short interest in the Russell 2000 index is up to 8.0% of shares outstanding, the highest...</title>
@@ -32,6 +64,15 @@ Meanwhile, short interest in the S&amp;P 500 ETF, $SPY, stands at ~9.0% of share
 
 Are small caps set for a short squeeze?</description>
       <content:encoded>&lt;p&gt;BREAKING: Short interest in the Russell 2000 index is up to 8.0% of shares outstanding, the highest since at least 2019.&lt;br&gt;&lt;br&gt;Since the start of 2025, this percentage has nearly doubled.&lt;br&gt;&lt;br&gt;By comparison, before the 2022 bear market, short interest in small-cap stocks was ~3.5%.&lt;br&gt;&lt;br&gt;This comes after the S&amp;amp;P 500 outperformed the Russell 2000 in Q3 2026 by 9.6 percentage points, its largest outperformance since Q1 2020.&lt;br&gt;&lt;br&gt;Meanwhile, short interest in the S&amp;amp;P 500 ETF, $SPY, stands at ~9.0% of shares outstanding, below the 10.0% average seen in 2024-2025 and far below the 15.0% average between 2020 and 2023.&lt;br&gt;&lt;br&gt;Are small caps set for a short squeeze?&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT3zbNsW8AAsE0G.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: BREAKING: Google Cloud and Mysten Labs are collaborating on Verifiable Agent Arbiter (VAA), an evid...</title>
+      <link>https://x.com/wallstengine/status/2107533957969694898</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2107533957969694898</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 18:10:26 GMT</pubDate>
+      <description>BREAKING: Google Cloud and Mysten Labs are collaborating on Verifiable Agent Arbiter (VAA), an evidence layer designed to help companies prove their AI agents acted within authorized limits.</description>
+      <content:encoded>&lt;p&gt;BREAKING: Google Cloud and Mysten Labs are collaborating on Verifiable Agent Arbiter (VAA), an evidence layer designed to help companies prove their AI agents acted within authorized limits.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT9ylhhagAAN_xH.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@KobeissiLetter: Diversification is dying. For every $1 invested in the S&amp;P 500, ~41 cents now goes to just the 10 l...</title>
@@ -55,6 +96,22 @@ Big Tech effectively is the market.</description>
       <content:encoded>&lt;p&gt;Diversification is dying.&lt;br&gt;&lt;br&gt;For every $1 invested in the S&amp;amp;P 500, ~41 cents now goes to just the 10 largest stocks.&lt;br&gt;&lt;br&gt;Nvidia, $NVDA, alone accounts for 8 cents, followed by Apple, $AAPL, at 7 cents, Microsoft, $MSFT, and Alphabet, $GOOGL, at 6 cents each, and Amazon, $AMZN, at 4 cents.&lt;br&gt;&lt;br&gt;The next 5 mega-cap names, Broadcom, $AVGO, Meta, $META, Tesla, $TSLA, Micron, $MU, and AMD, $AMD, represent another 10 cents combined.&lt;br&gt;&lt;br&gt;By comparison, the next 10 largest firms account for just 10 cents combined.&lt;br&gt;&lt;br&gt;The top 10 stocks now represent almost 2x the allocation of 402 other companies in the index, which together account for just 23 cents of every $1.&lt;br&gt;&lt;br&gt;Big Tech effectively is the market.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT9poZvXwAABsUm.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@wallstengine: US 3-YEAR TREASURY AUCTION High yield: 4.932% vs 4.934% WI, a 0.2 bp stop-through Bid-to-cover: 2.6...</title>
+      <link>https://x.com/wallstengine/status/2107517683961061629</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2107517683961061629</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 17:05:46 GMT</pubDate>
+      <description>US 3-YEAR TREASURY AUCTION
+
+High yield: 4.932% vs 4.934% WI, a 0.2 bp stop-through
+
+Bid-to-cover: 2.62 vs 2.72 prior
+
+Indirects: 31.7%
+Directs: 31.7%</description>
+      <content:encoded>&lt;p&gt;US 3-YEAR TREASURY AUCTION&lt;br&gt;&lt;br&gt;High yield: 4.932% vs 4.934% WI, a 0.2 bp stop-through&lt;br&gt;&lt;br&gt;Bid-to-cover: 2.62 vs 2.72 prior&lt;br&gt;&lt;br&gt;Indirects: 31.7%&lt;br&gt;Directs: 31.7%&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@WatcherGuru: JUST IN: 🇺🇸 US trade deficit surges 13.7% to $105.6 billion, a 17-month high, despite President T...</title>
       <link>https://x.com/WatcherGuru/status/2107507273224569197</link>
       <guid isPermaLink="true">https://x.com/WatcherGuru/status/2107507273224569197</guid>
@@ -62,6 +119,25 @@ Big Tech effectively is the market.</description>
       <pubDate>Tue, 06 Oct 2026 16:24:24 GMT</pubDate>
       <description>JUST IN: 🇺🇸 US trade deficit surges 13.7% to $105.6 billion, a 17-month high, despite President Trump's tariffs.</description>
       <content:encoded>&lt;p&gt;JUST IN: 🇺🇸 US trade deficit surges 13.7% to $105.6 billion, a 17-month high, despite President Trump&amp;apos;s tariffs.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT9eseRW4AA43SC.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: AMPERSAND RAISES $15M TO HELP AI AGENTS WORK INSIDE ENTERPRISE SOFTWARE Ampersand has raised a $15M...</title>
+      <link>https://x.com/wallstengine/status/2107503313872998565</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2107503313872998565</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 16:08:40 GMT</pubDate>
+      <description>AMPERSAND RAISES $15M TO HELP AI AGENTS WORK INSIDE ENTERPRISE SOFTWARE
+
+Ampersand has raised a $15M Series A led by Bessemer, bringing total funding to $20M, as it makes its integration platform generally available.
+
+The company helps AI agents connect to systems like Salesforce, NetSuite, SAP and Workday, where custom fields, permissions and workflows can make each customer deployment a separate engineering project.
+
+The new funding will support broader ERP coverage, agentic integration infrastructure and more forward-deployed expertise.
+
+Ampersand is also launching Andi, its AI integration agent, in beta after spending three years building alongside customers including 11x, Orb and Square.
+
+https://x.com/ayanb/status/2107501360031924549/video/1</description>
+      <content:encoded>&lt;p&gt;AMPERSAND RAISES $15M TO HELP AI AGENTS WORK INSIDE ENTERPRISE SOFTWARE&lt;br&gt;&lt;br&gt;Ampersand has raised a $15M Series A led by Bessemer, bringing total funding to $20M, as it makes its integration platform generally available.&lt;br&gt;&lt;br&gt;The company helps AI agents connect to systems like Salesforce, NetSuite, SAP and Workday, where custom fields, permissions and workflows can make each customer deployment a separate engineering project.&lt;br&gt;&lt;br&gt;The new funding will support broader ERP coverage, agentic integration infrastructure and more forward-deployed expertise.&lt;br&gt;&lt;br&gt;Ampersand is also launching Andi, its AI integration agent, in beta after spending three years building alongside customers including 11x, Orb and Square.&lt;br&gt;&lt;br&gt;https://x.com/ayanb/status/2107501360031924549/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2107498710225797121/img/RBYX9IPqiVPxzavg.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@KobeissiLetter: BREAKING: The total volume of payments processed on crypto cards has reached a record $12.5 billion...</title>
@@ -135,6 +211,15 @@ Nvidia is in a league of its own.</description>
       <content:encoded>&lt;p&gt;JUST IN: Bitcoin &amp;apos;Fear &amp;amp; Greed Index&amp;apos; rises to 73, greed.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT9KbxDaUAA3Uow.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@wallstengine: NVIDIA is now worth $1 Trillion more than Apple.</title>
+      <link>https://x.com/wallstengine/status/2107481714436222998</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2107481714436222998</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 14:42:50 GMT</pubDate>
+      <description>NVIDIA is now worth $1 Trillion more than Apple.</description>
+      <content:encoded>&lt;p&gt;NVIDIA is now worth $1 Trillion more than Apple.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT9HMuzaIAEJgHQ.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@WatcherGuru: JUST IN: 🇺🇸 S&amp;P 500 hits new all-time high of 7,835, surpassing $71 trillion market cap for the f...</title>
       <link>https://x.com/WatcherGuru/status/2107479873279406479</link>
       <guid isPermaLink="true">https://x.com/WatcherGuru/status/2107479873279406479</guid>
@@ -142,6 +227,15 @@ Nvidia is in a league of its own.</description>
       <pubDate>Tue, 06 Oct 2026 14:35:31 GMT</pubDate>
       <description>JUST IN: 🇺🇸 S&amp;P 500 hits new all-time high of 7,835, surpassing $71 trillion market cap for the first time ever.</description>
       <content:encoded>&lt;p&gt;JUST IN: 🇺🇸 S&amp;amp;P 500 hits new all-time high of 7,835, surpassing $71 trillion market cap for the first time ever.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT9FxSTa0AAJK64.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: AT&amp;T $T IS forming a 50/50 fiber JV with BlackRock’s GIP and CPP Investments, combining the Lumen f...</title>
+      <link>https://x.com/wallstengine/status/2107476491319775382</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2107476491319775382</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 14:22:05 GMT</pubDate>
+      <description>AT&amp;T $T IS forming a 50/50 fiber JV with BlackRock’s GIP and CPP Investments, combining the Lumen fiber assets it recently acquired with its existing Gigapower venture. The proceeds will help bring net debt/adjusted EBITDA to ~2.5x within roughly three years.</description>
+      <content:encoded>&lt;p&gt;AT&amp;amp;T $T IS forming a 50/50 fiber JV with BlackRock’s GIP and CPP Investments, combining the Lumen fiber assets it recently acquired with its existing Gigapower venture. The proceeds will help bring net debt/adjusted EBITDA to ~2.5x within roughly three years.&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@KobeissiLetter: BREAKING: The S&amp;P 500 is now worth a record $71.3 trillion, up +24% from its March 30th low. This p...</title>
@@ -13556,88 +13650,6 @@ Travel: Expedia, Turo, Fever, Viator
 
 Productivity: Box, GitHub, Granola, Notion</description>
       <content:encoded>&lt;p&gt;Muse can now use your computer and has its own email address. Here are the partnerships announced:&lt;br&gt;&lt;br&gt;Shopping: Walmart, Best Buy, Gap, Sephora, Ulta, Dick’s, Fanatics, Michael Kors, American Eagle, Wayfair&lt;br&gt;&lt;br&gt;Payments: PayPal, Stripe Link, Shop Pay&lt;br&gt;&lt;br&gt;Travel: Expedia, Turo, Fever, Viator&lt;br&gt;&lt;br&gt;Productivity: Box, GitHub, Granola, Notion&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS8Redmb0AA4BtC.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@TrendSpider: As bond yields surge to multi-decade highs, we asked Sidekick one question: "What does this mean fo...</title>
-      <link>https://x.com/TrendSpider/status/2102918436913574025</link>
-      <guid isPermaLink="true">https://x.com/TrendSpider/status/2102918436913574025</guid>
-      <dc:creator>@TrendSpider</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:30:00 GMT</pubDate>
-      <description>As bond yields surge to multi-decade highs, we asked Sidekick one question:
-
-"What does this mean for the stock market for the rest of 2026?"
-
-Sidekick examined live charts across the major indexes and key sectors, then connected the dots across the market.
-
-Read the full response for free ⬇️
-http://trendspider.cc/BondYieldsImpact2026</description>
-      <content:encoded>&lt;p&gt;As bond yields surge to multi-decade highs, we asked Sidekick one question:&lt;br&gt;&lt;br&gt;&amp;quot;What does this mean for the stock market for the rest of 2026?&amp;quot;&lt;br&gt;&lt;br&gt;Sidekick examined live charts across the major indexes and key sectors, then connected the dots across the market.&lt;br&gt;&lt;br&gt;Read the full response for free ⬇️&lt;br&gt;http://trendspider.cc/BondYieldsImpact2026&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS7yXukXQAAmwFV.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@TrendSpider: BREAKING: META UNVEILS 'MUSE CHARM' Mark Zuckerberg says the company anticipates it will be ready t...</title>
-      <link>https://x.com/TrendSpider/status/2102911616631140743</link>
-      <guid isPermaLink="true">https://x.com/TrendSpider/status/2102911616631140743</guid>
-      <dc:creator>@TrendSpider</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:02:54 GMT</pubDate>
-      <description>BREAKING: META UNVEILS 'MUSE CHARM'
-
-Mark Zuckerberg says the company anticipates it will be ready to ship by the holidays
-
-It is a handheld keychain device with Muse installed. $META</description>
-      <content:encoded>&lt;p&gt;BREAKING: META UNVEILS &amp;apos;MUSE CHARM&amp;apos;&lt;br&gt;&lt;br&gt;Mark Zuckerberg says the company anticipates it will be ready to ship by the holidays&lt;br&gt;&lt;br&gt;It is a handheld keychain device with Muse installed. $META&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HS8KWGiW0AACHde.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: $META unveiled Muse Charm, a palm-sized 5G device built specifically for talking to its Muse AI age...</title>
-      <link>https://x.com/wallstengine/status/2102911337001332769</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2102911337001332769</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:01:47 GMT</pubDate>
-      <description>$META unveiled Muse Charm, a palm-sized 5G device built specifically for talking to its Muse AI agent.
-
-They plan to ship the device in December, in time for the holidays.</description>
-      <content:encoded>&lt;p&gt;$META unveiled Muse Charm, a palm-sized 5G device built specifically for talking to its Muse AI agent.&lt;br&gt;&lt;br&gt;They plan to ship the device in December, in time for the holidays.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2102910731989782528/img/BayQZYLmCuPAfodf.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Who knew $META was a hardware company? Pretty awesome.</title>
-      <link>https://x.com/wallstengine/status/2102910416997568564</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2102910416997568564</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 23:58:08 GMT</pubDate>
-      <description>Who knew $META was a hardware company?
-
-Pretty awesome.</description>
-      <content:encoded>&lt;p&gt;Who knew $META was a hardware company?&lt;br&gt;&lt;br&gt;Pretty awesome.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: $META launches its new $1,299 VR Glasses, weighing just 100g by moving the battery + compute into a...</title>
-      <link>https://x.com/wallstengine/status/2102909842574987371</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2102909842574987371</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 23:55:51 GMT</pubDate>
-      <description>$META launches its new $1,299 VR Glasses, weighing just 100g by moving the battery + compute into an external pack.
-
-They’re about 1/3 the price of Apple’s Vision Pro, with 3-hour battery life.
-
-Meta says the hardware is on track to be sold without a loss.</description>
-      <content:encoded>&lt;p&gt;$META launches its new $1,299 VR Glasses, weighing just 100g by moving the battery + compute into an external pack.&lt;br&gt;&lt;br&gt;They’re about 1/3 the price of Apple’s Vision Pro, with 3-hour battery life.&lt;br&gt;&lt;br&gt;Meta says the hardware is on track to be sold without a loss.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/ext_tw_video_thumb/2102907177144836096/pu/img/QBWDsE6xcy0_SADD.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Mark Zuckerberg launched a new Ray-Ban Meta Gen 3 lineup and says the glasses can record spatial au...</title>
-      <link>https://x.com/wallstengine/status/2102909208568209815</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2102909208568209815</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 23:53:20 GMT</pubDate>
-      <description>Mark Zuckerberg launched a new Ray-Ban Meta Gen 3 lineup and says the glasses can record spatial audio that preserves where sounds come from, with six microphones and new Aviator and Zena styles.</description>
-      <content:encoded>&lt;p&gt;Mark Zuckerberg launched a new Ray-Ban Meta Gen 3 lineup and says the glasses can record spatial audio that preserves where sounds come from, with six microphones and new Aviator and Zena styles.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2102908841935687680/img/Z0HmqoNANF1CzK93.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Mark Zuckerberg launches Meta’s new camera-free glasses with all-day battery life, a thinner and li...</title>
-      <link>https://x.com/wallstengine/status/2102908752240513423</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2102908752240513423</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 23:51:31 GMT</pubDate>
-      <description>Mark Zuckerberg launches Meta’s new camera-free glasses with all-day battery life, a thinner and lighter design, and a Ray-Ban Clubmaster-style frame.</description>
-      <content:encoded>&lt;p&gt;Mark Zuckerberg launches Meta’s new camera-free glasses with all-day battery life, a thinner and lighter design, and a Ray-Ban Clubmaster-style frame.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2102908545750773760/img/4Es3mgw8SEjCAndp.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
