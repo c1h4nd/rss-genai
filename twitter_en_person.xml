@@ -4,7 +4,7 @@
     <title>Twitter — en_person</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_person</description>
-    <lastBuildDate>Tue, 06 Oct 2026 10:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:00:52 +0000</lastBuildDate>
     <item>
       <title>@FinanceLancelot: Watching the Plague tracker closely right now. Looks like the Congo and Madagascar are seeing the s...</title>
       <link>https://x.com/FinanceLancelot/status/2107360792106668291</link>
@@ -90,6 +90,43 @@ Do you believe him?</description>
       <content:encoded>&lt;p&gt;Now why would they be doing that?&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@amitisinvesting: A TON OF THINGS HAPPENED IN THE STOCK MARKET TODAY. Here's a full recap: 1. SpaceX $SPCX rose about...</title>
+      <link>https://x.com/amitisinvesting/status/2107279215720907082</link>
+      <guid isPermaLink="true">https://x.com/amitisinvesting/status/2107279215720907082</guid>
+      <dc:creator>@amitisinvesting</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 01:18:11 GMT</pubDate>
+      <description>A TON OF THINGS HAPPENED IN THE STOCK MARKET TODAY.
+
+Here's a full recap:
+
+1. SpaceX $SPCX rose about 7.6% on Monday to roughly $171.09 after Elon Musk confirmed that discussions with TSMC are real, though still in the early stages. The talks follow reports that TSMC is exploring a role in Terafab, the Texas chip venture tied to Tesla, SpaceX, and xAI, which could eventually invest $119B to manufacture chips for products including Optimus, Cybercab, and future AI infrastructure. The prospect of TSMC participating was viewed as strengthening SpaceX’s long-term AI chip supply strategy and potentially reducing Intel’s future role in the project, helping send Intel shares lower while TSMC reached a new all-time high. A reiterated Morgan Stanley Overweight rating and $300 price target provided additional support for the stock.
+
+2. Meta $META and Microsoft $MSFT are reportedly reducing internal use of Anthropic’s Claude as they increasingly shift employees toward their own AI tools, according to The Information. Microsoft had been on pace to spend at least $1B annually on internal Claude usage earlier this year but has since reduced that level by more than one-third. At Meta, the number of Claude Code users has reportedly fallen to about 30,000 from roughly 60,000 earlier this year, while MetaCode now has more than 30,000 users and Muse Code has surpassed 6,000. Despite the shift, Meta still spent more than $105M on Claude Code over a recent 28-day period.
+
+3. JPMorgan expects the memory market $MU $SNDK $WDC $SKHY $STX to remain supply-constrained through at least 2028, with customer order discussions already extending as far out as 2031. The firm forecasts HBM bit demand to grow 63%, non-HBM server DRAM demand to increase 37%, and CY2027 HBM blended ASPs to rise 54% year over year. JPM also believes Micron’s expectation of having more than 35% of revenue covered by long-term supply agreements through 2030 may prove conservative, noting that several Asian memory manufacturers already have 50%+ of their capacity secured under similar long-term agreements.
+
+4. RBC Capital Markets reiterated its Outperform rating on Zeta $ZETA and raised its price target to $40 from $31, implying roughly 22.6% upside. Analyst Matt Swanson said recent investor meetings highlighted growing momentum around strategic partnerships and adoption of Athena, while emphasizing that RBC does not believe these opportunities are materially reflected in either current guidance or the company’s 2030 outlook. RBC also argued that Zeta has increasingly differentiated itself from traditional ad-tech peers and is now being valued more like a software company. The latest increase marks RBC’s third price target raise on Zeta this calendar year.
+
+5. Ondas $ONDS secured a $56M order for Electronic Safe &amp; Arm Devices (ESADs) supporting a European loitering munition program. The contract will be fulfilled through Ondas' recently acquired Bron Technologies and GATE Technologies businesses. ESADs manage a munition’s safety, arming, and initiation functions, with production set to move forward using technology that has already been qualified for deployment. The award further expands Ondas’ presence in the growing European defense and precision munitions market.
+
+6. Bank of America, Citi, and Morgan Stanley have begun syndicating a $60B debt package tied to Anthropic’s lease of Google-designed TPUs supplied through Broadcom $AVGO, making it the largest chip-financing deal to date. The package includes $42B of senior secured debt backed by Broadcom and $18B of junior debt without Broadcom guarantees, with Blackstone already committing roughly $9B to the junior tranche. The financing is expected to fund Anthropic’s 2027 chip orders, with Broadcom’s support helping reduce borrowing costs and potentially allowing the senior debt to be refinanced into the investment-grade market. The deal centers on Google $GOOGL TPUs, developed with Broadcom as an alternative to NVIDIA $NVDA GPUs for large-scale AI workloads, while Broadcom filings also indicate Anthropic could issue up to $42B of convertible notes to Broadcom to cover future lease payments.
+
+7. U.S. Strategic Petroleum Reserve (SPR) inventories fell another 767,000 barrels last week to 283M barrels, the lowest level since 1982. The decline marks the 28th consecutive weekly drawdown, leaving the SPR down nearly 133M barrels from its recent peak. As a result, America's emergency crude oil reserves continue to sit near their lowest levels in more than four decades, underscoring the limited strategic buffer available despite elevated geopolitical risks.
+
+8. The Consumer Confidence Index fell 6.7 points in September to 81.9, its lowest level since April 2014, marking a fourth consecutive monthly decline and an 11.2-point drop over that period. The Present Situation Index declined 7.9 points to 109.3, its weakest reading since February 2021, while the Expectations Index fell 5.9 points to 63.6, its lowest since April 2025 and a third straight monthly decline. Confidence has weakened across all age groups and nearly all income brackets over the past six months. Consumers increasingly cited high prices, the cost of goods and services, and oil and gasoline prices as the primary factors weighing on the economic outlook.
+
+9. Brazilian markets rallied after Flávio Bolsonaro finished ahead of President Luiz Inácio Lula da Silva in the first round of Brazil’s presidential election, with investors reacting positively to the prospect of a more market-friendly policy agenda ahead of the October 25 runoff. Brazilian assets including Nu Holdings $NU, the iShares MSCI Brazil ETF $EWZ, and other Brazil-exposed equities such as MercadoLibre $MELI outperformed following the result. The market reaction reflected optimism around potential fiscal and economic policy changes, though the election remains undecided with a runoff still to come.
+
+10. The top 10 most active options today by contracts traded were $NVDA with 4.0M contracts, $TSLA with 3.2M contracts, $SPCX with 1.7M contracts, $AAPL with 1.1M contracts, $MSFT with 874K contracts, $MU with 872K contracts, $AMZN with 844K contracts, $INTC with 835K contracts, $META with 790K contracts, and $GOOGL with 502K contracts.
+
+11. OpenAI is reportedly in talks with UAE investment funds, including MGX, and BlackRock $BLK to anchor a new $30B+ funding round at a valuation of roughly $1.4T, according to Bloomberg. UAE investors have discussed contributing as much as $10B collectively, while existing backers Thrive Capital and Andreessen Horowitz are also considering additional investments, alongside discussions with the University of California endowment. Rather than negotiating with a lead investor, OpenAI is reportedly presenting investors with a fixed ~$1.4T pre-money valuation. The fundraising comes as OpenAI continues to delay an IPO until at least 2027 while raising unprecedented amounts of capital to fund AI model development and large-scale infrastructure expansion.
+
+12. Melius upgraded Microsoft $MSFT to Buy with a $665 price target, arguing that growing concerns around AI safety are actually strengthening Microsoft's competitive position. The firm said enterprises are increasingly choosing to spend on a secure AI wrapper that can route models to the right tasks, manage AI agents, and provide governance rather than relying directly on frontier AI labs. Melius believes Satya Nadella and Microsoft's leadership are becoming the "adults in charge" for AI security and governance, and now expects Azure revenue growth to accelerate to above 50% by F4Q27.
+
+WALL STREET IS THE GREATEST SHOW ON EARTH.</description>
+      <content:encoded>&lt;p&gt;A TON OF THINGS HAPPENED IN THE STOCK MARKET TODAY.&lt;br&gt;&lt;br&gt;Here&amp;apos;s a full recap:&lt;br&gt;&lt;br&gt;1. SpaceX $SPCX rose about 7.6% on Monday to roughly $171.09 after Elon Musk confirmed that discussions with TSMC are real, though still in the early stages. The talks follow reports that TSMC is exploring a role in Terafab, the Texas chip venture tied to Tesla, SpaceX, and xAI, which could eventually invest $119B to manufacture chips for products including Optimus, Cybercab, and future AI infrastructure. The prospect of TSMC participating was viewed as strengthening SpaceX’s long-term AI chip supply strategy and potentially reducing Intel’s future role in the project, helping send Intel shares lower while TSMC reached a new all-time high. A reiterated Morgan Stanley Overweight rating and $300 price target provided additional support for the stock.&lt;br&gt;&lt;br&gt;2. Meta $META and Microsoft $MSFT are reportedly reducing internal use of Anthropic’s Claude as they increasingly shift employees toward their own AI tools, according to The Information. Microsoft had been on pace to spend at least $1B annually on internal Claude usage earlier this year but has since reduced that level by more than one-third. At Meta, the number of Claude Code users has reportedly fallen to about 30,000 from roughly 60,000 earlier this year, while MetaCode now has more than 30,000 users and Muse Code has surpassed 6,000. Despite the shift, Meta still spent more than $105M on Claude Code over a recent 28-day period.&lt;br&gt;&lt;br&gt;3. JPMorgan expects the memory market $MU $SNDK $WDC $SKHY $STX to remain supply-constrained through at least 2028, with customer order discussions already extending as far out as 2031. The firm forecasts HBM bit demand to grow 63%, non-HBM server DRAM demand to increase 37%, and CY2027 HBM blended ASPs to rise 54% year over year. JPM also believes Micron’s expectation of having more than 35% of revenue covered by long-term supply agreements through 2030 may prove conservative, noting that several Asian memory manufacturers already have 50%+ of their capacity secured under similar long-term agreements.&lt;br&gt;&lt;br&gt;4. RBC Capital Markets reiterated its Outperform rating on Zeta $ZETA and raised its price target to $40 from $31, implying roughly 22.6% upside. Analyst Matt Swanson said recent investor meetings highlighted growing momentum around strategic partnerships and adoption of Athena, while emphasizing that RBC does not believe these opportunities are materially reflected in either current guidance or the company’s 2030 outlook. RBC also argued that Zeta has increasingly differentiated itself from traditional ad-tech peers and is now being valued more like a software company. The latest increase marks RBC’s third price target raise on Zeta this calendar year.&lt;br&gt;&lt;br&gt;5. Ondas $ONDS secured a $56M order for Electronic Safe &amp;amp; Arm Devices (ESADs) supporting a European loitering munition program. The contract will be fulfilled through Ondas&amp;apos; recently acquired Bron Technologies and GATE Technologies businesses. ESADs manage a munition’s safety, arming, and initiation functions, with production set to move forward using technology that has already been qualified for deployment. The award further expands Ondas’ presence in the growing European defense and precision munitions market.&lt;br&gt;&lt;br&gt;6. Bank of America, Citi, and Morgan Stanley have begun syndicating a $60B debt package tied to Anthropic’s lease of Google-designed TPUs supplied through Broadcom $AVGO, making it the largest chip-financing deal to date. The package includes $42B of senior secured debt backed by Broadcom and $18B of junior debt without Broadcom guarantees, with Blackstone already committing roughly $9B to the junior tranche. The financing is expected to fund Anthropic’s 2027 chip orders, with Broadcom’s support helping reduce borrowing costs and potentially allowing the senior debt to be refinanced into the investment-grade market. The deal centers on Google $GOOGL TPUs, developed with Broadcom as an alternative to NVIDIA $NVDA GPUs for large-scale AI workloads, while Broadcom filings also indicate Anthropic could issue up to $42B of convertible notes to Broadcom to cover future lease payments.&lt;br&gt;&lt;br&gt;7. U.S. Strategic Petroleum Reserve (SPR) inventories fell another 767,000 barrels last week to 283M barrels, the lowest level since 1982. The decline marks the 28th consecutive weekly drawdown, leaving the SPR down nearly 133M barrels from its recent peak. As a result, America&amp;apos;s emergency crude oil reserves continue to sit near their lowest levels in more than four decades, underscoring the limited strategic buffer available despite elevated geopolitical risks.&lt;br&gt;&lt;br&gt;8. The Consumer Confidence Index fell 6.7 points in September to 81.9, its lowest level since April 2014, marking a fourth consecutive monthly decline and an 11.2-point drop over that period. The Present Situation Index declined 7.9 points to 109.3, its weakest reading since February 2021, while the Expectations Index fell 5.9 points to 63.6, its lowest since April 2025 and a third straight monthly decline. Confidence has weakened across all age groups and nearly all income brackets over the past six months. Consumers increasingly cited high prices, the cost of goods and services, and oil and gasoline prices as the primary factors weighing on the economic outlook.&lt;br&gt;&lt;br&gt;9. Brazilian markets rallied after Flávio Bolsonaro finished ahead of President Luiz Inácio Lula da Silva in the first round of Brazil’s presidential election, with investors reacting positively to the prospect of a more market-friendly policy agenda ahead of the October 25 runoff. Brazilian assets including Nu Holdings $NU, the iShares MSCI Brazil ETF $EWZ, and other Brazil-exposed equities such as MercadoLibre $MELI outperformed following the result. The market reaction reflected optimism around potential fiscal and economic policy changes, though the election remains undecided with a runoff still to come.&lt;br&gt;&lt;br&gt;10. The top 10 most active options today by contracts traded were $NVDA with 4.0M contracts, $TSLA with 3.2M contracts, $SPCX with 1.7M contracts, $AAPL with 1.1M contracts, $MSFT with 874K contracts, $MU with 872K contracts, $AMZN with 844K contracts, $INTC with 835K contracts, $META with 790K contracts, and $GOOGL with 502K contracts.&lt;br&gt;&lt;br&gt;11. OpenAI is reportedly in talks with UAE investment funds, including MGX, and BlackRock $BLK to anchor a new $30B+ funding round at a valuation of roughly $1.4T, according to Bloomberg. UAE investors have discussed contributing as much as $10B collectively, while existing backers Thrive Capital and Andreessen Horowitz are also considering additional investments, alongside discussions with the University of California endowment. Rather than negotiating with a lead investor, OpenAI is reportedly presenting investors with a fixed ~$1.4T pre-money valuation. The fundraising comes as OpenAI continues to delay an IPO until at least 2027 while raising unprecedented amounts of capital to fund AI model development and large-scale infrastructure expansion.&lt;br&gt;&lt;br&gt;12. Melius upgraded Microsoft $MSFT to Buy with a $665 price target, arguing that growing concerns around AI safety are actually strengthening Microsoft&amp;apos;s competitive position. The firm said enterprises are increasingly choosing to spend on a secure AI wrapper that can route models to the right tasks, manage AI agents, and provide governance rather than relying directly on frontier AI labs. Melius believes Satya Nadella and Microsoft&amp;apos;s leadership are becoming the &amp;quot;adults in charge&amp;quot; for AI security and governance, and now expects Azure revenue growth to accelerate to above 50% by F4Q27.&lt;br&gt;&lt;br&gt;WALL STREET IS THE GREATEST SHOW ON EARTH.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@FinanceLancelot: S&amp;P 500 $SPX stocks above the 50 day average continues to bounce, so we're in the beginning of the...</title>
       <link>https://x.com/FinanceLancelot/status/2107259368475353381</link>
       <guid isPermaLink="true">https://x.com/FinanceLancelot/status/2107259368475353381</guid>
@@ -147,6 +184,25 @@ Now we wait and see if we get a 2nd (larger) run in December before they begin v
       <content:encoded>&lt;p&gt;Stablecoin Development Corp. $SDEV collapsed right on schedule, exactly like September 2025.&lt;br&gt;&lt;br&gt;Now we wait and see if we get a 2nd (larger) run in December before they begin voting on the stablecoin Clarity Act in Congress🤫&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT4xKUlWoAAD9Nt.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@amitisinvesting: $META $MSFT THE INFORMATION: - META AND MICROSOFT ARE WORKING TO WEAN STAFF OFF ANTHROPIC'S CLAUDE...</title>
+      <link>https://x.com/amitisinvesting/status/2107174513880285574</link>
+      <guid isPermaLink="true">https://x.com/amitisinvesting/status/2107174513880285574</guid>
+      <dc:creator>@amitisinvesting</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 18:22:08 GMT</pubDate>
+      <description>$META $MSFT
+
+THE INFORMATION:
+
+- META AND MICROSOFT ARE WORKING TO WEAN STAFF OFF ANTHROPIC'S CLAUDE
+
+- MICROSOFT IS CUTTING ITS INTERNAL CLAUDE SPENDING LEVEL BY OVER A THIRD
+
+- META'S CLAUDE CODE USERS HALVED AS THE COMPANY PUSHED ITS INTERNAL AI TOOLS
+
+not the best news before Anthropic’s IPO lol</description>
+      <content:encoded>&lt;p&gt;$META $MSFT&lt;br&gt;&lt;br&gt;THE INFORMATION:&lt;br&gt;&lt;br&gt;- META AND MICROSOFT ARE WORKING TO WEAN STAFF OFF ANTHROPIC&amp;apos;S CLAUDE&lt;br&gt;&lt;br&gt;- MICROSOFT IS CUTTING ITS INTERNAL CLAUDE SPENDING LEVEL BY OVER A THIRD&lt;br&gt;&lt;br&gt;- META&amp;apos;S CLAUDE CODE USERS HALVED AS THE COMPANY PUSHED ITS INTERNAL AI TOOLS&lt;br&gt;&lt;br&gt;not the best news before Anthropic’s IPO lol&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@charliebilello: Last 30 years... US National Debt: +665% S&amp;P 500 Total Return: +1,820% Government borrowing isn’t n...</title>
       <link>https://x.com/charliebilello/status/2107174234535473499</link>
       <guid isPermaLink="true">https://x.com/charliebilello/status/2107174234535473499</guid>
@@ -164,6 +220,53 @@ The long-term consequences are another story.
 
 Video: https://www.youtube.com/watch?v=GFl2yDa__O8&amp;t=2450s&amp;pp=0gcJCWMAwfN6Pr3D</description>
       <content:encoded>&lt;p&gt;Last 30 years...&lt;br&gt;US National Debt: +665%&lt;br&gt;S&amp;amp;P 500 Total Return: +1,820%&lt;br&gt;&lt;br&gt;Government borrowing isn’t necessarily bad for corporations in the short run.&lt;br&gt;&lt;br&gt;More borrowing → more spending → higher revenues &amp;amp; profits.&lt;br&gt;&lt;br&gt;The long-term consequences are another story.&lt;br&gt;&lt;br&gt;Video: https://www.youtube.com/watch?v=GFl2yDa__O8&amp;amp;t=2450s&amp;amp;pp=0gcJCWMAwfN6Pr3D&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT4qAYoWoAAGp26.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@amitisinvesting: he sold 1000 shares of $TSLA and bought 350 shares of $MU Micron which one outperforms from here ov...</title>
+      <link>https://x.com/amitisinvesting/status/2107168733064045022</link>
+      <guid isPermaLink="true">https://x.com/amitisinvesting/status/2107168733064045022</guid>
+      <dc:creator>@amitisinvesting</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 17:59:09 GMT</pubDate>
+      <description>he sold 1000 shares of $TSLA and bought 350 shares of $MU Micron
+
+which one outperforms from here over the next year?
+
+Tesla at $380 or Micron at $1060?
+
+Tesla - $1.5T mc, 150 fwd p/e, +24% EPS growth expected
+
+Micron - $1.2T mc, 6 fwd p/e, +105% EPS growth expected</description>
+      <content:encoded>&lt;p&gt;he sold 1000 shares of $TSLA and bought 350 shares of $MU Micron&lt;br&gt;&lt;br&gt;which one outperforms from here over the next year?&lt;br&gt;&lt;br&gt;Tesla at $380 or Micron at $1060?&lt;br&gt;&lt;br&gt;Tesla - $1.5T mc, 150 fwd p/e, +24% EPS growth expected&lt;br&gt;&lt;br&gt;Micron - $1.2T mc, 6 fwd p/e, +105% EPS growth expected&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@amitisinvesting: $NVDA ATH it is time !!!! if we don’t care about bond yields we might as well give Nvidia a proper...</title>
+      <link>https://x.com/amitisinvesting/status/2107165532235641325</link>
+      <guid isPermaLink="true">https://x.com/amitisinvesting/status/2107165532235641325</guid>
+      <dc:creator>@amitisinvesting</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 17:46:26 GMT</pubDate>
+      <description>$NVDA ATH
+
+it is time !!!!
+
+if we don’t care about bond yields we might as well give Nvidia a proper multiple 😂
+
+$150B away from a $6T marketcap</description>
+      <content:encoded>&lt;p&gt;$NVDA ATH&lt;br&gt;&lt;br&gt;it is time !!!!&lt;br&gt;&lt;br&gt;if we don’t care about bond yields we might as well give Nvidia a proper multiple 😂&lt;br&gt;&lt;br&gt;$150B away from a $6T marketcap&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@amitisinvesting: Josh Brown: "These AI companies grew up learning from Jeff Bezos. They do not care about profits ri...</title>
+      <link>https://x.com/amitisinvesting/status/2107160931134312661</link>
+      <guid isPermaLink="true">https://x.com/amitisinvesting/status/2107160931134312661</guid>
+      <dc:creator>@amitisinvesting</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 17:28:09 GMT</pubDate>
+      <description>Josh Brown:
+
+"These AI companies grew up learning from Jeff Bezos. They do not care about profits right now, they care about marketshare. Quite frankly, that's what they should care about, especially if it's a winner take all market."
+
+What do people think?
+
+Do we focus too much on profits for the AI names that will eventually make money after capturing the market or does the size and scale of this buildout with commoditized business models mean that the lack of profitability is actually the signal to go the opposite of a typical high growth playbook?</description>
+      <content:encoded>&lt;p&gt;Josh Brown:&lt;br&gt;&lt;br&gt;&amp;quot;These AI companies grew up learning from Jeff Bezos. They do not care about profits right now, they care about marketshare. Quite frankly, that&amp;apos;s what they should care about, especially if it&amp;apos;s a winner take all market.&amp;quot;&lt;br&gt;&lt;br&gt;What do people think?&lt;br&gt;&lt;br&gt;Do we focus too much on profits for the AI names that will eventually make money after capturing the market or does the size and scale of this buildout with commoditized business models mean that the lack of profitability is actually the signal to go the opposite of a typical high growth playbook?&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2107160510542049280/img/sCgPKAqR1bCRy573.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@charliebilello: The 2020s are on pace to be the worst decade in history for the 10-year Treasury bond. Annualized t...</title>
@@ -188,6 +291,21 @@ A good reminder that “safe” from default risk doesn’t mean safe from inter
 
 72 S&amp;P 500 companies issued positive EPS guidance for Q3, the most ever tracked by FactSet and far above the 5-year average of 42.</description>
       <content:encoded>&lt;p&gt;We&amp;apos;re seeing record levels of optimism from corporate America.&lt;br&gt;&lt;br&gt;72 S&amp;amp;P 500 companies issued positive EPS guidance for Q3, the most ever tracked by FactSet and far above the 5-year average of 42.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT4PWcXXkAAQpiN.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@amitisinvesting: another day, another 10-yr spike market doesn’t care, $SPY up 0.45% its an AI capex or bust story n...</title>
+      <link>https://x.com/amitisinvesting/status/2107139311644852570</link>
+      <guid isPermaLink="true">https://x.com/amitisinvesting/status/2107139311644852570</guid>
+      <dc:creator>@amitisinvesting</dc:creator>
+      <pubDate>Mon, 05 Oct 2026 16:02:15 GMT</pubDate>
+      <description>another day, another 10-yr spike
+
+market doesn’t care, $SPY up 0.45%
+
+its an AI capex or bust story now and high yields are just a part of it
+
+i mean if the market is basically at ATH with yields like this…what happens to stocks if yields actually come down in 2027?</description>
+      <content:encoded>&lt;p&gt;another day, another 10-yr spike&lt;br&gt;&lt;br&gt;market doesn’t care, $SPY up 0.45%&lt;br&gt;&lt;br&gt;its an AI capex or bust story now and high yields are just a part of it&lt;br&gt;&lt;br&gt;i mean if the market is basically at ATH with yields like this…what happens to stocks if yields actually come down in 2027?&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HT4QCUFXAAAC6A3.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@charliebilello: Americans now own over $60 trillion in stocks &amp; mutual funds, more than 3x higher than a decade ago...</title>
