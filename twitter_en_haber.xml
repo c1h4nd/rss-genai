@@ -4,7 +4,132 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:00:27 +0000</lastBuildDate>
+    <item>
+      <title>@wallstengine: Subquadratic has launched SubQ Snap, a decision model priced at $0.05 per million input tokens, wit...</title>
+      <link>https://x.com/wallstengine/status/2109686439902409130</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109686439902409130</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 16:43:38 GMT</pubDate>
+      <description>Subquadratic has launched SubQ Snap, a decision model priced at $0.05 per million input tokens, with free output.
+
+It can process 100K tokens and return a decision in under a second.
+
+Snap supports up to 384K tokens of text and images in one call, including documents, screenshots, charts and logs.
+
+In the team’s updated enterprise evaluation, it averaged 67.6 versus Jev’s 61.6 and led on 13 of 16 benchmarks.
+
+The model is built for tasks such as selecting tools, routing requests and checking results, leaving longer writing and reasoning tasks to a frontier model.
+
+https://x.com/alex_whedon/status/2109676361371824229/video/1</description>
+      <content:encoded>&lt;p&gt;Subquadratic has launched SubQ Snap, a decision model priced at $0.05 per million input tokens, with free output.&lt;br&gt;&lt;br&gt;It can process 100K tokens and return a decision in under a second.&lt;br&gt;&lt;br&gt;Snap supports up to 384K tokens of text and images in one call, including documents, screenshots, charts and logs.&lt;br&gt;&lt;br&gt;In the team’s updated enterprise evaluation, it averaged 67.6 versus Jev’s 61.6 and led on 13 of 16 benchmarks.&lt;br&gt;&lt;br&gt;The model is built for tasks such as selecting tools, routing requests and checking results, leaving longer writing and reasoning tasks to a frontier model.&lt;br&gt;&lt;br&gt;https://x.com/alex_whedon/status/2109676361371824229/video/1&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2109672194100076544/img/GmrAHwg6eCJPWRNT.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $NVDA and Cisco $CSCO announced USFP optics targeting up to 12.8Tb/s, 4x the bandwidth density and...</title>
+      <link>https://x.com/wallstengine/status/2109679626041909564</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109679626041909564</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 16:16:33 GMT</pubDate>
+      <description>$NVDA and Cisco $CSCO announced USFP optics targeting up to 12.8Tb/s, 4x the bandwidth density and 1.3x the power efficiency of 200G-per-lane modules.
+
+$META is adopting Nvidia’s Spectrum-6 switches to scale AI clusters beyond 100,000 GPUs.</description>
+      <content:encoded>&lt;p&gt;$NVDA and Cisco $CSCO announced USFP optics targeting up to 12.8Tb/s, 4x the bandwidth density and 1.3x the power efficiency of 200G-per-lane modules.&lt;br&gt;&lt;br&gt;$META is adopting Nvidia’s Spectrum-6 switches to scale AI clusters beyond 100,000 GPUs.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUcWXzyWQAADO2t.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: DigitalOcean is launching Agent Data Services alongside Insights, Signals and Simulations, giving t...</title>
+      <link>https://x.com/wallstengine/status/2109678061813932366</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109678061813932366</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 16:10:20 GMT</pubDate>
+      <description>DigitalOcean is launching Agent Data Services alongside Insights, Signals and Simulations, giving teams a way to spot agent failures from real sessions, trace what went wrong and test fixes before shipping.</description>
+      <content:encoded>&lt;p&gt;DigitalOcean is launching Agent Data Services alongside Insights, Signals and Simulations, giving teams a way to spot agent failures from real sessions, trace what went wrong and test fixes before shipping.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2109659514849116161/img/F5z_xYoVBMr4MnYi.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: OpenStocks has launched a platform where AI agents compete directly against Wall Street analysts in...</title>
+      <link>https://x.com/wallstengine/status/2109676073617150061</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109676073617150061</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 16:02:26 GMT</pubDate>
+      <description>OpenStocks has launched a platform where AI agents compete directly against Wall Street analysts in forecasting company earnings.
+
+The platform says its agents beat consensus estimates 67% of the time last season and 85% across the latest 20 reports.
+
+Predictions are locked before earnings are released and scored publicly, allowing anyone to track results or submit forecasts from their own AI agents.</description>
+      <content:encoded>&lt;p&gt;OpenStocks has launched a platform where AI agents compete directly against Wall Street analysts in forecasting company earnings.&lt;br&gt;&lt;br&gt;The platform says its agents beat consensus estimates 67% of the time last season and 85% across the latest 20 reports.&lt;br&gt;&lt;br&gt;Predictions are locked before earnings are released and scored publicly, allowing anyone to track results or submit forecasts from their own AI agents.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $NVDA OPENS VERA RUBIN RACK DESIGNS, EXPANDS AI NETWORKING WITH META, GOOGLE AND CISCO NVIDIA annou...</title>
+      <link>https://x.com/wallstengine/status/2109666989543219475</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109666989543219475</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 15:26:20 GMT</pubDate>
+      <description>$NVDA OPENS VERA RUBIN RACK DESIGNS, EXPANDS AI NETWORKING WITH META, GOOGLE AND CISCO
+
+NVIDIA announced new partnerships and open infrastructure contributions at the OCP Global Summit, covering rack designs, networking, software and power systems for next-generation AI data centers.
+
+The company contributed key Vera Rubin rack and compute tray designs through its MGX architecture. The updated MGX 1.2 specification supports racks up to 250kW, with standardized power connections, liquid cooling and fanless compute trays.
+
+$META is adopting NVIDIA’s Spectrum-6 Ethernet switches, which deliver 102.4Tb/s of switching capacity. Combined with Spectrum-X Multiplane technology, the architecture is designed to connect more than 100,000 GPUs with fewer switch layers. Traffic is distributed across up to eight independent network paths, allowing workloads to keep running if a component fails.
+
+Cisco $CSCO and NVIDIA announced plans for USFP, a new pluggable optical module designed for 400Gb/s-per-lane networking. The companies say it will deliver 4x the bandwidth density and approximately 1.3x the power efficiency of 200Gb/s-per-lane modules, with up to 12.8Tb/s of overall capacity in roughly the same physical footprint.
+
+TE Connectivity and Amphenol are helping develop USFP connectors, cages and modules. The companies plan to establish an open industry specification, giving multiple suppliers a common design to build around.
+
+Google’s Falcon Transport will be supported on future NVIDIA ConnectX-10 SuperNICs and BlueField DPUs. The collaboration enables NVIDIA and Google networking hardware to communicate over a common transport, with features for managing congestion, recovering dropped packets and protecting connections.
+
+NVIDIA also released new open-source DSX software components for configuring networks, stress-testing GPU clusters, managing racks and preparing hardware for deployment. Its Vera CPU rack design specifically targets AI agent workloads, including tool calling, orchestration and sandboxed execution.
+
+On power infrastructure, NVIDIA joined AMD, Google and Meta on an open data-center design specification, and Google, Meta and Microsoft on grid-resilience standards.
+
+Separately, Visionbay introduced plans for K-1, an 800V DC AI factory platform combining NVIDIA’s reference architecture with Vertiv’s power and cooling technologies for future Vera Rubin deployments.</description>
+      <content:encoded>&lt;p&gt;$NVDA OPENS VERA RUBIN RACK DESIGNS, EXPANDS AI NETWORKING WITH META, GOOGLE AND CISCO&lt;br&gt;&lt;br&gt;NVIDIA announced new partnerships and open infrastructure contributions at the OCP Global Summit, covering rack designs, networking, software and power systems for next-generation AI data centers.&lt;br&gt;&lt;br&gt;The company contributed key Vera Rubin rack and compute tray designs through its MGX architecture. The updated MGX 1.2 specification supports racks up to 250kW, with standardized power connections, liquid cooling and fanless compute trays.&lt;br&gt;&lt;br&gt;$META is adopting NVIDIA’s Spectrum-6 Ethernet switches, which deliver 102.4Tb/s of switching capacity. Combined with Spectrum-X Multiplane technology, the architecture is designed to connect more than 100,000 GPUs with fewer switch layers. Traffic is distributed across up to eight independent network paths, allowing workloads to keep running if a component fails.&lt;br&gt;&lt;br&gt;Cisco $CSCO and NVIDIA announced plans for USFP, a new pluggable optical module designed for 400Gb/s-per-lane networking. The companies say it will deliver 4x the bandwidth density and approximately 1.3x the power efficiency of 200Gb/s-per-lane modules, with up to 12.8Tb/s of overall capacity in roughly the same physical footprint.&lt;br&gt;&lt;br&gt;TE Connectivity and Amphenol are helping develop USFP connectors, cages and modules. The companies plan to establish an open industry specification, giving multiple suppliers a common design to build around.&lt;br&gt;&lt;br&gt;Google’s Falcon Transport will be supported on future NVIDIA ConnectX-10 SuperNICs and BlueField DPUs. The collaboration enables NVIDIA and Google networking hardware to communicate over a common transport, with features for managing congestion, recovering dropped packets and protecting connections.&lt;br&gt;&lt;br&gt;NVIDIA also released new open-source DSX software components for configuring networks, stress-testing GPU clusters, managing racks and preparing hardware for deployment. Its Vera CPU rack design specifically targets AI agent workloads, including tool calling, orchestration and sandboxed execution.&lt;br&gt;&lt;br&gt;On power infrastructure, NVIDIA joined AMD, Google and Meta on an open data-center design specification, and Google, Meta and Microsoft on grid-resilience standards.&lt;br&gt;&lt;br&gt;Separately, Visionbay introduced plans for K-1, an 800V DC AI factory platform combining NVIDIA’s reference architecture with Vertiv’s power and cooling technologies for future Vera Rubin deployments.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUcK6vTW8AAMoDr.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $ASTS shares are up ~4.6% at the open after Deutsche Bank upgraded the stock to Buy with a $93 pric...</title>
+      <link>https://x.com/wallstengine/status/2109656912770080802</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109656912770080802</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 14:46:18 GMT</pubDate>
+      <description>$ASTS shares are up ~4.6% at the open after Deutsche Bank upgraded the stock to Buy with a $93 price target.
+
+As AST SpaceMobile advances its satellite rollout, with BlueBird 14-16 now at Cape Canaveral and FCC authorization secured for 900 MHz testing through Nov. 8.</description>
+      <content:encoded>&lt;p&gt;$ASTS shares are up ~4.6% at the open after Deutsche Bank upgraded the stock to Buy with a $93 price target.&lt;br&gt;&lt;br&gt;As AST SpaceMobile advances its satellite rollout, with BlueBird 14-16 now at Cape Canaveral and FCC authorization secured for 900 MHz testing through Nov. 8.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUcBx2RasAAbKEV.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: DeepSeek is reportedly set to lead a funding round for robotics AI startup Winverse at a ~$400M val...</title>
+      <link>https://x.com/wallstengine/status/2109636865112555525</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109636865112555525</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 13:26:38 GMT</pubDate>
+      <description>DeepSeek is reportedly set to lead a funding round for robotics AI startup Winverse at a ~$400M valuation.
+
+The round is expected to raise tens of millions, with Meituan also participating, as DeepSeek expands into physical AI.</description>
+      <content:encoded>&lt;p&gt;DeepSeek is reportedly set to lead a funding round for robotics AI startup Winverse at a ~$400M valuation.&lt;br&gt;&lt;br&gt;The round is expected to raise tens of millions, with Meituan also participating, as DeepSeek expands into physical AI.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUbvi7DacAAgobH.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $ONDS and $PLTR announced Regna AI, a new company developing specialized AI models for governments...</title>
+      <link>https://x.com/wallstengine/status/2109626207268405311</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109626207268405311</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 12:44:17 GMT</pubDate>
+      <description>$ONDS and $PLTR announced Regna AI, a new company developing specialized AI models for governments and businesses that want to retain control over their models and data.
+
+Initially wholly owned by Ondas, Regna will use Palantir’s AI platform and model-training infrastructure. Ondas will also be its first customer.
+
+The initial focus is intelligence and surveillance, with models designed to run on drones, ground vehicles and other hardware even with limited connectivity. Initial customer deployments are planned over the coming months.</description>
+      <content:encoded>&lt;p&gt;$ONDS and $PLTR announced Regna AI, a new company developing specialized AI models for governments and businesses that want to retain control over their models and data.&lt;br&gt;&lt;br&gt;Initially wholly owned by Ondas, Regna will use Palantir’s AI platform and model-training infrastructure. Ondas will also be its first customer.&lt;br&gt;&lt;br&gt;The initial focus is intelligence and surveillance, with models designed to run on drones, ground vehicles and other hardware even with limited connectivity. Initial customer deployments are planned over the coming months.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUbl2bIaMAATVSH.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@wallstengine: $IONQ agreed to acquire cybersecurity firm Elisity in an all-stock deal worth up to $1.3B, includin...</title>
+      <link>https://x.com/wallstengine/status/2109608653687038015</link>
+      <guid isPermaLink="true">https://x.com/wallstengine/status/2109608653687038015</guid>
+      <dc:creator>@wallstengine</dc:creator>
+      <pubDate>Mon, 12 Oct 2026 11:34:32 GMT</pubDate>
+      <description>$IONQ agreed to acquire cybersecurity firm Elisity in an all-stock deal worth up to $1.3B, including up to $150M in performance-based payments.
+
+Elisity’s platform helps prevent hackers and ransomware from spreading across company networks.</description>
+      <content:encoded>&lt;p&gt;$IONQ agreed to acquire cybersecurity firm Elisity in an all-stock deal worth up to $1.3B, including up to $150M in performance-based payments.&lt;br&gt;&lt;br&gt;Elisity’s platform helps prevent hackers and ransomware from spreading across company networks.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUbV4vYaAAATK6l.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@Hedgeye: Oil moving higher:</title>
       <link>https://x.com/Hedgeye/status/2109607433010032843</link>
@@ -13144,118 +13269,6 @@ Energy inflation expectations continue to push higher.</description>
       <pubDate>Mon, 28 Sep 2026 14:02:39 GMT</pubDate>
       <description>Fourth times the charm? $AMC</description>
       <content:encoded>&lt;p&gt;Fourth times the charm? $AMC&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTxhNaXAAETM8v.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: 🇨🇳 China's top intelligence agency warns anonymity in crypto is a "false proposition" an...</title>
-      <link>https://x.com/WatcherGuru/status/2104570221948174517</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2104570221948174517</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 13:53:36 GMT</pubDate>
-      <description>JUST IN: 🇨🇳 China's top intelligence agency warns anonymity in crypto is a "false proposition" and an "illusion."
-
-China's Ministry of State Security says foreign intelligence agencies use the "illusion" of crypto anonymity to trick citizens into espionage recruitment, claiming crypto is untraceable.
-
-China says blockchain transactions leave a permanent digital trail, and converting between fiat and crypto makes it easy to expose people's identities.</description>
-      <content:encoded>&lt;p&gt;JUST IN: 🇨🇳 China&amp;apos;s top intelligence agency warns anonymity in crypto is a &amp;quot;false proposition&amp;quot; and an &amp;quot;illusion.&amp;quot;&lt;br&gt;&lt;br&gt;China&amp;apos;s Ministry of State Security says foreign intelligence agencies use the &amp;quot;illusion&amp;quot; of crypto anonymity to trick citizens into espionage recruitment, claiming crypto is untraceable.&lt;br&gt;&lt;br&gt;China says blockchain transactions leave a permanent digital trail, and converting between fiat and crypto makes it easy to expose people&amp;apos;s identities.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WOLF_Financial: SpaceX $SPCX just deployed 26 Starlink V3 satellites into orbit. Each V3 is designed for: • ~1 Tbps...</title>
-      <link>https://x.com/WOLF_Financial/status/2104567292914995338</link>
-      <guid isPermaLink="true">https://x.com/WOLF_Financial/status/2104567292914995338</guid>
-      <dc:creator>@WOLF_Financial</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 13:41:58 GMT</pubDate>
-      <description>SpaceX $SPCX just deployed 26 Starlink V3 satellites into orbit.
-
-Each V3 is designed for:
-
-• ~1 Tbps downlink
-• ~160 Gbps uplink
-• ~10x V2 downlink capacity
-• ~22x V2 uplink capacity
-
-That’s ~26 Tbps of designed downlink capacity from this flight alone.
-
-Future Starship missions are expected to carry up to 60 V3 satellites, potentially adding ~60 Tbps in a single launch and around 20x the Starlink capacity of a Falcon 9 V2 mission.</description>
-      <content:encoded>&lt;p&gt;SpaceX $SPCX just deployed 26 Starlink V3 satellites into orbit.&lt;br&gt;&lt;br&gt;Each V3 is designed for:&lt;br&gt;&lt;br&gt;• ~1 Tbps downlink&lt;br&gt;• ~160 Gbps uplink&lt;br&gt;• ~10x V2 downlink capacity&lt;br&gt;• ~22x V2 uplink capacity&lt;br&gt;&lt;br&gt;That’s ~26 Tbps of designed downlink capacity from this flight alone.&lt;br&gt;&lt;br&gt;Future Starship missions are expected to carry up to 60 V3 satellites, potentially adding ~60 Tbps in a single launch and around 20x the Starlink capacity of a Falcon 9 V2 mission.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTsyYPaYAE0CKO.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@KobeissiLetter: BREAKING: Spot gold and silver prices extend losses to nearly -4% and -5% on the day as the US 10Y...</title>
-      <link>https://x.com/KobeissiLetter/status/2104565777437196306</link>
-      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2104565777437196306</guid>
-      <dc:creator>@KobeissiLetter</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 13:35:56 GMT</pubDate>
-      <description>BREAKING: Spot gold and silver prices extend losses to nearly -4% and -5% on the day as the US 10Y Note Yield rises to a fresh 19-year high.
-
-Gold and silver have erased a combined -$1.2 trillion in market cap today.</description>
-      <content:encoded>&lt;p&gt;BREAKING: Spot gold and silver prices extend losses to nearly -4% and -5% on the day as the US 10Y Note Yield rises to a fresh 19-year high.&lt;br&gt;&lt;br&gt;Gold and silver have erased a combined -$1.2 trillion in market cap today.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTrR7HXwAEWxeT.png?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTrR7YW0AAEGPt.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: SpaceX $SPCX says Starship reached orbit for the first time despite an engine issue, with engineers...</title>
-      <link>https://x.com/wallstengine/status/2104561672631575039</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2104561672631575039</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 13:19:38 GMT</pubDate>
-      <description>SpaceX $SPCX says Starship reached orbit for the first time despite an engine issue, with engineers finding a workaround that kept the mission going.
-
-Congrats to the @SpaceX team and @elonmusk</description>
-      <content:encoded>&lt;p&gt;SpaceX $SPCX says Starship reached orbit for the first time despite an engine issue, with engineers finding a workaround that kept the mission going.&lt;br&gt;&lt;br&gt;Congrats to the @SpaceX team and @elonmusk&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2104560614626766848/img/WR9uvl1CQ0MlhUhG.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: 🇮🇷 US Senate investigation finds Iran is widely using Tether's $USDT to bypass sanctions...</title>
-      <link>https://x.com/WatcherGuru/status/2104559434907222101</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2104559434907222101</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 13:10:44 GMT</pubDate>
-      <description>JUST IN: 🇮🇷 US Senate investigation finds Iran is widely using Tether's $USDT to bypass sanctions, WSJ reports.</description>
-      <content:encoded>&lt;p&gt;JUST IN: 🇮🇷 US Senate investigation finds Iran is widely using Tether&amp;apos;s $USDT to bypass sanctions, WSJ reports.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTlpd0XUAAiEQX.jpg?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTlpd4X0AE86r8.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@Hedgeye: Defense equipment shipments have doubled over the past decade</title>
-      <link>https://x.com/Hedgeye/status/2104558921805623514</link>
-      <guid isPermaLink="true">https://x.com/Hedgeye/status/2104558921805623514</guid>
-      <dc:creator>@Hedgeye</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 13:08:42 GMT</pubDate>
-      <description>Defense equipment shipments have doubled over the past decade</description>
-      <content:encoded>&lt;p&gt;Defense equipment shipments have doubled over the past decade&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTkXvYXQAA1RDF.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Former MongoDB CEO CJ Desai on joining $META to lead its Enterprise Platform: “Over the next few ye...</title>
-      <link>https://x.com/wallstengine/status/2104557583055122822</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2104557583055122822</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 13:03:23 GMT</pubDate>
-      <description>Former MongoDB CEO CJ Desai on joining $META to lead its Enterprise Platform:
-
-“Over the next few years, biz of every size will rebuild how they innovate, sell, serve customers &amp; run day to day efficiently using AI”
-
-Meta has a “rare advantage” in models, infrastructure &amp; agents.</description>
-      <content:encoded>&lt;p&gt;Former MongoDB CEO CJ Desai on joining $META to lead its Enterprise Platform:&lt;br&gt;&lt;br&gt;“Over the next few years, biz of every size will rebuild how they innovate, sell, serve customers &amp;amp; run day to day efficiently using AI”&lt;br&gt;&lt;br&gt;Meta has a “rare advantage” in models, infrastructure &amp;amp; agents.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTj5-wbgAAfhWN.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@WatcherGuru: JUST IN: $META CEO Mark Zuckerberg says superintelligence will create "significant new opportunitie...</title>
-      <link>https://x.com/WatcherGuru/status/2104555895841767718</link>
-      <guid isPermaLink="true">https://x.com/WatcherGuru/status/2104555895841767718</guid>
-      <dc:creator>@WatcherGuru</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 12:56:40 GMT</pubDate>
-      <description>JUST IN: $META CEO Mark Zuckerberg says superintelligence will create "significant new opportunities" for all people and businesses.</description>
-      <content:encoded>&lt;p&gt;JUST IN: $META CEO Mark Zuckerberg says superintelligence will create &amp;quot;significant new opportunities&amp;quot; for all people and businesses.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: $META is launching Meta Enterprise Platform, a new business focused on selling its AI tools and ser...</title>
-      <link>https://x.com/wallstengine/status/2104554331345457387</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2104554331345457387</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 12:50:27 GMT</pubDate>
-      <description>$META is launching Meta Enterprise Platform, a new business focused on selling its AI tools and services directly to companies and developers.
-
-The initial offering will bring together Meta’s enterprise AI stack, including Muse, Meta Business Agent, Muse API, Muse Code and other tools built on its models, agents and infrastructure.
-
-The goal is to help businesses use AI across customer engagement, development and broader enterprise workflows.
-
-Former MongoDB CEO and President CJ Desai is joining Meta as Chief Enterprise Platform Officer to lead the new business, reporting directly to Mark Zuckerberg.
-
-Before MongoDB, Desai led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO.</description>
-      <content:encoded>&lt;p&gt;$META is launching Meta Enterprise Platform, a new business focused on selling its AI tools and services directly to companies and developers.&lt;br&gt;&lt;br&gt;The initial offering will bring together Meta’s enterprise AI stack, including Muse, Meta Business Agent, Muse API, Muse Code and other tools built on its models, agents and infrastructure.&lt;br&gt;&lt;br&gt;The goal is to help businesses use AI across customer engagement, development and broader enterprise workflows.&lt;br&gt;&lt;br&gt;Former MongoDB CEO and President CJ Desai is joining Meta as Chief Enterprise Platform Officer to lead the new business, reporting directly to Mark Zuckerberg.&lt;br&gt;&lt;br&gt;Before MongoDB, Desai led product and engineering at Cloudflare and spent nearly eight years at ServiceNow, including as President and COO.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTg5EaaQAEmWS9.png?name=orig" alt=""&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTTg8vWaAAE3gMO.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
