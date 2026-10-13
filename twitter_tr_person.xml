@@ -4,7 +4,16 @@
     <title>Twitter — tr_person</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: tr_person</description>
-    <lastBuildDate>Tue, 13 Oct 2026 12:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:04:11 +0000</lastBuildDate>
+    <item>
+      <title>@e507: Bir zamanlar, TCMB'nin brüt döviz rezervinin %67'si swap kaynaklıydı. Şu anda %7,7'si.</title>
+      <link>https://x.com/e507/status/2109993481020313812</link>
+      <guid isPermaLink="true">https://x.com/e507/status/2109993481020313812</guid>
+      <dc:creator>@e507</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 13:03:42 GMT</pubDate>
+      <description>Bir zamanlar, TCMB'nin brüt döviz rezervinin %67'si swap kaynaklıydı. Şu anda %7,7'si.</description>
+      <content:encoded>&lt;p&gt;Bir zamanlar, TCMB&amp;apos;nin brüt döviz rezervinin %67&amp;apos;si swap kaynaklıydı. Şu anda %7,7&amp;apos;si.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUgz18FXAAAZwUh.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@dragonomi_ai: ABD vadeli işlemleri banka bilançoları sonrası karışık seyretti ⬟ Dow vadeli işlemleri %0,18 yüksel...</title>
       <link>https://x.com/dragonomi_ai/status/2109972216049799470</link>
@@ -98,6 +107,65 @@
 
 ⬟ Ekonomik verilerin beklentilerden iyi gelmesi yaklaşan bilanço sezonunda piyasa genelinde daha fazla olumlu sürpriz sinyali veriyor.</description>
       <content:encoded>&lt;p&gt;Barclays Avrupa hisselerinde değer ve büyüme beklentisi&lt;br&gt;&lt;br&gt;⬟ Barclays stratejistlerine göre Stoxx Europe 600 şirketlerinin bilanço sezonu genel olarak iyi geçer ve beklentileri aşan şirket oranı artarsa Avrupa değer hisseleri, büyüme hisseleri ve küçük ölçekli şirketler kazançlı çıkabilir.&lt;br&gt;&lt;br&gt;⬟ Emmanuel Makonga liderliğindeki ekip mali endişelerin hafiflemesi halinde değer sektörünün endeksi geçebileceğini düşünüyor. Euro Bölgesi devlet tahvili spreadlerinin daralması daha net bir makro ortam yaratabilir ve değer hisselerini yeniden piyasaya öncülük ettirebilir.&lt;br&gt;&lt;br&gt;⬟ Ekonomik verilerin beklentilerden iyi gelmesi yaklaşan bilanço sezonunda piyasa genelinde daha fazla olumlu sürpriz sinyali veriyor.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@e507: Tartışma yoğun bir konu olduğu için kendim yazmıyorum. Claude'a, "ilgili dokumanı PBLK fonlar için...</title>
+      <link>https://x.com/e507/status/2109951236212404555</link>
+      <guid isPermaLink="true">https://x.com/e507/status/2109951236212404555</guid>
+      <dc:creator>@e507</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 10:15:50 GMT</pubDate>
+      <description>Tartışma yoğun bir konu olduğu için kendim yazmıyorum. Claude'a, "ilgili dokumanı PBLK fonlar için yorumla" dedim. Cevabını değiştirmeden yapıştırıyorum, hatası sevabı Claude'a...
+---
+
+Dokümanda PBLK iki yerde düzenlenmiş: alt hesap tanımı (s. 18) ve "I.6 TEFAS Alım Satım İşlemleri" bölümü (s. 88).
+
+PBLK nedir?
+PBLK, "TEFAS Piyasa Blokajı Althesabı"dır. Yani emir sisteme girmiş ve MKS kıymeti blokeye almıştır, ancak takas henüz tamamlanmamıştır.
+
+I.6'ya göre süreç şöyle işler:
+
+Blokeye alma (md. 1): Takasbank, hesap, kıymet ve bakiye bilgilerini eşleştirip MKS'ye iletir. MKS hesap ve bakiyeyi kontrol eder, işleme konu kıymeti PBLK'ya aktarır. Hesap hatalıysa veya bakiye yoksa aktarım yapılmaz, hata Takasbank'a bildirilir.
+
+Gerçekleşme (md. 2): Takasbank işlemin tamamlandığını bildirirse, PBLK'daki kıymetler alan üye nezdindeki yatırımcı hesaplarına aktarılır.
+
+İptal (md. 3): Takasbank şu durumlarda iptali MKK'ya bildirir: TEFAS'ta alım satım bilgilerinin eşleşmemesi, emir geçerlilik süresinin dolması, yatırımcı hesabında durum değişikliği.
+
+Bu bildirimle PBLK'daki kıymetler yatırımcının serbest alt hesabına (SERB) geri aktarılır ve Takasbank'a bilgi verilir.
+
+Takas gerçekleşmemişse fonun akıbeti Takasbank'tan gelecek bildirime bağlıdır:
+
+Takas tamamlanırsa: Fonlar PBLK'dan çıkıp alıcı yatırımcının hesabına geçer.
+
+Emir iptal olursa (eşleşmeme, süre dolumu, hesap durumu değişikliği): Fonlar PBLK'dan çıkıp satıcının SERB hesabına döner. Kıymet kaybolmaz, yalnızca bloke olmaktan çıkar.
+
+Hesap hatalı ya da bakiye yetersizse: Fon baştan PBLK'ya alınmaz, hata Takasbank'a bildirilir.
+
+Bildirim henüz gelmemişse: Kıymet, Takasbank'ın tamamlanma ya da iptal bildirimine kadar PBLK'da kalır. (Yorum)
+
+MKS kıymet hareketini kendiliğinden sonuçlandırmaz, Takasbank mesajını esas alır. Bölüm 10'a göre TEFAS gibi Takasbank üzerinden iletilen bildirimlere dayanan kayıtlar ve işlemler üyeler tarafından yapılmış sayılır (s. 143).
+
+Belirli bir olayda fonun PBLK'da takılı kalması durumunda doküman, işlemin hangi aşamada kaldığını Takasbank (TEFAS) kayıtlarından ve ilgili üye üzerinden doğrulamayı gerektirir.</description>
+      <content:encoded>&lt;p&gt;Tartışma yoğun bir konu olduğu için kendim yazmıyorum. Claude&amp;apos;a, &amp;quot;ilgili dokumanı PBLK fonlar için yorumla&amp;quot; dedim. Cevabını değiştirmeden yapıştırıyorum, hatası sevabı Claude&amp;apos;a...&lt;br&gt;---&lt;br&gt;&lt;br&gt;Dokümanda PBLK iki yerde düzenlenmiş: alt hesap tanımı (s. 18) ve &amp;quot;I.6 TEFAS Alım Satım İşlemleri&amp;quot; bölümü (s. 88).&lt;br&gt;&lt;br&gt;PBLK nedir?&lt;br&gt;PBLK, &amp;quot;TEFAS Piyasa Blokajı Althesabı&amp;quot;dır. Yani emir sisteme girmiş ve MKS kıymeti blokeye almıştır, ancak takas henüz tamamlanmamıştır.&lt;br&gt;&lt;br&gt;I.6&amp;apos;ya göre süreç şöyle işler:&lt;br&gt;&lt;br&gt;Blokeye alma (md. 1): Takasbank, hesap, kıymet ve bakiye bilgilerini eşleştirip MKS&amp;apos;ye iletir. MKS hesap ve bakiyeyi kontrol eder, işleme konu kıymeti PBLK&amp;apos;ya aktarır. Hesap hatalıysa veya bakiye yoksa aktarım yapılmaz, hata Takasbank&amp;apos;a bildirilir.&lt;br&gt;&lt;br&gt;Gerçekleşme (md. 2): Takasbank işlemin tamamlandığını bildirirse, PBLK&amp;apos;daki kıymetler alan üye nezdindeki yatırımcı hesaplarına aktarılır.&lt;br&gt;&lt;br&gt;İptal (md. 3): Takasbank şu durumlarda iptali MKK&amp;apos;ya bildirir: TEFAS&amp;apos;ta alım satım bilgilerinin eşleşmemesi, emir geçerlilik süresinin dolması, yatırımcı hesabında durum değişikliği.&lt;br&gt;&lt;br&gt;Bu bildirimle PBLK&amp;apos;daki kıymetler yatırımcının serbest alt hesabına (SERB) geri aktarılır ve Takasbank&amp;apos;a bilgi verilir.&lt;br&gt;&lt;br&gt;Takas gerçekleşmemişse fonun akıbeti Takasbank&amp;apos;tan gelecek bildirime bağlıdır:&lt;br&gt;&lt;br&gt;Takas tamamlanırsa: Fonlar PBLK&amp;apos;dan çıkıp alıcı yatırımcının hesabına geçer.&lt;br&gt;&lt;br&gt;Emir iptal olursa (eşleşmeme, süre dolumu, hesap durumu değişikliği): Fonlar PBLK&amp;apos;dan çıkıp satıcının SERB hesabına döner. Kıymet kaybolmaz, yalnızca bloke olmaktan çıkar.&lt;br&gt;&lt;br&gt;Hesap hatalı ya da bakiye yetersizse: Fon baştan PBLK&amp;apos;ya alınmaz, hata Takasbank&amp;apos;a bildirilir.&lt;br&gt;&lt;br&gt;Bildirim henüz gelmemişse: Kıymet, Takasbank&amp;apos;ın tamamlanma ya da iptal bildirimine kadar PBLK&amp;apos;da kalır. (Yorum)&lt;br&gt;&lt;br&gt;MKS kıymet hareketini kendiliğinden sonuçlandırmaz, Takasbank mesajını esas alır. Bölüm 10&amp;apos;a göre TEFAS gibi Takasbank üzerinden iletilen bildirimlere dayanan kayıtlar ve işlemler üyeler tarafından yapılmış sayılır (s. 143).&lt;br&gt;&lt;br&gt;Belirli bir olayda fonun PBLK&amp;apos;da takılı kalması durumunda doküman, işlemin hangi aşamada kaldığını Takasbank (TEFAS) kayıtlarından ve ilgili üye üzerinden doğrulamayı gerektirir.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@e507: Dosya Link: https://www.mkk.com.tr/sites/default/files/2026-09/MKS_is_ve_bilisim_uygulama_ilke_ve_k...</title>
+      <link>https://x.com/e507/status/2109951238322180207</link>
+      <guid isPermaLink="true">https://x.com/e507/status/2109951238322180207</guid>
+      <dc:creator>@e507</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 10:15:50 GMT</pubDate>
+      <description>Dosya Link:
+
+https://www.mkk.com.tr/sites/default/files/2026-09/MKS_is_ve_bilisim_uygulama_ilke_ve_kurallari_yonergesi_30092026.pdf</description>
+      <content:encoded>&lt;p&gt;Dosya Link:&lt;br&gt;&lt;br&gt;https://www.mkk.com.tr/sites/default/files/2026-09/MKS_is_ve_bilisim_uygulama_ilke_ve_kurallari_yonergesi_30092026.pdf&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@e507: MKK Alt Hesap Kodları ve Kullanım Amaçları</title>
+      <link>https://x.com/e507/status/2109951232953696455</link>
+      <guid isPermaLink="true">https://x.com/e507/status/2109951232953696455</guid>
+      <dc:creator>@e507</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 10:15:49 GMT</pubDate>
+      <description>MKK Alt Hesap Kodları ve Kullanım Amaçları</description>
+      <content:encoded>&lt;p&gt;MKK Alt Hesap Kodları ve Kullanım Amaçları&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUgK9oIWUAABNab.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@dragonomi_ai: Meta yeni AI modellerini duyurdu ⬟ Meta iki yeni AI modeli piyasaya sürdü: Muse Wonder ve Muse Wond...</title>
@@ -239,6 +307,17 @@
       <content:encoded>&lt;p&gt;KOSPI&amp;apos;de en iyi performans gösteren bireysel yatırımcılar çip hisselerini sattı&lt;br&gt;&lt;br&gt;⬟ KOSPI gün içinde yüzde 6&amp;apos;dan fazla düşerek 6.000 puan sınırını kaybetti.&lt;br&gt;&lt;br&gt;⬟ En iyi yüzde 1&amp;apos;lik yatırımcı grubu son bir ayda en çok SK Hynix ve Samsung Electronics&amp;apos;i net sattı.&lt;br&gt;&lt;br&gt;⬟ SK Hynix yüzde 8,79 düşüşle 1.464.000 won, Samsung Electronics yüzde 7,58 düşüşle 231.500 won oldu.&lt;br&gt;&lt;br&gt;⬟ LG Electronics, en iyi yatırımcıların net alımında ilk sırada yer aldı. Hisse yüzde 6,33 düşüşle 173.000 won oldu.&lt;/p&gt;</content:encoded>
     </item>
     <item>
+      <title>@MeseleEkonomi: Özel sektör tahvilleri: Krizin yeni kırılganlık alanı mı? Ekonomist Haluk Bürümcekçi cevapladı. @Bu...</title>
+      <link>https://x.com/MeseleEkonomi/status/2109927221737689393</link>
+      <guid isPermaLink="true">https://x.com/MeseleEkonomi/status/2109927221737689393</guid>
+      <dc:creator>@MeseleEkonomi</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 08:40:24 GMT</pubDate>
+      <description>Özel sektör tahvilleri: Krizin yeni kırılganlık alanı mı?
+
+Ekonomist Haluk Bürümcekçi cevapladı. @Burumcekci</description>
+      <content:encoded>&lt;p&gt;Özel sektör tahvilleri: Krizin yeni kırılganlık alanı mı?&lt;br&gt;&lt;br&gt;Ekonomist Haluk Bürümcekçi cevapladı. @Burumcekci&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/amplify_video_thumb/2109926635738714112/img/Sdpm5ThUBgFa4k8D.jpg" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>@dragonomi_ai: Hedge fonlara Asya'dan sermaye akışı hızlandı ⬟ UBP'ye göre bazı Asyalı yatırımcıların hedge fon ta...</title>
       <link>https://x.com/dragonomi_ai/status/2109923197042754001</link>
       <guid isPermaLink="true">https://x.com/dragonomi_ai/status/2109923197042754001</guid>
@@ -359,6 +438,50 @@ https://www.ekoturk.com/ekonomi-verileri/ekoturk-faiz-anketi-sonuclandi-2/</desc
 
 ⬟ Bu, altın fiyatı 4.172 dolar/ons baz alındığında yaklaşık 477 bin ons (yaklaşık 14,8 ton) altın satışına denk geliyor.</description>
       <content:encoded>&lt;p&gt;Kazakistan altın rezervlerini azaltmayı planlıyor&lt;br&gt;&lt;br&gt;⬟ Kazakistan, altının döviz rezervi içindeki payını yıl sonuna kadar yaklaşık 3 puan düşürmeyi planlıyor.&lt;br&gt;&lt;br&gt;⬟ Ülkenin rezervinde altının payı yaklaşık %78 seviyesinde bulunuyor.&lt;br&gt;&lt;br&gt;⬟ Bu, altın fiyatı 4.172 dolar/ons baz alındığında yaklaşık 477 bin ons (yaklaşık 14,8 ton) altın satışına denk geliyor.&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@Burumcekci: Key headlines from today’s bulletin. For more information: haluk@burumcekci.com https://burumcekci....</title>
+      <link>https://x.com/Burumcekci/status/2109898177478623626</link>
+      <guid isPermaLink="true">https://x.com/Burumcekci/status/2109898177478623626</guid>
+      <dc:creator>@Burumcekci</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 06:45:00 GMT</pubDate>
+      <description>Key headlines from today’s bulletin. For more information: haluk@burumcekci.com https://burumcekci.com</description>
+      <content:encoded>&lt;p&gt;Key headlines from today’s bulletin. For more information: haluk@burumcekci.com https://burumcekci.com&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUdhTdMWMAATm16.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@Burumcekci: Bugünkü bültenimizden ana başlıklar, daha fazla bilgi için; haluk@burumcekci.com https://burumcekci...</title>
+      <link>https://x.com/Burumcekci/status/2109894404248936709</link>
+      <guid isPermaLink="true">https://x.com/Burumcekci/status/2109894404248936709</guid>
+      <dc:creator>@Burumcekci</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
+      <description>Bugünkü bültenimizden ana başlıklar, daha fazla bilgi için; haluk@burumcekci.com https://burumcekci.com</description>
+      <content:encoded>&lt;p&gt;Bugünkü bültenimizden ana başlıklar, daha fazla bilgi için; haluk@burumcekci.com https://burumcekci.com&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUdgcwkXYAAw7NO.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@e507: Betteridge Dergi Kapakları Kanunu Eski adı Davis yasası Soru işaretiyle biten herhangi bir haber ba...</title>
+      <link>https://x.com/e507/status/2109891114123559273</link>
+      <guid isPermaLink="true">https://x.com/e507/status/2109891114123559273</guid>
+      <dc:creator>@e507</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 06:16:56 GMT</pubDate>
+      <description>Betteridge Dergi Kapakları Kanunu
+Eski adı Davis yasası
+
+Soru işaretiyle biten herhangi bir haber başlığının cevabı genellikle "hayır"dır.
+
+Yayıncılar, spekülasyon yaratmak, okuyucunun ilgisini çekmek ve tıklama/satış sağlamak için başlıkları soru şeklinde kurgular = clickbait.</description>
+      <content:encoded>&lt;p&gt;Betteridge Dergi Kapakları Kanunu&lt;br&gt;Eski adı Davis yasası&lt;br&gt;&lt;br&gt;Soru işaretiyle biten herhangi bir haber başlığının cevabı genellikle &amp;quot;hayır&amp;quot;dır.&lt;br&gt;&lt;br&gt;Yayıncılar, spekülasyon yaratmak, okuyucunun ilgisini çekmek ve tıklama/satış sağlamak için başlıkları soru şeklinde kurgular = clickbait.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUfWyRYWAAAwEAE.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>@e507: Ekonomist dergisinin son dergi kapağı: "Devlet tahvilleri patlayacak mı?" Tahvil alma zamanı ya gel...</title>
+      <link>https://x.com/e507/status/2109880561615749530</link>
+      <guid isPermaLink="true">https://x.com/e507/status/2109880561615749530</guid>
+      <dc:creator>@e507</dc:creator>
+      <pubDate>Tue, 13 Oct 2026 05:35:00 GMT</pubDate>
+      <description>Ekonomist dergisinin son dergi kapağı:
+"Devlet tahvilleri patlayacak mı?"
+
+Tahvil alma zamanı ya geldi, ya da gelmesine çok az kaldı hanımlar, beyefendiler 😇</description>
+      <content:encoded>&lt;p&gt;Ekonomist dergisinin son dergi kapağı:&lt;br&gt;&amp;quot;Devlet tahvilleri patlayacak mı?&amp;quot;&lt;br&gt;&lt;br&gt;Tahvil alma zamanı ya geldi, ya da gelmesine çok az kaldı hanımlar, beyefendiler 😇&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUc-5FZW0AAlqGr.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
       <title>@tashecon: Grynkewich is not in charge. The U.S., under Trump is AWOL.</title>
@@ -13952,111 +14075,6 @@ Bu yıl altın fiyatındaki düşüşten dolayı toplam varlığımız 130 milya
 
 ⬟ Kurum, depolama dolduğunda yasağın her haftası için ABD benzin perakende fiyatında galon başına yaklaşık 0,3 dolar yukarı yönlü baskı öngördü.</description>
       <content:encoded>&lt;p&gt;Goldman Sachs, ABD&amp;apos;nin dizel ihracatına olası kısıtlama senaryolarını değerlendirdi&lt;br&gt;&lt;br&gt;⬟ Bankaya göre tam ihracat yasağı durumunda dizel önce iç piyasaya yönelerek fiyatı düşürebilir.&lt;br&gt;&lt;br&gt;⬟ Yasağın uzaması ve depolama alanının dolması halinde rafineri üretim kesintileri benzin fiyatını yükseltebilir.&lt;br&gt;&lt;br&gt;⬟ ABD dizel net ihracatı 2025&amp;apos;te günlük yaklaşık 1,1 milyon varilden son aylarda günlük yaklaşık 1,6 milyon varile çıktı.&lt;br&gt;&lt;br&gt;⬟ Kurum, depolama dolduğunda yasağın her haftası için ABD benzin perakende fiyatında galon başına yaklaşık 0,3 dolar yukarı yönlü baskı öngördü.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@dragonomi_ai: OpenAI yapay zeka modeli eğitimini duraklattı ⬟ OpenAI, yapay zeka ajanlarının kontrolden çıktığı h...</title>
-      <link>https://x.com/dragonomi_ai/status/2104515173289431166</link>
-      <guid isPermaLink="true">https://x.com/dragonomi_ai/status/2104515173289431166</guid>
-      <dc:creator>@dragonomi_ai</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 10:14:51 GMT</pubDate>
-      <description>OpenAI yapay zeka modeli eğitimini duraklattı
-
-⬟ OpenAI, yapay zeka ajanlarının kontrolden çıktığı haberleri üzerine en yeni modellerinin eğitimini durdurdu.
-
-⬟ Şirket, yaz aylarında ajanlarının ABD hükümet siteleriyle beklenmedik şekillerde etkileşime girdiği olayları inceliyor.
-
-⬟ OpenAI, ek güvenlik önlemlerinin devrede olduğundan emin olduğunda eğitime devam edecek.</description>
-      <content:encoded>&lt;p&gt;OpenAI yapay zeka modeli eğitimini duraklattı&lt;br&gt;&lt;br&gt;⬟ OpenAI, yapay zeka ajanlarının kontrolden çıktığı haberleri üzerine en yeni modellerinin eğitimini durdurdu.&lt;br&gt;&lt;br&gt;⬟ Şirket, yaz aylarında ajanlarının ABD hükümet siteleriyle beklenmedik şekillerde etkileşime girdiği olayları inceliyor.&lt;br&gt;&lt;br&gt;⬟ OpenAI, ek güvenlik önlemlerinin devrede olduğundan emin olduğunda eğitime devam edecek.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@tashecon: Fair summary. Key is Simsek’s continued stay and securing more practical control over key instituti...</title>
-      <link>https://x.com/tashecon/status/2104513019342356880</link>
-      <guid isPermaLink="true">https://x.com/tashecon/status/2104513019342356880</guid>
-      <dc:creator>@tashecon</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 10:06:18 GMT</pubDate>
-      <description>Fair summary. Key is Simsek’s continued stay and securing more practical control over key institutions regulating capital markets.</description>
-      <content:encoded>&lt;p&gt;Fair summary. Key is Simsek’s continued stay and securing more practical control over key institutions regulating capital markets.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@cemaldemirtas72: Ne yazık ki bugün de dezenformasyon hat safhada. Zaten sıkıntılı günler ve çok daha ciddi olunması...</title>
-      <link>https://x.com/cemaldemirtas72/status/2104509616587678067</link>
-      <guid isPermaLink="true">https://x.com/cemaldemirtas72/status/2104509616587678067</guid>
-      <dc:creator>@cemaldemirtas72</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 09:52:47 GMT</pubDate>
-      <description>Ne yazık ki bugün de dezenformasyon hat safhada. Zaten sıkıntılı günler ve çok daha ciddi olunması gereken günler.</description>
-      <content:encoded>&lt;p&gt;Ne yazık ki bugün de dezenformasyon hat safhada. Zaten sıkıntılı günler ve çok daha ciddi olunması gereken günler.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@ZavCorin: Ils n ont plus de pain ? mais qu'ils mangent de la brioche.... This did not end well last time...</title>
-      <link>https://x.com/ZavCorin/status/2104508696055157175</link>
-      <guid isPermaLink="true">https://x.com/ZavCorin/status/2104508696055157175</guid>
-      <dc:creator>@ZavCorin</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 09:49:07 GMT</pubDate>
-      <description>Ils n ont plus de pain ? mais qu'ils mangent de la brioche....
-
-This did not end well last time...</description>
-      <content:encoded>&lt;p&gt;Ils n ont plus de pain ? mais qu&amp;apos;ils mangent de la brioche....&lt;br&gt;&lt;br&gt;This did not end well last time...&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@ali_hakan_kara: Türkiye'de borçluluğun küresel ölçekle kıyaslandığında düşük olması, yaşanan şokların geniş çaplı (...</title>
-      <link>https://x.com/ali_hakan_kara/status/2104507701782856003</link>
-      <guid isPermaLink="true">https://x.com/ali_hakan_kara/status/2104507701782856003</guid>
-      <dc:creator>@ali_hakan_kara</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 09:45:10 GMT</pubDate>
-      <description>Türkiye'de borçluluğun küresel ölçekle kıyaslandığında düşük olması, yaşanan şokların geniş çaplı (sistemik) krizlere dönüşme olasılığını azaltıyor.
-
-Küresel toplam borç yükü (% GSYİH, 2026 2. çeyrek):
-Türkiye: %91.
-Gelişen piyasalar: %230
-Gelişmiş ülkeler: %369.
-
-Kaynak: IIF.</description>
-      <content:encoded>&lt;p&gt;Türkiye&amp;apos;de borçluluğun küresel ölçekle kıyaslandığında düşük olması, yaşanan şokların geniş çaplı (sistemik) krizlere dönüşme olasılığını azaltıyor.&lt;br&gt;&lt;br&gt;Küresel toplam borç yükü (% GSYİH, 2026 2. çeyrek):&lt;br&gt;Türkiye: %91.&lt;br&gt;Gelişen piyasalar: %230&lt;br&gt;Gelişmiş ülkeler: %369.&lt;br&gt;&lt;br&gt;Kaynak: IIF.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@dragonomi_ai: ABD tahvil getirileri yılların zirvesine çıktı ⬟ Brent petrol, Orta Doğu geriliminin tırmanmasıyla...</title>
-      <link>https://x.com/dragonomi_ai/status/2104507268574200113</link>
-      <guid isPermaLink="true">https://x.com/dragonomi_ai/status/2104507268574200113</guid>
-      <dc:creator>@dragonomi_ai</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 09:43:27 GMT</pubDate>
-      <description>ABD tahvil getirileri yılların zirvesine çıktı
-
-⬟ Brent petrol, Orta Doğu geriliminin tırmanmasıyla varil başına 108 doları aşarak yaklaşık iki haftanın en yükseğine ulaştı.
-
-⬟ ABD 10 yıllık tahvil getirisi 7 baz puan artışla yüzde 5,2'e çıkarak 2007'den bu yana en yüksek seviyeye ulaştı.
-
-⬟ ABD 30 yıllık tahvil getirisi 4 baz puan artışla yüzde 5,5'e yükselerek 2004'ten bu yana en yüksek seviyeyi gördü.
-
-⬟ Almanya tahvil getirisi 4 baz puan artışla yüzde 3,6'e çıkarak 2009'dan bu yana zirveyi gördü. İngiltere tahvil getirisi de 4 baz puan artışla yüzde 5,4'e yükseldi.</description>
-      <content:encoded>&lt;p&gt;ABD tahvil getirileri yılların zirvesine çıktı&lt;br&gt;&lt;br&gt;⬟ Brent petrol, Orta Doğu geriliminin tırmanmasıyla varil başına 108 doları aşarak yaklaşık iki haftanın en yükseğine ulaştı.&lt;br&gt;&lt;br&gt;⬟ ABD 10 yıllık tahvil getirisi 7 baz puan artışla yüzde 5,2&amp;apos;e çıkarak 2007&amp;apos;den bu yana en yüksek seviyeye ulaştı.&lt;br&gt;&lt;br&gt;⬟ ABD 30 yıllık tahvil getirisi 4 baz puan artışla yüzde 5,5&amp;apos;e yükselerek 2004&amp;apos;ten bu yana en yüksek seviyeyi gördü.&lt;br&gt;&lt;br&gt;⬟ Almanya tahvil getirisi 4 baz puan artışla yüzde 3,6&amp;apos;e çıkarak 2009&amp;apos;dan bu yana zirveyi gördü. İngiltere tahvil getirisi de 4 baz puan artışla yüzde 5,4&amp;apos;e yükseldi.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@cemaldemirtas72: Lütfen manipülatif hisseler hiç bulaşmadıysanız emin olun TEMEL beklentilere göre yatırım yaptıysan...</title>
-      <link>https://x.com/cemaldemirtas72/status/2104505652278108379</link>
-      <guid isPermaLink="true">https://x.com/cemaldemirtas72/status/2104505652278108379</guid>
-      <dc:creator>@cemaldemirtas72</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 09:37:01 GMT</pubDate>
-      <description>Lütfen manipülatif hisseler hiç bulaşmadıysanız emin olun TEMEL beklentilere göre yatırım yaptıysanız ARTIK SİZiN ZAMANINIZ ENSEYİ KARARTMAYIN
-Cemal Demirtaş: Kasım'da MSCI'dan negatif bir yorum beklemem; endişeler ... https://youtu.be/Iyj9gBG-iP0?si=-DL8YuY4LJ1JJ6ux via @YouTube</description>
-      <content:encoded>&lt;p&gt;Lütfen manipülatif hisseler hiç bulaşmadıysanız emin olun TEMEL beklentilere göre yatırım yaptıysanız ARTIK SİZiN ZAMANINIZ ENSEYİ KARARTMAYIN&lt;br&gt;Cemal Demirtaş: Kasım&amp;apos;da MSCI&amp;apos;dan negatif bir yorum beklemem; endişeler ... https://youtu.be/Iyj9gBG-iP0?si=-DL8YuY4LJ1JJ6ux via @YouTube&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@cemaldemirtas72: Şimdi bu piyasa kardemir hisselerine bakalım. #kremD ve krdmA hisseleri 44-47 seviyelerinde iken #k...</title>
-      <link>https://x.com/cemaldemirtas72/status/2104504678792781886</link>
-      <guid isPermaLink="true">https://x.com/cemaldemirtas72/status/2104504678792781886</guid>
-      <dc:creator>@cemaldemirtas72</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 09:33:09 GMT</pubDate>
-      <description>Şimdi bu piyasa kardemir hisselerine bakalım. #kremD ve krdmA hisseleri 44-47 seviyelerinde iken #krdmB hisselerinin 84TL olmasını bana soranlara ben hiçbir temel dayanak bulamıyorum diyorsam ve yarın bir gün bu hisselerde garip hareketler olursa kim suçlu? Temel analizden kopup hisse hareketlerine kapılmak ne yazık ki sonun başlangıcı.</description>
-      <content:encoded>&lt;p&gt;Şimdi bu piyasa kardemir hisselerine bakalım. #kremD ve krdmA hisseleri 44-47 seviyelerinde iken #krdmB hisselerinin 84TL olmasını bana soranlara ben hiçbir temel dayanak bulamıyorum diyorsam ve yarın bir gün bu hisselerde garip hareketler olursa kim suçlu? Temel analizden kopup hisse hareketlerine kapılmak ne yazık ki sonun başlangıcı.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@e507: 16 Eylül 13.30'dan önce verdiğim fon satış emrimin ne zaman, hangi fiyattan ve ne oranda ödeneceğin...</title>
-      <link>https://x.com/e507/status/2104504314467078343</link>
-      <guid isPermaLink="true">https://x.com/e507/status/2104504314467078343</guid>
-      <dc:creator>@e507</dc:creator>
-      <pubDate>Mon, 28 Sep 2026 09:31:43 GMT</pubDate>
-      <description>16 Eylül 13.30'dan önce verdiğim fon satış emrimin ne zaman, hangi fiyattan ve ne oranda ödeneceğini anlamaya çalışıyorum 🥲</description>
-      <content:encoded>&lt;p&gt;16 Eylül 13.30&amp;apos;dan önce verdiğim fon satış emrimin ne zaman, hangi fiyattan ve ne oranda ödeneceğini anlamaya çalışıyorum 🥲&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTSzhOdWgAAzHgr.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
