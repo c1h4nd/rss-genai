@@ -4,7 +4,28 @@
     <title>Twitter — en_haber</title>
     <link>https://keep.md</link>
     <description>keep.md x-rss: en_haber</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:30:27 +0000</lastBuildDate>
+    <item>
+      <title>@KobeissiLetter: BREAKING: Trading volume in the S&amp;P 500 ETF, $SPY, fell to just 22.6 million shares on Friday, the...</title>
+      <link>https://x.com/KobeissiLetter/status/2110514488935895380</link>
+      <guid isPermaLink="true">https://x.com/KobeissiLetter/status/2110514488935895380</guid>
+      <dc:creator>@KobeissiLetter</dc:creator>
+      <pubDate>Wed, 14 Oct 2026 23:34:00 GMT</pubDate>
+      <description>BREAKING: Trading volume in the S&amp;P 500 ETF, $SPY, fell to just 22.6 million shares on Friday, the lowest for a full trading day since November 25th, 2005.
+
+Excluding sessions around market holidays, Friday's volume was the lowest since October 11th, 2004.
+
+By comparison, volume fell below 20 million shares on December 24th, 2019, but that was during a half-day trading session.
+
+On Monday, trading volume fell to just ~18 million shares, the lowest non-holiday reading since 2003.
+
+As a result, the 5-day average of $SPY trading activity declined below 30 million shares, its lowest on record.
+
+Meanwhile, the three previous low-volume periods in December 2024, February 2025, and August 2026 were each followed by an S&amp;P 500 pullback.
+
+Markets are in consolidation mode.</description>
+      <content:encoded>&lt;p&gt;BREAKING: Trading volume in the S&amp;amp;P 500 ETF, $SPY, fell to just 22.6 million shares on Friday, the lowest for a full trading day since November 25th, 2005.&lt;br&gt;&lt;br&gt;Excluding sessions around market holidays, Friday&amp;apos;s volume was the lowest since October 11th, 2004.&lt;br&gt;&lt;br&gt;By comparison, volume fell below 20 million shares on December 24th, 2019, but that was during a half-day trading session.&lt;br&gt;&lt;br&gt;On Monday, trading volume fell to just ~18 million shares, the lowest non-holiday reading since 2003.&lt;br&gt;&lt;br&gt;As a result, the 5-day average of $SPY trading activity declined below 30 million shares, its lowest on record.&lt;br&gt;&lt;br&gt;Meanwhile, the three previous low-volume periods in December 2024, February 2025, and August 2026 were each followed by an S&amp;amp;P 500 pullback.&lt;br&gt;&lt;br&gt;Markets are in consolidation mode.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HUoH9m3WkAENupn.jpg?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
+    </item>
     <item>
       <title>@KobeissiLetter: BREAKING: Anthropic posted Q3 2026 revenue of $16.8 billion, up nearly +50% from the $11.5 billion...</title>
       <link>https://x.com/KobeissiLetter/status/2110497672381780034</link>
@@ -13131,21 +13152,6 @@ The new capital will be used to expand AI capacity across the U.S. and Asia.
 
 Customers include OpenRouter, Fireworks AI and Higgsfield.</description>
       <content:encoded>&lt;p&gt;GMI CLOUD RAISES $668M FROM $NVDA &amp;amp; OTHERS TO EXPAND AI CAPACITY&lt;br&gt;&lt;br&gt;They raised $223M in equity &amp;amp; secured a $445M credit facility, bringing the total financing to $668M.&lt;br&gt;&lt;br&gt;NVIDIA participated in the equity round.&lt;br&gt;&lt;br&gt;GMI is one of 7 cloud providers building facilities entirely around NVIDIA’s recommended hardware and software stack, and it also participates in NVIDIA’s AI compute partnership program.&lt;br&gt;&lt;br&gt;The company says it has more than $600M in annualized revenue under contract and is now processing 1 trillion AI inference tokens per day, up 20x in six months.&lt;br&gt;&lt;br&gt;The new capital will be used to expand AI capacity across the U.S. and Asia.&lt;br&gt;&lt;br&gt;Customers include OpenRouter, Fireworks AI and Higgsfield.&lt;/p&gt;</content:encoded>
-    </item>
-    <item>
-      <title>@wallstengine: Several updates from $CRWV: Ennoble Care selected CoreWeave to run clinical AI inference across its...</title>
-      <link>https://x.com/wallstengine/status/2105284225138131423</link>
-      <guid isPermaLink="true">https://x.com/wallstengine/status/2105284225138131423</guid>
-      <dc:creator>@wallstengine</dc:creator>
-      <pubDate>Wed, 30 Sep 2026 13:10:48 GMT</pubDate>
-      <description>Several updates from $CRWV:
-
-Ennoble Care selected CoreWeave to run clinical AI inference across its home-based care network, using dedicated $NVDA RTX PRO 6000 Blackwell nodes for workloads including documentation, summarization and clinical decision support.
-
-CoreWeave also said NVIDIA Vera Rubin NVL72 is now available in production, with Cognition as the first customer running live workloads. Cognition measured 3.8x more output tokens versus GB200 NVL72.
-
-Separately, CoreWeave launched a new Partner Network with validated integrations from companies including CrowdStrike, VAST Data, ClickHouse, Reflection, Exa and You .com, all tested on CoreWeave infrastructure under production conditions.</description>
-      <content:encoded>&lt;p&gt;Several updates from $CRWV:&lt;br&gt;&lt;br&gt;Ennoble Care selected CoreWeave to run clinical AI inference across its home-based care network, using dedicated $NVDA RTX PRO 6000 Blackwell nodes for workloads including documentation, summarization and clinical decision support.&lt;br&gt;&lt;br&gt;CoreWeave also said NVIDIA Vera Rubin NVL72 is now available in production, with Cognition as the first customer running live workloads. Cognition measured 3.8x more output tokens versus GB200 NVL72.&lt;br&gt;&lt;br&gt;Separately, CoreWeave launched a new Partner Network with validated integrations from companies including CrowdStrike, VAST Data, ClickHouse, Reflection, Exa and You .com, all tested on CoreWeave infrastructure under production conditions.&lt;/p&gt;&lt;p&gt;&lt;img src="https://pbs.twimg.com/media/HTd41uGbUAA1AfM.png?name=orig" alt=""&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
