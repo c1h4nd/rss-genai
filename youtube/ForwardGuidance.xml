@@ -4,7 +4,7 @@
     <title>ForwardGuidance</title>
     <link>https://www.youtube.com/</link>
     <description>ForwardGuidance AI Summaries</description>
-    <lastBuildDate>Sat, 24 Oct 2026 00:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:12:02 +0000</lastBuildDate>
     <item>
       <title>ForwardGuidance / The Only Way Out Is Through | Weekly Roundup</title>
       <link>https://www.youtube.com/watch?v=NaQhlXV5bOI</link>
@@ -134,6 +134,43 @@ Forward Guidance · 5.7K views</p>]]></description>
 <p>İlgili YouTube videosuna buradan ulaşabilirsiniz: https://www.youtube.com/watch?v=Y7XEH6BCmjw</p>
 <p>The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup
 Forward Guidance · 18K views</p>]]></description>
+    </item>
+    <item>
+      <title>ForwardGuidance / Robinhood &amp; Lighter: Why Wall Street Is Moving Onchain</title>
+      <link>https://www.youtube.com/watch?v=pOP6ekzaCoc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pOP6ekzaCoc</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:27 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/pOP6ekzaCoc/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-13T10:00:27+00:00</p>
+<p>Bu videoda ("Robinhood &amp; Lighter: Why Wall Street Is Moving Onchain"), geleneksel finans (Tradfi) ile kripto/zincir üstü (onchain) piyasaların yakınlaşması ve geleceği masaya yatırılıyor. Önemli başlıklar ve detaylar:</p>
+<p>Konuklar ve Şirketler:</p>
+<p>Johan: Robinhood’un crypto business lideri. Robinhood, kısa süre önce (yaklaşık 3 ay önce) Robin chain adlı ağını devreye aldı.</p>
+<p>Vlad (Vladimir): Lighter kurucusu ve CEO'su. Eski bir Citadel çalışanı olan Vlad, 4 yıldır Lighter altyapısını inşa ediyor.</p>
+<p>Geleneksel Finans (TradFi) ile Kripto Piyasalarının Yakınlaşması (Convergence):</p>
+<p>Endüstri son 4-5 yılda büyük bir olgunlaşma yaşadı. Eskiden düzenleyiciler ve kurumlar (asset manager'lar, trading firmaları) blockchain'i "anlaşılmaz bir oyuncak" olarak görürken, artık Washington DC'deki düzenleyiciler dahil olmak üzere teknolojiyi derinlemesine anlıyorlar.</p>
+<p>Teknolojik altyapı, geleneksel finansın beklediği düşük latency (gecikme) seviyesini sağlarken güvenlik ve doğrulanabilirliği koruyacak noktaya geldi.</p>
+<p>Özellikle ABD'deki düzenleyici iklim (CFTC, SEC ve diğer kurumlar) önemli ölçüde adapte oldu.</p>
+<p>24/7 (Kesintisiz) İşlem Saatleri ve Küresel Piyasalar:</p>
+<p>Blok zinciri teknolojisinin en büyük avantajlarından biri 7/24 ve anlık (instant) işlem yapabilme imkanı sunması.</p>
+<p>Robinhood'un hisse token'larında (stock tokens) işlem hacminin %70'ten fazlasının borsaların kapalı olduğu saatlerde (gece ve hafta sonu) gerçekleştiği belirtiliyor. Bu da zaman dilimi sınırlarının eridiğini ve küresel talebin hafta sonu haberlerine anında tepki verebildiğini gösteriyor.</p>
+<p>Geleneksel piyasalarda hafta sonu pozisyon alamayan bireysel yatırımcılar artık hafta sonu risklerini hedge edebiliyor veya stratejilerini değiştirebiliyor.</p>
+<p>Perpetual Futures (Sürekli Vadeli İşlemler - Perps) ve Avantajları:</p>
+<p>Kripto dünyasından doğan Perps primitifi, finans dünyasında hızla ana akım haline geliyor.</p>
+<p>Geleneksel CFD (Contract for Difference) sistemlerinde yatırımcılar "house" yani aracı kurumla kapışırken ve spread dezavantajı yaşarken, Perps şeffaf bir order book (emir defteri) yapısı sunuyor.</p>
+<p>Yatırımcılar kolayca long/short pozisyon alabiliyor, kaldıraç kullanabiliyor ve portföyleri arasında cross margin yapabiliyor.</p>
+<p>RWA (Real World Assets) entegrasyonu sayesinde sadece kripto değil; emtialar, hisse senetleri ve ilerleyen süreçte opsiyonlar da aynı teminat havuzu üzerinden capital-efficient (sermaye verimli) bir şekilde yönetilebiliyor.</p>
+<p>Pre-IPO Perps ve RWA Zorlukları:</p>
+<p>Pre-IPO perpetual'ları listelerken "Hangi fiyata göre listelenecek?", "Öngörülen piyasa değerine mi yoksa hisse fiyatına mu bakılacak?" veya "IPO gerçekleşmezse uzlaşma (settlement) nasıl sağlanacak?" gibi ilginç regülasyon ve yapısal zorluklar bulunuyor.</p>
+<p>Hisse token'ları sayesinde kullanıcılar varlıklarını satıp vergi olayına (tax event) sebebiyet vermeden, Lighter üzerinde teminat olarak gösterip perps pozisyonu açabiliyor.</p>
+<p>ABD Regülasyonları ve Gelecek Görünümü:</p>
+<p>ABD pazarı (Robinhood'un 27 milyon funded hesabı bulunuyor) çok kritik. SEC ve CFTC ile federal düzeyde ortak bir çerçeve oluşturulması için çalışmalar sürüyor.</p>
+<p>Zincir üstü likidite ve clearing house modelleri ile geleneksel clearing yapıları zamanla birbirine yaklaşmaya ve entegre olmaya devam edecek. Smart wallet entegrasyonları sayesinde arka planda işlemler zincir üstünde otomatik ve pürüzsüz gerçekleşecek.</p>
+<p>Robin Hood Chain Lansmanı ve Çıkarılan Dersler:</p>
+<p>Ağın 100. gününe yaklaşıldığı belirtiliyor. Giriş bariyerleri ve karmaşıklık ortadan kaldırıldığında kullanıcıların zincir üstüne çıkma konusunda ne kadar hevesli olduğu görüldü.</p>
+<p>Stok token'ları, Lighter entegrasyonlu perps ürünleri ve cüzdan içi yerel (native) UI/UX deneyimi sayesinde kısıtlı pazarlarda bile büyük bir etkileşim yakalandı; ilerleyen dönemde ABD dahil yeni pazarlar açıldığında büyümenin katlanacağı öngörülüyor.</p>
+<p>Video Bağlantısı: https://www.youtube.com/watch?v=pOP6ekzaCoc</p>
+<p>Robinhood &amp; Lighter: Why Wall Street Is Moving Onchain
+Forward Guidance · 5.8K views</p>]]></description>
     </item>
   </channel>
 </rss>
