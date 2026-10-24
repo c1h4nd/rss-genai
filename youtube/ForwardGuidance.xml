@@ -4,7 +4,7 @@
     <title>ForwardGuidance</title>
     <link>https://www.youtube.com/</link>
     <description>ForwardGuidance AI Summaries</description>
-    <lastBuildDate>Sat, 24 Oct 2026 00:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:09:02 +0000</lastBuildDate>
     <item>
       <title>ForwardGuidance / The Only Way Out Is Through | Weekly Roundup</title>
       <link>https://www.youtube.com/watch?v=NaQhlXV5bOI</link>
@@ -46,6 +46,94 @@
 <p>The Only Way Out Is Through | Weekly Roundup</p>
 <p>The Only Way Out Is Through | Weekly Roundup
 Forward Guidance · 9K views</p>]]></description>
+    </item>
+    <item>
+      <title>ForwardGuidance / Where Is The Crypto Alpha Hiding This Cycle?</title>
+      <link>https://www.youtube.com/watch?v=LmSWQM_dmzI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=LmSWQM_dmzI</guid>
+      <pubDate>Tue, 20 Oct 2026 14:42:48 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/LmSWQM_dmzI/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-20T14:42:48+00:00</p>
+<p>İşte "Where Is The Crypto Alpha Hiding This Cycle?" başlıklı videonun önemli yerlerinin orijinal terimlerin korunduğu, detaylı bullet point'ler halindeki özeti:</p>
+<p>Katılımcılar ve Fonların Odak Alanları</p>
+<p>Arthur (Defiance Capital): Kripto odaklı liquid fund yöneticisi. 2020’den beri classic liquid venture tarzında, yüksek potansiyelli kripto varlıkları alıp elde tutma stratejisiyle yatırım yapıyor.</p>
+<p>Rajie (Framework Ventures): San Francisco merkezli erken aşama venture (erken aşama risk sermayesi) ve bir miktar liquid token yatırımları yapan yatırım firmasının genel ortağı (GP).</p>
+<p>Smack (Compound): Thesis-driven (tez odaklı) ve research-centric (araştırma merkezli) erken aşama venture firması ortağı. Daha sonradan public equities (halka açık hisseler) ve token'lara da odaklanmaya başlamış genel bir fon.</p>
+<ol>
+<li>AI ve Kripto Sektörlerinin Kesişimi (AI x Crypto)</li>
+</ol>
+<p>Geçmişteki Zorluklar (2023): 2023’ten beri kripto ve AI temalarını bir araya getirme çabasında bir zorlanma (force-fitting) ve suni birleştirme süreçleri yaşandı. Ancak son bir yılda daha mantıklı projeler ortaya çıkmaya başladı.</p>
+<p>Önemli Örnekler:</p>
+<p>En büyük open-source AI agent framework olan Hermes, aslında kripto AI tarafında bir şeyler inşa eden News Now Research ekibi tarafından geliştirildi ve meşru bir AI ekibi olarak kabul görüyorlar.</p>
+<p>Venise AI: Kripto tabanlı bir Open Router versiyonu olarak çalışıyor. Privacy-focused (gizlilik odaklı) bir şekilde inference yönlendirmesi (routing) yapmaya imkan tanıyor ve büyüme grafiği oldukça dik (hockey stick growth).</p>
+<p>Finansman Fırsatları: AI alanındaki devasa capex (sermaye harcaması) buildout süreci farklı finansman ihtiyaçları doğuruyor. Kripto, capital formation (sermaye oluşturma) açısından çok güçlü olduğundan orta ölçekli cluster financing gibi alanlarda avantaj sağlıyor (Örn: Portföy şirketi USDA'nın 150 milyon dolarlık GPU alımları için orta ölçekli küme finansmanı sunması).</p>
+<p>Toplumsal Eğilimler ve Değerler: Kripto AI verimlilik konusunda merkezi sistemlerle rekabet etmek yerine; permissionlessness (iznsizlik), coordination (koordinasyon), encryption (şifreleme) ve privacy by default (varsayılan gizlilik) gibi societal trends (toplumsal eğilimler) üzerinden değer kazanıyor. Merkezi frontier lab'lerin aksine gizliliğe öncelik veriyorlar.</p>
+<p>AI Agent'lar ve Kripto: Gelecekte AI agent'lar (ajanlar) birbiriyle etkileşime girerken geleneksel bankacılık API'leri yerine küresel ve iznsiz yapıları (kripto tabanlı ödemeler/defterler) kullanma eğiliminde olabilir. Dağıtık ve permissionless bir ledger, bu ajanların mesajlaşması ve verilerinin dayanıklılığı (durability/data availability) açısından faydalı bir deney alanı sunuyor.</p>
+<ol>
+<li>Modern Kripto Fonlarının Yapısı: Liquid ve Venture Barbell Stratejisi</li>
+</ol>
+<p>Barbell Yapısı: Fonların hem illikit (venture book) hem de likit token varlıklarını bir arada barındırması, piyasadaki volatiliteyi yönetmek için etkili bir formül sunuyor.</p>
+<p>Likid Varlıkların Boyutlandırılması (Sizing):</p>
+<p>Likit varlıklarda büyük pozisyonlar alırken piyasa yapıcılara karşı rekabet etmek zorlaşabiliyor.</p>
+<p>Yatırımcılar conviction (yüksek inanç) sahibi olduklarında, uzun vadede istedikleri token miktarını kademeli olarak toplayabiliyorlar.</p>
+<p>Giriş fiyatında %5 ila %10 arasında bir sapma/varyans (slippage/variance) bütçelenerek pozisyon inşası yönetiliyor. Amaç, kısa vadeli günlük dalgalanmalara takılmadan venture-style outcomes (risk sermayesi tarzı getiriler) elde etmek.</p>
+<ol>
+<li>Piyasada Dispersion (Ayrışma) ve Crowding (Kalabalıklaşma)</li>
+</ol>
+<p>Sağlıklı Ayrışma: Bu döngü, her şeyin aynı anda yükselip alçaldığı geçmiş dönemlerden farklı olarak ciddi bir dispersion (sektörel ayrışma) gösteriyor. Aktif yöneticiler için bu durum harika bir fırsat, zira birçok fon Bitcoin ve ETH'nin üzerinde performans (outperform) sergiliyor.</p>
+<p>Konsensüs ve Temeller: Geçmişte bir varlık akıllı para nezdinde çok "konsensüs" hale geldiğinde yükselişi biterdi. Ancak günümüzde harika fundamentals (temel veriler) ve büyüme potansiyeli olan varlıklar (Örn: Hyperliquid) konsensüs olmalarına rağmen yükselmeye devam edebiliyor.</p>
+<p>Bifurcation (İkiye Bölünme/Kutuplaşma):</p>
+<p>Perakende (retail) yatırımcılar artık yılda %50-200 arası kârlarla tatmin olmayıp 10x-20x peşinde koştukları için en uç noktadaki meme coin sektörüne yöneliyor.</p>
+<p>Kurumsal/büyük boyutlu oyuncular ise ya "majors" (ana varlıklar) ya da güçlü temellere sahip mid-cap coin'lerde konsre oluyor.</p>
+<p>Long/Short Stratejileri: Kripto ve hisse senedi piyasalarında temel verilerin fiyat hareketlerini çok net yönlendirmesi sayesinde, başarısız olan projelere karşı short pozisyon açarak para kazanmanın mümkün olduğu bir "golden age of long-short strategy" (long-short stratejilerinin altın çağındayız) yaşanıyor.</p>
+<ol>
+<li>Benchmark (Kıyaslama Ölçütü) Olarak Bitcoin</li>
+</ol>
+<p>Bitcoin'in Rolü: Sektörel ayrışmalara rağmen Bitcoin, LP'ler (limited partner / fon yatırımcıları) için hâlâ en temel benchmark olmaya devam ediyor.</p>
+<p>Spot ETF'lerin çağında, yatırımcıların doğrudan IBIT gibi araçlar yerine bir fona para yatırması için fonların Bitcoin'i outperform etmesi veya mutlak getiri (absolute return) sağlaması şart.</p>
+<ol>
+<li>Venture Tarafı: Seed (Tohum) vs. Growth (Büyüme) Aşaması Yatırımları</li>
+</ol>
+<p>Seed Aşaması Fırsatları: Geçmişte yapılan aşırı harcamalar ve yanmalar sonrasındaseed aşaması sağduyulu bir boyuta çekildi. Kaliteli kurucu (founder) sayısı azalsa da, erken aşamada outlier (sıra dışı) nitelikteki kaliteli kurucular hâlâ mevcut.</p>
+<p>AI'ın Erken Aşama Maliyetlerine Etkisi: AI araçları sayesinde girişimler daha az insan kaynağıyla (fewer employees/engineers) operasyon yürütebiliyor.</p>
+<p>5-10 milyon dolarlık erken aşama fonları artık daha az çalışan maaşına giderken, kaynakların bir kısmı compute (işlem gücü) ve API kredilerine kaydırılıyor. Ancak pazarlama ve enterprise sales (kurumsal satış) gibi alanlarda hâlâ insan gücüne ihtiyaç duyuluyor.</p>
+<p>Erken Aşamada 50x Potansiyeli: Kripto ve AI, yatırımcılara doğru yapıldığında 1-2 yıl içinde 50x gibi büyük çarpanlar (uplift) sunabilen nadir sektörler arasında yer almayı sürdürüyor.</p>
+<p>🔗 İlgili Video: YouTube Video Bağlantısı</p>
+<p>Where Is The Crypto Alpha Hiding This Cycle?
+Forward Guidance · 5.7K views</p>]]></description>
+    </item>
+    <item>
+      <title>ForwardGuidance / The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup</title>
+      <link>https://www.youtube.com/watch?v=Y7XEH6BCmjw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Y7XEH6BCmjw</guid>
+      <pubDate>Fri, 16 Oct 2026 10:00:25 +0000</pubDate>
+      <media:thumbnail url="https://i2.ytimg.com/vi/Y7XEH6BCmjw/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-16T10:00:25+00:00</p>
+<p>İşte "The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup" başlıklı videonun önemli yerlerinin orijinal finansal terimler korunarak, detaylı bir şekilde derlenmiş hali:</p>
+<p>Enflasyon Verileri ve Piyasaların Tepkisi:</p>
+<p>Haftanın başlarında gelen CPI (Tüketici Fiyat Endeksi) verisinin beklentilerin üzerinde ve sıcak ("hot") gelmesi, ardından gelen PPI (Üretici Fiyat Endeksi) verisinin de benzer şekilde yüksek çıkması piyasalarda şok etkisi yarattı.</p>
+<p>Bu verilere rağmen, tahvil faizlerinin (bond yields) önemli ölçüde ralli yapması ve faiz indirimi beklentilerinin aniden yön değiştirmesi dikkat çekti. Kısa vadede ekim ayı için bir faiz artırımı fiyatlaması %70'lerden hızla geri çekildi.</p>
+<p>Fed'in İletişimi ve "Forward Guidance" Tartışmaları:</p>
+<p>Piyasalar sıcak enflasyon verileriyle boğuşurken, Fed yetkilileri (Williams, Waller, Bowman ve Jefferson) piyasaları ekim ayındaki olası bir faiz artırımından uzaklaştırmak (talk the market off of hikes) için ardı ardına açıklamalar yaptı.</p>
+<p>Bu durum, geçmişte eleştirilen Fed'in "forward guidance" politikalarının, kriz anlarında piyasayı rahatlatmak için nasıl esnetildiğini ve politik yönelimlerin rüzgara göre değişebildiğini gösterdi.</p>
+<p>AI (Yapay Zeka) Ticareti ve Sermaye Piyasalarındaki Çatlaklar:</p>
+<p>Piyasalardaki mevcut hareketliliğin arkasındaki en büyük itici güç olan yapay zeka (AI) ve veri merkezi (data center) yatırımlarında yavaşlama sinyalleri görülmeye başlandı.</p>
+<p>Özellikle Anthropic haberleri ve ARR (Yıllık Tekrarlayan Gelir) büyüme oranlarındaki beklenti altı ivme kaybı, yarı iletken (semis) ve bellek sektörlerine kadar uzanan zincirleme etkilere yol açtı.</p>
+<p>Konuşmacılar, AI balonu veya finansman ticaretindeki bu ufak çatlakların, genel ekonomik büyüme ve borç piyasaları üzerinde yaratacağı baskılara dikkat çekti.</p>
+<p>Borç Yapısı (Equity vs. Debt) ve Şirket Finansmanı:</p>
+<p>Bitcoin madenciliğinden AI altyapı sağlayıcılığına evrilen şirketlerin (örneğin CoreWeave, Core Scientific) yüksek sermaye yoğun yapısı ve borçlanma maliyetleri ele alındı.</p>
+<p>Bir kurtarma veya "backstop" senaryosunda, hisse senedi (equity) sahiplerinin ciddi şekilde seyreltilebileceği veya zarar görebileceği, ancak borç senedi (debt) sahiplerinin (eğer şirketler desteklenirse) büyük ihtimalle "money good" (paralarını alabilecek durumda) olacağı vurgulandı.</p>
+<p>K-Shaped Ekonomi ve Reel Sektör Baskısı:</p>
+<p>Russell endeksinin haftalardır düşüşte olması ve restoranlar, perakende, bölgesel bankalar gibi reel ekonomi sektörlerinin katı finansman koşulları altında ezilmesi ("crucified") tartışıldı.</p>
+<p>Buna karşılık, piyasaların sadece teknoloji/AI hisselerindeki birkaç günlük düşüşe aşırı tepki vermesi, mevcut sistemdeki dengesizlikleri ve K-şekilli ekonomi dinamiklerini gözler önüne serdi.</p>
+<p>Tahvil Piyasası (Bond Market) Dinamikleri ve Likidite:</p>
+<p>10 yıllık tahvil faizlerinin %5'in üzerinde kalmaya devam etmesi ve kredi spread'lerinin (kredi farklarının) açılması finansman koşullarını kısıtlıyor.</p>
+<p>Konuşmacılar, tahvil piyasasındaki bu hareketleri "shot across the bow" (uyarı atışı / ihtar) olarak nitelendirerek, likiditenin zayıf olduğu bu dönemde volatilitenin yüksek kalacağını ve ezber bozan rotasyonlara karşı zihinsel esneklik ("mental flexibility") gerektiğini belirtti.</p>
+<p>Jeopolitik Riskler ve Petrol (Oil &amp; Iran):</p>
+<p>Haftanın sonuna doğru petrol ve Orta Doğu'daki (Iran) gerilimlerin piyasa üzerindeki potansiyel etkilerine değinildi. Batı medyasının bu konudaki haber akışının gerçek durumu yansıtmakta gecikebileceği ve ABD ara seçimleri öncesinde siyasi dengelerin piyasaları nasıl etkileyebileceği masaya yatırıldı.</p>
+<p>İlgili YouTube videosuna buradan ulaşabilirsiniz: https://www.youtube.com/watch?v=Y7XEH6BCmjw</p>
+<p>The Bond Market Is Pricing In Something Worse Than Inflation | Weekly Roundup
+Forward Guidance · 18K views</p>]]></description>
     </item>
   </channel>
 </rss>
