@@ -4,7 +4,398 @@
     <title>Bora</title>
     <link>https://www.youtube.com/</link>
     <description>Bora AI Summaries</description>
-    <lastBuildDate>Mon, 26 Oct 2026 16:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:30:01 +0000</lastBuildDate>
+    <item>
+      <title>Bora / Anthropic Bilançosu Beklediğimden İyi.</title>
+      <link>https://www.youtube.com/watch?v=7itpX0XgF1I</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7itpX0XgF1I</guid>
+      <pubDate>Mon, 26 Oct 2026 16:11:51 +0000</pubDate>
+      <media:thumbnail url="https://i4.ytimg.com/vi/7itpX0XgF1I/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-26T16:11:51+00:00</p>
+<p>Videoda öne çıkan tüm önemli noktaları ve finansal detayları ayrıntılı bir şekilde listeledim:</p>
+<p>📌 Genel Bakış ve S-1 Dokümanı</p>
+<p>Anthropic S-1 Prospektüsü: Claude modelinin sahibi Anthropic'in halka arz (IPO) öncesi resmi S-1 dokümanı yayınlandı [00:00].</p>
+<p>Piyasa Tepkisi: Beklenen devasa zarar/facia tablosu çıkmadığı için teknoloji hisseleri ve yarı ileletken sektörü (SMH, Vadeliler) bilançoya oldukça olumlu tepki verdi [00:18].</p>
+<p>Henüz Fiyat Yok: Dokümanda hisse başına satış fiyatı ve kesin halka arz değerlemesi henüz belli değil [00:45].</p>
+<p>📊 Finansal Performans ve Nakit Durumu</p>
+<p>Çeyreklik Ciro: Son çeyrekte 11.5 milyar dolar ciro elde edildi (yıllık bazda %1368 artış) [00:53].</p>
+<p>Çalışan Başı Verimlilik:</p>
+<p>Çalışan başına 6.6 milyon dolar ciro düşüyor [00:53].</p>
+<p>Bu oranla dünyada sadece NVIDIA'nın (7.21 milyon dolar) arkasından geliyor ve dev teknoloji şirketlerini geride bırakıyor [03:25].</p>
+<p>Nakit Pozisyonu:</p>
+<p>Kasada 112.4 milyar dolar nakit var [01:09].</p>
+<p>Kısa vadeli yatırımlarla birlikte hazır nakit ~130 milyar dolar seviyesinde [01:16].</p>
+<p>Halka arzdan ~100 milyar dolar ek kaynak toplanması ve toplam nakdin 200–240 milyar dolara ulaşması bekleniyor [01:32].</p>
+<p>Kârlılık ve Nakit Akışı:</p>
+<p>Faaliyet Kârı (Operating Income): 2026 Q2’de 974 milyon dolar ile ilk kez pozitif faaliyet kârı açıklandı [01:48].</p>
+<p>İşletimsel Nakit Akışı (Operational Cash Flow): Şirket faaliyetlerinden net 3.93 milyar dolar nakit girdisi sağladı [02:26].</p>
+<p>Net Zarar: Yasal tablolarda görünen 80 milyar dolarlık net zarar; hisseye dönüşebilir borçların değer artış redevüasyonlarından ve Google/Amazon anlaşmalarındaki değer değişim giderlerinden kaynaklanıyor (operasyonel nakit yakımı değil) [02:10].</p>
+<p>👥 Müşteri Tabanı ve Kullanım Oranları</p>
+<p>Kurumsal Müşteri Segmentasyonu:</p>
+<p>Toplam 11,900 kurumsal müşteri mevcut [02:42].</p>
+<p>Yılda 100 bin $+ ödeyen 1,900 müşteri [02:42].</p>
+<p>Yılda 1 milyon $+ ödeyen 250 müşteri [02:50].</p>
+<p>Yılda 10 milyon $+ ödeyen dev müşteriler de mevcut [02:50].</p>
+<p>Net Retention Rate (Gelir Elde Tutma):</p>
+<p>Net Revenue Retention: %900 (%9x) civarında [03:06]. Mevcut müşteriler bir yıl öncesine göre ortalamada 9 kat daha fazla harcama yapıyor.</p>
+<p>Claude Code Etkisi:</p>
+<p>Claude Code kullanan müşteriler, kullanmayanlara kıyasla 20 kat daha fazla ciro getiriyor [03:11].</p>
+<p>Müşteri Konsantrasyon Riskinde Düşüş:</p>
+<p>İlk 5 müşterinin toplam cirodaki payı %36'dan %21'e geriledi, müşteri bağımlılığı azaldı [04:32].</p>
+<p>🚀 Operasyonel ve Teknik Detaylar</p>
+<p>İç Kod Geliştirme: Anthropic, kendi yazılım kodunun %90'ını Claude Code yardımıyla yazıyor [03:42].</p>
+<p>Mühendis Verimliliği: Mühendis başına yazılan kod miktarı 2024 ortalamasının 45 katına ulaştı [03:49].Bu video, Andrej Karpathy'nin YouTube üzerindeki ünlü "Neural Networks: Zero to Hero" serisinin ilk dersi olan "The spelled-out intro to neural networks and backpropagation: building micrograd" videosudur.</p>
+<p>Karpathy bu derste, yapay sinir ağlarının temeli olan Backpropagation (Geri Yayılım) algoritmasını ve Autograd (otomatik türev) motorunu sıfırdan CPython/Python kullanarak adım adım inşa ediyor (micrograd kütüphanesi).</p>
+<p>Video içeriğinin detaylı, orijinal terimleri koruyarak hazırlanmış önemli noktaları şunlardır:</p>
+<ol>
+<li>Giriş ve Micrograd Nedir?</li>
+</ol>
+<p>Micrograd Tanımı: Micrograd, Andrej Karpathy tarafından yazılmış çok küçük bir Autograd Engine (Otomatik Türev Motoru) ve bunun üzerine inşa edilmiş minik bir Neural Network kütüphanesidir.</p>
+<p>Amacı: PyTorch veya TensorFlow gibi karmaşık kütüphanelerin arkasında dönen matematiksel mantığı (Backpropagation) hiçbir gizem bırakmadan en yalın haliyle anlatmaktır.</p>
+<p>Scalar Tabanlı: PyTorch büyük tensörler (tensors) üzerinde çalışırken, Micrograd mantığı anlamayı kolaylaştırmak için sadece tekil sayılar (scalar values) üzerinden türev hesabı yapar.</p>
+<ol>
+<li>Derivative (Türev) Kavramının Sezgisel Açıklaması</li>
+</ol>
+<p>Türev Tanımı: Bir 
+𝑓
+(
+𝑥
+)
+f(x) fonksiyonunda 
+𝑥
+x'i çok küçük bir 
+ℎ
+h miktarı kadar artırdığımızda (
+𝑥
++
+ℎ
+x+h), fonksiyonun çıktısının nasıl değiştiğinin (eğiminin/sensitivity) ölçüsüdür:</p>
+<p>𝑓
+′
+(
+𝑥
+)
+=
+lim
+⁡
+ℎ
+→
+0
+𝑓
+(
+𝑥
++
+ℎ
+)
+−
+𝑓
+(
+𝑥
+)
+ℎ
+f
+′
+(x)=
+h→0
+lim
+    ​</p>
+<p>h
+f(x+h)−f(x)
+    ​</p>
+<p>Görsel/Kod Örneği: Basit bir 
+𝑓
+(
+𝑥
+)
+=
+3
+𝑥
+2
+−
+4
+𝑥
++
+5
+f(x)=3x
+2
+−4x+5 fonksiyonu üzerinden 
+𝑥
+x'in farklı değerlerinde 
+ℎ
+=
+0.00001
+h=0.00001 verilerek çıktının nasıl tepki verdiği (pozitif/negatif eğim) koda dökülerek gösterilir.</p>
+<p>Çok Değişkenli Fonksiyonlar: 
+𝑑
+=
+𝑎
+⋅
+𝑏
++
+𝑐
+d=a⋅b+c gibi bir ifadede; 
+𝑎
+a, 
+𝑏
+b veya 
+𝑐
+c'deki küçük bir değişimin 
+𝑑
+d üzerindeki etkisi Partial Derivatives (Kısmi Türevler) ile incelenir.</p>
+<ol>
+<li>Value Sınıfının (Data Structure) Oluşturulması</li>
+</ol>
+<p>Graph Yapısı: İşlemleri bir Computational Graph (Hesaplama Grafiği) olarak temsil etmek için bir Value veri yapısı/sınıfı tanımlanır.</p>
+<p>İçerik:</p>
+<p>data: Düğümün (node) taşıdığı sayısal değer.</p>
+<p>grad: Düğümün nihai çıktıya (Loss/Output) göre türevi (
+∂
+𝐿
+∂
+𝑥
+∂x
+∂L
+    ​</p>
+<p>). Başlangıçta tüm grad değerleri 0.0 olarak atanır.</p>
+<p>_children: Bu değerin hangi alt düğümlerden oluştuğunu tutan küme (set).</p>
+<p>_op: Bu değeri üreten matematiksel işlem (+, *, tanh vb.).</p>
+<ol>
+<li>Computational Graph ve Manual Backpropagation</li>
+</ol>
+<p>Basit bir nöron çıktısı (
+𝐿
+=
+(
+𝑎
+⋅
+𝑏
++
+𝑐
+)
+⋅
+𝑓
+L=(a⋅b+c)⋅f) için elle türev hesaplama adımları gösterilir:</p>
+<p>Chain Rule (Zincir Kuralı): Derin ağlarda türevlerin birbiriyle çarpılarak geriye doğru aktarılmasının temel prensibidir:</p>
+<p>𝑑
+𝑧
+𝑑
+𝑥
+=
+𝑑
+𝑧
+𝑑
+𝑦
+⋅
+𝑑
+𝑦
+𝑑
+𝑥
+dx
+dz
+    ​</p>
+<p>=
+dy
+dz
+    ​</p>
+<p>⋅
+dx
+dy
+    ​</p>
+<p>Toplam (+) İşleminin Türevi: Toplama işlemi gradient'i olduğu gibi iki kola aynen dağıtır (distributor).</p>
+<p>Çarpma (*) İşleminin Türevi: Çarpma işlemi gradient'leri çaprazlar (switcher). Yani 
+∂
+(
+𝑎
+⋅
+𝑏
+)
+∂
+𝑎
+=
+𝑏
+∂a
+∂(a⋅b)
+    ​</p>
+<p>=b olur.</p>
+<ol>
+<li>Nöron ve Activation Function (Aktivasyon Fonksiyonu)</li>
+</ol>
+<p>Biological vs Mathematical Neuron: Biyolojik nöronlardan esinlenilen yapay nöron modeli:</p>
+<h1>Out</h1>
+<p>𝑓
+(
+∑
+(
+𝑤
+𝑖
+⋅
+𝑥
+𝑖
+)
++
+𝑏
+)
+Out=f(∑(w
+i
+    ​</p>
+<p>⋅x
+i
+    ​</p>
+<p>)+b)</p>
+<p>𝑥
+x: Inputs (Girdiler)</p>
+<p>𝑤
+w: Weights (Ağırlıklar)</p>
+<p>𝑏
+b: Bias (Kayma/Eşik değeri)</p>
+<p>Activation Function (
+tanh
+⁡
+tanh): Girdileri 
+[
+−
+1
+,
+1
+]
+[−1,1] aralığına sıkıştıran (squashing) non-linear bir fonksiyondur.</p>
+<p>tanh
+⁡
+(
+𝑥
+)
+=
+𝑒
+2
+𝑥
+−
+1
+𝑒
+2
+𝑥
++
+1
+tanh(x)=
+e
+2x
++1
+e
+2x
+−1
+    ​</p>
+<p>tanh
+⁡
+tanh fonksiyonunun türevi: 
+𝑑
+𝑑
+𝑥
+tanh
+⁡
+(
+𝑥
+)
+=
+1
+−
+tanh
+⁡
+2
+(
+𝑥
+)
+dx
+d
+    ​</p>
+<p>tanh(x)=1−tanh
+2
+(x)</p>
+<ol>
+<li>Otomatik Backpropagation (_backward ve Topological Sort)</li>
+</ol>
+<p>Otomatikleşme: Her bir işlem (+, *, tanh) kendi _backward() fonksiyonuna sahip olacak şekilde Value sınıfı güncellenir.</p>
+<p>Topological Sort: Graph üzerindeki bağımlılık sırasına göre geriye doğru gitmek gerekir. Bir düğümün türevi hesaplanmadan önce, ondan sonra gelen tüm düğümlerin türevi hesaplanmış olmalıdır.</p>
+<p>Accumulate Gradients (Bug/Püf Noktası): Eğer bir değişken graph içinde birden fazla yerde kullanılırsa (Multivariable Chain Rule), gradient'ler doğrudan eşitlenmek yerine toplanmalıdır (grad += ...). Aksi halde türevler birbirinin üstüne yazar (overwritten).</p>
+<ol>
+<li>Multi-Layer Perceptron (MLP) İnşası</li>
+</ol>
+<p>Micrograd motoru tamamlandıktan sonra üst katman kütüphanesi yazılır:</p>
+<p>Neuron Sınıfı: 
+𝑤
+w (weights) ve 
+𝑏
+b (bias) değerlerini rastgele oluşturur ve forward pass yapar.</p>
+<p>Layer Sınıfı: Belirli sayıda Neuron grubunu yan yana getirir.</p>
+<p>MLP (Multi-Layer Perceptron) Sınıfı: Katmanları (Layers) üst üste ekleyerek tam bağlantılı (Fully Connected) sinir ağını oluşturur.</p>
+<ol>
+<li>Sinir Ağının Eğitilmesi (Training Loop)</li>
+</ol>
+<p>Video sonunda küçük bir dataset (4 örnekli classification problemi) üzerinde eğitim döngüsü adım adım yürütülür:</p>
+<p>Forward Pass: Girdileri ağa besleyip tahmin üretmek (
+𝑦
+pred
+y
+pred
+    ​</p>
+<p>).</p>
+<p>Calculate Loss: Tahminler ile gerçek etiketler (
+𝑦
+gt
+y
+gt
+    ​</p>
+<p>) arasındaki farkı ölçen Mean Squared Error (MSE) hesaplanır:</p>
+<h1>Loss</h1>
+<p>∑
+(
+𝑦
+pred
+−
+𝑦
+gt
+)
+2
+Loss=∑(y
+pred
+    ​</p>
+<p>−y
+gt
+    ​</p>
+<p>)
+2</p>
+<p>Zero Grad: Bir sonraki adıma geçmeden önce tüm parametrelerin gradient'leri sıfırlanır (margin/zero_grad).</p>
+<p>Backward Pass: loss.backward() çağrılarak tüm parametrelerin grad değerleri otomatik hesaplanır.</p>
+<p>Gradient Descent (Update): Tüm 
+𝑤
+w ve 
+𝑏
+b parametreleri gradient yönünün tersine küçük bir adım (learning_rate) kadar güncellenir:</p>
+<p>𝑝
+data
+=
+𝑝
+data
+−
+(
+learning_rate
+⋅
+𝑝
+grad
+)
+p
+data
+    ​</p>
+<p>=p
+data
+    ​</p>
+<p>−(learning_rate⋅p
+grad
+    ​</p>
+<p>)</p>
+<p>Bu döngü birkaç defa tekrarlandığında Loss değerinin 0'a yaklaştığı ve ağın doğru tahminler yapmaya başladığı gösterilerek video tamamlanır.</p>
+<p>İlgili konuyla veya kodlama adımlarıyla alakalı detaylandırmamı istediğin spesifik bir bölüm var mı?</p>
+<p>Anthropic Bilançosu Beklediğimden İyi.
+Bora Özkent⎪ABD Borsası &amp; Teknoloji Yatırımları · 283 views</p>]]></description>
+    </item>
     <item>
       <title>Bora / Borsaların En Zor Haftası !</title>
       <link>https://www.youtube.com/watch?v=1p_0bTW5neo</link>
