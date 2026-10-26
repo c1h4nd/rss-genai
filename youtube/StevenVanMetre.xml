@@ -4,7 +4,52 @@
     <title>StevenVanMetre</title>
     <link>https://www.youtube.com/</link>
     <description>StevenVanMetre AI Summaries</description>
-    <lastBuildDate>Mon, 26 Oct 2026 22:15:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:18:02 +0000</lastBuildDate>
+    <item>
+      <title>StevenVanMetre / Elon Warns 200+ AI Companies Face &quot;Guppy-Level Death&quot; as Money Dries Up</title>
+      <link>https://www.youtube.com/watch?v=wwC2ZcsO3p0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wwC2ZcsO3p0</guid>
+      <pubDate>Mon, 26 Oct 2026 22:00:09 +0000</pubDate>
+      <media:thumbnail url="https://i4.ytimg.com/vi/wwC2ZcsO3p0/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-26T22:00:09+00:00</p>
+<p>Videodaki (Elon Warns 200+ AI Companies Face "Guppy-Level Death" as Money Dries Up) önemli başlıklar ve detaylar şunlardır:</p>
+<ol>
+<li>Elon Musk'ın AI Sektörü ve Borç Piyasaları Hakkındaki Uyarısı</li>
+</ol>
+<p>Borç Piyasalarının Kapanması: Elon Musk, son haftalarda borç piyasalarının (debt markets), AI veri merkezlerinden bağımsız kayda değer bir geliri (revenue) olmayan şirketler için sermaye erişimini neredeyse tamamen kapattığını belirtti.</p>
+<p>"Guppy-Level Death" ve Konsolidasyon: Geliri yetersiz ve yüksek borçlu 200'den fazla uzmanlaşmış AI bilgi işlem sağlayıcısının (specialized computing providers / Neoclouds) iflas/borç ödeyememe riski ve zorunlu bir konsolidasyon ("guppy-level death") dalgasıyla karşı karşıya olduğunu vurguladı.</p>
+<p>SpaceX Örneği: SpaceX'in GPU'lar için 40 milyar dolarlık borç alabildiğini, ancak bunun nedeninin SpaceX'in investment grade olması, Starlink ve roket fırlatma (launch) gelirleri gibi bağımsız gelir kaynaklarına sahip bulunması olduğunu belirtti.</p>
+<ol>
+<li>Yapay Zeka Altyapısı vs. Gelir Uyumsuzluğu</li>
+</ol>
+<p>Gelir Yok, Devasa Harcama Var: AI altyapısına trilyonlarca dolar harcanacağı tahmin edilirken, bu altyapının maliyetini karşılayacak ödeme yapan gerçek müşteri gelirinin yetersiz kaldığı ifade ediliyor.</p>
+<p>Atıl / Değer Kaybeden Compute Kapasitesi: VC Chamath Palihapitiya'nın yorumuna atıfta bulunularak, 2027 yılı itibarıyla satın alınmış veya kiralanmış ancak sermaye maliyetinin altında kazanç getiren veya depolarda tozlanan ciddi miktarda "stranded compute" (atıl bilgi işlem kapasitesi) kalacağı öngörülüyor.</p>
+<p>Atıl GPU'lar: Amazon gibi devlerin dahi depolarında tozlanan ve hızlıca değer kaybeden (depreciating) GPU'lara sahip olduğu hatırlatıldı.</p>
+<ol>
+<li>Makroekonomik Göstergeler ve Kredi Sıkılaşması</li>
+</ol>
+<p>2-Year / 10-Year Yield Curve: Yield curve'ün (getiri eğrisi) tersine dönmesi/düzleşmesi durumunda, bankaların borçlanma maliyeti ile borç verme oranları arasındaki fark (spread) kapandığı için bankalar kredi musluklarını kapatıyor.</p>
+<p>Tarihsel Paralleller: Ticari ve endüstriyel kredi (Commercial &amp; Industrial Lending) verilerine göre; late 1980s, .com bubble, 2008 Financial Crisis gibi dönemlerde yield curve sıkışmasının ardından kredilerin daraldığı ve kredi balonlarının patladığı belirtildi.</p>
+<p>Gartner Öngörüsü: Gartner araştırmasına göre, AI altyapı yatırımlarının geri dönüşü yetersiz kaldığı için NeoCloud sağlayıcılarının %80'inden fazlasının 2030'a kadar bağımsız faaliyet gösteremeyeceği tahmin ediliyor.</p>
+<ol>
+<li>Şirketler ve Hisse Piyasasındaki Reaksiyonlar</li>
+</ol>
+<p>NeoCloud Hisselerinde Sert Düşüşler: Bankaların kredileri sıkılaştırması ve CDS (Credit Default Swap) spread'lerinin yükselmesiyle CoreWeave, Nebius ve Iren hisselerinde %30 ile %40'ı bulan sert düşüşler yaşandığı belirtildi.</p>
+<p>Nvidia CEO'su Jensen Huang'ın Açıklaması: NeoCloud'lara olan talebin yüksek olduğunu kabul etmekle birlikte, bu büyümeyi besleyecek likidite / working capital eksikliği (scarcity of capital) olduğunu vurguluyor.</p>
+<ol>
+<li>Borç Kapısı Kapanınca Sırada Ne Var? Equity Issuance (Hisse İhracı)</li>
+</ol>
+<p>Piyasalara Büyük Risk (Equity Dilution): Bankalar borç vermeyi bıraktığında şirketlerin CapEx (sermaye harcamaları) ödemelerini karşılamak için başvurabileceği tek yer hisse senedi piyasaları (equity markets) kalıyor.</p>
+<p>Meta’nın Gargantuan Sermaye Planı: Meta'nın bankalardan borç almanın kredi derecelendirmesini (credit rating) bozacağını belirterek tedarikçilerin de dahil olacağı 95 milyar dolarlık yeni hisse satışı / equity raise planladığı duyuruldu. Bu rakam Alphabet'in Haziran ayındaki 84.75 milyar dolarlık equity raise hamlesini geride bırakıyor.</p>
+<p>Negatif Cash Flow Riski: Meta'nın CapEx harcamalarının bu yıl işletme nakit akışını (operating cash flow) geçeceği, 2027'de ise %120'sine ulaşacağı belirtiliyor. Benzer şekilde Amazon'un da negatif free cash flow'a geçtiği ve önümüzdeki yıllarda yüz milyarlarca dolar sermaye artırması gerekeceği kaydedildi.</p>
+<ol>
+<li>Piyasa Teknik Analiz ve CTA (Algoritmik Satış) Riskleri</li>
+</ol>
+<p>Hedge Fund Çıkışları: Hedge fund'ların tekil hisselerde (single stocks) üst üste 5 hafta boyunca net satıcı (net sold) olduğu ve degrossing işlemlerinin arttığı belirtildi.</p>
+<p>CTA Trend-Following Satışları: Goldman Sachs analizine göre, S&amp;P 500 trend seviyelerinin altına indiğinde algoritmik/CTA fonlarının yaklaşık 11.6 milyar dolarlık otomatik satış yapabileceği ve kaskat (cascade) etkisi yaratabileceği uyarısı yapıldı.</p>
+<p>Elon Warns 200+ AI Companies Face "Guppy-Level Death" as Money Dries Up
+Steven Van Metre · 461 views</p>]]></description>
+    </item>
     <item>
       <title>StevenVanMetre / Airlines JUST Issued a Massive WARNING About Consumer Behavior</title>
       <link>https://www.youtube.com/watch?v=5bBVnoY9jD0</link>
