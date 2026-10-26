@@ -4,7 +4,7 @@
     <title>Bora</title>
     <link>https://www.youtube.com/</link>
     <description>Bora AI Summaries</description>
-    <lastBuildDate>Mon, 26 Oct 2026 07:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:27:01 +0000</lastBuildDate>
     <item>
       <title>Bora / Yapay Zeka Çağında Kim Zenginleşecek, Kim İşsiz Kalacak?</title>
       <link>https://www.youtube.com/watch?v=1NtjmVj2KPw</link>
@@ -50,6 +50,49 @@
 <p>Aksiyon Adımı: Teoriyle kalmayıp günlük bir probleminizi çözmek için hemen bir LLM (ChatGPT, Claude, Gemini vb.) kullanarak pratik yapmaya başlamak [[22:33]].</p>
 <p>Yapay Zeka Çağında Kim Zenginleşecek, Kim İşsiz Kalacak?
 Bora Özkent⎪ABD Borsası &amp; Teknoloji Yatırımları · 29K views</p>]]></description>
+    </item>
+    <item>
+      <title>Bora / Nasdaq Neden Aniden Sert Düşüyor (ve Sonra Sert Yükseliyor?)</title>
+      <link>https://www.youtube.com/watch?v=tpnPYpggWcE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=tpnPYpggWcE</guid>
+      <pubDate>Sat, 24 Oct 2026 13:48:40 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/tpnPYpggWcE/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-24T13:48:40+00:00</p>
+<p>Videoda öne çıkan ve borsadaki sert düşüşlerin arkasındaki teknik/temel mekanizmaları detaylandıran önemli noktalar şunlardır:</p>
+<p>Şirketlerin Temelleri (Fundamentals) vs. Düşüşler [01:31]:</p>
+<p>Yapay zeka ve yarı iletken tarafındaki şirketlerin bilançoları, ciro büyümeleri ve gelecek beklentileri oldukça güçlüdür [01:41].</p>
+<p>Yaşanan sert düşüşlerin çoğunun ana sebebi şirketlerin temellerindeki (fundamentals) bozulma değil, bazı fonların zorunlu satış yapmasıdır (forced selling) [01:58].</p>
+<p>Hisse/Borsa Düşüşlerinin 3 Temel Sebebi [02:59]:</p>
+<p>Şirketin İşlerinin Bozulması (Temel/Fundamental Sebep): Şirketin yönetimi hatalı kararlar almış veya rekabet gücü erimiş olabilir (örneğin Nike'ın envanter ve imaj sorunları nedeniyle sürekli düşmesi) [03:07].</p>
+<p>Çarpan/Değerleme Değişimi: Şirkette sorun olmasa dahi piyasanın genel korkusu veya sektör şartları nedeniyle piyasa aynı kazanca daha düşük çarpan (multiple) ödemek isteyebilir [03:31].</p>
+<p>Fonların Sıkışması ve Zorunlu Satışlar: Şirketle ilgisiz bir şekilde, yatırım yapan fonların paraya sıkışıp satmak zorunda kalması [04:09].</p>
+<p>Kaldıraç (Leverage) Etkisi ve Teminat Çağrıları (Margin Calls) [05:07]:</p>
+<p>Fonlar topladıkları sermayenin üzerine borç/kaldıraç ekleyerek pozisyon büyütürler [05:14].</p>
+<p>Varlık fiyatları düştüğünde, borç miktarı sabit kaldığı için kayıp doğrudan fonun öz sermayesinden (equity) erir [05:47].</p>
+<p>Borç verenler teminat eridiğinde ek nakit ister; nakit bulamayan fonlar ellerindeki kaliteli hisseleri bile satmaya zorunlu kalır [06:28].</p>
+<p>Oynaklık (Volatilitie) ve Risk Bütçelemesi [07:32]:</p>
+<p>Risk Budgeting: Büyük profesyonel fonlar portföylerini sadece tuttukları varlık miktarına göre değil, maruz kaldıkları oynaklık riskine göre bütçeler [08:18].</p>
+<p>Çip/Yarı İletken Sektörü Riski: MSCI ACWI endeksinde teknolojinin ağırlığı %28 ama risk payı %40'tır. Çiplerin ağırlığı %13 iken risk payı yüksek volatilite sebebiyle %20'dir [09:31].</p>
+<p>Otomatik Satışlar: Piyasa oynaklığı bütçelenen risk sınırının üzerine çıktığında, fonlar kural gereği hisse senetlerindeki paylarını (ör. %50'den %25'e) düşürüp otomatik satışa geçerler [11:35].</p>
+<p>Açığa Satış (Short Selling) ve Döngünün Sertleşmesi [13:55]:</p>
+<p>Fonlar riskten korunmak (hedge) veya düşüşten kazanmak için hisse ödünç alıp açığa satarlar [14:02].</p>
+<p>Kısa pozisyonların (short positions) artması piyasadaki satış baskısını ve volatiliteyi katlayarak satış sarmalını derinleştirir [14:40].</p>
+<p>Takip Edilmesi Gereken Volatilitie Göstergeleri [18:29]:</p>
+<p>HV (Historical Volatility): Geçmişe dönük oynaklığı ölçer. HV10 (10 günlük) ve HV20 (20 günlük) takip edilir [18:37].</p>
+<p>VIX ve VXN: İleriye dönük (forward-looking) opsiyon fiyatlamalarından türetilen oynaklık göstergeleri. VIX S&amp;P 500'ü, VXN ise Nasdaq oynaklığını ölçer [20:04].</p>
+<p>ATR (Average True Range): Hisse senedi bazlı oynaklık ölçümüdür. Fonlar risklerini azaltmak için ATR'si ve oynaklığı daha yüksek olan hisseleri daha hızlı satarlar [21:07].</p>
+<p>Piyasaların Sert V-Şeklinde (V-Shape) Geri Dönüş Mekanizması [21:39]:</p>
+<p>Satış baskısı azalıp volatilite düşmeye başladığında risk bütçeli fonlar tekrar hisse alımına geçer [22:00].</p>
+<p>Fiyatların yukarı gitmesiyle açığa satanlar sınırsız zarar riskinden kaçınmak için hızla pozisyon kapatmaya (Short Squeeze / Short Sıkışması) başlar ve piyasada çok sert bir V-şeklinde yükseliş tetiklenir [22:43].</p>
+<p>Kredi Riski vs. Yüksek Nakit Akışlı Şirketler [25:51]:</p>
+<p>Oracle ve CoreWave gibi yüksek borçlu ve kredi riski taşıyan şirketlerin çarpanlarının toparlanması için faizlerin düşmesi veya yatırımlardan dönen nakit akışının borç ihtiyacını azaltması gerekir [26:08].</p>
+<p>Nvidia veya Micron gibi sermaye yapısı sağlam, bilançoları ve nakit akışları güçlü şirketler sadece sepet satışları (basket selling) yüzünden düştükleri için temel güçlerini korurlar [27:50].</p>
+<p>Yatırımcı Stratejisi ve Psikolojisi [27:10]:</p>
+<p>Düşüş teknik bir sebepten veya zorunlu fon satışlarından kaynaklanıyorsa hisseyi tutmak; fakat yatırım tezini (investment thesis) sorgulatacak temel bir bozulma varsa pozisyon küçültmek/satmak tercih edilebilir [27:24].</p>
+<p>“Yatırım beyin işi değil, mide işidir” [28:12]. Kısa vadeli volatiliteye dayanamayan yatırımcıların başkalarının portföyünü taklit etmemesi gerekir [30:00].</p>
+<p>Videoyu izlemek için tıklayın</p>
+<p>Nasdaq Neden Aniden Sert Düşüyor (ve Sonra Sert Yükseliyor?)
+Bora Özkent⎪ABD Borsası &amp; Teknoloji Yatırımları · 39K views</p>]]></description>
     </item>
     <item>
       <title>Bora / Borsalar Sağlam Ama Nasdaq Çöküyor !</title>
