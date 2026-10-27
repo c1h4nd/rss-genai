@@ -4,7 +4,7 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 12:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:27:02 +0000</lastBuildDate>
     <item>
       <title>Mixed / LexFridman: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503</title>
       <link>https://www.youtube.com/watch?v=ZAzWPE9CItg</link>
@@ -572,6 +572,49 @@ Oytun Erbaş · 128K views</p>]]></description>
 <p>Bu özet hakkında daha derinlemesine incelemek istediğin spesifik bir bölüm (örneğin RLHF veya LLM OS konsepti) var mı?</p>
 <p>Bu Foxconn da Neymiş Böyle?
 Arman ACAR · 120K views</p>]]></description>
+    </item>
+    <item>
+      <title>Mixed / LexFridman: My First Time in Taiwan w/ Jensen Huang | Lex Fridman</title>
+      <link>https://www.youtube.com/watch?v=FGCP2F_7rQk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=FGCP2F_7rQk</guid>
+      <pubDate>Tue, 13 Oct 2026 21:26:16 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-13T21:26:16+00:00</p>
+<p>Lex Fridman’ın Nvidia CEO’su Jensen Huang ile Tayvan ziyareti ve Computex fuarı süresince gerçekleştirdiği bu detaylı videodaki öne çıkan önemli noktalar:</p>
+<ol>
+<li>Tayvan’ın Yarı İletken Sektöründeki Kritik Rolü ve Ekosistemi</li>
+</ol>
+<p>Küresel Bağımlılık [01:18]: Dünya üzerindeki en gelişmiş semi-conductor (yarı iletken) çip üretiminin %90'ından fazlası Tayvan’da gerçekleşiyor. Akıllı telefonlardan GPU ve AI data center donanımlarına kadar uzanan bu yapı başka bir yerde kopyalanması neredeyse imkansız bir ekosistem.</p>
+<p>Geçmişten Gelen Vizyon (KT Lee &amp; Morris Chang) [16:36]: Tayvan'ın teknoloji merkezine dönüşmesi 1950'lerde Bilim ve Teknoloji Bakanı KT Lee'nin vizyonu ile başladı. Phillips’in Tayvan’a yatırımıyla TSMC ve ASML'nin temelleri atıldı, ardından Morris Chang’in TSMC'yi kurması ve UMC gibi şirketlerin gelişimiyle PC çiplerinde küresel ölçek yakalandı [18:05].</p>
+<ol>
+<li>AI İş Modeli ve Mimari Değişim</li>
+</ol>
+<p>Tokens over Cores [05:11]: Geleneksel x86 CPU dünyasında ekonomi "dollars per core" (çekirdek başına maliyet) üzerine kurulu idi ve veri merkezleri çekirdek kiralıyordu. AI çağında ise şirketler çekirdek kiralamıyor; token üretiyor ve satıyor. Ana hedef AI token üretim döngüsünü mümkün olduğunca hızlı çalıştırmak.</p>
+<p>Liquid Cooling Teknolojisi [04:27]: Yeni nesil sistemlerde donanımlar tamamen sıvı soğutmalı (100% liquid cooled) mimariye geçti. Grace Blackwell jenerasyonunda %80 olan oran tam sıvı soğutmaya çekilerek montaj süreleri saatlerden 5 dakikaya düşürüldü.</p>
+<p>Data Center Bellek Teknolojileri (SK Hynix) [07:07]: High Bandwidth Memory (HBM) ve LPDDR belleklerin data center dünyasına girmesiyle 2 kat daha yüksek bandwidth ve yarı yarıya güç tüketimi (twice the bandwidth, half the power) hedefleniyor.</p>
+<ol>
+<li>ABD’nin Sanayileşmesi (Re-industrialization) ve Jeopolitik Vizyon</li>
+</ol>
+<p>US Manufacturing &amp; Robotics [15:07]: AI ve robotics teknolojileri, ABD’nin üretim gücünü ve sanayisini yeniden canlandırması (re-industrialize the US) için en büyük fırsat.</p>
+<p>Tayvan-ABD Stratejik Ortaklığı [15:51]: TSMC’nin Arizona’daki fabrikası (fab) örneğinde olduğu gibi, Tayvan ABD’ye sadece tesis değil, mühendis transferi ve eğitim imkanı sağlayarak stratejik bir ortak olarak konumlanıyor.</p>
+<p>Export Controls (İhracat Kısıtlamaları) [43:32]:</p>
+<p>Kısıtlama Mantığı: Kritik güç çarpanı (force multiplier) olan teknolojilerin rakip ülkelere verilmemesi kısa vadeli avantaj sağlar.</p>
+<p>Jensen Huang'ın Yaklaşımı: Ulusal güvenlik ve liderlik için en önemli unsur Flywheel (çark/döngü) oluşturmaktır [46:43]. Müşteri tabanı ve global erişim arttıkça daha çok gelir elde edilir, bu gelir R&amp;D yatırımlarını besler ve teknoloji liderliği korunur. Piyasadan izolasyon bu döngüyü kırabilir.</p>
+<p>Global Standards &amp; English: ABD’nin en büyük avantajı, dünya genelinde İngilizce ve ABD teknoloji standartlarının benimsenmiş olmasıdır [51:52].</p>
+<ol>
+<li>Nvidia ve TSMC’nin 30 Yıllık Ortaklık Hikayesi</li>
+</ol>
+<p>İlk Temas [01:21:02]: 1990'ların ortasında Nvidia henüz küçük bir startup iken Jensen Huang, Sarı Sayfalar'dan bulduğu numarayla TSMC'yi aradı. Yanıt alamayınca mektup yazdı ve TSMC kurucusu Morris Chang Jensen'i bizzat geri aradı [01:22:24].</p>
+<p>Güven ve Değerler [01:23:42]: TSMC henüz 300 milyon dolarlık küçük bir şirketken Morris Chang, ticari detaylardan ziyade kurumsal dürüstlük (integrity) ve ortaklık ilkelerine vurgu yaptı. Jensen, iş ilişkilerinde katı/sert sözleşmeler yerine "rough justice" ve uzun vadeli güvene dayalı iş birliğini tercih ettiğini belirtiyor [01:26:19].</p>
+<p>Birlikte Büyüme Felsefesi [01:28:11]: İş ortaklarının da kazanmasını istemek sürdürülebilirliğin anahtarıdır. Jensen, Nvidia’nın tüm tedarik zincirinin borsa değerinin %300 arttığı dönemleri gururla anlatıyor.</p>
+<ol>
+<li>Mühendislik Kültürü ve Gece Pazarları (Night Market)</li>
+</ol>
+<p>Engineer as a Rockstar [13:23]: Tayvan'da mühendisler adeta birer rock yıldızı gibi ilgi görüyor ve Jensen Huang halk tarafından büyük bir sevgiyle karşılanıyor.</p>
+<p>Mütevazılık (Humility) [14:44]: Lex ve Jensen, Tayvan ve Çin’deki genç mühendislerdeki alçakgönüllülüğü ve çalışma disiplinini vurguluyor.</p>
+<p>Gece Pazarı ve Yemek Kültürü [19:59]: Jensen’ın çocukluğuna dayanan gece pazarı sevgisi, İstiridye krebi (Oyster pancake) [28:40], Tayvan birası [12:47], traşlanmış buz tatlısı (shave ice) [25:18], Durian meyvesi [01:08:43] ve Tayvan kahvaltısı [01:11:16] gibi lezzetleri keşfetmeleriyle videoya renk katıyor.</p>
+<p>My First Time in Taiwan w/ Jensen Huang | Lex Fridman
+Lex Fridman · 1.3M views</p>]]></description>
     </item>
     <item>
       <title>Mixed / TjPpower: Neuroscientist Explains: Replace Doomscrolling With Video Games</title>
@@ -1267,6 +1310,53 @@ Tarih Obası · 259K views</p>]]></description>
 <p>Hür Kadının Cari Gibi Satılması Skandalı (1591): Ayasofya civarında hür bir Müslüman kadının bir sipahi tarafından "cariyemdir" diye kaçırılıp Bursa'ya satılmaya çalışılması, mahalle ahalisinin skoru fark edip ihbar etmesiyle kadının kurtarılması.</p>
 <p>Osmanlı’da Kölelik, Cariyelik ve Kaçak Köle Davaları
 Tarih Obası · 151K views</p>]]></description>
+    </item>
+    <item>
+      <title>Mixed / LexFridman: Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502</title>
+      <link>https://www.youtube.com/watch?v=s7d2d8FhevU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=s7d2d8FhevU</guid>
+      <pubDate>Thu, 17 Sep 2026 00:34:47 +0000</pubDate>
+      <media:thumbnail url="https://i4.ytimg.com/vi/s7d2d8FhevU/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-09-17T00:34:47+00:00</p>
+<p>Lex Fridman ile psikiyatri tarihçisi Andrew Scull arasında geçen bu podcast bölümünün (Lex Fridman Podcast #502) detaylı özetini aşağıda bulabilirsiniz:</p>
+<ol>
+<li>Modern Psikiyatrideki Kriz ve Mevcut Sınırlar</li>
+</ol>
+<p>Tedavi Değil, Semptom Yönetimi: Günümüz psikiyatrik tedavileri (hem psychopharmacology hem de psychotherapy) çoğunlukla semptom hafifletmeye yöneliktir; biyolojik bir kür (ör. "psikiyatrik penisilin") mevcut değildir [04:14].</p>
+<p>DSM (Diagnostic and Statistical Manual) ve Tanı Krizi:</p>
+<p>1970'lerde psikiyatristlerin aynı hastaya farklı tanılar koyması ve Rosenhan Eksperiment (sahte hastaların hastaneye yatırılması) gibi olaylar güven krizine yol açtı [07:36].</p>
+<p>1980'de çıkarılan DSM-3, subjektif tanıları standartlaştırmak amacıyla "kutu işaretleme" (tick-the-boxes) ve semptom listesi sistemine geçti [08:08].</p>
+<p>Bu sistem, sigorta şirketleri ve ilaç firmalarının (pharmaceutical companies) işini kolaylaştırsa da, akıl hastalıklarının kökenindeki biyolojik/nörolojik mekanizmaları açıklamada yetersiz kaldı [09:00].</p>
+<ol>
+<li>Akıl Hastaneleri Era'sı ve Desintitüsyon (Deinstitutionalization)</li>
+</ol>
+<p>Asylum (Akıl Hastanesi) Çağı: 19. yüzyılda insani kaygılarla başlatılan büyük akıl hastaneleri, zamanla aşırı kalabalıklaşma, bakımsızlık ve hastaları toplumdan izole eden insani olmayan depolama alanlarına dönüştü [00:42].</p>
+<p>Deinstitutionalization: 20. yüzyılın ortalarında antipsikotiklerin çıkışı ve sosyal politikalarla hastaneler boşaltıldı. Ancak yeterli toplum tabanlı destek (community mental health care) sağlanamadığı için bu süreç, birçok hasta için evsizlik (homelessness) ve hapishane sistemine düşme ile sonuçlandı [00:42].</p>
+<ol>
+<li>Tıbbi Müdahalelerin Karanlık Geçmişi (Agresif Somatik Tedaviler)</li>
+</ol>
+<p>Lobotomy (Lobotomi): Egas Moniz ve Walter Freeman tarafından popülerleştirilen, frontal lob bağlantılarını kesme işlemi. Ağır yan etkilerine ve kişilik yıkımına rağmen Moniz'e Nobel Ödülü kazandırmış, binlerce hastaya kontrolsüzce uygulanmıştır [00:42].</p>
+<p>Insulin Coma Therapy: Hastalara yüksek doz insülin verilerek komaya sokulması esasına dayanan, yüksek ölüm ve beyin hasarı riski taşıyan ama döneminde yaygın kabul gören bir yöntemdi [00:42].</p>
+<p>Electroconvulsive Therapy (ECT): Elektroşok tedavisi ilk dönemlerinde çok agresif ve anestezi olmadan uygulanmış, zamanla standardize edilip anestezi/kas gevşeticiler eşliğinde günümüzde dirençli majör depresyonda kullanılan kısıtlı bir biyolojik tedaviye dönüşmüştür [00:42].</p>
+<ol>
+<li>İlaç Devrimi ve Psychopharmacology</li>
+</ol>
+<p>Serendipity (Tesadüfi Keşifler): 1950'lerdeki ilk antipsikotik (ör. Chlorpromazine / Thorazine) ve antidepresan keşifleri planlı bir nörolojik hedeflemeyle değil, tesadüfen (başka ilaçlar araştırılırken) gerçekleşti [03:35].</p>
+<p>İlaçların Yan Etkileri ve Sınırları:</p>
+<p>Antipsikotiklerin tardive dyskinesia gibi nörolojik yan etkileri bulunmaktadır.</p>
+<p>Antidepressants ve antipsychotics her hastada aynı etkiyi göstermez; kimin hangi ilaca yanıt vereceğini öngören kesin bir test bulunmamaktadır [05:43].</p>
+<ol>
+<li>Psikanaliz, Freud ve Jung</li>
+</ol>
+<p>Sigmund Freud &amp; Psychoanalysis: 20. yüzyılın ilk yarısında psikiyatride baskın hale gelen psikanaliz, zihnin bilinçdışı (unconscious) dinamiklerine odaklandı. Ancak konuşma terapisi (talk therapy) ağır psikoz (psychosis) vakalarında yetersiz kaldı ve bilimsel ampirizm açısından eleştirildi [00:42].</p>
+<p>Carl Jung: Freud ile olan yol ayrımı ve zihinsel rahatsızlıkları anlamada kolektif bilinçdışı ile sembolizmin rolü ele alındı [00:42].</p>
+<ol>
+<li>Geleceğe Dair Umut ve Bütüncül Yaklaşım</li>
+</ol>
+<p>Biyopsikososyal Yaklaşım: Akıl hastalıkları sadece basit bir "kimyasal dengesizlik" (chemical imbalance) olarak görülemez; biyoloji, psikoloji, sosyal çevre ve insan ilişkilerinin bütüncül bir bileşimidir [03:31:46].</p>
+<p>Gelecek Vizyonu: Sadece ilaç yazmaya dayalı teknokratik yaklaşımdan kaçınılması; hastaların sosyal bağlarını, empatiye dayalı bakımı ve insani değerleri merkeze alan bir anlayışın geliştirilmesi gerekmektedir [03:33:54].</p>
+<p>Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud &amp; Jung | Lex Fridman Podcast #502
+Lex Fridman · 1.2M views</p>]]></description>
     </item>
     <item>
       <title>Mixed / TarihObası: Kiminle Evleneceksiniz? Evlenmeden Önce Bilinmesi Gerekenler – Doğan Cüceloğlu</title>
