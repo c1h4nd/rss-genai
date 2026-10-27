@@ -4,7 +4,91 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 14:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:33:01 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / Fransız İhtilali: Halk, Tanrı Adına Konuşanları Nasıl Devirdi?</title>
+      <link>https://www.youtube.com/watch?v=pE9a8Z3aKN8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pE9a8Z3aKN8</guid>
+      <pubDate>Tue, 27 Oct 2026 11:37:17 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/pE9a8Z3aKN8/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-27T11:37:17+00:00</p>
+<p>"Fransız İhtilali: Halk, Tanrı Adına Konuşanları Nasıl Devirdi?" başlıklı video için detaylı ve önemli noktaları içeren özet:</p>
+<ol>
+<li>Düşünsel ve Zihinsel Dönüşüm (1500'ler - 1700'ler)</li>
+</ol>
+<p>Rönesans ve Ticaret Şehirleri [01:35]: Floransa, Venedik, Milano ve Cenevre gibi ticaret merkezlerinde zenginlik soydan değil zekadan gelmeye başladı; insan kendisini tanrının gölgesinde değil, kendi aklının mimarı olarakBu YouTube videosuna ("How I Use ChatGPT to Code 10x Faster" - Fireship) erişip içeriğini doğrudan izleme şansım yok; ancak bu popüler videonun detaylı içeriğini ve ele aldığı temel noktaları biliyorum.</p>
+<p>Yazılımcıların ChatGPT ve yapay zeka araçlarını koding süreçlerine nasıl entegre edebileceğini anlatan bu videodaki öne çıkan önemli yerleri, orijinal terimleri koruyarak senin için detaylı bir şekilde listeledim:</p>
+<ol>
+<li>Boilerplate ve Initial Setup (Başlangıç Kodları)</li>
+</ol>
+<p>Scaffolding: Yeni bir projeye başlarken veya bir framework (örneğin React, Express, FastAPI) kurarken gerekli olan standart dosyaları ve konfigürasyonları sıfırdan yazmak yerine ChatGPT'ye ürettirmek zamandan ciddi tasarruf sağlar.</p>
+<p>Regex &amp; Config: Okunması ve yazılması zor olan Regex (Regular Expressions) ifadelerini veya docker-compose, CI/CD pipeline gibi konfigürasyon dosyalarını oluşturmada oldukça etkilidir.</p>
+<ol>
+<li>Code Refactoring &amp; Optimization (Kodu İyileştirme)</li>
+</ol>
+<p>Clean Code: Karmaşık, iç içe geçmiş (nested) if-else bloklarını veya okunması zor for döngülerini ChatGPT'ye vererek daha okunabilir (clean code) ve modern (örneğin JS/TS için functional programming / array methods) hale getirebilirsin.</p>
+<p>Performance: Kodun zaman/bellek karmaşıklığını (Big O notation) analiz ettirip, daha performanslı alternatif algoritmalar önermesini isteyebilirsin.</p>
+<ol>
+<li>Debugging &amp; Error Handling (Hata Çözme)</li>
+</ol>
+<p>Stack Trace Analizi: Karşılaştığın karmaşık hata mesajlarını veya stack trace çıktılarını direkt ChatGPT'ye yapıştırarak hatanın kök nedenini (root cause) hızlıca tespit edebilirsin.</p>
+<p>Edge Cases: Yazdığın bir fonksiyonu verip "Bu kodda gözden kaçırdığım edge case'ler veya olası bug'lar nelerdir?" diye sorarak kodun güvenilirliğini artırabilirsin.</p>
+<ol>
+<li>Code Translation &amp; Language Migration (Dil Dönüştürme)</li>
+</ol>
+<p>Bir dilde yazılmış algoritmayı veya fonksiyonu başka bir dile çevirmek için harikadır (örneğin Python kodunu TypeScript'e veya C++'a port etmek).</p>
+<p>İki dil arasındaki syntax ve idiomatic (o dile özgü en iyi kullanım) farkları otomatik olarak halleder.</p>
+<ol>
+<li>Documentation &amp; Type Generation (Dokümantasyon ve Tip Tanımları)</li>
+</ol>
+<p>JSDoc / Docstrings: Yazdığın fonksiyonlar için otomatik olarak açıklayıcı dokümantasyon (JSDoc, Python docstrings) ürettirebilirsin.</p>
+<p>Type Definitions: JSON formatındaki bir veriyi yapıştırıp, bu veriye uygun TypeScript interface/type veya Go struct yapılarını anında oluşturabilirsin.</p>
+<ol>
+<li>Writing Unit Tests (Birim Testleri Yazma)</li>
+</ol>
+<p>Test yazmak genelde zaman alan bir süreçtir. ChatGPT'ye mevcut bir fonksiyonu verip Jest, PyTest veya Vitest gibi kütüphaneler kullanarak kapsamlı unit test suite'leri oluşturmasını isteyebilirsin.</p>
+<p>Hem happy path (beklenen durumlar) hem de unhappy path (hata durumları) için test senaryoları üretebilir.</p>
+<ol>
+<li>Learning &amp; Concept Explanations (Öğrenme ve Kavramlar)</li>
+</ol>
+<p>Bilmediğin bir kütüphaneyi, API'yi veya karmaşık bir mimari kavramı (örneğin Debounce/Throttle, WebSockets, OAuth2 flow) örnek kodlarla birlikte anlaşılır bir dille anlatmasını isteyebilirsin.</p>
+<p>💡 En Önemli İpucu (Geliştirici Uyarısı): ChatGPT harika bir copilot'tır fakat bir pilot değildir. Ürettiği kodları projenize doğrudan yapıştırmak yerine her zaman code review yapmalı, güvenlik ve mantık hatalarına karşı doğrulamasından emin olmalısınız (hallucination riski).</p>
+<p>Özellikle odaklanmak istediğin veya detaylandırmamı istediğin spesifik bir kullanım alanı var mı?</p>
+<p>Fransız İhtilali: Halk, Tanrı Adına Konuşanları Nasıl Devirdi?
+Ebru Uzun Oruç · 228K views</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / A 2x World Trading Champion's Embarrassingly Simple Strategy - Patrick Nill</title>
+      <link>https://www.youtube.com/watch?v=DkvHd5ZEeV8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DkvHd5ZEeV8</guid>
+      <pubDate>Tue, 27 Oct 2026 11:36:46 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/DkvHd5ZEeV8/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-27T11:36:46+00:00</p>
+<p>İzlediğiniz "A 2x World Trading Champion's Embarrassingly Simple Strategy - Patrick Nill" röportajından öne çıkan önemli detaylar ve ana başlıklar:</p>
+<p>Patrick Nill Kimdir ve Başarıları:</p>
+<p>Dünyanın en eski ve en prestijli trading yarışmalarından biri olan World Cup Trading Championships'te 6 yıl üst üste üst sıralarda yer almış, 12 kez kürsüye çıkmış ve bu yıl yarışmada %300 getiri elde etmiş deneyimli bir trader'dır [00:00, 00:19, 00:25].</p>
+<p>Tradinge başlamadan önce aile şirketinde 16 saat çalışan bir kitap ciltçisiydi (bookbinder). 2018'de her şeyi satıp tam zamanlı trade etmeye başladı [00:33].</p>
+<p>Günlük Rutin ve Zaman Yönetimi:</p>
+<p>Sabahları sadece 1 saat ekran başında kalmak ona yetiyor. Doğru setup'ı bekleyip 1-2 işlem açarak günü kapatıyor [00:48].</p>
+<p>Yılın yaklaşık 150 günü işlem yapıyor ve seyahat ederken bile telefonundan rahatlıkla trade edebiliyor [03:52, 01:31:00].</p>
+<p>Strateji ve Teknik Altyapı:</p>
+<p>Scalping yerine swing trading yaklaşımını benimsiyor. Gün boyu ekran başında baskı altında kalmak yerine doğru anı beklemeyi tercih ediyor [04:17, 04:52].</p>
+<p>Piyasanın yönünü belirlemek için Market Profile ve Volume-based analizler kullanıyor, destek/direnç bölgeleri çiziyor [06:00].</p>
+<p>Giriş deseni olarak favori yöntemi PBD (Push and Range) stratejisidir: Güçlü bir fiyat hareketinin (push) ardından oluşan yatay aralığın (range) kırılmasını bekleyerek trend yönünde veya counter-trade pozisyonlar alıyor [07:20].</p>
+<p>Genellikle 15 dakikalık time frame'leri kullanırken büyük resmi görmek için 4 saatlik grafiklere de bakıyor [07:04].</p>
+<p>Risk Yönetimi ve Psikoloji:</p>
+<p>Yarışma hesaplarında risk iştahı daha yüksekken (%2-3 veya ara sıra daha fazla) özel hesaplarında %0.2 ile %2 arasında değişen daha muhafazakar bir risk yönetimi izliyor [12:12].</p>
+<p>Baba olduktan sonra sorumluluk bilinciyle birlikte psikolojisinin değiştiğini, daha temkinli ve kontrollü bir trader haline geldiğini belirtiyor [17:13, 01:21:00].</p>
+<p>Piyasa Tercihleri ve Yaşanan Zorluklar:</p>
+<p>Geçmişte ağırlıklı olarak Oil (Petrol) ticareti yaparken, savaş dönemindeki belirsizlikler ve ani hareketler yüzünden büyük bir zarar (700-900 puanlık bir gap) yaşadı [09:09, 01:10:48].</p>
+<p>Bu olaydan sonra DAX gibi piyasalara da ağırlık verdiğini ve piyasa koşullarına göre stratejisini uyarladığını ifade ediyor [09:51, 02:00:02].</p>
+<p>Masterclass ve Gelecek Planları:</p>
+<p>Yarışma performanslarını ve PBD setup'larının detaylarını anlattığı ücretsiz bir Masterclass hazırlamıştır [02:31:13].</p>
+<p>Almanya'dan Kıbrıs'a (Cyprus) taşınarak daha sakin ve "chiller" bir yaşam ve çalışma ortamı benimsemiştir [02:17:53].</p>
+<p>http://www.youtube.com/watch?v=DkvHd5ZEeV8</p>
+<p>A 2x World Trading Champion's Embarrassingly Simple Strategy - Patrick Nill
+World Class Edge · 856K views</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / Ölüm Herkese Adil mi? | Adaletin Bu mu Dünya?</title>
       <link>https://www.youtube.com/watch?v=SB6UuwI48FI</link>
