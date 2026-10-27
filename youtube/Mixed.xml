@@ -4,7 +4,7 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 12:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:45:01 +0000</lastBuildDate>
     <item>
       <title>Mixed / LexFridman: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503</title>
       <link>https://www.youtube.com/watch?v=ZAzWPE9CItg</link>
@@ -2376,6 +2376,84 @@ Lex Fridman · 363K views</p>]]></description>
 <p>Videonun transkriptini (altyazı metnini) veya</p>
 <p>Videonun konusunu / ne hakkında olduğunu (örneğin: belirli bir yazılım, eğitim, söyleşi veya ürün incelemesi vb.)</p>
 <p>buraya yapıştırabilirsen, belirttiğin gibi önemli terimleri İngilizce bırakarak detaylı bir Türkçe özet ve maddeli liste çıkarabilirim.</p>]]></description>
+    </item>
+    <item>
+      <title>Mixed / LexFridman: Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494</title>
+      <link>https://www.youtube.com/watch?v=vif8NQcjVf0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vif8NQcjVf0</guid>
+      <pubDate>Mon, 23 Mar 2026 16:24:14 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/vif8NQcjVf0/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-03-23T16:24:14+00:00</p>
+<p>Jensen Huang'ın Lex Fridman Podcast'indeki (Episode #494) konuşmasından öne çıkan önemli yerler ve detaylı başlıklar:</p>
+<p>Extreme Co-Design (Aşırı Birlikte Tasarım) Yaklaşımı [00:36]</p>
+<p>Neden Gerekli?: Problemler artık tek bir bilgisayarın ve tek bir GPU'nun içine sığmıyor. 10.000 bilgisayar eklendiğinde sistemin 1 milisaniyede milyon kat daha hızlı çalışması isteniyor.</p>
+<p>Kompleksite: Algoritmaların parçalanması (sharding), pipeline'ların bölünmesi ve dağıtık hesaplama (distributed computing) zorlukları beraberinde getiriyor.</p>
+<p>Bileşenler: Sadece GPU değil; CPU, yüksek bant genişlili bellek (high bandwidth memory), networking, NVLink, NIC'ler, optik/bakır kablolama, güç dağıtımı, soğutma ve veri merkezi seviyesinde (rack scale / pod design) uçtan uca co-design gerektiriyor.</p>
+<p>Dağıtık Hesaplama ve Amdahl Yasası (Amdahl's Law) [02:00]</p>
+<p>Problem: Bir iş yükünün hızlanma oranı, toplam iş yükündeki payına bağlıdır. Hesaplama işin %50'sini oluşturuyorsa ve hesaplamayı sonsuz hızlandırsanız bile toplam iş yükü en fazla 2 kat hızlanır.</p>
+<p>Çözüm: Bu yüzden sadece işlem gücünü artırmak yetmez; ağ (networking), switch'ler ve iş yükünün tüm bilgisayarlar arasında dağıtımı optimize edilmelidir.</p>
+<p>Geleceği Görme ve "Manifesting" (Geleceği İnşa Etme) Felsefesi [17:14]</p>
+<p>Merak ve Mantık Yürütme: Jensen Huang, kararlarını derin bir merak ve mantık sistemiyle aldığını belirtiyor. Bir sonucun kesinlikle gerçekleşeceğine inandığında, zihninde o geleceği şekillendiriyor (manifesting) ve aradaki tüm zorluklara (suffering) rağmen o yolda ilerliyor.</p>
+<p>İletişim ve Liderlik: Yeni bir trend veya teknoloji öğrendiğinde bunu ekibinden saklamak yerine, süreçleri onlarla adım adım tartışarak ve dış dünyadaki verileri entegre ederek vizyonu paylaşıyor.</p>
+<p>Pre-training, Post-training ve Synthetic Data (Sentetik Veri) [22:51]</p>
+<p>İnsan Üretimi Verilerin Sınırı: Yapay zeka eğitiminde insan üretimi verilerin (human-generated data) payı zamanla azalacak.</p>
+<p>Sentetik Verinin Gücü: AI, "ground truth" (temel gerçeklik) verilerini alıp bunları geliştirebiliyor, artırabiliyor ve devasa miktarda sentetik veri üretebiliyor. Post-training aşamasında bu veriler ölçeklenmeye devam ediyor.</p>
+<p>Geleceğe Dair Vizyon ve Romantizm [22:04]</p>
+<p>Çözülecek Büyük Problemler: Hastalıkların sonunun gelmesi, kirliliğin drastik ölçüde azalması gibi büyük insanlık problemlerinin yakın gelecekte çözülebileceğini öngörüyor.</p>
+<p>Bilimsel Sınırlar: Biyolojik makinenin (insan zihninin) çözülmesinin 10 yıl değil, muhtemelen 5 yıl içinde gerçekleşeceğini, teorik fizik ve bilinç (consciousness) kavramlarının anlaşılabileceğini ifade ediyor.</p>
+<p>Uzay ve Robotik: İleride uzay gemilerine humanoid robotlar koyarak, kendi bilinç ve deneyimlerini internet üzerinden bu sistemlere aktararak ışık hızında evreni keşfetme hayalinden bahsediyor.</p>
+<p>İlgili video bağlantısı:https://www.youtube.com/watch?v=vif8NQcjVf0</p>
+<p>Jensen Huang: NVIDIA - The $4 Trillion Company &amp; the AI Revolution | Lex Fridman Podcast #494
+Lex Fridman · 1.4M views</p>]]></description>
+    </item>
+    <item>
+      <title>Mixed / LexFridman: Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493</title>
+      <link>https://www.youtube.com/watch?v=H9rF1CSSh-w</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=H9rF1CSSh-w</guid>
+      <pubDate>Wed, 11 Mar 2026 20:21:39 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/H9rF1CSSh-w/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-03-11T20:21:39+00:00</p>
+<p>Lex Fridman Podcast #493 kapsamında Jeff Kaplan ile yapılan röportajın öne çıkan detaylı önemli noktaları:</p>
+<ol>
+<li>Yeni Oyun Duyurusu: The Legend of California [03:00]</li>
+</ol>
+<p>Gizli Proje: Blizzard’dan 2021 yılında ayrıldıktan sonra gözlerden uzak olan Jeff Kaplan, yeni oyunu The Legend of California üzerinde çalıştığını ilk kez açıklıyor.</p>
+<p>Oyun Formatı &amp; Tema: 1800’lerin California Gold Rush (Altın Arama) döneminde geçen, açık dünya (open-world), online multiplayer, action-adventure ve survival ögeleri barındıran bir yapım.</p>
+<p>Atmosfer &amp; Çıkış Planı: Yalnızlık, çaresizlik ve manzaranın büyüsünü harmanlayan, daha önceki Blizzard işlerinden farklı bir yapıda. Steam üzerinde wishlist'e eklenebiliyor; Mart ayında Alpha sürecine ve ardından Early Access'e girecek.</p>
+<ol>
+<li>Oyun Tutkusunun Başlangıcı ve Oyun Geçmişi [04:30]</li>
+</ol>
+<p>Coin-Op Arcade Çağı: Pac-Man, Asteroids, Pong ve Atari ile büyüyen Kaplan, çocukluğunda kaykay/BMX kültürü ve jetonlu oyun salonlarıyla bağ kuruyor.</p>
+<p>İlham Kaynakları: InTelevision konsolu ve NES (Super Mario Bros.'taki gizli alanları keşfetmesi) dönüm noktaları oluyor.</p>
+<p>PC Gaming &amp; Metin Tabanlı Oyunlar: IBM DOS bilgisayarında oynadığı Zork gibi text-based oyunların, hayal gücünü tetikleyerek dünyalara adım atma hissini yarattığını belirtiyor.</p>
+<ol>
+<li>EverQuest'ten Blizzard'a ve MMO Tasarım Felsefesi [00:25]</li>
+</ol>
+<p>Gamer'lıktan Designer'lığa: Kariyerini ve aile hayatını tamamen EverQuest oynamasına borçlu olduğunu dile getiriyor. Oyun topluluğundaki liderliği ve taktiksel bakış açısı onu World of Warcraft ekibine taşıyor.</p>
+<p>Üç Tip Eğlence (Three Types of Fun): [00:00]</p>
+<p>Fun for the player (Oyuncu için eğlence)</p>
+<p>Fun for the designer (Tasarımcı için eğlence)</p>
+<p>Fun for the computer (Bilgisayar/sistem için eğlence)</p>
+<p>PvP Dynamics: PvP mekaniklerini değerlendirirken Rust oyununu en saf/yoğun PvP deneyimlerinden biri olarak örneklendiriyor.</p>
+<ol>
+<li>Blizzard'dan Ayrılış Süreci ve Duygusal Yükü [00:50]</li>
+</ol>
+<p>Sadakat ve Bağlılık: Blizzard'ı kendi kimliğinin bir parçası olarak gördüğünü ve hayatının sonuna kadar oradan emekli olacağını düşündüğünü belirtiyor.</p>
+<p>Topluluk Tepkileri vs. Gerçek: Forumlardaki yoğun eleştirilere ve flaming'e rağmen, oyuncu organizasyonlarına ve fuarlara katıldığında müthiş bir sevgi seliyle karşılaştığını söylüyor.</p>
+<p>Veda Anı: Blizzard'dan ayrılma kararının kendisini ruhen çok zorladığını ("it broke me") ifade ediyor.</p>
+<ol>
+<li>Yapay Zekâ (AI) ve Oyun Dünyasının Geleceği [05:05:25]</li>
+</ol>
+<p>Etik Sınırlar ve Telif: Ses sanatçılarının (voice actors) ve çizerlerin/sanatçıların (artists) emeklerinin izinleri olmadan AI modellerinde kullanılmasının hırsızlık ve ahlak dışı olduğunu savunuyor.</p>
+<p>Sıkıcı/Tekrarlayan İşler (Tedium): AI'ın yaratıcı süreçte değil; 2000 görselin boyutlandırılması gibi angarya, teknik ham hamlelerde zaman kazandırıcı bir araç (useful tool for mundane tasks) olabileceğini belirtiyor.</p>
+<p>İnsan Ruhunun Yeri: AI Ne kadar gelişirse gelişsin insana özgü o kusurları (imperfections), "insan ruhunu" ve özgün yaratıcılığı (örneğin Chris Metzen'in hikaye anlatıcılığını) yakalayamayacağını vurguluyor.</p>
+<ol>
+<li>Bağımsız Stüdyolar (Small Studios) ve Geliştiricilere Tavsiyeler [05:08:00]</li>
+</ol>
+<p>Sektörün Geleceği: Küçük ve bağımsız stüdyoların oyun sektörünün geleceği olduğunu; büyük stüdyoların yeni fikir ve IP bulmak için bu stüdyoları bünyelerine kattığını söylüyor.</p>
+<p>Geliştiricilere Sert Mesaj: Oyun geliştiricilerine seslenerek sanatlarına ve uzmanlıklarına sahip çıkmalarını, yaratıcı güçlerini şirketlerin yöneticilerine ("corporate jackals") kaptırmamalarını öğütlüyor ("You are the golden goose, keep your eggs").</p>
+<p>Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493
+Lex Fridman · 958K views</p>]]></description>
     </item>
   </channel>
 </rss>
