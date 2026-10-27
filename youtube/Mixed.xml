@@ -4,7 +4,7 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 12:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:00:03 +0000</lastBuildDate>
     <item>
       <title>Mixed / LexFridman: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503</title>
       <link>https://www.youtube.com/watch?v=ZAzWPE9CItg</link>
@@ -1023,6 +1023,78 @@ Arman ACAR · 79K views</p>]]></description>
 <p>Videoya aşağıdaki bağlantıdan ulaşabilirsiniz:http://www.youtube.com/watch?v=vKEKpSlWuyk</p>
 <p>Neuroscientist Ranks: The FASTEST Ways To Heal Brain Rot
 Tj Power · 271K views</p>]]></description>
+    </item>
+    <item>
+      <title>Mixed / BarışÖzcan: Yapay Zeka 90 Yıllık Problemi 88 Saatte Çözdü mü?</title>
+      <link>https://www.youtube.com/watch?v=nyP2Fbd80K4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=nyP2Fbd80K4</guid>
+      <pubDate>Sun, 27 Sep 2026 11:42:38 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/nyP2Fbd80K4/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-09-27T11:42:38+00:00</p>
+<p>Barış Özcan'ın "Yapay Zeka 90 Yıllık Problemi 88 Saatte Çözdü mü?" başlıklı videosunda öne çıkan ana başlıklar ve detaylar:</p>
+<ol>
+<li>Giriş ve "Streetlight Effect" (Sokak Lambası Etkisi)</li>
+</ol>
+<p>Nasrettin Hoca &amp; Sarhoş Fıkrası: Anahtarını/yüzüğünü karanlık bodrumda kaybedip ışık olduğu için sokak lambasının altında arayan fıkradan yola çıkılarak bilim dünyasındaki Streetlight Effect kavramı açıklanıyor [[00:48]].</p>
+<p>Ana Soru: Yapay zeka gerçekten yeni bir şey keşfedebilir mi, yoksa sadece bakması kolay ve aydınlatılmış yerlerde mi arama yapıyor? [[01:15]]</p>
+<ol>
+<li>Millennium Prize Problems ve Navier-Stokes Denklemleri</li>
+</ol>
+<p>Clay Mathematics Institute: 2000 yılında tanesine 1 milyon dolar ödül konan 7 büyük matematik probleminden bahsediliyor [[01:44]].</p>
+<p>Grigori Perelman: Poincaré Conjecture'ı çözüp ödülü reddeden tek matematikçi. Reddetme gerekçesi: Yolu açan Richard Hamilton'ın payının kendi payından az olmaması [[02:01]].</p>
+<p>Navier-Stokes Problem: Suyun, havanın ve akışkanların hareketini yöneten denklemler (
+𝐹
+=
+𝑚
+⋅
+𝑎
+F=m⋅a) [[04:15]].</p>
+<p>Singularity (Tekillik): Bir girdabın daraldıkça hızlanması ve teorik olarak sonsuz hıza/yoğunluğa ulaşarak denklemin çökmesi durumu [[05:20]].</p>
+<p>1 Million Dollar Question: Akışkanın kendi iç sürtünmesi (viskozite/fren) bu tekilliğe ulaşmayı her zaman engeller mi? [[06:03]]</p>
+<ol>
+<li>OpenAI'ın 88 Saatlik İddiası ve Multi-Agent System</li>
+</ol>
+<p>OpenAI Başkanı'nın Açıklaması: Şirket içi, kamuya açık olmayan özel bir model kullanılarak 10.000 Yapay Zeka Ajanı (AI Agents) kuruluyor [[02:54]].</p>
+<p>Çalışma Prensibi: Ajanlar kendi aralarında 2.7 milyon mesaj paylaşıyor, 88 saat çalışıyor ve Navier-Stokes için bir ispat üretiyor [[03:12]].</p>
+<p>Maliyet: Bu çözümü üretmek için harcanan işlem gücü maliyeti yaklaşık 15 milyon dolar [[03:50]].</p>
+<ol>
+<li>İspanyol Matematikçiler, Söylentiler ve Veri Çalma/Atıf Tartışması</li>
+</ol>
+<p>Arka Plandaki İnsan Emeği (Madrid Ekibi):</p>
+<p>Diego Córdoba ve öğrencisi Luis Martínez Zoroa, 7 yıldır bu problem üzerinde kağıt-kalemle çalışıyor [[10:59]].</p>
+<p>Yaklaşımları: Dışarıdan sürekli ve pürüzsüz bir dış kuvvet (kaşık / external forcing) uygulandığında akışın tekilliğe varabileceğini gösteriyorlar [[11:09]].</p>
+<p>Tristan Buckmaster &amp; Levent Alpöge:</p>
+<p>New York Üniversitesi'nden Buckmaster ve Anthropic'ten Levent Alpöge, yaklaşık 1 yıldır AI araçlarını (OpenAI Codex) taslak yazımında yardımcı olarak kullanarak bu yöntemi ilerletiyorlar [[08:48]].</p>
+<p>Söylenti ve OpenAI'ın Hamlesi: Anthropic'in problemi çözmek üzere olduğuna dair söylenti çıkınca OpenAI 10.000 ajanlık orduyu devreye sokuyor [[07:54]].</p>
+<p>Atıf ve Etik Sorunu:</p>
+<p>OpenAI'ın ilk yayınladığı ispata insan matematikçilere (Córdoba, Martínez Zoroa, Buckmaster) atıf yapmadığı için tepki gösteriliyor, sonradan atıflar ekleniyor [[12:57]].</p>
+<ol>
+<li>Problem Gerçekten Çözüldü mü? (Kaşıklı vs. Kaşıksız Bardak)</li>
+</ol>
+<p>Pürüzsüz Dış Force (Kaşık) Detayı: OpenAI’ın çözümü, sıvının dışarıdan pürüzsüz/kontrollü bir hareketle karıştırıldığı durum için geçerli [[14:13]].</p>
+<p>Asıl Açık Soru: Dışarıdan hiçbir müdahale olmadan (kaşıksız) su kendi kendine tekilliğe ulaşabilir mi? Bu soru hala açık [[15:19]].</p>
+<p>Harvard Konuşması &amp; Formal Verification: 166 sayfalık ispatın kodları bilgisayarla kontrol edilse de doğru soruya cevap verip vermediğini hala insanların doğrulaması gerekiyor [[13:48]].</p>
+<ol>
+<li>Paul Erdős Sorusu ve AI'ın Ön Yargısızlığı</li>
+</ol>
+<p>Erdős'ün 1946 Tarihli Sorusu (Distinct Distances Problem):</p>
+<p>Paul Erdős'ün 80 yıldır çözülemeyen 500 dolar ödüllü geometrik/sayısal taş dizilim problemi [[17:21]].</p>
+<p>AI'ın Yaklaşımı (Karanlık Yarıya Bakmak):</p>
+<p>İnsanlar 80 yıldır Erdős'ün haklı olduğunu ispatlamaya çalışırken (ışığın altı), yeni AI modeli problemi çürütmeye (counterexample bulmaya) odaklanıyor [[19:16]].</p>
+<p>Cüret ve Bias (Ön Yargı) Eksikliği:</p>
+<p>Timothy Gowers ve diğer matematikçiler, insanların Erdős gibi bir dehaya duydukları saygıdan dolayı hipotezi çürütmeye cüret edemediklerini, ancak AI'ın hiçbir otorite korkusu ve bias'ı olmadan çürütmeyi başardığını vurguluyor [[20:43]].</p>
+<ol>
+<li>Keşif Nedir? (Kristof Kolomb vs. Amerigo Vespucci)</li>
+</ol>
+<p>Metafor: Kristof Kolomb 1492'de yeni kıtaya varıyor fakat orayı Asya zannediyor; Amerigo Vespucci ise oranın yeni bir dünya olduğunu anlıyor ve kıtaya adı veriliyor [[22:04]].</p>
+<p>Sonuç: AI bir yere herkesten hızlı varabilir (Kolomb), ancak vardığı yerin ne anlama geldiğini kavramak ve doğru soruyu sormak hala insan zekasına ait (Vespucci) [[22:47]].</p>
+<ol>
+<li>Terence Tao'nun Tavsiyesi ve Kapanış</li>
+</ol>
+<p>Terence Tao: AI şirketlerine "Çözümü ilk duyuran değil, yeni bir içgörüyりを (insight) ilk sağlayan olmak için yarışın" tavsiyesinde bulunuyor [[24:21]].</p>
+<p>Kapanış Sözü: Yapay zeka ışığı taşıyabilir, ancak neyin eksik olduğunu fark edip "susamak" ve "soruyu sormak" insana özgüdür [[27:15]].</p>
+<p>Yapay Zeka 90 Yıllık Problemi 88 Saatte Çözdü mü?
+Barış Özcan · 944K views</p>]]></description>
     </item>
     <item>
       <title>Mixed / Arman: Gorilla Glass’ın Arkasındaki Gerçek Hikaye!</title>
