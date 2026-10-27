@@ -4,7 +4,90 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 13:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:33:01 +0000</lastBuildDate>
+    <item>
+      <title>Mixed / ChillFinancialHistorian: Anthropic's IPO Explained (Lost $80 Billion. Investors Still Want In)</title>
+      <link>https://www.youtube.com/watch?v=E-2J1BbBD8Y</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=E-2J1BbBD8Y</guid>
+      <pubDate>Tue, 27 Oct 2026 03:04:54 +0000</pubDate>
+      <media:thumbnail url="https://i2.ytimg.com/vi/E-2J1BbBD8Y/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-27T03:04:54+00:00</p>
+<p>Videodaki tüm ana başlıklar ve öne çıkan detaylar:</p>
+<ol>
+<li>Genel Bilgiler ve IPO Başvurusu (S-1 Formu) [00:26]</li>
+</ol>
+<p>S-1 Formu Tarihi: Anthropic, ABD Menkul Kıymetler ve Borsa Komisyonu'na (SEC) halka arz (IPO) başvurusunu 26 Ekim 2026'da sundu [00:33].</p>
+<p>Değerleme: Şirket, Mayıs 2026’da özel yatırımcılar tarafından 965 milyar dolar değerlenmişti; IPO ile 1.5 – 2 trilyon dolar bandında bir değerlemeye ulaşmayı hedefliyor [00:14].</p>
+<p>Listeleme Detayları: NASDAQ üzerinde "ANT" sembolü altında listelenmeyi planlıyor; sürece Goldman Sachs ve Morgan Stanley liderlik ediyor [14:13].</p>
+<ol>
+<li>Finansal Büyüme ve Gelir Tablosu [01:08]</li>
+</ol>
+<p>Gelirdeki Büyüme Hızı (Revenue Growth):</p>
+<p>2023: 41 milyon dolar [01:17]</p>
+<p>2024: 386 milyon dolar [01:17]</p>
+<p>2025: 4.6 milyar dolar [01:17]</p>
+<p>2026 (İlk 6 Ay): 16.3 milyar dolar [01:23]</p>
+<p>Gelir Modeli:</p>
+<p>%80 "Pay for Intelligence": Kullanım bazlı token tüketim ücretleri [01:30].</p>
+<p>%20 Abonelikler: Claude Platform API'si, Claude Code (yazılım ajanı) ve Claude Co-work gibi ürünler [01:52].</p>
+<p>Müşteri Tabanı &amp; Sadakat:</p>
+<p>Yıllık 100.000$+ harcayan müşteri sayısı 11.900'ün üzerinde [02:16].</p>
+<p>Yıllık 1.000.000$+ harcayan müşteri sayısı 1.900'ün üzerinde [02:16].</p>
+<p>Gelirin yaklaşık %75'i bu büyük kurumsal müşterilerden geliyor [02:40].</p>
+<p>Net Revenue Retention: %900 seviyesinde (geçen yıl 1$ harcayan müşteri grubu şu an ortalama 9$ harcıyor) [02:48].</p>
+<p>Verimlilik Metriği: Çalışan başına düşen yıllık gelir (Revenue per Employee) 6.6 milyon doların üzerine çıktı [03:25].</p>
+<p>Churn / Model Risk: Son 6 ayda çıkan modeller, 3. çeyrek gelirinin %80'inden fazlasını sağladı (Müşteriler en yeni modeli takip ettiği için sürekli önde olma zorunluluğu var) [02:54].</p>
+<ol>
+<li>80.7 Milyar Dolarlık Zayıf / Muhasebe Zararı [03:43]</li>
+</ol>
+<p>Görünen Zarar (Net Loss): 2026'nın ilk 6 ayında 80.7 milyar dolar zarar [00:08].</p>
+<p>Sebebi (Convertible Notes Accounting):</p>
+<p>Şirket, Amazon gibi devlerden Convertible Note (hisseye dönüşebilir borç) ile fon sağladı [03:58].</p>
+<p>Muhasebe kuralları gereği, Anthropic’in değerlemesi yükseldikçe bu borçların gelecekte dönüşeceği hisselerin değeri de artıyor. Bu değer artışı bilanço tablosunda "fair value change" olarak zarar/gider yazılıyor [04:04].</p>
+<p>2026’nın ilk yarısındaki bu kağıt üzerindeki kalem: 72.4 milyar dolar [04:24]. Halka arz anında bu notlar hisseye dönüşeceği için bu zarar ortadan kalkacak [04:43].</p>
+<p>Gerçek Operasyonel Durum:</p>
+<p>Standart muhasebeye (GAAP) göre operasyonel zarar: 693 milyon dolar [05:03].</p>
+<p>Hisse bazlı ödemeler (Stock-based compensation - $2.2B) çıkarıldığında Adjusted Profit: 1.6 milyar dolar [05:10].</p>
+<p>2025'te yazarlarla yapılan telif hakları davası uzlaşması (Barts lawsuit) için 1.5 milyar dolar nakit ödeme yapıldı [05:36].</p>
+<ol>
+<li>En Büyük Maliyet ve Risk: Compute (Hesaplama Gücü) [05:55]</li>
+</ol>
+<p>Compute Harcaması: 2026'nın ilk yarısında 8.9 milyar dolar (toplam gelirin yarısından fazlası) [06:11].</p>
+<p>Uzun Vadeli Taahhütler (Cloud Commitments):</p>
+<p>2045 yılına kadar uzanan sunucu/çip taahhütlerinin büyüklüğü 475 milyar - 750 milyar dolar arasında tahmin ediliyor [06:25].</p>
+<p>Bu maliyetler sabit (fixed cost) iken müşterilerle yapılan sözleşmelerin çoğu kısa vadeli/iptal edilebilir [07:11].</p>
+<p>Çip Altyapısı &amp; Çeşitlilik:</p>
+<p>Kullanılan çip aileleri: Amazon Tranium, Google TPU, Nvidia ve AMD GPU'ları [06:42].</p>
+<p>Yeni Strateji: "Anthropic Direct" ile kendi özel veri merkezlerini kiralayıp çipleri doğrudan kendi bünyesinde işletmeyi hedefliyor [06:51].</p>
+<p>Kasa Durumu: Haziran sonu itibarıyla 131.7 milyar dolar nakit ve kısa vadeli yatırımı bulunuyor [08:00].</p>
+<ol>
+<li>Şirket Yönetim Yapısı (Corporate Governance) [08:32]</li>
+</ol>
+<p>Public Benefit Corporation (PBC): Delaware yasalarına göre kurulan şirket; sadece kârı değil, insanlığın uzun vadeli faydasını ve sorumlu AI gelişimini de gözetmek zorunda [08:48].</p>
+<p>Hisse Sınıfları (Share Classes):</p>
+<p>Class A: Halka açık, hisse başına 1 oy hakkı [09:03].</p>
+<p>Class N: Oy hakkı yok [09:03].</p>
+<p>Class T: "Long-Term Benefit Trust" (Maddi çıkarı olmayan bağımsız mütevelli heyeti) tarafından tutulur; yönetim kurulunun çoğunluğunu seçer [09:11].</p>
+<p>Class F: 7 kurucu ortağın ortak bir şirket üzerinden elinde tuttuğu tek bir hisse. Bu tek hisse, toplam oyların %50.1'ini kontrol eder [09:25].</p>
+<p>Sonuç: Yatırımcılar hisse alabilir ancak şirket yönetiminde ve kararlarında neredeyse hiç söz/oy hakkına sahip olmayacaktır [10:22].</p>
+<ol>
+<li>ABD Hükümeti ve Jeopolitik Riskler [10:37]</li>
+</ol>
+<p>Kullanım Kısıtlamaları: Anthropic, modellerinin kitlesel iç denetim (surveillance) veya tam otonom silahlarda kullanılamayacağını ilan etti [10:45].</p>
+<p>Hükümet Misillemesi &amp; Davalar:</p>
+<p>Savunma Bakanlığı (Secretary of War), Anthropic'i "Supply Chain Risk" ilan etti [10:53].</p>
+<p>San Francisco federal mahkemesi Anthropic lehine karar verirken, Washington DC Temyiz Mahkemesi (2-1 oyla) hükümetin bu kararı alma yetkisi olduğuna hükmetti [11:10].</p>
+<p>İhracat Kısıtlamaları: Ticaret Bakanlığı (Commerce Department), en güçlü modellerden Fable 5 ve Mythos 5 için dünya çapında ihracat kısıtlaması getirdi; şirket kısıtlama kalkana kadar modelleri geçici olarak kapatmak zorunda kaldı [12:01].</p>
+<ol>
+<li>S-1 Formundaki Nadir Uyarılar ve Diğer Riskler [12:22]</li>
+</ol>
+<p>Autonomous/Misaligned AI Riski: Prospektüste AI modellerinin öngörülemeyen, "misaligned" (hizalanmamış) veya kontrolden çıkan otonom davranışlar sergileyebileceği riski açıkça belirtilmiş [12:37].</p>
+<p>Closing the Loop: Claude artık bir sonraki Claude sürümünü geliştirmeye yardım ediyor. Eylül ayındaki kod katkılarının %90'ından fazlası bizzat Claude tarafından yazıldı [13:00].</p>
+<p>Kullanım İhlali Tespiti: İlk 9 aydaki gelirin %5 - %7'lik kısmının kullanım politikalarını ihlal ettiği sonradan tespit edilen müşterilerden geldiği açıklandı [13:34].</p>
+<p>Tedarikçi-Rakip İkilemi: Amazon, Google ve Microsoft aynı anda Anthropic'in altyapı sağlayıcısı, yatırımcısı, dağıtım kanalı ve doğrudan en büyük rakibidir [13:50].</p>
+<p>Anthropic's IPO Explained (Lost $80 Billion. Investors Still Want In)
+Chill Financial Historian · 2.1K views</p>]]></description>
+    </item>
     <item>
       <title>Mixed / LexFridman: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503</title>
       <link>https://www.youtube.com/watch?v=ZAzWPE9CItg</link>
