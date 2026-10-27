@@ -4,7 +4,7 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 12:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:30:02 +0000</lastBuildDate>
     <item>
       <title>Mixed / LexFridman: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503</title>
       <link>https://www.youtube.com/watch?v=ZAzWPE9CItg</link>
@@ -1807,6 +1807,43 @@ Tj Power · 4.4M views</p>]]></description>
 <p>Video bağlantısı: https://www.youtube.com/watch?v=zz_fzvmAX8g</p>
 <p>Dünya Neden Çin’in İki Metaline Muhtaç?
 Arman ACAR · 188K views</p>]]></description>
+    </item>
+    <item>
+      <title>Mixed / LexFridman: DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501</title>
+      <link>https://www.youtube.com/watch?v=NYFGCESmikA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=NYFGCESmikA</guid>
+      <pubDate>Wed, 26 Aug 2026 21:44:41 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-08-26T21:44:41+00:00</p>
+<p>Lex Fridman ile David Heinemeier Hansson (DHH) arasındaki #501 numaralı podcast bölümünde öne çıkan ana başlıklar ve detaylar:</p>
+<ol>
+<li>Yapay Zeka ve "Agentic Engineering" Dönüşümü</li>
+</ol>
+<p>Gelişimin Hızı: DHH, son aylardaki yazılım gelişim hızının benzeri görülmemiş olduğunu ve "yıllarca sürecek ilerlemenin aylar içinde yaşandığını" belirtiyor [[00:00]].</p>
+<p>Agent'ların Rolü: Yazılım geliştirme sürecinin artık Agentic Engineering boyutuna evrildiğini; rutin kod yazımının ötesinde agent'ların karmaşık mimari ve sistem işlerini üstlendiğini vurguluyor.</p>
+<p>Humility &amp; Trust (Ajanlara Güven): Başlarda deneyimli bir yazılımcı olarak agent'lara tam olarak ne yapacağını adım adım dikte ettiğini [[52:15]], ancak zamanla agent'ların güvenlik ve mimari kararlarda insanlardan daha güncel ve iyi çözümler sunduğunu kabul ettiğini anlatıyor [[55:39]].</p>
+<ol>
+<li>Vibe Coding &amp; Yazılımın Geleceği</li>
+</ol>
+<p>Tasarımcıların Kod Yazması: Basecamp 5 geliştirme sürecinde ajan desteği sayesinde tasarımcıların bile doğrudan ürün geliştirme sürecine katkı sağladığı bir aşamaya geçildiğini söylüyor [[16:15]].</p>
+<p>Eski Zihniyet ve Supertanker Şirketler: Büyük teknoloji şirketlerinin eski süreçlerine bağlı kalarak hantal yapılar (supertanker) haline geldiğini, bu dönüşüme hızlı adapte olan küçük ekiplerin büyük avantaj yakalayacağını savunuyor [[23:35]].</p>
+<p>"Mechanical Parrot" Paradoksu: AI'ı sadece "papağan" gören ve faydasını küçümseyen kişilerin yakında ortaya çıkacak büyük kanıt ve ürün dalgası altında kalacağını belirtiyor [[46:51]].</p>
+<ol>
+<li>Omakase Linux &amp; OMAKUB (Linux Ekosistemi)</li>
+</ol>
+<p>Mac OS ve Windows Alternatifi: DHH, Linux dünyasına merak salarak Omakase Linux felsefesiyle modern, kullanıcı dostu ve "opinionated" bir sistem yaklaşımı geliştirdiğinden bahsediyor [[39:43]].</p>
+<p>Agent-First İşletim Sistemi: Geleceğin işletim sistemlerinin agent entegrasyonu odaklı olacağını ve bu tarz projelerin (Omakase / OMAKUB ekosistemi) AI çağında geliştirici deneyimini baştan tanımladığını aktarıyor [[47:05]].</p>
+<ol>
+<li>Güvenlik, Kod Kalitesi ve "Fable"</li>
+</ol>
+<p>Security Critical Systems: Nükleer santral veya otonom araç yazılımları gibi hayati alanlarda insan denetiminin hâlâ şart olduğunu belirtmekle birlikte [[14:03]], AI'ın güvenlik zafiyetlerini tespit etme ve düzeltme kabiliyetinin inanılmaz bir seviyeye ulaştığını ifade ediyor [[14:17]].</p>
+<ol>
+<li>Medeniyetin Geleceği, İnsanlık ve Nostalji</li>
+</ol>
+<p>Gelecek Öngörüsü &amp; İyimserlik: 1000 yıl sonrasını tahmin etmenin imkansız olduğunu söylese de iyimser tarafta yer aldığını; çok gezegenli tür (multiplanetary species) olma vizyonunu ve Mars hedeflerini desteklediğini belirtiyor [[05:12:02]].</p>
+<p>80'ler Nostaljisi vs. 90'lar Nihilizmi: Gelecekte zihnini dijital bir ortama (Matrix/Black Mirror tarzı) aktaracak olsa 1980'leri seçeceğini söylüyor [[05:12:40]]. 80'lerin pop, renkli ve iyimser havasını severken; 90'ların grunge ve nihilist "defeatism" anlayışına eleştirel yaklaşıyor [[05:13:41]].</p>
+<p>DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501
+Lex Fridman · 2.3M views</p>]]></description>
     </item>
     <item>
       <title>Mixed / Arman: Petrol Parasını Yapay Zekaya Çeviriyorlar</title>
