@@ -4,7 +4,59 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 12:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:24:02 +0000</lastBuildDate>
+    <item>
+      <title>Mixed / LexFridman: AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503</title>
+      <link>https://www.youtube.com/watch?v=ZAzWPE9CItg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZAzWPE9CItg</guid>
+      <pubDate>Mon, 26 Oct 2026 22:51:51 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/ZAzWPE9CItg/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-26T22:51:51+00:00</p>
+<p>Lex Fridman's #503 numaralı podcast bölümü ("AI Crisis in Math"), yapay zekanın (OpenAI ve diğer sistemlerin) yakın zamanda Navier-Stokes, Riemann Hipotezi (quasiriemann), Unique Games Conjecture, RL=L gibi matematikteki ve teorik bilgisayar bilimindeki en zor/tarihi problemleri çözdüğü iddiaları üzerine düzenlenmiş acil bir durum panelidir.</p>
+<p>Konuklar:</p>
+<p>Steven Brunton (University of Washington - Akışkanlar Mekaniği / Navier-Stokes / Uygulamalı Matematik)</p>
+<p>Ankur Moitra (MIT &amp; IAS Princeton - Karmaşıklık Teorisi / Unique Games Conjecture / Yapay Zeka Teorisi)</p>
+<p>Alex Kontorovich (Rutgers University - Sayılar Teorisi / Riemann Hipotezi / Lean Otomatik Kanıt Doğrulayıcıları)</p>
+<ol>
+<li>Kriz mi, Altın Çağ mı? (Psikolojik ve Sosyolojik Etki)</li>
+</ol>
+<p>Şok ve Belirsizlik: OpenAI’ın ve AI sistemlerinin yüzlerce matematiksel kanıtı/sonucu tek seferde sunması matematik dünyasında şok, endişe ve heyecan yarattı [01:39].</p>
+<p>El Feneri Benzetmesi: Alex Kontorovich, bunun bir "kriz" olmaktan ziyade binlerce yıldır mumla yürünen karanlık ormanda elimize güçlü bir flashlight (el feneri) verilmesi olduğunu, bir Golden Age of Mathematical Knowledge'a giriyor olabileceğimizi savunuyor [02:34].</p>
+<p>Akademik ve Mentörlük Krizi: Ankur Moitra, AI'ın alanlar arası bağı kurmada harika olduğunu ancak PhD öğrencileri ve post-doc'lar için eski başarı "playbook"unun çöktüğünü belirtiyor [05:03].</p>
+<p>Terence Tao’nun Tepkisi: Fields madalyalı Terence Tao'nun "Yıllardır süren sabırlı, yavaş araştırmaların ve genç akademisyenlerin emeklerinin bir anda AI tarafından 'spoiler' verilerek altüst edilmesinden duyduğu derin kaygı" vurgulanıyor [05:49].</p>
+<ol>
+<li>Navier-Stokes ve Akışkanlar Mekaniği (Steven Brunton)</li>
+</ol>
+<p>Problem: Millennium Prize problemlerinden biri olan Navier-Stokes türbülans ve akışkan denklemlerinin düzgünlüğü (smoothness/blow-up).</p>
+<p>AI’ın Katkısı: AI, türbülanslı akışlardaki çözümler veya tekillikler (singularities) üzerine daha önce insan zihninin göremediği soyut yapıları ortaya koyabiliyor.</p>
+<p>Mühendislik Perspektifi: Uygulamalı matematik ve mühendislik açısından AI'ın bu başarısı; uçak tasarımı, yapay kalp yapımı ve iklim modellemelerinde büyük sıçramalara yol açma potansiyeline sahip [07:21].</p>
+<ol>
+<li>Karmaşıklık Teorisi: Unique Games Conjecture ve RL = L (Ankur Moitra)</li>
+</ol>
+<p>Unique Games Conjecture (UGC): Yaklaşık hesaplama karmaşıklığı (approximation algorithms) için dönüm noktası olan UGC problemine getirilen AI çözümleri teorik bilgisayar bilimini kökten etkiliyor [01:00].</p>
+<p>RL vs L: Rastlantısal bellek (Randomized Logspace) ile deterministik belleğin (Logspace) eşitliği (
+𝑅
+𝐿
+=
+𝐿
+RL=L) gibi teorik limitlerin AI tarafından adım adım çözülebilmesi.</p>
+<p>AI als Expert: AI, alanında uzman bir profesör gibi kişiselleştirilmiş anlatım sunabiliyor ve disiplinler arası köprü kurma yeteneğini devasa boyutta artırıyor [04:32].</p>
+<ol>
+<li>Sayılar Teorisi, Riemann Hipotezi ve Formalleştirme (Alex Kontorovich)</li>
+</ol>
+<p>Riemann Hipotezi: Asal sayıların dağılımını belirleyen en ünlü matematik problemi.</p>
+<p>Formal Verification &amp; Lean: Otomatik kanıt denetleyicileri (Lean, Coq vb.) AI tarafından üretilen kanıtların doğrulanmasında kritik rol oynuyor [01:09]. AI’ın ürettiği "hallucination" veya hatalı kanıt adımlarını insan matematikçiler yerine Formal Proof Checker sistemleri denetlemek zorunda.</p>
+<p>Mathematical Intuition: AI sadece brute-force denemiyor, sezgisel (intuitive) olarak derin matematiksel ilişkileri keşfedebiliyor.</p>
+<ol>
+<li>Matematikçilerin ve İnsanlığın Geleceği</li>
+</ol>
+<p>Geleceğin Matematikçisi Rolü: Matematikçi artık sadece kanıt yazan biri değil; "doğru soruları soran" (asking the right questions), kavramsal çerçeveleri çizen ve AI çıktılarını yönlendiren bir mimara dönüşüyor [04:25].</p>
+<p>İnsan İlişkileri ve Topluluk (Community):</p>
+<p>Zekanın ve mantıksal problem çözmenin AI tarafından "commodify" (meta haline) getirildiği bir dünyada, insani bağların, yüz yüze iletişimin, mentörlüğün ve ailenin önemi azalmak yerine daha da artacak [03:32:48].</p>
+<p>AI araçlarını sistem içinde etkin kullanırken, bireysel ve özgün ("weird/renegade") fikirler üretme dengesini korumak gerekiyor [03:31:51].</p>
+<p>AI Crisis in Math: Navier-Stokes, Riemann Hypothesis &amp; Complexity Theory | Lex Fridman Podcast #503
+Lex Fridman · 345K views</p>]]></description>
+    </item>
     <item>
       <title>Mixed / Oytun: VÜCUDUNUZ SÜREKLİ AĞRIYOR MU? Fibromiyaljinin Bilinmeyen Yüzü! Kronik Ağrı, Stres ve Travmalar</title>
       <link>https://www.youtube.com/watch?v=CuACkujWNGQ</link>
