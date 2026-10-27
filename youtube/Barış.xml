@@ -4,7 +4,206 @@
     <title>Barış</title>
     <link>https://www.youtube.com/</link>
     <description>Barış AI Summaries</description>
-    <lastBuildDate>Tue, 27 Oct 2026 19:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:03:01 +0000</lastBuildDate>
+    <item>
+      <title>Barış / Koç nereye? | Fonlarda ödeme planı | Rezervde erime | BİST'i Astor tuttu</title>
+      <link>https://www.youtube.com/watch?v=MlbOWKAjHok</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MlbOWKAjHok</guid>
+      <pubDate>Tue, 27 Oct 2026 18:42:53 +0000</pubDate>
+      <media:thumbnail url="https://i2.ytimg.com/vi/MlbOWKAjHok/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-27T18:42:53+00:00</p>
+<p>Bu video, Andrej Karpathy'nin "Let's build GPT: from scratch, in code, spelled out." başlıklı ünlü Transformer/GPT dersidir. Videoda zero-shot dil modelinden başlayarak adım adım minyatür bir GPT (Decoder-only Transformer) yazılmakta ve eğitilmektedir.</p>
+<p>Videodaki önemli konular ve adımların detaylı özeti:</p>
+<ol>
+<li>Giriş ve Veri Hazırlığı (Data Preparation)</li>
+</ol>
+<p>Dataset: Video boyunca Tiny Shakespeare (Shakespeare eserlerinden oluşan ~1 MB'lık metin dosyası) kullanılır.</p>
+<p>Tokenization:</p>
+<p>Basitlik adına character-level tokenization kullanılır (her benzersiz karakter bir integer'a eşlenir).</p>
+<p>Karakter düzeyinde vocabulary size küçük (~65) ve implementasyon kolaydır.</p>
+<p>Gerçek GPT modellerinde (ör. GPT-2/3/4) Subword Tokenization (Tiktoken, BPE - Byte Pair Encoding) kullanılır. Vocabulary size daha büyüktür (~50k) ancak sequence length kısalır.</p>
+<p>Train / Validation Split: Metnin %90'ı train_data, %10'u val_data olarak ayrılır.</p>
+<p>Context Length (Block Size): Modelin bir kerede gördüğü maksimum token sayısı (block_size, örn. 8 veya 256).</p>
+<p>Batching &amp; Parallelization: GPU'yu verimli kullanmak için veriler (batch_size, block_size) boyutunda tensor'lara bölünür. Her context uzunluğu içinde model, sonraki token'ı tahmin etmeyi (
+1
+→
+2
+,
+1..2
+→
+3
+,
+.
+.
+.
+1→2,1..2→3,...) bağımsız olarak öğrenir.</p>
+<ol>
+<li>Baseline Model: Bigram Language Model</li>
+</ol>
+<p>Karpathy ilk olarak en basit baseline modeli yazar: BigramLanguageModel.</p>
+<p>Model, bir sonraki token'ı tahmin etmek için sadece mevcut token'ın kendisini kullanır (gecmis context'e bakmaz).</p>
+<p>Lookup Table: nn.Embedding(vocab_size, vocab_size) kullanarak logits üretir.</p>
+<p>Loss Function: F.cross_entropy kullanılır. Karakter kümesi ~65 olduğu için rastgele tahmin (random guessing) durumunda beklenen başlangıç loss'u 
+−
+ln
+⁡
+(
+1
+/
+65
+)
+≈
+4.17
+−ln(1/65)≈4.17 civarındadır.</p>
+<p>Baseline model eğitildikten sonra loss d düşer ancak ürettiği metinler anlamsızdır çünkü karakterler arası uzun vadeli ilişkiyi kuramaz.</p>
+<ol>
+<li>Self-Attention Mekanizmasının Matematiği ve Mantığı</li>
+</ol>
+<p>Mathematical Trick (Weighted Average / Aggregation):</p>
+<p>Transformer'ların kalbinde geçmişteki token'ların bilgilerini toplama (aggregate) fikri yatar.</p>
+<p>Karpathy ilk olarak bunu basit matris çarpımı (torch.matmul) ve tril (lower triangular matrix) kullanarak past token'ların ortalamasını alarak gösterir (Averaging past tokens).</p>
+<p>Query, Key, Value (Q, K, V) Konsepti:</p>
+<p>Past token'ların eşit ağırlıklı ortalaması yerine, token'ların ne aradığı (Query) ve ne sunduğu (Key) üzerinden ağırlıklandırılmış bir etkileşim kurulur.</p>
+<p>Query (
+𝑄
+Q): "Ben ne arıyorum?" (token'ın aradığı bilgi).</p>
+<p>Key (
+𝐾
+K): "Bende ne var?" (token'ın içerdiği bilgi).</p>
+<p>Value (
+𝑉
+V): "Bana ulaşırsan sana ne vereceğim?" (token'ın aktaracağı temsil/feature).</p>
+<p>Attention Score / Affinity: 
+𝑊
+=
+𝑄
+×
+𝐾
+𝑇
+W=Q×K
+T</p>
+<p>Causal Masking (Decoder Masking):</p>
+<p>Autoregressive dil modellerinde gelecek token'ların görünmemesi gerekir (no communication from the future).</p>
+<p>Gelecekteki pozisyonlara karşılık gelen matris elemanları 
+−
+∞
+−∞ (-inf) yapılır. softmax uygulandığında bu değerler 
+0
+0 olur.</p>
+<p>Scaled Dot-Product Attention:</p>
+<p>𝑄
+Q ve 
+𝐾
+K çarpımı, embedding dimension'ın kareköküne (
+𝑑
+𝑘
+d
+k
+    ​</p>
+<pre><code>​
+</code></pre>
+<p>) bölünür (/ sqrt(head_size)).</p>
+<p>Amaç: Variance'ı 
+1.0
+1.0 seviyesinde tutmak. Aksi takdirde yüksek boyutlarda dot-product büyür, Softmax çok "sharp" (one-hot benzere) hale gelir ve gradient flow / optimization problemleri yaşanır.</p>
+<ol>
+<li>Self-Attention ve Transformer Bileşenlerinin İnşası</li>
+</ol>
+<p>Single Self-Attention Head:</p>
+<p>Input tensor: (B, T, C)</p>
+<p>Linear transformation'lar ile 
+𝑄
+,
+𝐾
+,
+𝑉
+Q,K,V elde edilir (B, T, head_size).</p>
+<p>Weighted aggregation sonrası çıkış boyutu: (B, T, head_size).</p>
+<p>Multi-Head Attention:</p>
+<p>Tek bir büyük attention head yerine, birden fazla bağımsız "head" paralel çalıştırılır (birden fazla farklı kanaldan iletişim kurulması için).</p>
+<p>Her head'in çıktıları torch.cat ile birleştirilir ve nihai bir Linear projection katmanından geçirilir.</p>
+<p>Feed-Forward Network (FFN):</p>
+<p>Attention katmanı token'ların iletişim kurmasını (communication) sağlar.</p>
+<p>Feed-Forward katmanı ise her token'ın kendi içinde düşünmesini / öğrendiği bilgiyi işlemesini (computation) sağlar.</p>
+<p>Mimarisi: Linear(n_embd, 4 * n_embd) 
+→
+→ ReLU / GELU 
+→
+→ Linear(4 * n_embd, n_embd).</p>
+<p>Transformer Block (Block Architecture):</p>
+<p>Bir Block şunları içerir: MultiHeadAttention + FeedForward.</p>
+<p>Bu bloklar üst üste 
+𝑁
+N defa istiflenir (nn.Sequential(*[Block(...) for _ in range(n_layer)])).</p>
+<ol>
+<li>Derin Ağları Eğitmek İçin Kritik Teknikler (Optimization &amp; Stability)</li>
+</ol>
+<p>Residual Connections (Skip Connections):</p>
+<p>Gradient'ların backward pass sırasında arka katmanlara doğrudan (kesintiye uğramadan) akmasını sağlar.</p>
+<p>Formül: 
+𝑥
+=
+𝑥
++
+SubLayer
+(
+𝑥
+)
+x=x+SubLayer(x)</p>
+<p>Deep network'lerin (çok sayıda block) kolayca eğitilebilmesini sağlar.</p>
+<p>Layer Normalization (LayerNorm):</p>
+<p>BatchNorm'dan farkı: Batch boyutundan bağımsız olarak, her bir örneğin feature'ları (rows) üzerinde normalization yapmasıdır.</p>
+<p>Pre-LN vs Post-LN: Orijinal Transformer makalesinde (Vaswani et al.) Post-LN kullanılırken, modern GPT modellerinde (GPT-2 ve sonrası) ve videodaki kodda stability için Pre-LN (LayerNorm'un Attention ve FFN öncesinde uygulanması) tercih edilmiştir.</p>
+<p>Dropout:</p>
+<p>Overfitting'i önlemek için hem Attention ağırlıklarına hem de Feed-Forward katmanlarına Dropout eklenir.</p>
+<p>Positional Encoding / Embedding:</p>
+<p>Self-Attention mekanizması permutation-invariant'tır (token sıralamasını/pozisyonunu bilmez).</p>
+<p>Bu yüzden token embedding'lerinin üzerine Learned Positional Embeddings (nn.Embedding(block_size, n_embd)) eklenir.</p>
+<ol>
+<li>Tam GPT Modeli (Full Architecture) ve Çıktı Üretimi (Generation)</li>
+</ol>
+<p>Model Mimarisi Özeti:</p>
+<p>Token Embedding + Positional Embedding</p>
+<p>𝑁
+N adet Block (LayerNorm 
+→
+→ Multi-Head Attention 
+→
+→ Residual 
+→
+→ LayerNorm 
+→
+→ FeedForward 
+→
+→ Residual)</p>
+<p>Final LayerNorm</p>
+<p>Final Linear Head (Language Modeling Head) 
+→
+→ Logits (vocab_size)</p>
+<p>Autoregressive Generation (Metin Üretimi):</p>
+<p>Başlangıç context'i (prompt veya 0 / newline character) verilir.</p>
+<p>Forward pass ile logits alınır.</p>
+<p>Son zaman adımının (
+𝑇
+T) logits'i seçilir, Softmax ile olasılıklara dönüştürülür.</p>
+<p>torch.multinomial ile bir sonraki token sample edilir.</p>
+<p>Üretilen token context'e append edilir (block_size aşılırsa crop edilir) ve işlem tekrarlanır.</p>
+<ol>
+<li>Eğitim ve Sonuçlar</li>
+</ol>
+<p>Model AdamW optimizer ile eğitilir.</p>
+<p>Eğitim ilerledikçe validation loss belirgin şekilde düşer (~1.47 seviyelerine kadar).</p>
+<p>Üretilen metin artık rastgele karakterler yerine Shakespeare oyunlarının formatını, isimleri, diyalog yapılarını ve İngilizce kelime/dilbilgisi kalıplarını taklit etmeye başlar.</p>
+<ol>
+<li>GPT-3 ve ChatGPT Perspektifi (Finishing Thoughts)</li>
+</ol>
+<p>Videoda yazılan model ile OpenAI'ın GPT-3'ü mimari olarak birebir aynıdır; fark sadece ölçek (scale), veri miktarı ve optimize edilmiş altyapıdır.</p>
+<p>Pre-training: Videoda yapılan işlem bir Pre-training (Unsupervised Learning) aşamasıdır. Model sadece internetteki/metindeki bir sonraki kelimeyi tahmin etmeyi öğrenir (Document completer).</p>
+<p>Fine-Tuning (Instruction Tuning / RLHF): ChatGPT gibi asistan modeller elde etmek için Pre-trained model üzerine 3 adım uygulanır:</p>
+<p>SFT (Supervised Fine-Tuning): Soru-Cevap / Talimat-Yanıt veri setleriyle eğitme.</p>
+<p>Reward Model: İnsan tercihlerine göre cevabın kalitesini puanlayan bir model eğitme.</p>
+<p>PPO / RLHF (Reinforcement Learning from Human Feedback): Reward model'i kullanarak dili hizalama (alignment) ve güvenli/faydalı yanıtlar üretmesini sağlama.</p>]]></description>
+    </item>
     <item>
       <title>Barış / Serbest fonlara veda | Faize seçim indirimi? | Altında Çin olayı | BİST30'a ilgi</title>
       <link>https://www.youtube.com/watch?v=u7KJQVYk9-M</link>
