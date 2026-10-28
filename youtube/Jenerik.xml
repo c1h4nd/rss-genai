@@ -4,7 +4,85 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Wed, 28 Oct 2026 18:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:06:02 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / Haset ve Rekabet Duygunu Yen! | Leyla Navaro'nun Kitabından Çarpıcı Dersler</title>
+      <link>https://www.youtube.com/watch?v=gzQkhMstg2Q</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=gzQkhMstg2Q</guid>
+      <pubDate>Wed, 28 Oct 2026 17:58:15 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/gzQkhMstg2Q/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-28T17:58:15+00:00</p>
+<p>Bu YouTube videosunda ("10 ML System Design Interview Questions &amp; Answers" - Gaurav Sen / ByteByteGo) öne çıkan ML Sistem Tasarımı soru ve konularının detaylı özeti aşağıda sıralanmıştır:</p>
+<ol>
+<li>Toplam ML System Design Yaklaşımı &amp; Çerçeve (Framework)</li>
+</ol>
+<p>İhtiyaç Analizi &amp; Problem Tanımı:</p>
+<p>Problemin iş hedeflerini (business goals) ve teknik metriklerini (latency, throughput, accuracy, ROC-AUC vb.) belirleyerek başlayın.</p>
+<p>Online vs. Offline performans metrikleri arasındaki farkı netleştirin.</p>
+<p>Data Engineering &amp; Pipeline:</p>
+<p>Data Ingestion &amp; Preprocessing: Data cleaning, missing values imputation, normalizasyon ve encoding (one-hot, label encoding).</p>
+<p>Feature Engineering &amp; Feature Store: Offline (batch) ve online (low-latency) feature'ların saklanması ve tutarlılığının sağlanması (point-in-time correctness).</p>
+<p>Model Selection &amp; Architecture:</p>
+<p>Baseline modeller (ör. Logistic Regression, Decision Tree) ile karmaşık modeller (Deep Learning, Transformers, Gradient Boosting) arasındaki trade-off'lar.</p>
+<p>Training &amp; Evaluation:</p>
+<p>Train/Validation/Test split stratejileri, data leakage önleme, distributed training gereksinimleri.</p>
+<p>Serving &amp; Deployment:</p>
+<p>Real-time (online inference) vs. Batch prediction.</p>
+<p>Model serving platformları (Triton, TorchServe vb.) ve caching stratejileri.</p>
+<p>Monitoring &amp; Maintenance:</p>
+<p>Data Drift (girdi dağılımının değişmesi) ve Concept Drift (girdi ile hedef değişken ilişkisinin değişmesi).</p>
+<p>Retraining trigger'ları (zaman bazlı veya performans bazlı).</p>
+<ol>
+<li>Öne Çıkan ML System Design Senaryoları &amp; Önemli Noktalar
+🔹 Recommendation Systems (Öneri Sistemleri - ör. YouTube/Netflix)</li>
+</ol>
+<p>Two-Stage Architecture:</p>
+<p>Candidate Generation (Retrieval): Milyonlarca içerik arasından en alakalı birkaç yüz adedi low latency ile seçme (ör. Matrix Factorization, Two-Tower Neural Networks, ANN - Approximate Nearest Neighbors / HNSW, Faiss).</p>
+<p>Ranking: Seçilen adayları karmaşık modeller (Deep Learning, GBDT) ve çoklu feature'lar (user context, historical interaction, real-time signals) kullanarak sıralama.</p>
+<p>Exploration vs. Exploitation: Kullanıcıya bildiği içerikleri önerme (exploitation) ile yeni içerikleri keşfetmesini sağlama (exploration - Multi-Armed Bandits / Contextual Bandits) dengesi.</p>
+<p>Cold Start Problem: Yeni kullanıcılar veya yeni içerikler için popularity-based veya content-based yaklaşımlar kullanma.</p>
+<p>🔹 Search &amp; Search Ranking (Arama Sistemleri)</p>
+<p>Query Understanding: Query expansion, spell check, intent classification ve named entity recognition (NER).</p>
+<p>Semantic Search vs. Lexical Search: TF-IDF/BM25 gibi kelime eşleşmesi odaklı yaklaşımlar ile Dense Vector Embeddings (BERT/Bi-Encoders) tabanlı anlamsal arama kombinasyonu (Hybrid Search).</p>
+<p>Learning to Rank (LTR): Pairwise veya Listwise loss fonksiyonları (ör. LambdaMART) ile sonuçları sıralama.</p>
+<p>🔹 Ad Click-Through Rate (CTR) Prediction (Reklam Tıklama Tahmini)</p>
+<p>Extreme Sparsity &amp; High Dimensionality: Milyarlarca kategorik feature ve seyrek veri kümesi ile başa çıkma.</p>
+<p>Model Seçimi: Wide &amp; Deep, Deep &amp; Cross Network (DCN) veya Factorization Machines (FM) mimarileri.</p>
+<p>Online Feature Generation: Reklam tıklamalarında real-time features (son 5 dakikadaki tıklama sayısı vb.) üretimi için Flink/Spark Streaming ve low-latency In-Memory DB (Redis, Aerospike) kullanımı.</p>
+<p>🔹 Feed &amp; Social Network Systems (Newsfeed / Timeline)</p>
+<p>Fan-out Service: Push (Write-path) vs. Pull (Read-path) vs. Hybrid modeller. Takipçi sayısı çok yüksek olan (celebrity) hesaplar için hybrid/pull yaklaşımı.</p>
+<p>Personalization: Real-time engagement signals (like, comment, share, dwell time) ile modelin anlık beslenmesi.</p>
+<p>🔹 Fraud Detection / Anomaly Detection (Sahtekarlık Tespiti)</p>
+<p>Imbalanced Dataset: Fraud vakalarının çok nadir olması yüzünden Class Weighting, Oversampling (SMOTE), Undersampling veya Synthetic Data kullanımı.</p>
+<p>Low Latency Constraint: İşlem (transaction) anında ms seviyesinde karar verme zorunluluğu (Rule-based pre-filter + ML model inference).</p>
+<p>Graph Neural Networks (GNN): Hesaplar arasındaki şüpheli ilişkileri tespit etmek için graph tabanlı yaklaşımlar.</p>
+<p>🔹 Image / Video Processing Systems (Visual Search, Content Moderation)</p>
+<p>Feature Extraction: CNN veya Vision Transformer (ViT) kullanarak görsellerden embeddings üretme.</p>
+<p>Vector Database &amp; Similarity Search: HNSW, Milvus, Pinecone veya Qdrant gibi Vector DB kullanarak en yakın görselleri bulma.</p>
+<p>Asynchronous Processing: Ağır video işleme görevlerinin (transcoding, moderation) message queue (Kafka, RabbitMQ) üzerinden decoupled worker node'lara dağıtılması.</p>
+<ol>
+<li>Sistem Mimarisi &amp; Altyapı Bileşenleri</li>
+</ol>
+<p>Feature Store:</p>
+<p>Online Store: Low latency, key-value tabanlı (Redis, Cassandra, DynamoDB).</p>
+<p>Offline Store: Batch training için, append-only, columnar format (S3, Snowflake, BigQuery, Parquet).</p>
+<p>Consistency: Online ve offline verinin senkronizasyonu için Feast veya Hopsworks gibi tool'lar.</p>
+<p>Model Training &amp; Distributed ML:</p>
+<p>Data Parallelism vs. Model Parallelism: Devasa modellerde (LLM / Transformers) modeli veya veriyi GPU'lara bölme.</p>
+<p>Checkpointing &amp; Fault Tolerance: Uzun süren training işlemlerinde durum kaydetme.</p>
+<p>Model Serving Strategies:</p>
+<p>Shadow Deployment: Yeni modeli canlıya almadan önce prod trafiğinin bir kopyasıyla test etme.</p>
+<p>Canary Deployment: Trafiğin kademeli olarak (ör. %5 -&gt; %20 -&gt; %100) yeni modele aktarılması.</p>
+<p>A/B Testing: Modellerin iş metrikleri üzerindeki etkisini kıyaslama.</p>
+<ol>
+<li>Mülakat Taktikleri &amp; İpuçları</li>
+</ol>
+<p>Clarify Constraints Early: Veri boyutu, günlük aktif kullanıcı (DAU), latency bütçesi (ör. &lt; 50ms) ve taze veri (freshness) ihtiyacını ilk başta sorun.</p>
+<p>Start Simple: Doğrudan karmaşık Deep Learning modellerine atlamayın; basit bir heuristic/baseline mimari ile başlayıp adım adım geliştirin.</p>
+<p>Trade-offs: Her seçiminizde trade-off'ları belirtin (ör. Precision vs. Recall, Latency vs. Accuracy, Batch vs. Streaming).</p>
+<p>End-to-End Ownership: Sadece model eğitmek yetmez; veri toplama, depolama, sunum, izleme ve sürekli yeniden eğitme (continuous retraining) süreçlerinin tamamını kapsayın.</p>
+<p>Başka spesifik bir soru veya bölüm üzerine detaylandırma isterseniz sorabilirsiniz!</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / 1 CLOVE in Your Coffee Every Morning (Here's What Happens)</title>
       <link>https://www.youtube.com/watch?v=S89Qd06Iyu8</link>
