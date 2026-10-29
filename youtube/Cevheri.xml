@@ -4,7 +4,166 @@
     <title>Cevheri</title>
     <link>https://www.youtube.com/</link>
     <description>Cevheri AI Summaries</description>
-    <lastBuildDate>Thu, 29 Oct 2026 17:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:42:01 +0000</lastBuildDate>
+    <item>
+      <title>Cevheri / HABERSİZ İNDİRİRSEN REİS AFFETMEZ</title>
+      <link>https://www.youtube.com/watch?v=Liy1PUx-tII</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Liy1PUx-tII</guid>
+      <pubDate>Thu, 29 Oct 2026 15:57:25 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/Liy1PUx-tII/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-29T15:57:25+00:00</p>
+<p>Bu videoda ("Deep Learning Crash Course" / Derin Öğrenme Hızlı Başlangıç Kursu), yapay zeka, makine öğrenmesi ve derin öğrenmenin temel kavramları matematiksel ve pratik boyutlarıyla ele alınmaktadır. Videodaki önemli noktalar detaylı olarak aşağıda listelenmiştir:</p>
+<ol>
+<li>Temel Kavramlar ve Farklar</li>
+</ol>
+<p>AI vs. Machine Learning vs. Deep Learning:</p>
+<p>Artificial Intelligence (AI): İnsan zekasını taklit eden tüm sistemlerin genel adı.</p>
+<p>Machine Learning (ML): Veriden desenler (patterns) öğrenerek tahmin yapan alt alan.</p>
+<p>Deep Learning (DL): Çok katmanlı yapay sinir ağları (Artificial Neural Networks - ANN) kullanarak karmaşık temsil biçimlerini (representations) otomatik öğrenen ML alt kümesi.</p>
+<ol>
+<li>Yapay Sinir Ağları (Artificial Neural Networks - ANN) Yapısı</li>
+</ol>
+<p>Perceptron / Artificial Neuron:</p>
+<p>Biyolojik nöronlardan esinlenmiştir.</p>
+<p>Girdileri (
+𝑥
+𝑖
+x
+i
+    ​</p>
+<p>), ağırlıklarla (
+𝑤
+𝑖
+w
+i
+    ​</p>
+<p>) çarpar, bir bias (
+𝑏
+b) ekler ve toplamı bir activation function'a sokar.</p>
+<p>Formül: 
+𝑦
+=
+𝑓
+(
+∑
+(
+𝑤
+𝑖
+⋅
+𝑥
+𝑖
+)
++
+𝑏
+)
+y=f(∑(w
+i
+    ​</p>
+<p>⋅x
+i
+    ​</p>
+<p>)+b)</p>
+<p>Katman Yapısı (Layer Architecture):</p>
+<p>Input Layer: Ham verinin (resim piksel değerleri, metin vektörleri vb.) ağa beslendiği katman.</p>
+<p>Hidden Layers: Verideki soyut özellikleri (features) çıkaran gizli katmanlar. Katman sayısı arttıkça model "derinleşir" (Deep Model).</p>
+<p>Output Layer: Ağın son tahminini (sınıflandırma olasılıkları, regresyon değeri vb.) ürettiği katman.</p>
+<ol>
+<li>Aktivasyon Fonksiyonları (Activation Functions)</li>
+</ol>
+<p>Ağa doğrusal olmayan (non-linear) özellikler kazandırarak karmaşık ilişkileri öğrenmesini sağlar:</p>
+<p>ReLU (Rectified Linear Unit): 
+𝑓
+(
+𝑥
+)
+=
+max
+⁡
+(
+0
+,
+𝑥
+)
+f(x)=max(0,x) — En yaygın kullanılan fonksiyon; gradyan patlaması/yok olmasını azaltır ve hesaplaması hızlıdır.</p>
+<p>Sigmoid: Çıktıyı 
+0
+0 ile 
+1
+1 arasında sıkıştırır; ikili sınıflandırma (binary classification) problemlerinde son katmanda tercih edilir.</p>
+<p>Tanh (Hyperbolic Tangent): Çıktıyı 
+−
+1
+−1 ile 
+1
+1 arasında ölçeklendirir.</p>
+<p>Softmax: Çoklu sınıflandırma (multi-class classification) problemlerinde çıkış katmanında kullanılır; çıktıları bir olasılık dağılımına (probability distribution) dönüştürür (toplamları 1 olur).</p>
+<ol>
+<li>Eğitim Süreci (Training Process)</li>
+</ol>
+<p>Forward Propagation (İleri Yayılım):</p>
+<p>Verinin girdi katmanından başlayıp katman katman işlenerek tahmin (
+𝑦
+𝑝
+𝑟
+𝑒
+𝑑
+y
+pred
+    ​</p>
+<p>) üretilmesi sürecidir.</p>
+<p>Loss Function (Kayıp Fonksiyonu):</p>
+<p>Ağın tahmini ile gerçek etiket (
+𝑦
+𝑡
+𝑟
+𝑢
+𝑒
+y
+true
+    ​</p>
+<p>) arasındaki hatayı ölçer.</p>
+<p>MSE (Mean Squared Error): Regresyon problemleri için.</p>
+<p>Cross-Entropy Loss: Sınıflandırma problemleri için.</p>
+<p>Backpropagation (Geri Yayılım) &amp; Optimization:</p>
+<p>Hatayı geriye doğru yayarak türevler (gradients) hesaplanır (Chain Rule / Zincir Kuralı kullanılır).</p>
+<p>Gradient Descent: Kayıp fonksiyonunu minimize etmek için ağırlıkları (
+𝑤
+𝑒
+𝑖
+𝑔
+ℎ
+𝑡
+𝑠
+weights) ve bias değerlerini günceller.</p>
+<p>Learning Rate (
+𝛼
+α): Ağırlıkların her adımda ne kadar değiştirileceğini belirleyen hiperparametre (hyperparameter).</p>
+<p>Çok yüksekse: Minimum noktayı atlayabilir (divergence).</p>
+<p>Çok düşükse: Eğitim çok yavaş sürer veya local minima'da takılabilir.</p>
+<p>Optimizers: Adam, RMSprop, SGD (Stochastic Gradient Descent) gibi gelişmiş optimizasyon algoritmaları kullanılır.</p>
+<ol>
+<li>Aşırı Öğrenme (Overfitting) ve Regularization</li>
+</ol>
+<p>Overfitting: Modelin eğitim verisini ezberlemesi ve görmediği test verisinde düşük performans göstermesi.</p>
+<p>Çözüm Teknikleri:</p>
+<p>Dropout: Eğitim sırasında her adımda rastgele belirlenen nöronların kapatılması (bağımlılığı azaltır).</p>
+<p>L1 / L2 Regularization (Weight Decay): Ağırlıkların aşırı büyümesini cezalandıran terimler eklenmesi.</p>
+<p>Early Stopping: Test kaybı artmaya başladığında eğitimin erken sonlandırılması.</p>
+<p>Data Augmentation: Veri setini döndürme, kırpma, renk değiştirme gibi yöntemlerle yapay olarak büyütme.</p>
+<ol>
+<li>Önemli Derin Öğrenme Mimarileri</li>
+</ol>
+<p>CNN (Convolutional Neural Networks):</p>
+<p>Görsel ve imaj işleme (Computer Vision) için optimize edilmiştir.</p>
+<p>Convolutional Layers: Görsel üzerindeki kenar, köşe, doku gibi özellikleri süzgeçler (filters/kernels) vasıtasıyla çıkarır.</p>
+<p>Pooling Layers (Max/Average Pooling): Boyut azaltma (dimensionality reduction) sağlar.</p>
+<p>RNN (Recurrent Neural Networks) &amp; LSTM / GRU:</p>
+<p>Zaman serileri (time-series) ve doğal dil işleme (NLP) gibi sıralı veriler (sequential data) için kullanılır.</p>
+<p>Geçmiş bilgiyi belekte tutma mekanizmasına sahiptir.</p>
+<p>Transformers:</p>
+<p>Self-Attention mekanizması üzerine kuruludur. Günümüz LLM'lerinin (Large Language Models) ve modern NLP uygulamalarının temelini oluşturur.</p>
+<p>Bu liste videoda işlenen ana omurgayı ve teknik detayları kapsamaktadır. Özel bir bölüm, mimari veya kod örneği hakkında detay sormak isterseniz sorabilirsiniz!</p>]]></description>
+    </item>
     <item>
       <title>Cevheri / VURGUNUN İSTİHBARAT AĞI</title>
       <link>https://www.youtube.com/watch?v=B7__DsW7ttE</link>
