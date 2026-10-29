@@ -4,67 +4,7 @@
     <title>Kitco</title>
     <link>https://www.youtube.com/</link>
     <description>Kitco AI Summaries</description>
-    <lastBuildDate>Thu, 29 Oct 2026 20:24:01 +0000</lastBuildDate>
-    <item>
-      <title>Kitco / The Man Who Said Sell Gold in 1980 Has a New Warning | Mark Skousen</title>
-      <link>https://www.youtube.com/watch?v=tnbHeBkv654</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=tnbHeBkv654</guid>
-      <pubDate>Thu, 29 Oct 2026 19:23:42 +0000</pubDate>
-      <media:thumbnail url="https://i1.ytimg.com/vi/tnbHeBkv654/hqdefault.jpg"/>
-      <description><![CDATA[<p>Published: 2026-10-29T19:23:42+00:00</p>
-<p>Bu YouTube videosunun ("How to build an AI agent with LangGraph" - Harrison Chase, LangChain CEO) öne çıkan ve kritik tüm detaylarını içeren kapsamlı özet listesi aşağıdadır:</p>
-<ol>
-<li>AI Agent Nedir ve Neden LangGraph?</li>
-</ol>
-<p>Agent Tanımı: LLM'in (Large Language Model) sadece tek bir yanıt üretmek yerine, bir döngü (loop) içerisinde karar verip araçlar (tools) kullanarak adım adım sonuca ulaştığı sistemlerdir.</p>
-<p>LangGraph'ın Çıkış Amacı: Geleneksel LangChain zincirleri (chains) düz/çizgisel (DAG - Directed Acyclic Graph) akışlar için harikadır. Ancak gerçek dünya agent'ları döngülere (loops), state yönetimini sürekli korumaya ve insan müdahalesine (Human-in-the-loop) ihtiyaç duyar. LangGraph bu ihtiyacı karşılamak için geliştirilmiştir.</p>
-<ol>
-<li>LangGraph'ın Temel Yapı Taşları (Core Concepts)</li>
-</ol>
-<p>LangGraph temelde bir State Graph (Durum Grafiği) mimarisi üzerine kuruludur:</p>
-<p>State (Durum):</p>
-<p>Uygulamanın anlık hafızasıdır (Memory / Context).</p>
-<p>Genellikle bir TypedDict veya Pydantic modeli ile tanımlanır.</p>
-<p>Agent çalıştıkça bu State adımlardan geçerek güncellenir (örneğin mesaj geçmişi olan messages listesi).</p>
-<p>Nodes (Düğümler):</p>
-<p>Python fonksiyonları veya runnable yapılarıdır.</p>
-<p>Mevcut State'i girdi olarak alır, belirli bir işlem/hesaplama yapar (LLM çağırma, Tool çalıştırma vs.) ve State'in güncellenmiş halini döndürür.</p>
-<p>Edges (Kenarlar/Bağlantılar):</p>
-<p>Node'lar arasındaki geçiş kurallarını belirler.</p>
-<p>Normal Edges: Bir Node bittiğinde doğrudan diğer Node'a geçer.</p>
-<p>Conditional Edges (Koşullu Bağlantılar): LLM'in çıktısına veya State durumuna göre hangi Node'a gidileceğini dinamik olarak belirler (Örn: "LLM bir Tool çağırmak istiyor mu? Evetse Tool Node'una git, hayırsa bitir.").</p>
-<ol>
-<li>ReAct Pattern ve Agent Döngüsü</li>
-</ol>
-<p>Videoda gösterilen standart agent mimarisi ReAct (Reasoning + Acting) modelini temel alır:</p>
-<p>Agent Node: Kullanıcı girdisini ve State'i alıp LLM'e gönderir.</p>
-<p>Conditional Edge Kontrolü:</p>
-<p>LLM bir Tool Call (araç çağrısı) ürettiyse 
-→
-→ Action/Tool Node'una dallanır.</p>
-<p>LLM nihai yanıtı verdiyse 
-→
-→ Akış sonlanır (END).</p>
-<p>Tool Node: İlgili aracı (örneğin arama motoru, veritabanı sorgusu) çalıştırır, sonucu State'e ekler ve tekrar Agent Node'una döner (Loop).</p>
-<ol>
-<li>İleri Seviye Özellikler ve Kullanım Senaryoları</li>
-</ol>
-<p>Persistence &amp; Checkpointing (Kalıcılık ve Durum Kaydı):</p>
-<p>LangGraph, her adımda State'in bir snapshot'ını (ekran görüntüsünü) veritabanına/hafızaya kaydeder.</p>
-<p>Bu sayede sohbet geçmişi otomatik yönetilir (Multi-turn conversation).</p>
-<p>Hata durumunda kalınan yerden devam edilebilir (Fault tolerance).</p>
-<p>Human-in-the-loop (İnsan Müdahalesi):</p>
-<p>Agent kritik bir işlem yapmadan önce (örneğin e-posta gönderme, SQL silme sorgusu çalıştırma, para transferi) akış duraklatılabilir (pause).</p>
-<p>İnsan onay verdikten veya girdiyi düzenledikten sonra akış devam ettirilebilir (resume).</p>
-<p>Time Travel (Zaman Yolculuğu / Hata Ayıklama):</p>
-<p>State her adımda checkpoint olarak tutulduğu için geliştiriciler geçmiş adımlara geri dönebilir, State'i manuel değiştirebilir ve akışı oradan tekrar başlatabilir.</p>
-<p>Sub-graphs &amp; Multi-Agent Systems:</p>
-<p>Karmaşık sistemler için birden fazla Graph birleştirilebilir.</p>
-<p>Bir Graph, başka bir Graph içinde Node olarak çalışabilir. Bu da Multi-Agent mimarilerini (farklı uzmanlıklara sahip agent'ların birlikte çalışması) modüler hale getirir.</p>
-<p>5.Maalesef doğrudan bir YouTube bağlantısına (URL) tıklayıp içindeki videoyu izleme veya otomatik olarak deşifre (transcript) çıkarma imkanım bulunmuyor.</p>
-<p>Ancak videonun başlığını, konusunu, konuşmacısını veya ele aldığı ana başlıkları benimle paylaşırsanız, içeriği sizin için detaylı bir şekilde analiz edebilir, orijinal İngilizce terimleri koruyarak Türkçe olarak maddeler halinde listeleyebilirim.</p>
-<p>Videonun konusunu kısaca yazabilir misiniz?</p>]]></description>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 20:27:02 +0000</lastBuildDate>
     <item>
       <title>Kitco / Why He Puts 10% of What He Makes Into Physical Gold | George Gammon</title>
       <link>https://www.youtube.com/watch?v=_GuUDgfua5s</link>
