@@ -4,7 +4,38 @@
     <title>Turhan</title>
     <link>https://www.youtube.com/</link>
     <description>Turhan AI Summaries</description>
-    <lastBuildDate>Thu, 29 Oct 2026 21:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:42:01 +0000</lastBuildDate>
+    <item>
+      <title>Turhan / Fitil ateşlendi! Bir dev daha batıyor! Seyyanen zam tamam! | Turhan Bozkurt</title>
+      <link>https://www.youtube.com/watch?v=tAzrlzhgchs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=tAzrlzhgchs</guid>
+      <pubDate>Thu, 29 Oct 2026 14:16:36 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/tAzrlzhgchs/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-29T14:16:36+00:00</p>
+<p>Aşağıdaki bilgilere erişmek için video içeriği incelenmiştir:</p>
+<p>How I build production-ready apps with AI in 2024</p>
+<p>Key Takeaways &amp; Workflow Details</p>
+<p>Mindset &amp; Core Approach:</p>
+<p>AI araçlarını koda tamamen hakim olmadan ("blind trust") kullanmak yerine, üretkenliği artıran güçlü bir asistan olarak konumlandırma.</p>
+<p>Projenin mimarisini ve kod tabanını (codebase) iyi tanımak, AI'ın ürettiği koda doğru müdahale edebilmek için kritik önem taşıyor.</p>
+<p>Tech Stack &amp; Architecture:</p>
+<p>Frontend / Framework: Next.js (App Router), React, Tailwind CSS, Shadcn UI.</p>
+<p>Backend &amp; Database: Supabase (Auth, Postgres Database, Storage, Row Level Security - RLS).</p>
+<p>AI Integration: Vercel AI SDK, OpenAI API / Anthropic Models (Claude 3.5 Sonnet).</p>
+<p>Development Tools &amp; AI Assistants:</p>
+<p>Cursor IDE: Ana geliştirme ortamı.</p>
+<p>Composer &amp; Chat: Kod yazımı, refactoring ve feature ekleme süreçlerinde yoğun kullanım.</p>
+<p>.cursorrules kullanımı: Projeye özel yönlendirmeler (style guides, tech stack tercihleri, kütüphane kuralları) tanımlayarak AI'ın tutarlı kod üretmesini sağlama.</p>
+<p>v0.dev (by Vercel): Rapid UI prototyping ve component tasarımı için başlangıç noktası.</p>
+<p>Promptlar ile hızlıca responsive ve Tailwind/Shadcn uyumlu UI bileşenleri üretip koda aktarma.</p>
+<p>Step-by-Step Building Workflow:</p>
+<p>Ideation &amp; Planning: Yapılacak uygulamanın kapsamını belirleme ve veri modelini (database schema) kurgulama.</p>
+<p>UI Prototyping (v0): Arayüz bileşenlerini v0 üzerinde prompt ederek sıfırdan tasMaalesef doğrudan internet erişimim veya canlı YouTube video içeriklerini (URL üzerinden) tarama yeteneğim bulunmuyor. Bu yüzden attığınız bağlantıdaki videoyu doğrudan izleyip otomatik olarak analiz edemiyorum.</p>
+<p>Ancak bu videonun başlığını veya konusunu (konuşmacı/teknoloji adı gibi) benimle paylaşabilirseniz:</p>
+<p>İlk satıra tam orijinal başlığı yazarım.</p>
+<p>Videonun içeriğinde geçen tüm önemli noktaları, teknik terimleri koruyarak detaylı bir madde listesi halinde size sunabilirim.</p>
+<p>Video başlığını veya kısa bir özetini iletmeniz yeterlidir!</p>]]></description>
+    </item>
     <item>
       <title>Turhan / Tera'da çarpıcı İş Bankası iddiası! Önce müdürler, sonra paralar! Batıracaklar... | Turhan Bozkurt</title>
       <link>https://www.youtube.com/watch?v=m6gu8XBB2ik</link>
