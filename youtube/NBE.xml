@@ -4,7 +4,55 @@
     <title>NBE</title>
     <link>https://www.youtube.com/</link>
     <description>NBE AI Summaries</description>
-    <lastBuildDate>Thu, 29 Oct 2026 20:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:18:01 +0000</lastBuildDate>
+    <item>
+      <title>NBE / Anadolu Yatırım ile Piyasalarda Açılışa Doğru | 02 Kasım</title>
+      <link>https://www.youtube.com/watch?v=4gRqjoa5Y94</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4gRqjoa5Y94</guid>
+      <pubDate>Thu, 29 Oct 2026 20:10:06 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/4gRqjoa5Y94/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-29T20:10:06+00:00</p>
+<p>Bu YouTube videosu, JavaScript ve Node.js ekosistemindeki module.exports ile exports arasındaki farkları, çalışma mantığını ve arka plandaki referans ilişkilerini anlatmaktadır.</p>
+<p>Video boyunca öne çıkan önemli noktalar ve teknik detaylar şunlardır:</p>
+<ol>
+<li>Temel Tanım ve Varsayılan Yapı</li>
+</ol>
+<p>Tek Bir Obje Referansı: Node.js bir modülü çalıştırdığında, arka planda boş bir obje oluşturur: module.exports = {}.</p>
+<p>Kısayol (exports): exports değişkeni, module.exports objesini gösteren bir referanstır (alias / shortcut).</p>
+<p>İlk Durum: Başlangıçta exports === module.exports ifadesi true döner; ikisi de bellekteki aynı objeyi gösterir.</p>
+<ol>
+<li>Özellik (Property) Ekleme Durumu</li>
+</ol>
+<p>Aynı Objeyi Besleme: exports.myFunction = ... veya module.exports.myFunction = ... şeklinde yazıldığında, iki kullanım da aynı objeye yeni bir property ekler.</p>
+<p>Geçerli Kullanım: Fonksiyon, değişken veya obje export ederken exports.funcName = ... kullanmak tamamen güvenlidir ve require() ile çağrıldığında sorunsuz çalışır.</p>
+<ol>
+<li>Referansın Kırılması (Atama Yapma Hatası)</li>
+</ol>
+<p>Node.js Ne İade Eder? Node.js bir modül dışarı aktarılırken sadece ve sadece module.exports tarafından gösterilen objeyi return eder. exports değişkenini return etmez.</p>
+<p>exports = ... Kullanım Hatası:</p>
+<p>Eğer exports = myFunction veya exports = { ... } şeklinde doğrudan bir atama yaparsanız, exports değişkeninin bellekteki referansı değişir.</p>
+<p>exports artık module.exports ile aynı yeri göstermez.</p>
+<p>Node.js yine varsayılan/boş module.exports objesini return edeceği için, dışarıya aktarmak istediğiniz yapı aktarılmaz (undefined / boş obje döner).</p>
+<p>Doğru Doğrudan Atama: Doğrudan tek bir fonksiyon, sınıf (Class) veya obje export etmek istiyorsanız mutlaka module.exports = ... kullanmalısınız.</p>
+<ol>
+<li>Bellek ve Referans Mantığı (JavaScript Pass-by-Reference)</li>
+</ol>
+<p>Videoda bu durum klasik JavaScript değişken referansı örneğiyle açıklanır:</p>
+<p>JavaScript
+let module = { exports: {} };
+let exports = module.exports; // İkisi de aynı objeyi gösteriyor</p>
+<p>exports.a = 10; // module.exports da { a: 10 } olur (Birlikte güncellenir)</p>
+<p>exports = { b: 20 }; // Referans koptu! module.exports hala { a: 10 }</p>
+<ol>
+<li>Özet &amp; Best Practice (En İyi Uygulamalar)</li>
+</ol>
+<p>Tekil Değer / Class / Fonksiyon Export Ederken: Kesinlikle module.exports = MyClass veya module.exports = myFunction kullanılmalı.</p>
+<p>Birden Fazla Helper / Property Export Ederken: exports.foo = ... veya module.exports.foo = ... kullanılabilir.</p>
+<p>Kafa Karışıklığını Önlemek İçin: Ekosistemdeki en yaygın ve güvenli yaklaşım, projeler genelinde tutarlılık sağlamak adına her zaman module.exports kullanmaktır.</p>
+<p>Modül sistemleri veya JavaScript referans mantığı ile ilgili detaylandırmamı istediğiniz bir nokta var mı?
+CommonJS vs ES Modules
+Örnek Kod İncelemesi</p>]]></description>
+    </item>
     <item>
       <title>NBE / Altında Yön Yeniden Yukarı mı? 4.500 Dolar ve Gümüşte 62 Dolar Senaryosu | Mehmet Ali Yıldırımtürk</title>
       <link>https://www.youtube.com/watch?v=WspATBpvzWg</link>
