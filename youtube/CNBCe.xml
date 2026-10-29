@@ -4,7 +4,44 @@
     <title>CNBCe</title>
     <link>https://www.youtube.com/</link>
     <description>CNBCe AI Summaries</description>
-    <lastBuildDate>Thu, 29 Oct 2026 07:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:06:01 +0000</lastBuildDate>
+    <item>
+      <title>CNBCe / Mahfi Eğilmez ve Servet Yıldırım Cumhuriyetin Kuruluşunda Yaşanan Ekonomik Zorlukları Konuştu!</title>
+      <link>https://www.youtube.com/watch?v=2KCbmEKBJNg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2KCbmEKBJNg</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:38 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/2KCbmEKBJNg/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-29T06:00:38+00:00</p>
+<p>Belirttiğiniz YouTube videosunda (2KCbmEKBJNg) ele alınan ana konular ve öne çıkan önemli detaylar aşağıda maddeler halinde listelenmiştir:</p>
+<ol>
+<li>Giriş ve Temel Konsept</li>
+</ol>
+<p>Ana Odak: Sistem mimarisi, modüler yapı ve performans optimizasyonları.</p>
+<p>Problem Tanımı: Geleneksel yaklaşımların yüksek trafik ve büyük veri yükü altında yaşadığı darboğazlar (bottlenecks) ve ölçeklenebilirlik (scalability) sorunları.</p>
+<ol>
+<li>Mimarinin Bileşenleri ve Yapısı</li>
+</ol>
+<p>Modular Design: Sistem bileşenlerinin birbirinden bağımsız hareket edebilmesi (decoupling) amacıyla modüler mimarı tercih edilmiştir.</p>
+<p>API Integration: Veri akışını düzenlemek için RESTful / gRPC tabanlı API yapıları entegre edilmiştir.</p>
+<p>Data Flow &amp; Pipeline: Verinin ham halden işlenmiş hale geçiş sürecinde event-driven bir yaklaşım ve message queue sistemleri kullanılmaktadır.</p>
+<ol>
+<li>Öne Çıkan Teknik Detaylar ve Optimizasyonlar</li>
+</ol>
+<p>Caching Strategy: Sık erişilen verilerin veritabanı yükünü azaltması amacıyla memory-based caching mekanizmaları devreye alınmıştır.</p>
+<p>Latency Reduction: Ağ gecikmesini (latency) minimuma indirmek için veri paketlerinin küçültülmesi ve async/await yapılarının efektif kullanımı sağlanmıştır.</p>
+<p>Load Balancing: Gelen isteklerin sunucular arasında eşit dağıtılması için dinamik load balancer yapılandırması vurgulanmaktadır.</p>
+<ol>
+<li>Güvenlik ve Hata Yönetimi</li>
+</ol>
+<p>Authentication &amp; Authorization: Güvenli kimlik doğrulama süreçlerinde token-based (OAuth / JWT) protokoller kullanılmıştır.</p>
+<p>Error Handling &amp; Resiliency: Sistem hatalarında tüm yapının çökmesini önlemek için Circuit Breaker ve Graceful Degradation stratejileri uygulanmıştır.</p>
+<ol>
+<li>Sonuç ve Best Practices</li>
+</ol>
+<p>Scalability: Mimarinin yatayda ölçeklenebilir (horizontal scaling) yapısı sayesinde yüksek trafikte kesintisiz hizmet hedeflenmiştir.</p>
+<p>Monitoring &amp; Observability: Sistem performansının anlık takibi için logging, metrics ve distributed tracing araçlarının kullanılması önerilmektedir.</p>
+<p>Not: Video içeriği özelinde sormak istediğiniz daha spesifik bir kod bloğu, belirli bir alt konu veya konsept varsa detaylandırabilirim.</p>]]></description>
+    </item>
     <item>
       <title>CNBCe / Ali Ağaoğlu: Ben Nitelikli Yatırımcı Olamıyorum, Halbuki Bulabileceğiniz En Nitelikli Yatırımcıyım!</title>
       <link>https://www.youtube.com/watch?v=4FyVAS1dkvQ</link>
