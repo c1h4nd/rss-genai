@@ -4,7 +4,87 @@
     <title>Zanka</title>
     <link>https://www.youtube.com/</link>
     <description>Zanka AI Summaries</description>
-    <lastBuildDate>Thu, 29 Oct 2026 15:54:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:57:02 +0000</lastBuildDate>
+    <item>
+      <title>Zanka / HER ŞEYİN SONU GELDİ! ERDOĞAN’A DİKKAT EDİN! FON HABERİ FENA PATLAYACAK! ALİYEV BOMBASINA HAZIR OLUN</title>
+      <link>https://www.youtube.com/watch?v=OmombhI_xCI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=OmombhI_xCI</guid>
+      <pubDate>Thu, 29 Oct 2026 15:31:58 +0000</pubDate>
+      <media:thumbnail url="https://i4.ytimg.com/vi/OmombhI_xCI/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-29T15:31:58+00:00</p>
+<p>Bu video ("Everything you need to know to get started with React" - Slaying The Dragon kanalı), React’in temel mantığını ve sıfırdan modern bir React projesi geliştirirken bilmeniz gereken ana kavramları adım adım açıklıyor.</p>
+<p>Önemli konular ve detayları aşağıda sıralanmıştır:</p>
+<ol>
+<li>React Nedir ve Neden Kullanılır?</li>
+</ol>
+<p>Component-Based (Bileşen Tabanlı) Yapı: React, kullanıcı arayüzlerini (UI) tekrar kullanılabilir (reusable) bağımsız parçalara (components) bölerek inşa etmemizi sağlar.</p>
+<p>Declarative (Bildirimsel) Yaklaşım: Vanilla JavaScript'teki gibi DOM'u elle manipüle etmek (imperative) yerine, UI'ın istenen son durumunu tanımlarsınız (declarative). React, arka planda DOM güncellemelerini sizin için optimize eder.</p>
+<p>Virtual DOM: React, gerçek DOM'un hafif bir kopyasını hafızada tutar. Bir değişiklik olduğunda diffing algorithm kullanarak sadece değişen kısımları gerçek DOM'a yansıtır (Reconciliation).</p>
+<ol>
+<li>Proje Kurulumu (Setup)</li>
+</ol>
+<p>Vite Kullanımı: Video, projeyi başlatmak için hızlı ve modern bir build tool olan Vite önerir (npm create vite@latest).</p>
+<p>Folder Structure (Dosya Yapısı):</p>
+<p>index.html: Uygulamanın bağlandığı tek HTML dosyası (<div id="root"></div>).</p>
+<p>src/main.jsx: React uygulamasını HTML'deki root elementine render eden ana giriş noktası.</p>
+<p>src/App.jsx: Ana uygulama component'i.</p>
+<ol>
+<li>JSX (JavaScript XML) Syntax</li>
+</ol>
+<p>HTML in JS: JavaScript içinde HTML benzeri bir sözdizimi yazmamızı sağlar.</p>
+<p>Single Parent Rule: Her component tek bir ana element (parent element) dönmelidir. Birden fazla elementi sarmalamak için React Fragment (&lt;&gt; ... &lt;/&gt;) kullanılır.</p>
+<p>JavaScript Embedding: JSX içinde dinamik değişkenler veya ifadeler kullanmak için süslü parantez {} kullanılır.</p>
+<p>JSX Kuralları:</p>
+<p>class yerine className kullanılır.</p>
+<p>for yerine htmlFor kullanılır.</p>
+<p>Inline stiller obje olarak yazılır: style={{ color: 'red', marginTop: '10px' }}.</p>
+<ol>
+<li>Components &amp; Props (Bileşenler ve Özellikler)</li>
+</ol>
+<p>Functional Components: React'te bileşenler basitçe JSX döndüren JavaScript fonksiyonlarıdır.</p>
+<p>Props (Properties): Üst bileşenden (parent) alt bileşene (child) veri aktarmak için kullanılır.</p>
+<p>Props'lar read-only (salt okunur) yapıdadır, alt bileşen içinde doğrudan değiştirilemez.</p>
+<p>Destructuring: Props parametresini props.title yerine { title, isActive } şeklinde doğrudan almak koda temizlik katar.</p>
+<ol>
+<li>Conditional Rendering (Koşullu İşleme)</li>
+</ol>
+<p>Ternary Operator (? :): Bir koşula göre iki farklı UI göstermek için kullanılır (isLoggedIn ? <UserMenu/> : <LoginForm/>).</p>
+<p>Logical AND (&amp;&amp;): Sadece koşul sağlandığında bir öğeyi ekrana basmak için kullanılır (messages.length &gt; 0 &amp;&amp; <NotificationBadge/>).</p>
+<ol>
+<li>Lists and Keys (Listeler ve Key Mantığı)</li>
+</ol>
+<p>map() Metodu: Dizileri dinamik olarak JSX listelerine dönüştürmek için standart .map() fonksiyonu kullanılır.</p>
+<p>key Prop'u: React'in listedeki hangi elemanın eklendiğini, silindiğini veya değiştirildiğini takip edebilmesi için her liste elemanına benzersiz (unique) bir key verilmesi şarttır (key={user.id}).</p>
+<p>Performans ve doğru UI render'ı için index yerine benzersiz ID'ler tercih edilmelidir.</p>
+<ol>
+<li>State Management &amp; useState Hook</li>
+</ol>
+<p>State Nedir? Bileşenin zaman içinde değişebilen ve UI'ın yeniden çizilmesini (re-render) tetikleyen dahili verisidir.</p>
+<p>useState Hook'u: const [state, setState] = useState(initialValue);</p>
+<p>Immutability (Değişmezlik): React'te state doğrudan değiştirilmez (state = newVal X). Bunun yerine her zaman updater fonksiyonu (setState) kullanılmalıdır.</p>
+<p>State değiştiğinde React component'i otomatik olarak re-render eder.</p>
+<ol>
+<li>Handling Events (Olay Yönetimi)</li>
+</ol>
+<p>JSX içinde event listener'lar camelCase olarak yazılır (onClick, onChange, onSubmit).</p>
+<p>Fonksiyon çağrısı değil, fonksiyonun kendisi referans olarak paslanmalıdır:</p>
+<p>Dopping: onClick={handleClick}</p>
+<p>Yanlış: onClick={handleClick()} (Bu, render anında fonksiyonu çalıştırır).</p>
+<p>Parametre geçmek istiyorsanız arrow function kullanılır: onClick={() =&gt; handleDelete(id)}.</p>
+<ol>
+<li>Side Effects &amp; useEffect Hook</li>
+</ol>
+<p>Side Effect (Yan Etki): API çağrıları (fetching data), DOM'a doğrudan müdahale, timer/interval kurma gibi işlemler.</p>
+<p>useEffect Kullanım Senaryoları &amp; Dependency Array (Bağımlılık Dizisi):</p>
+<p>Bağımlılık dizisi yok (useEffect(() =&gt; {})): Her re-render sonrası çalışır.</p>
+<p>Boş bağımlılık dizisi (useEffect(() =&gt; {}, [])): Sadece bileşen ekrana ilk yüklendiğinde (component mount) bir kere çalışır (API'den ilk verileri çekerken kullanılır).</p>
+<p>Değişkenli bağımlılık dizisi (useEffect(() =&gt; {}, [count])): Sayfa yüklendiğinde ve count değişkeni her değiştiğinde çalışır.</p>
+<p>Cleanup Function: useEffect içinden bir fonksiyon döndürülerek (return) event listener'lar veya interval'lar temizlenir (unmount aşamasında bellek sızıntısını önler).</p>
+<p>💡 Özet / Best Practice Notları</p>
+<p>One-Way Data Flow (Tek Yönlü Veri Akışı): Veri her zaman Parent'tan Child'a doğru akar.</p>
+<p>Lifting State Up: İki kardeş bileşen aynı state'e ihtiyaç duyuyorsa, bu state ortak ana bileşene (parent) taşınır.</p>
+<p>Keep Components Pure: Component'ler aynı props ve state verildiğinde her zaman aynı JSX çıktısını üretmelidir.</p>]]></description>
+    </item>
     <item>
       <title>Zanka / SON DAKİKA BOMBASI! SARAY’DA ACİL DURUM! ERDOĞAN 2027’DE OLMAYACAK! AKP DÖNEMİ BİTMİŞTİR DİYECEKLER!</title>
       <link>https://www.youtube.com/watch?v=ZyIQsbJdlb4</link>
