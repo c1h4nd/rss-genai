@@ -4,7 +4,7 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Fri, 30 Oct 2026 07:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:27:01 +0000</lastBuildDate>
     <item>
       <title>Jenerik / Haset ve Rekabet Duygunu Yen! | Leyla Navaro'nun Kitabından Çarpıcı Dersler</title>
       <link>https://www.youtube.com/watch?v=gzQkhMstg2Q</link>
@@ -38,37 +38,6 @@ YouTube</p>
 YouTube</p>
 <p>Haset duygusunun yıkıcı etkilerinden kurtulup bunu bir işaretçi (indicator) olarak kullanmak mümkündür: "Başkasında öfkeyle imrendiğin şey, aslında senin kendi içinde henüz açığa çıkarmadığın potansiyelindir."</p>
 <p>Haset enerjisini kendi özgelişimine ve yaratıcılığına yönlendirerek içsel dönüşüm sağlamak hedeflenmelidir.</p>]]></description>
-    </item>
-    <item>
-      <title>Jenerik / 1 CLOVE in Your Coffee Every Morning (Here's What Happens)</title>
-      <link>https://www.youtube.com/watch?v=S89Qd06Iyu8</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=S89Qd06Iyu8</guid>
-      <pubDate>Wed, 28 Oct 2026 17:56:24 +0000</pubDate>
-      <media:thumbnail url="https://i.ytimg.com/vi/S89Qd06Iyu8/hqdefault.jpg"/>
-      <description><![CDATA[<p>Published: 2026-10-28T17:56:24+00:00</p>
-<p><a href="https://www.youtube.com/watch?v=S89Qd06Iyu8">https://www.youtube.com/watch?v=S89Qd06Iyu8</a> (I built an AI software engineer)</p>
-<p>Videoda Devin'e rakip olarak sıfırdan geliştirilen açık kaynaklı yapay zeka yazılım mühendisi projesinin detayları şu şekildedir:</p>
-<p>Genel Bakış ve Mimari (Architecture)</p>
-<p>Devin Alternative: Video sahibi, Devin isimli otonom yapay zeka yazılım mühendisini sıfırdan açık kaynaklı (open-source) olarak tekrar inşa ettiğini belirtiyor.</p>
-<p>Core Agent Cycle: Agent'ın temel çalışma prensibi; kullanıcı talebini almak, planlama yapmak, kodu yazmak/düzenlemek, terminal komutlarını çalıştırmak ve hataları kendi kendine düzeltmek üzerine kurulu.</p>
-<p>Dual-Agent Setup: Sistem iki ana bileşenden oluşuyor:</p>
-<p>Planner (Planner Agent): Kullanıcının yüksek seviyeli isteğini analiz eder, adım adım bir yapılacaklar listesi (todo list/plan) oluşturur ve süreci yönetir.</p>
-<p>Executor (Execution Agent): Planner tarafından verilen adımları sırayla alır; kod düzenleme, dosya oluşturma ve terminal komutu çalıştırma işlemlerini gerçekleştirir.</p>
-<p>Bileşenler ve Araçlar (Tools &amp; Environment)</p>
-<p>Sandboxed Execution Environment: Güvenlik ve izolasyon için tüm kodlar ve terminal komutları izolasyonlu bir Docker container veya sanal ortam içerisinde çalıştırılıyor.</p>
-<p>Custom Tooling System: Agent'ın dış dünyayla etkileşime girmesi için tanımlanan araçlar:</p>
-<p>read_file ve write_file / edit_file: Kod tabanındaki dosyaları okuma ve güncelleme.</p>
-<p>run_terminal_command: Bağımlılıkları yüklemek (e.g., npm install, pip install), testleri çalıştırmak veya sunucuyu başlatmak için bash komutları çalıştırma.</p>
-<p>browser_action (Web Browsing): Dokümantasyon okumak veya web uygulamalarının arayüzünü kontrol etmek/test etmek için entegre web tarayıcı aracı.</p>
-<p>Self-Correction &amp; Feedback Loop: Terminal çıktısını veya test sonuçlarını anlık izleyerek (stdout/stderr) bir hata alındığında komutları veya kodu otomatik olarak revize edebilme yeteneği.</p>
-<p>Kullanılan Teknolojiler (Tech Stack)</p>
-<p>LLM Engine: Temel zeka için OpenAI (GPT-4o/GPT-4 Turbo) veya Anthropic (Claude 3.5 Sonnet) gibi gelişmiş LLM API'leri kullanılıyor.</p>
-<p>Framework: Agent akışlarını yönetmek ve state takibi yapmak için custom Python script'leri veya LangChain/LangGraph benzeri yapılar entegre edilmiş.</p>
-<p>UI/UX: Kullanıcının terminal komutlarını, Agent'ın o anki düşünce sürecini (chain-of-thought) ve dosya değişikliklerini canlı izleyebildiği bir Web UI (Dashboard) geliştirilmiş.</p>
-<p>Öne Çıkan Özellikler ve Gösterimler (Key Demos)</p>
-<p>Bug Fixing &amp; Feature Implementation: Sisteme karmaşık bir kod deposu (repository) verilip bir hata yazıldığında, projeyi tarayıp hatalı dosyayı buluyor ve gerekli yamayı (patch) uygulayabiliyor.</p>
-<p>Building Applications from Scratch: Sıfırdan basit bir web uygulaması veya API yazması istendiğinde; proje yapısını kuruyor, paketleri yüklüyor, kodu yazıyor ve uygulamayı ayağa kaldırıp test ediyor.</p>
-<p>Open Source Commitment: Projenin GitHub üzerinde açık kaynak olarak paylaşıldığı, topluluğun katkısına ve yerel LLM'lerle (Ollama / LocalAI) kullanımına uygun tasarlandığı vurgulanıyor.</p>]]></description>
     </item>
     <item>
       <title>Jenerik / Görmezden Gelemeyecekleri Kadar İyi Ol: Tutkunu Takip Etme, Kariyerini İnşa Et</title>
