@@ -4,7 +4,7 @@
     <title>CNBCe</title>
     <link>https://www.youtube.com/</link>
     <description>CNBCe AI Summaries</description>
-    <lastBuildDate>Fri, 30 Oct 2026 02:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 02:45:02 +0000</lastBuildDate>
     <item>
       <title>CNBCe / Mahfi Eğilmez ve Servet Yıldırım Cumhuriyetin Kuruluşunda Yaşanan Ekonomik Zorlukları Konuştu!</title>
       <link>https://www.youtube.com/watch?v=2KCbmEKBJNg</link>
@@ -41,6 +41,24 @@
 <p>Scalability: Mimarinin yatayda ölçeklenebilir (horizontal scaling) yapısı sayesinde yüksek trafikte kesintisiz hizmet hedeflenmiştir.</p>
 <p>Monitoring &amp; Observability: Sistem performansının anlık takibi için logging, metrics ve distributed tracing araçlarının kullanılması önerilmektedir.</p>
 <p>Not: Video içeriği özelinde sormak istediğiniz daha spesifik bir kod bloğu, belirli bir alt konu veya konsept varsa detaylandırabilirim.</p>]]></description>
+    </item>
+    <item>
+      <title>CNBCe / Ali Ağaoğlu: Ben Nitelikli Yatırımcı Olamıyorum, Halbuki Bulabileceğiniz En Nitelikli Yatırımcıyım!</title>
+      <link>https://www.youtube.com/watch?v=4FyVAS1dkvQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4FyVAS1dkvQ</guid>
+      <pubDate>Wed, 28 Oct 2026 08:43:40 +0000</pubDate>
+      <media:thumbnail url="https://i1.ytimg.com/vi/4FyVAS1dkvQ/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-28T08:43:40+00:00</p>
+<p>⚠️ ÖZETLENEMEDİ</p>
+<p>Gemini bu videoyu 4 denemede özetleyemedi. Yayının ilk 48 saati içinde özet alınamadığı için vazgeçildi.</p>
+<p>Denemeler:</p>
+<ol>
+<li>28.10 12:02 – Halüsinasyon: özet başka bir videoya ait ("Bu YouTube videosu, Alex Hormozi'nin "How to Outsmart 99% of People" başlıklı i…")</li>
+<li>29.10 23:38 – Gemini yanıtı: "İnternet erişimim veya harici YouTube bağlantılarını doğrudan tarama ve izleme yeteneğim bulunmamaktadır. Bu nedenle ve…"</li>
+<li>30.10 01:40 – Başlık tutmadı (muhtemelen başka bir video): Gemini "How to Build an "LLM-from-Scratch" Router" dedi</li>
+<li>30.10 05:42 – Gemini yanıtı: "Bu YouTube linki bir YouTube Shorts / video URL'sidir. Ancak doğrudan internet veya YouTube içeriğine canlı erişimim ol…"</li>
+</ol>
+<p>Video: https://www.youtube.com/watch?v=4FyVAS1dkvQ</p>]]></description>
     </item>
     <item>
       <title>CNBCe / Hiçbir Perakende Markası Yok ki Kendi Ürettiği Malları Satarak Dünya Markası Olsun! | İşler Nasıl?</title>
