@@ -4,7 +4,30 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Fri, 30 Oct 2026 02:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:00:02 +0000</lastBuildDate>
+    <item>
+      <title>Mixed / Arman: Bu Higgsfield Nereden Çıktı?</title>
+      <link>https://www.youtube.com/watch?v=uqw8dF5jgm8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=uqw8dF5jgm8</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:03 +0000</pubDate>
+      <media:thumbnail url="https://i2.ytimg.com/vi/uqw8dF5jgm8/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-28T15:00:03+00:00</p>
+<p>Giriş ve Genel Bakış:</p>
+<p>Higgsfield AI'ın Doğuşu: Eski Snapchat çalışanları (Alex Mashrabov liderliğinde) tarafından kurulan platform, kısa sürede yapay zeka ve video üretimi ekosisteminde büyük dikkat çekti.</p>
+<p>Yatırım ve Büyüme: Şirket; Accel, Menlo Ventures ve Y Combinator gibi dev yatırımcılardan ciddi fonlar toplayarak kısa sürede çok yüksek bir değerlemeye ulaştı.</p>
+<p>Sistem Mimarısı ve Çalışma Prensibi:</p>
+<p>Model Agnostic Yaklaşım: Higgsfield yalnızca tek bir kapalı modele bağlı kalmak yerine; OpenAI, Google (Gemini/Veo) ve açık kaynaklı görsel/video modellerinin (Runway, Luma vb.) çıktılarını işleyen hibrid bir orchestration tabakası sunuyor.</p>
+<p>Prompt &amp; Motion Control: Kullanıcılara kamera hareketleri (pan, tilt, zoom), odak uzaklığı ve karakter hareketleri üzerinde piksel düzeyinde detaylı kontrol sağlayan gelişmiş "camera motion" parametreleri sunuyor.</p>
+<p>Öne Çıkan Özellikler ve Kullanım Alanları:</p>
+<p>Mobile-First Video Generation: Sosyal medya içerik üreticileri ve pazarlamacılar için dikey (9:16) ve kısa formlu video içerik üretimini (TikTok, Reels, Shorts) doğrudan mobil odaklı arayüzlerle optimize ediyor.</p>
+<p>Character Consistency (Karakter Tutarlılığı): Farklı sahneler ve açılar arasında aynı karakter yüzünü, giysisini ve stilini bozmadan koruyabilen özelleştirilmiş LoRA / ControlNet entegrasyonları içeriyor.</p>
+<p>Outpainting ve Inpainting Araçları: Görsellerin veya videoların sınırlarını genişletme, sahne içindeki objeleri değiştirme ya da kaldırma gibi profesyonel düzenleme yeteneklerine sahip.</p>
+<p>Sektörel Konumlanma ve Rekabet:</p>
+<p>Sora ve Gen-3 ile Karşılaştırma: Sora gibi dev modeller yüksek işlem gücü gerektirirken, Higgsfield hızlı çıktı süresi (low latency) ve içerik üreticilerine yönelik pratik düzenleme araçlarıyla ön plana çıkıyor.</p>
+<p>Creator Economy Etkisi: Reklam ajansları, e-ticaret markaları ve içerik üreticileri için maliyetli video prodüksiyonlarını dakikalar içinde yüksek kalitede simüle etme imkanı tanıyor.</p>
+<p>Bu konuyla ilgili incelemek isteyebileceğiniz devam adımları:
+Higgsfield AI'ın temel özelliklerini ve rakipleriyle karşılaştırmasını detaylandır</p>]]></description>
+    </item>
     <item>
       <title>Mixed / Oytun: KİMSE EVLENMEK İSTEMİYOR! Peki Neden? &quot;Kadın ve Erkek Eşit Değil&quot; İlişkiler ve Toplum | Oytun Erbaş</title>
       <link>https://www.youtube.com/watch?v=A5ApSKUuOwo</link>
