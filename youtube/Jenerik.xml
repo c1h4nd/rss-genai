@@ -4,7 +4,46 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Sat, 31 Oct 2026 19:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:03:01 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / How To Visualize Your Success: Mental Rehearsal To Build Resilience</title>
+      <link>https://www.youtube.com/watch?v=nFNjpZ0n-lU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=nFNjpZ0n-lU</guid>
+      <pubDate>Sat, 31 Oct 2026 17:59:12 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/nFNjpZ0n-lU/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-31T17:59:12+00:00</p>
+<p>Neuroplasticity ve Zihinsel Prova: Beyin, hayal edilen deneyimler ile gerçek deneyimler arasında tamamen bir ayrım yapmaz; bu durum, spor fizyolojisi ve nörobilimde skill performansını artırmak, motor skills geliştirmek ve performance anxiety'yi azaltmak için kullanılır [01:10], [01:40].</p>
+<p>Aktif Beyin Bölgeleri: Mental rehearsal sırasında hareketleri kontrol eden motor cortex, focus ve decision making sağlayan prefrontal cortex aktive olur ve mirror neurons öğrenme sürecini destekler [01:59], [02:06], [02:15].</p>
+<p>Stres Yönetimi ve Psikolojik Aşı: Stresli durumlarda beyin bilindik reflekslere döner; ancak zihinsel prova sayesinde verimli bir response önceden programlanarak anxiety azaltılır ve bu durum stress için bir "psychological vaccine" görevi görür [03:05], [03:19], [03:53].</p>
+<p>Outcome vs. Process Visualization: Yarışı kazanmak veya terfi almak gibi sadece sonucu hayal etmek (outcome visualization) motive edicidir ancak yeterli değildir. Başarıya götüren adımları hayal etmek (process visualization) zorluklara karşı resilience oluşturmada çok daha etkilidir [04:08], [04:24], [04:31], [04:49].</p>
+<p>Uygulama Adımları (Step-by-Step Guide):</p>
+<p>Set a clear goal: Hazırlık yapılmak istenen durum netleştirilir [05:11].</p>
+<p>Engage all your senses: Gözler kapatılarak mekân ve sesler gibi detaylar canlı bir şekilde hayal edilir [05:28].</p>
+<p>Visualize the process, not just the result: Sonuç yerine başarıya götüren tüm süreç adım adım gözlemlenir [05:43].</p>
+<p>Practice regularly: Günde sadece beş dakika ayırarak düzenli repetition yapılır [06:06].</p>
+<p>Pair visualization with action: Mental rehearsal fiziksel hazırlığın yerini almaz, onu destekleyen bir supplement'tir [06:19], [06:26].</p>
+<p>Dikkat Edilmesi Gerekenler: Visualization sürecinin overthinking'e dönüşmesine izin verilmemeli, başarısızlık senaryolarına takılmak yerine engellerle sakin bir şekilde baş etme provası yapılmalıdır [06:35], [06:44].</p>
+<p>https://www.youtube.com/watch?v=nFNjpZ0n-lU</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / Introduction to Motor-Imagery based Brain-Computer Interfaces</title>
+      <link>https://www.youtube.com/watch?v=metlFBa_NdQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=metlFBa_NdQ</guid>
+      <pubDate>Sat, 31 Oct 2026 17:58:06 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/metlFBa_NdQ/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-10-31T17:58:06+00:00</p>
+<p>Sensorimotor Rhythms (SMR) &amp; Motor Imagery: SMR is tied to sensorimotor cortex activity. When imagining left- or right-hand (or foot) movements, the contralateral side of the cortex begins firing, causing modulations and suppressions in EEG patterns even without any physical movement or external sensory stimulation.</p>
+<p>Alpha Rhythms &amp; Background Activity: Alpha rhythm operates in the 8–12 Hz frequency band (around 10 Hz) within the visual cortex. In an idle state with eyes closed, signal power increases, whereas opening the eyes breaks the background rhythm and causes a power decrease due to visual information processing.</p>
+<p>Cortical Anatomy &amp; Localization: The central sulcus divides the frontal cortex (motor cortex) from the parietal cortex (somatosensory cortex). Studies across 80 participants utilize single-channel classification and topographic mapping to determine which EEG channels carry the most discriminatory information for specific motor tasks (left hand, right hand, foot).</p>
+<p>ERD (Event-Related Desynchronization) and ERS (Event-Related Synchronization): ERD refers to the suppression of signal power (such as in mu or beta bands) linked to motor preparation and imagination. ERS refers to synchronization or a rebound back to baseline synchronous activity (often observed in beta bands).</p>
+<p>Volume Conduction Effect &amp; Spatial Smearing: Because scalp electrodes record mixed electrical potentials from multiple brain regions, high correlation occurs across channels, resulting in overlapping patterns known as spatial smearing.</p>
+<p>Spatial Filtering Methods: To reduce spatial smearing and enhance class separability, several spatial filtering approaches are applied:</p>
+<p>Bipolar Filtering: Computes the difference between channel pairs to remove common background noise and correlated patterns.</p>
+<p>Common Average Reference (CAR): Subtracts the global average across all electrodes from each individual channel.</p>
+<p>Local Average Reference: Subtracts the average of immediate neighboring channels to achieve localized spatial filtering.</p>
+<p>Common Spatial Patterns (CSP): A supervised learning algorithm that optimizes spatial filters to maximize the variance between two classes, significantly improving signal separability.</p>
+<p>Signal Processing &amp; Feature Extraction: Bandpass filtering (e.g., 10–15 Hz), rectification, and the Hilbert transform (to capture signal envelopes) are utilized to quantify power increases and decreases, highlighting why spatial pre-filtering is crucial before computing robust power features for BCI classification.</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / Science-Based Mental Training &amp; Visualization for Improved Learning</title>
       <link>https://www.youtube.com/watch?v=0RYyQRQFgFk</link>
