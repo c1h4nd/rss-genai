@@ -4,7 +4,69 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Sun, 01 Nov 2026 16:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 16:45:01 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / Yapay Zekanın Gösterdiği 3 Büyük Keşif</title>
+      <link>https://www.youtube.com/watch?v=p95G1iBvo7g</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=p95G1iBvo7g</guid>
+      <pubDate>Sun, 01 Nov 2026 15:39:04 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/p95G1iBvo7g/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-01T15:39:04+00:00</p>
+<p>Giriş ve Ana Tema:</p>
+<p>Bilim tarihinde keşiflerin önünü genellikle bakılacak yeni araçların (Antonie van Leeuwenhoek'un mikroskobu, Galileo'nun teleskobu, Röntgen ışınları) açtığı vurgulanmaktadır.</p>
+<p>Günümüzde AI, sadece sohbet eden bir yazılım değil; insan gözünün fark edemeyeceği kadar karmaşık verilerdeki örüntüleri (pattern) tespit eden yeni bir "mikroskop/teleskop" işlevi görmektedir.</p>
+<p>Sponsorluk / Araç Tanıtımı (ChatLLM by Abacus.AI):</p>
+<p>Farklı AI modellerini tek bir arayüzde toplayan, otomatik model seçimi yapabilen (Route LLM), görsel/video üretebilen, kod yazmadan uygulama geliştirmeye ve Agent Swarms gibi çoklu agent mimarilerine imkan tanıyan platform tanıtılmıştır.</p>
+<ol>
+<li>Keşif: Herculaneum Papirüsleri (Vesuvius Challenge):</li>
+</ol>
+<p>Tarihsel Arka Plan: MS 79'da Vezüv Yanardağı'nın patlamasıyla Herculaneum'daki bir villada yer alan antik kütüphane volkanik kül ve sıcaklıkla kömürleşmiştir. 1750'lerde 1800'den fazla papirüs rulosu çıkarılmış ancak açılmaya çalışılırken çoğu tahrip olmuştur.</p>
+<p>Yapay Zekanın Rolü: Kentucky Üniversitesi'nden Brent Seales, tomografi çekip sanal olarak açma (virtual unrolling) fikrini ortaya atmıştır. Antik mürekkep is (karbon) bazlı olduğundan karbonlaşmış papirüs yüzeyinde görünmemiştir. AI modellerine mürekkebin yüzeyde bıraktığı çok ince doku farkı eğitilerek öğretilmiştir.</p>
+<p>Gelişmeler: 2023'te başlatılan Vesuvius Challenge ($1M ödüllü) kapsamında 21 yaşındaki Luke Farritor eğitmiş olduğu AI modeliyle 2000 yıldır okunmayan ilk kelimeyi (porphyras / mor) tespit etmiştir. Philodemus'a ait Kusurlar Üzerine eseri ile bilinmeyen felsefe metinleri okunmuştur.</p>
+<p>Son Gelişmeler: Berkeley ekibi antik mürekkeplerde kurşun/bakır katkısını simüle ederek parlak izlerin taranabildiğini göstermiştir. 2025/2026 hedefleri doğrultusunda güvenilir rulo okuma yarışması devam etmektedir.</p>
+<ol>
+<li>Keşif: İspermeçet Balinalarının (Sperm Whales) İletişimi:</li>
+</ol>
+<p>Arka Plan: İspermeçet balinalarının çıkarttığı tıkırtı dizilerine coda denir. Biyolog Shane Gero, balina ailelerinin kendilerine özgü codalara ve kültüre sahip olduğunu gözlemlemiştir.</p>
+<p>Yapay Zekanın Rolü: Project CETI ve MIT araştırmacıları 8,700'den fazla codayı AI modelleriyle analiz etmiştir. Balinaların tıkırtı ritimlerini uzatıp kısaltabildiği, ek sesler ekleyebildiği anlaşılmıştır.</p>
+<p>Ses Yapısı &amp; Dil: Önceden bilinen 21 koda çeşidi 150'nin üzerine çıkmıştır. UC Berkeley'den Gasper Begus, ses kayıtlarını hızlandırıp sessizlikleri temizlediğinde insan konuşmasındaki ünlü harflere (vowels, /a/ ve /i/ benzeri) kayan ses kalıpları saptamıştır. AI, klavyelerdeki kelime tahmini (predictive text) mantığıyla sonraki koda dizilimlerini tahmin edebilmektedir.</p>
+<ol>
+<li>Keşif: Erdos'un Kibrit Problemi (Paul Erdős's Unit Distance Problem):</li>
+</ol>
+<p>Matematiksel Problem: 1946'da Paul Erdős, masaya dizilen paralar arasına tam 1 kibrit boyu mesafe şartıyla en fazla kaç kibrit yerleştirilebileceğini sormuştur. Para sayısı arttıkça para başına düşen kibrit sayısının son derece yavaş artacağı iddia edilmiş, 80 yıldır bu iddia doğrulanamamıştır.</p>
+<p>Yapay Zekanın Çözümü: Genel amaçlı bir AI modeli, Erdős'un iddia ettiğinin aksine para başına düşen kibrit sayısının düzenli olarak arttığı yeni dizilimler tespit etmiştir.</p>
+<p>Yöntem: AI, 2D geometrik yaklaşımlar yerine zengin sayı sistemlerindeki ve cebirsel yapılardaki simetrileri (örneğin 
+𝑥
+2
++
+𝑦
+2
+x
+2
++y
+2
+ kombinasyonları ve türevlerini) kullanarak iddiayı çürütmüştür. Fields madalyalı matematikçi Tim Gowers dahil bağımsız araştırmacılar AI'ın ispatını doğrulamıştır.</p>
+<p>Sonuç &amp; Değerlendirme:</p>
+<p>AI verideki gizli yapıları ve örüntüleri ortaya çıkaran bir araçtır (göz); ancak metinleri okuyan papirologlar, seslerin anlamını çözen biyologlar ve matematiği doğrulayan araştırmacılar insanlardır.</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / ERDOĞAN’IN PLANI RESMEN GÖRÜNDÜ | B YÜZÜ | Canlı | 27 EKİM SALI 20:00</title>
+      <link>https://www.youtube.com/watch?v=doCjbmkpaWc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=doCjbmkpaWc</guid>
+      <pubDate>Sun, 01 Nov 2026 15:37:54 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/doCjbmkpaWc/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-01T15:37:54+00:00</p>
+<p>Programın Açılışı ve Durum Değerlendirmesi: Barış Pehlivan'ın kızıyla vakit geçirmek üzere izinli olması ve Murat Ağırel'in Kandıra Cezaevinde tutuklu bulunması nedeniyle programa Barış Terkoğlu'nun tek başına ev sahipliği yaptığı belirtildi. Murat Ağırel'in cezaevi adresi paylaşılarak dayanışma çağrısında bulunuldu [02:28].</p>
+<p>Varlık Fonu ve Kamu Şirketlerinin Kayıpları: Fon krizinin doğrudan fon yatırımı yapmamış sıradan vatandaşların hayatını ve kamu varlıklarını nasıl etkilediği, bir kapitalizm hikayesi üzerinden açıklandı. 15 Eylül - 26 Ekim tarihleri arasındaki yaklaşık 40 günlük dönemde borsada işlem gören 6 kamu şirketinin (Türkiye Sigorta, VakıfBank, Halkbank, Türk Hava Yolları, Türk Telekom, Turkcell) toplam değerinin 1.01 trilyon TL'den 887.2 milyar TL'ye gerilediği ve 123.1 milyar TL (yaklaşık 3 milyar dolar) değer kaybettiği, en büyük kaybın ise Türkiye Sigorta'da yaşandığı ifade edildi [03:54].</p>
+<p>Fon Vurgunu ve Mafya Bağlantısı İddiaları: Fon krizine karışan bazı kişilere organize suç örgütleri/mafya grupları tarafından cep telefonundan mesajlar gönderildiği, vurgundan elde edilen paranın milyonlarca dolarlık kısmının (20-30 milyon dolar arası) haraç olarak talep edildiği belirtildi [14:14].</p>
+<p>Erken Seçim Senaryoları ve Anayasa Tartışmaları: Cumhurbaşkanı Erdoğan'ın yeniden aday olabilmesini sağlamak amacıyla Mehmet Uçum tarafından dile getirilen ve normal takvimden 3 hafta önceye (16 Nisan 2028) çekilmesi planlanan erken seçim formülü ele alındı. CHP'li Kemal Kılıçdaroğlu'nun bu senaryoya sıcak baktığına yönelik açıklamalarının meclis aritmetiğindeki (Cumhur İttifakı ve CHP desteğiyle 360/380 oy sınırına ulaşma durumu) etkileri tartışıldı [18:50].</p>
+<p>Erdoğan ve Bahçeli Görüşmesi: Cumhurbaşkanı Recep Tayyip Erdoğan ile MHP Lideri Devlet Bahçeli arasında gerçekleştirilen 45 dakikalık görüşmenin ana gündem maddelerinin "terörsüz Türkiye" süreci, yeni anayasa çalışmaları ve Türk Dünyası Zirvesi olduğu aktarıldı [32:50].</p>
+<p>Kahramanmaraş Deprem Davası Kararı: 6 Şubat depremlerinde 46 kişinin hayatını kaybettiği Sait Bey Sitesi davasının 13. duruşmasında mahkeme heyetinin değişmesiyle birlikte, en yüksek cezanın 10 yıl 13 ay olarak verilmesine deprem mağduru ailelerin büyük tepki gösterdiği ve adliyede adaletsizlik hissiyatıyla gözyaşlarına bozuldukları paylaşıldı [34:53].</p>
+<p>Necati Özkan'ın Mektubu: İBB soruşturması kapsamında casusluk iddiasıyla bir yıldır tutuklu bulunan Necati Özkan'ın, davanın dayanağı olan 17 e-postanın özel sektör sitelerinden hacklenmiş kamuya açık veriler olduğunu ve suçlamaların temelden yoksun olduğunu belirten mektubuna yer verildi [39:04].</p>
+<p>Cumhuriyet Bayramı ve Yalçın Küçüğün Belgesi: Cumhuriyetin 103. yılı kutlamaları kapsamında, Ergenekon kumpasları döneminde cezaevindeyken Yalçın Küçük tarafından kaleme alınan, cumhuriyete olan inancın zedelenemeyeceğini vurgulayan tarihi bir mektup paylaşıldı [44:11].</p>
+<p>Kitap Tanıtımları ve Atatürk'ün Futbol Yaklaşımı: Haydar Ergülen’in 100 Yıl Cumhuriyet Alfabesi ile Nuri Ulusu’nun Atatürk’ün kütüphanecilik anılarını anlatan kitabı tanıtıldı. Kitaptan yola çıkarak Atatürk’ün herhangi bir futbol takımı tutmadığı, yalnızca milli takımı desteklediği bilgisi aktarıldı [48:45].</p>
+<p>http://www.youtube.com/watch?v=doCjbmkpaWc</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / Kamondo Ailesi - Galata’dan Auschwitz’e | Belgesel</title>
       <link>https://www.youtube.com/watch?v=t-nzJBuezxg</link>
