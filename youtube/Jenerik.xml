@@ -4,7 +4,25 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Mon, 02 Nov 2026 11:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:18:02 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447</title>
+      <link>https://www.youtube.com/watch?v=oFfVt3S51T4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=oFfVt3S51T4</guid>
+      <pubDate>Mon, 02 Nov 2026 10:06:19 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/oFfVt3S51T4/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-02T10:06:19+00:00</p>
+<p>Lex Fridman podda, Cursor ekibinin kurucu üyeleri (Michael Truell, Sualeh Asif, Arvid Lunnemark ve Aman Sanger) konuk ediliyor [00:00].</p>
+<p>Cursor, yapay zeka destekli kodlama için güçlü özellikler sunan, VS Code tabanlı popüler bir code editor olarak tanımlanıyor [00:08].</p>
+<p>Konuşmanın odak noktası sadece tek bir kod editörü değil; genel olarak programlamanın geleceği ve insan-yapay zeka iş birliği [00:30].</p>
+<p>Ekip üyelerinin kökeni tamamen terminal tabanlı Vim kullanıcılarına dayanıyor [03:36].</p>
+<p>2021 yılında GitHub Copilot'un çıkışıyla birlikte, Large Language Models (LLM) tabanlı ilk gerçek tüketici ürün deneyiminin ve autocomplete mekanizmalarının nasıl başladığı tartışılıyor [04:15].</p>
+<p>OpenAI'ın 2020 yılındaki scaling laws makaleleri, yapay zekada öngörülebilir ilerlemenin kapısını aralayan dönüm noktası olarak vurgulanıyor [03:33].</p>
+<p>Cursor arayüzünde kullanılan diff (kırmızı ve yeşil değişiklikleri gösterme/uygulama) mekanizmasının kod düzenlemedeki rolü ve bunun gelecekteki verification problem (doğrulama problemi) ile ilişkisi ele alınıyor [23:09].</p>
+<p>Programlamaya tutkuyla bağlı olan en iyi programcıların gece geç saatlere kadar (örneğin saat 03:00'e kadar) yan projeler üzerinde çalışarak cursor tab özelliğini yoğun şekilde kullandıkları belirtiliyor [02:25:51].</p>
+<p>Sürekli tab tuşuna basarak kod tamamlama sürecinin aslında bilgisayara sürekli bir intent (niyet) aktarma ve yüksek bant genişliğinde iletişim kurma biçimi olduğu ifade ediliyor [02:26:54].</p>
+<p>Cursor ekibinin "Engineering Genius" manifestosunda yer alan; geleceğin mühendisinin insan ve yapay zeka hibrit gücüyle daha etkili olacağı, düşük entropili tuş vuruşları olmadan karar hızında iterasyon yapacağı vizyonu aktarılıyor [02:27:35].</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / Dario Amodei: Anthropic CEO on Claude, AGI &amp; the Future of AI &amp; Humanity | Lex Fridman Podcast #452</title>
       <link>https://www.youtube.com/watch?v=ugvHCXCOmm4</link>
