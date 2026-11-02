@@ -4,7 +4,23 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Mon, 02 Nov 2026 11:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:21:01 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI &amp; the Future of AI | Lex Fridman Podcast #416</title>
+      <link>https://www.youtube.com/watch?v=5t1vTLU7s40</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5t1vTLU7s40</guid>
+      <pubDate>Mon, 02 Nov 2026 10:08:34 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/5t1vTLU7s40/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-02T10:08:34+00:00</p>
+<p>Açık kaynaklı AI geliştirme ve bunun güvenlikle ilişkisi [00:00]: Yann LeCun, AI sistemlerinin az sayıdaki şirket tarafından kapalı kutu (proprietary systems) olarak kontrol edilmesinin büyük bir tehlike oluşturduğunu savunuyor. Açık kaynaklı AI'ın insanların zekasını artırarak içindeki iyiliği güçlendirdiğini belirtiyor.</p>
+<p>Konuk tanıtımı ve geçmişi [00:59]: Lex Fridman, LeCun'ın Meta'da Chief AI Scientist, NYU'da profesör, Turing Award ödüllü ve yapay zeka tarihindeki önemli figürlerden biri olduğunu vurguluyor. Meta'nın Llama 2 ve Llama 3 gibi modellerle open source AI vizyonunu desteklediğini ifade ediyor.</p>
+<p>AGI hakkındaki tartışmalı pozisyon [01:30]: LeCun, AGI'ın bir gün geleceğine ancak insan kontrolünden çıkıp dünyayı yok etmeyeceğine inanıyor. AGI'ın iyi olacağını savunarak kıyamet senaryoları yayanlara (doomers) karşı çıkıyor.</p>
+<p>Akıllı davranışın 4 temel özelliği [02:50]: LeCun, fiziksel dünyayı anlamak, kalıcı hafıza (persistent memory), akıl yürütme (reasoning) ve planlama (planning) olmak üzere akıllı sistemler için gerekli dört temel karakteristiği açıklıyor. LLM'lerin bu yeteneklere sahip olmadığını veya çok ilkel düzeyde kaldığını ifade ediyor.</p>
+<p>LLM'lerin eğitimi ve sınırlılıkları [12:03]: LLM'lerin çalışma prensibini açıklayan LeCun, metin içerisindeki bazı kelimelerin maskelenip (blank markers) eksik kelimelerin tahmin edilmesi mantığıyla eğitildiklerini, ancak bu yaklaşımın fiziksel dünyayı öğrenmek veya araba kullanmayı kısa sürede öğrenmek gibi konularda yetersiz kaldığını vurguluyor.</p>
+<p>JEPA (Joint Embedding Predictive Architecture) yaklaşımı [25:57]: LeCun, generative AI modellerinin aksine (örneğin piksellerin tamamını tahmin etmeye çalışmak yerine), girdilerin soyut bir temsilini (abstract representation) tahmin etmeyi amaçlayan JEPA mimarisini detaylandırıyor.</p>
+<p>Osmanlı İmparatorluğu ve matbaa analojisi [24:52]: LeCun, Osmanlı İmparatorluğu'nun matbaayı Arapça için yasaklamasını hattatların (calligraphers) gücünü korumasıyla ilişkilendirerek, günümüzde AI düzenlemelerini savunanların da benzer şekilde kendi çıkarlarını ve mesleklerini korumaya çalışıp çalışmadığını tartışıyor.</p>
+<p>Teknoloji ve istihdam piyasasının geleceği [24:45]: AI'ın kitlesel işsizliğe yol açmayacağını, mesleklerin kademeli olarak evrileceğini, gelecekteki işlerin bugünden tahmin edilemeyeceğini (tıpkı 20 yıl önce mobil uygulama geliştiriciliğinin öngörülememesi gibi) belirtiyor.</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447</title>
       <link>https://www.youtube.com/watch?v=oFfVt3S51T4</link>
