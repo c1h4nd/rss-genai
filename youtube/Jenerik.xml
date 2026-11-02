@@ -4,7 +4,39 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Mon, 02 Nov 2026 11:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:03:01 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485</title>
+      <link>https://www.youtube.com/watch?v=m_CFCyc2Shs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=m_CFCyc2Shs</guid>
+      <pubDate>Mon, 02 Nov 2026 09:57:10 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/m_CFCyc2Shs/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-02T09:57:10+00:00</p>
+<p>Nuclear Fusion Overview: [00:23] Nuclear fusion powers the sun and stars, and if achieved commercially, it could provide virtually unlimited, clean, and safe electricity without long-lived radioactive waste or carbon emissions.</p>
+<p>Technical Challenges: [00:31] Achieving fusion requires heating hydrogen to over 100 million degrees Celsius and containing it long enough for atoms to fuse, which is why it has historically been considered difficult.</p>
+<p>Fusion vs. Fission: [01:26] Traditional nuclear power plants use nuclear fission (splitting heavy uranium atoms), whereas nuclear fusion combines light hydrogen atoms together.</p>
+<p>Helium's Approach: [01:59] While most traditional fusion efforts use Tokamaks (giant donut-shaped magnetic containment chambers), Helium Energy uses pulsed magneto-inertial fusion.</p>
+<p>Energy Scarcity and Civilization: [02:26] Human history has largely been limited by energy scarcity, and unlocking commercial fusion could usher in an era of energy abundance that fundamentally changes human capabilities.</p>
+<p>Weapon Proliferation Differences: [24:45] Fusion power plants cannot be used to make nuclear weapons because the processes and fuels involved are fundamentally different from those used in fission weapons and atomic bombs.</p>
+<p>Hydrogen Bombs Clarification: [27:04] So-called hydrogen bombs (H-bombs) still rely primarily on a nuclear fission primary trigger and uranium reactions, meaning 90% of the energy comes from fission rather than pure fusion.</p>
+<p>Cosmic Future and Matrioshka Brains: [02:32:20] Discussion around Kardashev Level 2 civilizations and Matrioshka brains—where a civilization surrounds a star with solar panels to power advanced intelligence and cognition rather than physically expanding through space.</p>
+<p>Awe of Physics: [02:34:42] David Kirtley expresses continuous awe at how nature's fundamental forces (such as the electromagnetic force and strong nuclear force) achieve a precise, workable balance that enables both physics and life.</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490</title>
+      <link>https://www.youtube.com/watch?v=EV7WhVT270Q</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EV7WhVT270Q</guid>
+      <pubDate>Mon, 02 Nov 2026 09:57:00 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/EV7WhVT270Q/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-02T09:57:00+00:00</p>
+<p>DeepSeek Moment ve Çin Rekabeti: Ocak 2025'te DeepSeek R1 modelinin çıkışıyla başlayan "DeepSeek moment", yapay zeka sektöründe büyük bir dönüm noktası oldu. Çin merkezli açık ağırlıklı (open weight) model ekosisteminin ve laboratuvarların performansı, çok daha düşük maliyet ve compute ile state-of-the-art seviyeye yaklaşarak sektörü derinden etkiledi [02:00].</p>
+<p>Model Rekabeti ve Hype Döngüleri: Google'ın Gemini 3 modelinin ardından Anthropic'in Claude Opus 4.5 modeli üzerinde çok yoğun bir hype oluştu. Fikirler ve mimariler hızla yayılsa da organizasyonel kültür ve kod odaklı yaklaşımlar (Claude code gibi) rekabette belirleyici avantajlar sağlıyor [04:06].</p>
+<p>Donanım, Kaynak ve Bütçe Kısıtları: Günümüzde yapay zeka teknolojilerine erişim konusunda büyük bir uçurum kalmadığı, araştırmacıların laboratuvarlar arası geçişleri sayesinde fikirlerin paylaşıldığı; ancak asıl rekabetin donanım, hardware constraint ve bütçe kaynakları etrafında şekillendiği vurgulanıyor [03:17].</p>
+<p>Eğitim ve "From Scratch" Yaklaşımı: Sebastian Rashka, büyük dil modellerini ve reasoning modellerini sıfırdan inşa etmenin ("build from scratch") bir konuyu anlamanın en iyi yolu olduğunu, kodun matematiksel olarak kesinlik taşıdığını ve hata payını ortadan kaldırdığını belirtiyor [00:47].</p>
+<p>Eğitim Süreçleri ve Sistem Optimizasyonları: Büyük ölçekli model eğitimlerinde FP8 training gibi tekniklerin kullanılması, parametre başına daha az bellek harcanmasını sağlayarak iletişimi azaltıyor, token hızını artırıyor ve veri/algoritma deneylerinin çok daha hızlı yapılmasını sağlıyor [46:02].</p>
+<p>Transformer Alternatifleri: Transformer mimarisinin yanı sıra text diffusion modelleri ve state space modelleri olan Mamba modelleri gibi alternatif yaklaşımların avantajları ve trade-off'ları değerlendiriliyor [47:17].</p>
+<p>Bilinç, Ajans ve İnsan Kontrolü: Yapay zekanın geleceği ve olası riskleri üzerine konuşulurken, AI'ın bir araç olduğu, insan ajansının ve bilinçli kararların kontrolü elinde tuttuğu; güncel implementasyonlarda yapay zekanın kendi başına bir şey istemediği, insan yönlendirmesiyle çalıştığı vurgulanıyor [22:38].</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / Tesadüfler Tesadüf Değil | Jung'un Eş Zamanlılık Teorisi</title>
       <link>https://www.youtube.com/watch?v=QHTA66EexY8</link>
