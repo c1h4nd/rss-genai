@@ -4,7 +4,21 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Mon, 02 Nov 2026 11:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:06:02 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / Demis Hassabis: Future of AI, Simulating Reality, Physics and Video Games | Lex Fridman Podcast #475</title>
+      <link>https://www.youtube.com/watch?v=-HzgcbRXUK8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=-HzgcbRXUK8</guid>
+      <pubDate>Mon, 02 Nov 2026 09:57:33 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/-HzgcbRXUK8/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-02T09:57:33+00:00</p>
+<p>Fluid Dynamics ve Video Generation: Navier-Stokes denklemleri gibi geleneksel olarak çok zor ve büyük compute gücü gerektiren fluid dynamics problemleri, video generation modelleri (örneğin Sora tarzı sistemler) sayesinde şaşırtıcı derecede başarılı bir şekilde modellenebiliyor [00:12]. Bu sistemler, YouTube videolarını izleyerek materyallerin ve sıvıların davranışlarındaki alt yapıları reverse engineering ile öğrenebiliyor [00:50].</p>
+<p>Nobel Ödülü ve Doğal Sistemler Konjektürü: Demis Hassabis, Nobel Prize lecture'ında doğada bulunan herhangi bir pattern'ın klasik bir learning algoritması tarafından verimli bir şekilde keşfedilebileceğini ve modellenebileceğini öne sürüyor [02:09].</p>
+<p>AlphaFold ve High-Dimensional Spaces: AlphaFold gibi projelerin özünde, combinatorial olarak çok yüksek boyutlu uzayların (combinatorily high-dimensional spaces) modellerinin kurulması yatar [02:47]. Doğal sistemler, evolutionary süreçlere maruz kaldıkları için belirli bir structure'a sahiptir; bu structure neural network'ler aracılığıyla öğrenilebilir [03:36].</p>
+<p>Survival of the Stablest: Evrim sadece canlı organizmalar için geçerli değildir; jeolojik zaman dilimlerindeki dağların şekillenmesi veya kozmolojik süreçlerdeki asteroid yörüngeleri de bir tür survival process'ten geçmiştir [04:05]. Bu durum, reverse learn edilebilir bir manifold ve pattern varlığını açıklar [04:31].</p>
+<p>Complexity Zoo ve P vs NP: Hassabis, yapay zeka ve theoretical computer science bağlamında, klasik (non-quantum) Turing makineleri tarafından modelenebilecek yeni bir problem sınıfı (learnable natural systems) üzerinde çalıştığını belirtiyor [06:14]. Evrenin temel biriminin energy ve matter'dan ziyade information olduğunu ve P vs NP sorununun bu bağlamda ele alınabileceğini vurguluyor [06:56].</p>
+<p>Video Games ve AI Geleceği: Hassabis'in profesyonel kariyerine ilk adım attığı alanlardan biri oyunlar için AI geliştirmektir [20:30]. Gelecekte AI destekli video oyun dünyalarının, procedural generation ve open-world simülasyonları (örneğin Elder Scrolls: Daggerfall ve Black &amp; White'daki erken dönem reinforcement learning sistemleri) çok daha ileri bir seviyeye taşıyabileceği tartışılıyor [22:14].</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / David Kirtley: Nuclear Fusion, Plasma Physics, and the Future of Energy | Lex Fridman Podcast #485</title>
       <link>https://www.youtube.com/watch?v=m_CFCyc2Shs</link>
