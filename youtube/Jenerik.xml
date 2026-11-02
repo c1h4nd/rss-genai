@@ -4,7 +4,23 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Mon, 02 Nov 2026 11:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:12:02 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459</title>
+      <link>https://www.youtube.com/watch?v=_1f-o0nqpEI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=_1f-o0nqpEI</guid>
+      <pubDate>Mon, 02 Nov 2026 09:58:30 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/_1f-o0nqpEI/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-02T09:58:30+00:00</p>
+<p>Konuklar Dylan Patel (SemiAnalysis kurucusu) ve Nathan Lambert (Allen Institute for AI ve interconnects blog yazarı), yapay zeka sektöründeki son gelişmeleri derinlemesine ele alıyor [00:00].</p>
+<p>Programın temel amacı, medyadaki abartılı haberleri (hype) ve düşük çözünürlüklü analizleri geride bırakarak yapay zekanın gerçekte nasıl çalıştığını ve etkilerini incelemek [01:23].</p>
+<p>OpenAI'ın yeni duyurulan o3-mini reasoning modeli değerlendiriliyor; modelin yetenekleri ve maliyetleri beklentilere uygun bulunurken, DeepSeek R1 ile karşılaştırmaları yapılıyor [01:47].</p>
+<p>DeepSeek V3, mixture of experts (MoE) ve Transformer mimarisine dayanan, açık ağırlıklı (open weight) bir chat/instruction dil modeli olarak detaylandırılıyor [03:38].</p>
+<p>Ocak ayında yayınlanan DeepSeek R1, muhakeme (reasoning) yeteneklerine odaklanan ve OpenAI o1 modeliyle benzer hedefleri paylaşan yeni nesil bir akıl yürütme modeli olarak açıklanıyor [04:29].</p>
+<p>Yapay zeka eğitim süreçlerinin temel yapı taşları olan pre-training (ön eğitim) ve post-training (eğitim sonrası/fine-tuning) kavramları ile bu süreçlerin alt katmanları ele alınıyor [14:10].</p>
+<p>Transformer ağlarının yapısı, attention mekanizmaları, mixture of experts (MoE) yaklaşımı ve bu mimarilerin getirdiği verimlilik ile maliyet avantajları teknik düzeyde masaya yatırılıyor [27:54].</p>
+<p>Bölümün ilerleyen kısımlarında yapay zekanın jeopolitik yönleri, Amerika-Çin-Tayvan ilişkileri, donanım tedarik zincirleri (NVIDIA, TSMC) ve AGI (Yapay Genel Zeka) senaryolarının olası riskleri tartışılıyor [00:49].</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461</title>
       <link>https://www.youtube.com/watch?v=tNZnLkRBYA8</link>
