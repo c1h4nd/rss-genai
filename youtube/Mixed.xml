@@ -4,7 +4,22 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 03 Nov 2026 15:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:09:01 +0000</lastBuildDate>
+    <item>
+      <title>Mixed / Arman: Tek Fotoğraftan Gerçekçi Video Nasıl Yapılır?</title>
+      <link>https://www.youtube.com/watch?v=NiMJR84d-sc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=NiMJR84d-sc</guid>
+      <pubDate>Tue, 03 Nov 2026 14:05:43 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/NiMJR84d-sc/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-03T14:05:43+00:00</p>
+<p>Video Konusu ve Amaç: Videoda, profesyonel bir kamera, oyuncu veya mekan prodüksiyonu gerektirmeden, yalnızca tek bir fotoğraf ve yapay zeka araçları kullanılarak gerçekçi sinematik video sahnelerinin (örneğin İstanbul Boğazı'nda vapurda çay içen bir karakter) nasıl oluşturulacağı sıfırdan anlatılmaktadır.</p>
+<p>Kullanılan Yapay Zeka Modelleri ve Araçları: Videoda ana üretim aracı olarak Hixfield platformu öne çıkarılmakta; görsel üretimi ve düzenlemesi için GPT Image 2.5 (Sunburst ve Flare modelleri), video oluşturma ve hareket kontrolü için Cedance 2.5 modelleri kullanılmaktadır.</p>
+<p>Karakter Referans Sayfası (Character Sheet) Oluşturma: Tek bir fotoğraftan tutarlı bir karakter elde edebilmek için GPT Image 2.5 kullanılarak karakterin önden tam boy görünümü, 90 derece yandan tam görünümü ve yüzünün yakın çekimini içeren çok panelli bir karakter referans dosyası hazırlanmaktadır.</p>
+<p>Video Üretimi ve Sahne Detayları: Cedance 2.5 modeli ve hazırlanan karakter referansı kullanılarak; İstanbul Boğazı'nda gün batımında ilerleyen bir vapurda, elde çay bardağıyla kameraya dönen, rüzgarın kıyafetleri dalgalandırdığı sinematik bir video sahnesi (720p / 1080p seçenekleriyle) üretilmektedir.</p>
+<p>Atmosfer Değişikliği (Gün Batımından Geceye): Üretilen sahnenin promptu düzenlenerek gün batımı sahnesi gece atmosferine çevrilmiş; İstanbul'un şehir ışıklarının boğaz sularına yansıması ve vapur güvertesindeki ışıkların karakteri aydınlatması sağlanmıştır.</p>
+<p>Gen-to-Video (Gen-to-Video / Motion Transfer) Özelliği: Hazırlanan karakter referans seti ve referans bir video kullanılarak, farklı hareket ve aksiyon sahnelerinde karakter tutarlılığını koruyarak yeni videolar üretme yöntemi gösterilmiştir.</p>
+<p>Maliyet ve İpuçları: Yapay zeka araçlarının kullanım maliyetlerinin çözünürlüğe ve süreye göre değiştiği (kredi sistemi), bu nedenle en üst paketleri doğrudan almak yerine ihtiyaç duyuldukça paket büyütülmesi gerektiği vurgulanmıştır.</p>]]></description>
+    </item>
     <item>
       <title>Mixed / TjPpower: Neuroscientist Explains: Learn Anything DISGUSTINGLY Fast</title>
       <link>https://www.youtube.com/watch?v=vIeaOPn81XQ</link>
