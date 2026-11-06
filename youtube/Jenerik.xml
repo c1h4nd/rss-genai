@@ -4,7 +4,41 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Fri, 06 Nov 2026 12:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:21:01 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / AI Is Training You Not to Think</title>
+      <link>https://www.youtube.com/watch?v=Tk2eXOQnMvE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Tk2eXOQnMvE</guid>
+      <pubDate>Fri, 06 Nov 2026 09:55:35 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/Tk2eXOQnMvE/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-06T09:55:35+00:00</p>
+<p>The Illusion of Convenience: Silicon Valley's "frictionless human utopia" promises to liberate humanity from grunt work, but instead encourages cognitive atrophy by offering quick fixes like AI-suggested responses, automated summaries, and AI co-pilots [01:36].</p>
+<p>Distraction of Macro Apocalypse: Public fears around AGI, massive unemployment, and big tech monopolies act as a distraction from the quiet, real-time intellectual decline happening right now in front of our monitors [02:02].</p>
+<p>The Biological Precedent of GPS: Similar to how GPS reliance caused the hippocampus of London taxi drivers to atrophy due to a lack of spatial navigation, AI is eroding human intelligence at a much faster rate [03:47].</p>
+<p>The Role of Cognitive Friction: Struggle and frustration are the biological raw materials for intelligence; they trigger the secretion of myelin, which insulates neural pathways and accelerates brain function [05:29].</p>
+<p>Loss of Language Complexity: Ludwig Wittgenstein noted that "the limits of my language mean the limits of my world." Relying on AI prompts and one-sentence TL;DRs flattens human expression and reduces our vocabulary and depth of thought [07:35].</p>
+<p>Outsourcing Emotional Relationships: People increasingly turn to AI chatbots and "yes-men" companions to escape the messy friction and discomfort of real human relationships and empathy [09:24].</p>
+<p>Reclaiming Discomfort: To escape intellectual decline, individuals must choose discomfort again, embrace cognitive friction, and resist the temptation to optimize away the struggles that make us human [13:31].</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / What If the Internet Becomes Mostly AI-Generated?</title>
+      <link>https://www.youtube.com/watch?v=BWquN4QBiCY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=BWquN4QBiCY</guid>
+      <pubDate>Fri, 06 Nov 2026 09:55:15 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/BWquN4QBiCY/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-06T09:55:15+00:00</p>
+<p>Gelecekte internetin büyük ölçüde AI-generated (yapay zeka üretimi) hale gelmesi durumunda, içeriklerin insan kaynaklı mı yoksa yapay mı olduğunu ayırt etmenin zorlaşacağı belirtiliyor [00:10]. Text (metin), images (görseller), voices (sesler) ve video gibi formatların devasa ölçekte üretilebildiği vurgulanıyor [00:20].</p>
+<p>2026 yılında yapılan bir analizde 55.000'den fazla article (makale) incelenmiş ve bunların kabaca yarısının öncelikli olarak AI-generated olduğu tahmin edilmiştir [00:50]. Bu durum, makine üretimi metinlerin online publishing alanına ne kadar hızlı girdiğini göstermektedir [01:25].</p>
+<p>Modern generative systems (üretken sistemler) yalnızca text üretmekle kalmayıp photorealistic images, synthetic audio (sentetik ses) ve gittikçe gerçekçi hale gelen generated video oluşturabilmektedir [01:45]. Sistemler geliştikçe, içeriklerin origin (köken) kararını dış görünüşe dayanarak vermek zorlaşmaktadır [02:20].</p>
+<p>Bu durum iki temel problem yaratmaktadır; bunlardan ilki, AI sistemlerinin kendi ürettikleri data (veri) üzerinden öğrenme sürecidir [02:40]. Machine learning sistemleri pattern'leri öğrenmek için örneklemlere bağımlıdır; ancak web içinde daha fazla generated material bulunması bu karışımı değiştirmektedir [03:00].</p>
+<p>Araştırmacılar, bu döngünün kuşaklar boyunca tekrar etmesi durumunda model collapse (model çöküşü) adı verilen bir failure mode (hata modu) ortaya çıkabileceğini incelemiştir [03:30]. Bu durum bilgisayarın durması anlamına gelmez; ancak learned distribution (öğrenilmiş dağılım) bozulabilir ve orijinal verideki unusual detail'lar (alışılmadık detaylar) ilk başta kaybolabilir [04:00].</p>
+<p>Nature dergisinde yayımlanan landmark bir çalışma, generated data'nın bilinçsizce ve recursive (özyinelemeli) olarak yeniden kullanılmasının tehlikelerine dikkat çekmiştir [04:50]. Buna karşın, kontrollü ortamlarda synthetic data gap'leri (boşlukları) doldurmak veya belirli training goal'lerini desteklemek için yararlı da olabilmektedir [05:20].</p>
+<p>2026 yılında araştırmacılar model collapse sürecini geciktirmeyi amaçlayan new methods yayımlamış; bu sayede sistemlerin çöküş yaşanmadan önce synthetic data'ya karşı çok daha büyük bir tolerance geliştirebildiği görülmüştür [05:50].</p>
+<p>İkinci büyük problem ise human trust (insan güveni) meselesidir. Bir görsel photographic olduğunda, yalnızca appearance (görünüm) üzerinden kökenini anlamak mümkün olmayabilir; aynı problem audio ve video için de giderek artmaktadır [06:30].</p>
+<p>Bu sorunu çözmek için digital provenance (dijital menşei) büyük önem kazanmaktadır. C2PA tarafından oluşturulan content credentials adındaki open standard, bir asset'in nasıl oluşturulduğu ve değiştirildiği bilgisini kaydetmeyi sağlar [07:10]. Bu veriler cryptographically signed (kriptografik olarak imzalanmış) olup tampering (kurcalama/değiştirilme) durumlarını ortaya çıkarmak için tasarlanmıştır [07:30].</p>
+<p>Provenance mekanizmasının magic truth detector olmadığı, her claim'in (iddianın) doğru olup olmadığını değil, yalnızca recorded origin (kaydedilmiş köken) ve editing history bilgisini gösterdiği vurgulanmaktadır [08:00].</p>
+<p>Yapay içeriklerin artması, authentic human data (otantik insan verisi) ve documented origin değerini artırabilir [09:10]. Gelecekteki internetin human ve AI olarak net bir şekilde bölünmeyebileceği, en önemli ayrımın ise traceable versus unknown (izlenebilir ve bilinmeyen) arasında olacağı ifade edilmektedir [09:40].</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / Forget the AI Doom Hype. Here's What Actually Happened</title>
       <link>https://www.youtube.com/watch?v=dl5TkMl6ZBw</link>
