@@ -4,7 +4,43 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Fri, 06 Nov 2026 12:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:33:01 +0000</lastBuildDate>
+    <item>
+      <title>Jenerik / Why AI May Never Be Conscious | AI Consciousness</title>
+      <link>https://www.youtube.com/watch?v=8__l3dfu94Q</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8__l3dfu94Q</guid>
+      <pubDate>Fri, 06 Nov 2026 09:59:59 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/8__l3dfu94Q/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-06T09:59:59+00:00</p>
+<p>Giriş ve Ana Tartışma: Teknolojik gelişmeler ve "recursive self-improvement" ile AI'ın insanları geçeceği ve bilinç kazanacağı yönündeki yaygın konsensüse karşılık, bilgisayar bilimcileri, fizikçiler ve matematikçilerden oluşan güçlü bir kesim AI'ın hiçbir zaman gerçek insan bilincine sahip olamayacağını savunmaktadır [00:00].</p>
+<p>Gödel'in Eksiklik Teoremi (Gödel's Incompleteness Theorem): 1931'de Kurt Gödel tarafından yayınlanan bu teorem, hiçbir kapalı mantıksal, matematiksel veya algoritmik sistemin kendi tutarlılığını kendi kurallarıyla tamamen kanıtlayamayacağını ispatlamıştır [00:54]. Her mantıksal çerçevenin içinde her zaman doğru olan ancak kanıtlanamayan ifadeler (sistem sınırları) mevcuttur [01:32].</p>
+<p>Sanatçı Analojisi: Bir ressamın kendi stüdyosunun kusursuz ve eksiksiz bir tablosunu çizerken tuvalin kendisini de tabloya dahil etmesi gerektiğinde sonsuz bir iç içe geçmişlik döngüsüne (endless nesting loop) ve tutarsızlığa düşmesi, sistem içi sınırların bir örneğidir [02:04].</p>
+<p>AI ve Formal Sistemler: Erken kural tabanlı sistemlerden günümüzdeki deep learning ve large language models (LLM) mimarilerine kadar her AI, Turing machine üzerinde çalışan birer algoritmik formal sistemdir [03:22]. Bu nedenle Gödel'in eksiklik teoremine tabidirler ve çözemeyecekleri/kanıtlayamayacakları "sentence G" (cümle G) gibi mantıksal açmazları bulunur [04:03].</p>
+<p>İnsan Bilincinin Transandantal Doğası: AI paradokslar yüzünden kilitlenip (memory leak, CPU krizleri) çöküş yaşarken [05:04], insanlar sistemin dışına çıkıp (transcendent instinct) durumun bir kelime oyunu/paradoks olduğunu sezgisel olarak anlayabilmektedir [05:26]. Bu durum, insan bilincinin tamamen hesaplanamaz ve non-algorithmic olduğunu kanıtlar [06:16].</p>
+<p>Teoriye Yönelik Üç Önemli Karşı Görüş (Lethal Objections):</p>
+<p>İnsan Zihninin Tutarsızlığı: Gödel teoremi tamamen tutarlı sistemler için geçerlidir; oysa insan zihni de hatalar yapar, çelişkili inançlar taşır ve kendi içinde kusurludur [07:22].</p>
+<p>Sürekli Mimari Güncellemeler (Upgrades): AI bir "sentence G" duvarına çarptığında, insanlar kodunu güncelleyerek (patch) yeni aksiyomlar ekleyebilir ve sonsuz bir evrimsel merdivenle insan yeteneklerini aşabilir [08:06].</p>
+<p>Probabilistik ve İstatistiksel Modeller: ChatGPT ve Claude gibi modern frontier modeller, katı semantik kurallarla değil, olasılık temelli ve istatistiksel (probabilistic) çalışır; bu da onları insan sezgisine ve fuzzy logic mantığına daha yakın kılar [08:52].</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / Why Jensen Huang Is The Most Dangerous Man In Tech</title>
+      <link>https://www.youtube.com/watch?v=KZieto085wM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=KZieto085wM</guid>
+      <pubDate>Fri, 06 Nov 2026 09:59:04 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/KZieto085wM/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-06T09:59:04+00:00</p>
+<p>Jensen Huang, Tayvan doğumlu olup küçük yaşta ABD'ye taşındı; Kentucky'de bir yatılı okulda bulaşık yıkama ve tuvalet temizleme gibi işlerde çalıştı [00:00], [00:55].</p>
+<p>Oregon Eyalet Üniversitesi'nde elektrik mühendisliği okudu [01:27], ardından AMD ve LSI Logic'te çip tasarımı yaptı ve Stanford'da yüksek lisans tamamladı [01:34].</p>
+<p>1993 yılında Chris Malachowski ve Curtis Priem ile birlikte Nvidia şirketini kurdu [01:52]; şirketin ilk ürünü olan NV1 kavisli (curved) yüzeyler üzerine kuruluydu [02:26], ancak Microsoft'un DirectX standardı üçgenler (triangles) üzerine kurulduğu için büyük bir uyumsuzluk yaşandı ve ilk büyük bahis kaybedildi [02:35].</p>
+<p>Sega ile yapılan anlaşmada teknolojinin yanlış seçildiğini dürüstçe itiraf eden Jensen, Sega'nın sözleşmeyi iptal edip Nvidia'ya 5 milyon dolar yatırım yapmasını sağlayarak şirkete kritik bir can suyu sağladı [03:13], [03:30].</p>
+<p>Şirketin sadece birkaç aylık ömrü kaldığı dönemde, geleneksel test süreçleri yerine sanal test makinelerine (virtual testing) 1 milyon dolar yatırarak hatasız ve hızlı bir şekilde Reva 128 çipini üretti [04:12], [04:34].</p>
+<p>1999 yılında halka arz edilen şirket, dünyanın ilk GPU'su olan GeForce 256'yı piyasaya sürdü [05:22].</p>
+<p>Sadece oyun grafikleriyle sınırlı kalmayarak, GPU'ların paralel hesaplama gücünden diğer alanlarda da faydalanılmasını sağlamak amacıyla 2006 yılında CUDA yazılımını geliştirdi [06:16].</p>
+<p>2008 ekonomik krizi ve CUDA'nın yıllarca kısıtlı kalmasına rağmen Jensen yatırımlara ve geliştirmelere devam etti [06:33].</p>
+<p>Toronto Üniversitesi'nden Alex Krizhevsky, Ilya Sutskever ve Geoffrey Hinton'ın CUDA ve Nvidia oyun kartlarını kullanarak görüntü tanıma yarışmasını kazanması, yapay zeka dünyasında dönüm noktası oldu [06:49].</p>
+<p>2016 yılında Nvidia ilk yapay zeka süper bilgisayarı DGX1'i üretti ve Jensen bunu ilk olarak OpenAI'a teslim etti [07:29].</p>
+<p>2020 yılında duyurulan ARM satın alması devlet engelleri nedeniyle 2022'de iptal oldu [07:53], [08:01], ancak aynı yıl ChatGPT'nin Nvidia çipleri üzerinde eğitilmesiyle şirket devasa bir büyüme yakaladı ve piyasa değeri trilyonlarca dolara ulaştı [08:23], [08:33].</p>]]></description>
+    </item>
     <item>
       <title>Jenerik / The 2 best marketing funnels aren't what you think</title>
       <link>https://www.youtube.com/watch?v=TqhjmjnEesE</link>
