@@ -4,7 +4,7 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Fri, 06 Nov 2026 10:54:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:57:01 +0000</lastBuildDate>
     <item>
       <title>Jenerik / Social Transition: My Kid Asked for New Pronouns Because of a Pin at the Eye Doctor</title>
       <link>https://www.youtube.com/watch?v=ZZP2ydhBaoE</link>
@@ -92,6 +92,26 @@
 <p>Değerleri Gözden Geçirmek: Öz disiplin gibi büyütücü değerleri benimsemek, dışa bağımlılık ve rekabet gibi negatif değerleri elemek [21:30].</p>
 <p>Tetizleyicileri Tanımlamak: Sabit zihniyete ne zaman geçtiğimizi belirlemek ve bu sabit zihniyet kişiliğine bir isim vermek (üçüncü şahıs olarak düşünmek) [22:00].</p>
 <p>Sabit Zihniyetle Konuşmak: İçimizdeki o olumsuz sesi fark edip onu törpülemek ve riskin, başarısızlığın öğrenme fırsatı olduğunu hatırlatarak pozitif inançlar inşa etmek [22:49].</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / Once you understand game theory, you understand the world.</title>
+      <link>https://www.youtube.com/watch?v=mScpHTIi-kM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=mScpHTIi-kM</guid>
+      <pubDate>Fri, 06 Nov 2026 08:48:10 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/mScpHTIi-kM/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-06T08:48:10+00:00</p>
+<p>Game Theory ve Prisoner's Dilemma (Mahkumun İkilemi): Oyun teorisinin en ünlü problemlerinden biri olan Prisoner's Dilemma, bireylerin kendi çıkarları doğrultusunda rasyonel hareket etmesinin her iki tarafı da daha kötü bir duruma (suboptimal outcome) götürebileceğini gösterir. Bu durum, Soğuk Savaş döneminde ABD ve Sovyetler Birliği'nin devasa nükleer cephanelikler geliştirmesine benzetilir.</p>
+<p>Doğada İş Birliği: Oyun teorisindeki dinamikler yalnızca insan ilişkilerinde ve nükleer politikalarda değil, Afrika savanalarındaki Impala adı verilen hayvanların birbirlerini temizlemesi (grooming) gibi doğadaki birçok olayda da karşımıza çıkar.</p>
+<p>Robert Axelrod'un Bilgisayar Turnuvaları: Siyaset bilimci Robert Axelrod, tekrarlanan Prisoner's Dilemma (repeated game) senaryolarında en iyi stratejiyi bulmak için 1980 yılında bir bilgisayar turnuvası düzenlemiştir. Uzmanların gönderdiği 15 strateji birbiriyle karşılaşmıştır.</p>
+<p>Tit for Tat Stratejisinin Başarısı: Turnuvanın sonucunda, Anatol Rapoport tarafından geliştirilen Tit for Tat (Kısasa Kısas) adlı en basit program birinci olmuştur. Bu strateji ilk hamlede iş birliği yapar, sonraki hamlelerde ise rakibinin bir önceki hamlesini aynen taklit eder.</p>
+<p>Başarılı Stratejilerin Dört Temel Özelliği: Axelrod, turnuvada en iyi performans gösteren stratejilerin ortak özelliklerini dört ana başlıkta belirlemiştir:</p>
+<p>Nice (Nazik / İyi): Asla ilk defekte eden (saldıran) olmamak.</p>
+<p>Forgiving (Affedici): Misilleme yapsa bile kin tutmamak, geçmişteki hataları uzatmamak.</p>
+<p>Retaliatory (Miskilleme yapabilen): Rakip defekte ettiğinde hemen karşılık vermek, pushover (ezik/boyun eğen) olmamak.</p>
+<p>Clear (Net): Karmaşık ve anlaşılmaz olmamak, diğer programların güven kurabilmesini sağlamak.</p>
+<p>İkinci Turnuva ve Çevresel Simülasyonlar: İlk turnuvadan sonra oyunun tur sayısının kesin bilinmediği (rastgele bittiği) ikinci bir turnuva düzenlenmiş ve sonuçlar benzer şekilde Tit for Tat lehine çıkmıştır. Yapılan ekolojik simülasyonlarda, nesiller boyunca zayıf stratejilerin yok olduğu ve uzun vadede sadece nazik stratejilerin hayatta kaldığı görülmüştür.</p>
+<p>Noise (Hata Payı) ve Generosity (Cömertlik): Gerçek hayatta sinyal hataları veya yanlış anlaşılmalar (noise) olabileceği (örneğin 1983'teki Sovyet erken uyarı sistemi hatası), bu tür durumlarda saf Tit for Tat stratejisinin sonsuz bir kısasa kısas döngüsüne (echo effect) girebileceği belirtilmiştir. Bu sorunu aşmak için biraz daha cömert (örneğin 10 defadan 9'unda misilleme yapan) yaklaşımların etkili olduğu vurgulanmıştır.</p>
+<p>Zero-Sum (Sıfır Toplamlı) Olmama Durumu: Satranç veya poker gibi oyunların aksine, hayatın çoğu sıfır toplamlı değildir. Kazanmak için rakibinizi alt etmeniz gerekmez; dünyadan/sistemden win-win durumları bularak iş birliği ile ortak ödüllere ulaşılabilir. Tarihte ABD ve Sovyetler Birliği'nin nükleer silahları yavaş yavaş azaltarak iş birliği yapması bunun bir örneğidir.</p>]]></description>
     </item>
     <item>
       <title>Jenerik / Every IQ level explained</title>
