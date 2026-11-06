@@ -4,7 +4,7 @@
     <title>Jenerik</title>
     <link>https://www.youtube.com/</link>
     <description>Jenerik AI Summaries</description>
-    <lastBuildDate>Fri, 06 Nov 2026 10:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:00:02 +0000</lastBuildDate>
     <item>
       <title>Jenerik / Social Transition: My Kid Asked for New Pronouns Because of a Pin at the Eye Doctor</title>
       <link>https://www.youtube.com/watch?v=ZZP2ydhBaoE</link>
@@ -150,6 +150,23 @@
 <p>1876'da Julius Von Verdy Du Vernois, ayrıntılı kurallar ve zarlar yerine deneyimli bir hakimin (umpire) karar verdiği yeni bir versiyon yayınladı; bu sayede hesaplamalardan ziyade kararlara odaklanıldı [06:51] - [07:06].</p>
 <p>1869 tarihli talimatlarında Moltke'nin ilkesi, emirlerin subayların kendi başlarına çözemeyecekleri şeyleri söylemesi, geri kalanının ise onlara bırakılması gerektiği yönündeydi (bu anlayış daha sonra mission tactics / Auftragstaktik olarak bilinen kavrama şekil verdi) [07:53] - [08:21].</p>
 <p>Bu eğitim sistemi kusursuz olmasa ve hataları tamamen ortadan kaldırmasa da Prusya'nın 1866'da Avusturya'ya ve 1870'te Fransa'ya karşı kazandığı zaferlere katkıda bulundu [08:40] - [08:58].</p>]]></description>
+    </item>
+    <item>
+      <title>Jenerik / How Did Randomness Make Markets More Predictable?</title>
+      <link>https://www.youtube.com/watch?v=IuLub-1mDME</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IuLub-1mDME</guid>
+      <pubDate>Fri, 06 Nov 2026 07:43:20 +0000</pubDate>
+      <media:thumbnail url="https://i.ytimg.com/vi/IuLub-1mDME/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-06T07:43:20+00:00</p>
+<p>Rastgeleliğin Rolü ve Temel Fikir: [00:01] Hisse senedi piyasalarının kesin hareketlerini tam olarak tahmin etmek imkansız olsa da, matematiksel modeller ve probability (olasılık) kullanılarak fiyatların gelebileceği range (aralık) hakkında yapı oluşturulabilir.</p>
+<p>Louis Bachelier'nin Arka Planı: [00:30] 100 yılı aşkın süre önce, doktorasını yapan Louis Bachelier, o dönem için son derece alışılmadık bir konu olan the mathematics of speculation (spekülasyon matematiği) üzerine çalışmaya başlamıştır. Ailesinin bankacılık geçmişi ve Paris Bourse'da (Paris Borsası) çalışmış olması ona finansal piyasalar konusunda pratik bir aşinalık kazandırmıştır.</p>
+<p>Henri Poincaré'nin Rehberliği: [03:05] Bachelier’nin tez danışmanı, dönemin en büyük matematikçilerinden ve dinamik sistemler (kaos teorisinin temelleri dahil üç cisim problemi) üzerine çığır açan çalışmalarıyla bilinen Henri Poincaré olmuştur.</p>
+<p>Piyasa Fiyatlarının Modellenmesi: [04:07] Bachelier, borsanın çok büyük faktörlerden etkilendiğini ve etkili bir şekilde tahmin edilemez olduğunu fark etmiştir. Gelecekteki fiyat yolunu tahmin etmeye çalışmak yerine, bunu rastgele artışlarla (random increments) modellemiştir.</p>
+<p>Isı Denklemi ve Olasılık Yayılımı (Radiation of Probability): [05:44] Continuous price movement (sürekli fiyat hareketi) elde etmek için radiation of probability fikrini ortaya atmış; ısı yayılımını açıklayan diferansiyel denklemler ile (heat equation) hisse senedi fiyat olasılıklarının evrimini birbirine benzetmiştir.</p>
+<p>Normal Dağılım ve Central Limit Theorem: [07:05] Çok sayıda bağımsız değişken toplandığında central limit theorem (merkezi limit teoremi) gereği toplamın normal probability distribution'a (normal olasılık dağılımına) yöneldiği görülmüştür. Bu süreç, zaman içinde büyüyen bir variance (varyans) ve standard deviation (standart sapma) elde edilmesini sağlar.</p>
+<p>Brownian Motion Bağlantısı: [09:10] Bachelier'nin geliştirdiği model, bu süreçte Brownian motion (Brown hareketi) özellikleriyle örtüşmektedir; ancak Albert Einstein benzer bir konuyu Bachelier'den yaklaşık 5 yıl sonra ondan habersiz şekilde ele almıştır.</p>
+<p>Gerçek Dünya Verileriyle Uyumsuzluklar: [10:50] Bachelier'nin modeli çoğu zaman şaşırtıcı derecede iyi çalışsa da, gerçek piyasa verileri normal dağılımın açıklayabileceğinden çok daha aşırı değerler (extreme events / fat-tailed probability distribution) içerebilir.</p>
+<p>Akademik Kabul ve Yeniden Keşif: [12:12] Tez danışmanı Poincaré çalışmayı çok orijinal bulup sıcak karşılasa da, dönemin saf matematik çevreleri konuyu finans ağırlıklı bularak pek benimsememiştir. Çalışma daha sonraki yıllarda matematiksel finans alanının gelişmesiyle birlikte hak ettiği değeri ve tanınırlığı yeniden kazanmıştır.</p>]]></description>
     </item>
     <item>
       <title>Jenerik / Testosteron Seviyelerini Arttırmak İçin 6 Güçlü Takviye</title>
