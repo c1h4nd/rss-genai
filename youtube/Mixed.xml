@@ -4,7 +4,28 @@
     <title>Mixed</title>
     <link>https://www.youtube.com/</link>
     <description>Mixed AI Summaries</description>
-    <lastBuildDate>Tue, 24 Nov 2026 14:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:24:01 +0000</lastBuildDate>
+    <item>
+      <title>Mixed / Arman: 1 Dakikalık Dizi İşinde Para Var Mı? Nasıl Yapılır Anlattım.</title>
+      <link>https://www.youtube.com/watch?v=NfwpOpFoilM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=NfwpOpFoilM</guid>
+      <pubDate>Mon, 23 Nov 2026 09:59:41 +0000</pubDate>
+      <media:thumbnail url="https://i3.ytimg.com/vi/NfwpOpFoilM/hqdefault.jpg"/>
+      <description><![CDATA[<p>Published: 2026-11-23T09:59:41+00:00</p>
+<p>Örnek sahne ve 1 dakikalık dizi mantığı: Videonun başında (00:00:04) Defne, Kaan, Emre ve Nermin Hanım'ın geçtiği, kapıların kilitlenmesi ve sistem erişimi üzerine kurulu örnek bir sahne gösteriliyor. Konuşmacı, 1 dakikalık dikey dizilerin (shorts drama) temelinin izleyiciyi meraklandırmak ve kritik anda bölümü bitirerek cliffhanger yaratmak olduğunu anlatıyor.</p>
+<p>Pazar büyüklüğü ve gelir modeli: Omdia araştırmasına atıfla mikro dizilerin 2025'te dünya genelinde yaklaşık 11 milyar dolar gelir ürettiği, 2026 tahmininin ise 14 milyar dolar (Asya hariç pazarın 2.7 milyar dolardan 3.6 milyar dolara çıkışı) olduğu paylaşılıyor. Gelir modelinde ilk birkaç bölümün ücretsiz açılıp devamının abonelik veya uygulama içi bölüm satışıyla sunulduğu belirtiliyor.</p>
+<p>Hixfield kampanyası ve kredi/paket uyarısı: Açıklama ve yorumdaki işbirlikli bağlantıyla Plus ve Ultra paketlerde (aylık ve yıllık ödemelerde) yaklaşık %65'e varan Black Friday indirimi olduğu söyleniyor; yıllık alımda Plus için aylık 3 Euro, Ultra için 50 Euro fiyat örnekleniyor. AI araçlarının maliyetli olduğu vurgulanarak önce düşük paketle başlayıp ihtiyaca göre yükselterek veya kredi alarak ilerleme öneriliyor.</p>
+<ol>
+<li>
+<p>Yöntem — Hixfield web paneli (Hixfieldai AI/shortdama): Senaryoyu yükleyip (veya Claude ya da ChatGPT ile hazırlayıp) stil seçimi yapıldığı gösteriliyor (örneğin Pixel Cinematic, 9:16 dikey format). Analyze script (29 kredi) ile karakterler, mekanlar, proplar ve gizli kasalar listeleniyor; ardından ücretsiz yüz/karakter üretimleri ve 3.5 kredilik prop/mekan üretimleriyle karakter dosyaları (character sheet) oluşturuluyor. Continue episodes ile planlama (168 kredi) ve 480p taslak üretimi (222 kredi) adımları gösteriliyor; ayrıca 1080p upscale, auto edit ve bölüm indirme seçeneklerinden bahsediliyor.</p>
+</li>
+<li>
+<p>Yöntem — Claude üzerinden MCP ve skill dosyası ile üretim: Claude ayarlarında Customize &gt; Connectors bölümünden mcp.hckixfield.ai/mcp adresiyle özel connector eklenip kullanıcı doğrulaması ve Hixfield onayının yapıldığı anlatılıyor. Ardından Skills bölümüne Hixfield skill dosyası yüklenip Claude sohbetinde çağrılarak (Short drama studio script / short drama skill) fikir bulma, 4 bölümlük plan çıkarma, 1. bölüm senaryosunu oluşturma ve üretim adımlarının sohbet üzerinden yürütüldüğü gösteriliyor.</p>
+</li>
+</ol>
+<p>Üretim ayarları, kredi maliyetleri ve revize notları: 480p taslak üretiminin kredi açısından daha ekonomik olduğu (örnek olarak 2 dakikalık film bazında 480p'nin yaklaşık 400 kredi, 720p'nin 900 kredi, 1080p'nin 2300 kredi civarı önerildiği; sohbet akışında 1. bölüm için resimler ~21 kredi, 3 kliplik 480p bölüm ~180 kredi, müzik ~3.79 kredi ve toplam maliyetin ~205 kredi civarında hesaplandığı) aktarılıyor. Her adımda onay alma, müzik/altyazı/isim kartı ekleme ve bölümleri tek tek üretmenin daha sağlıklı olduğu belirtiliyor.</p>
+<p>Türkçe seslendirme sorunu ve video sonu: Türkçe seslendirmelerde telaffuz ve isim bozulmaları (örneğin Defne, Kaan ve diğer karakter isimlerinin farklı okunması) yaşandığı, buna karşın İngilizce, Almanca gibi dillerde sonuçların çok daha başarılı olduğu vurgulanıyor; istenirse revize verilebileceği veya dışarıdan alınan seslendirmeyle lip sync yapılabileceği söyleniyor. Videonun son bölümünde (20:36'dan itibaren) 4 bölümlük taslak/kurgulu sahnelerin arka arkaya oynatıldığı yer alıyor.</p>]]></description>
+    </item>
     <item>
       <title>Mixed / Oytun: BAĞIRSAK SORUNLARI, FİBROMİYALJİ, AĞRILARKÖKTEN ÇÖZÜM | Oytun Erbaş</title>
       <link>https://www.youtube.com/watch?v=cebHKA2n6JQ</link>
