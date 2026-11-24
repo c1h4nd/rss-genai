@@ -1,0 +1,10 @@
+# How to Speak - Prelude
+
+<https://www.youtube.com/watch?v=RjbmPuhuFv0>
+
+- Uzun yıllar (20-30 yıl) ders veren **faculty members** için en büyük tehlikenin **getting stale** ve bir öğretmen olarak sıkılmak ("the great abyss of getting bored") olduğu vurgulanıyor [[00:02](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=2)], [[00:14](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=14)].
+- Bu durumdan kaçınmanın yolunun, halihazırda iyi yapılan şeylerin üzerine çalışmak ve ders vermeyi etkili hale getirecek adımlar atmak olduğu ifade ediliyor [[00:23](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=23)], [[00:28](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=28)].
+- Yeni başlayan bir öğretmenin temel zorluklarından birinin, **material**'ı **clear and organized manner** içinde sunmak ve öğrencileri sıkmamak ("without boring my students to death") olduğu belirtiliyor [[00:38](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=38)].
+- Genç öğretmenlerin sıklıkla **deepend learning** yaşadığı; yani kimsenin yardımı olmadan doğrudan işin içine atıldıkları, ne yapacaklarını bilemedikleri ve çoğu zaman başarılı olmadıklarını hissettikleri anlatılıyor [[00:46](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=46)], [[00:53](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=53)].
+- Başlangıçtaki en büyük korkulardan birinin öğrencilerin saygısını kaybetmek olduğu dile getiriliyor; özellikle yaş olarak öğrencilere sadece birkaç yıl büyükken not, sınav ve problem veren öğretmen konumunda olmanın yarattığı ikilem vurgulanıyor [[00:59](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=59)], [[01:04](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=64)], [[01:09](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=69)].
+- Genç profesörlere yönelik öneri olarak, tıpkı **job interviews** gibi iyi öğretmenliğin sırrının karmaşık bir durumu **flexible way** ile kontrol altına almak olduğu ve bunun için **do your homework** (önceden hazırlık yapmak) gerektiği söyleniyor [[01:13](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=73)], [[01:20](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=80)], [[01:30](https://www.youtube.com/watch?v=RjbmPuhuFv0&t=90)].
