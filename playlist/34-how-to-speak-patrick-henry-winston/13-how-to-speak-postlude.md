@@ -1,0 +1,14 @@
+# How to Speak - Postlude
+
+<https://www.youtube.com/watch?v=sHvYjn3DHoQ>
+
+- **Küçük ve uygulanabilir tekniklerin önemi:** Konuşmacının konuşmadan çıkardığı en değerli şey genel bir sunum tarzını kopyalamak değil, bizzat kullanılabilecek küçük ve pratik techniques olmuş [[00:00](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=0)].
+- **Kaygıyı azaltma ve özgüven:** Konuşma sırasında belirli techniques kullanmak ve bunların bilincinde olmak gerginliği azaltıp yapılan işe dair confidence artırıyor [[00:11](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=11)].
+- **Tahta organizasyonu ve zihinsel yapı:** Patrick Winston'ın chalkboard kullanımından —özellikle tahtaya kutular (squares) halinde yazıp üzerlerini çizerek/işaretleyerek ilerlemesinden— ilham alınıyor; bu yöntemler söylenenleri zihinsel olarak düzenlemeye yardımcı oluyor [[00:26](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=26)].
+- **Eğlendirici olmak zorunda olmamak ve kendi kişiliğini katmak:** Öğretirken veya sunum yaparken bir entertainer gibi davranmaya gerek olmadığı, bilgiyi kendi personality ve tonuna uygun şekilde aktarmanın önemli olduğu vurgulanıyor [[00:40](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=40)].
+- **Tarz kopyalamamak, uyarlamak:** Patrick Winston'ın kendine has bir tarzı olduğu, deneyimli bir öğretmenin yaptıklarını birebir kopyalamak yerine kendi yoluna uyarlamak gerektiği ve yeni bir öğretmen için asıl püf noktasının kendi style'ını bulmak olduğu belirtiliyor [[01:00](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=60)].
+- **Artificial intelligence benzetmesi ve ön bilgi:** Bu tür lecturing yaklaşımlarının ardındaki motivasyonlardan biri artificial intelligence alanındaki bir fikre dayanıyor: bir bilgisayara neredeyse zaten bilmediği hiçbir şeyi öğretemezsiniz ve bu insanlar için de geçerli [[01:18](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=78)]. Dinleyicilerin veya öğrencilerin halihazırda bildikleri şeylere dikkat etmek ve bunları bir araya getirerek mevcut bilgilerine küçük bir bilgi artışı (small increment of knowledge) eklemek gerekiyor [[01:33](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=93)].
+- **Öğrencileri dahil etme becerisi:** Sadece konuya hakim olmak ve anlatmak istediklerini bilmek yeterli değil; öğrencilerin umursamasını, dinlemesini, anlamasını sağlamak ve ince noktaları (finer points) öne çıkarmak ayrı bir skill ve önceden düşünülmesi gereken bir süreç [[01:46](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=106)].
+- **Lecturing için araçlar (tools) edinmek:** Konuşmacı bu dersi/anlatımı genç bir professor iken kendisi de duymak isteyeceği için yapıyor [[02:04](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=124)]. Kutu yaparken saw ve hammer kullanmayı öğrenmek gibi, lecturing yaparken de öğrenilebilecek şeyler ve edinilebilecek tools olduğu benzetmesiyle bitiriliyor [[02:13](https://www.youtube.com/watch?v=sHvYjn3DHoQ&t=133)].
+
+<http://www.youtube.com/watch?v=sHvYjn3DHoQ>
