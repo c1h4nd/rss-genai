@@ -1,0 +1,17 @@
+# How to Speak - Props
+
+<https://www.youtube.com/watch?v=G6mFQabkLMo>
+
+- Konuşma ve anlatımda kullanılan önemli araçlardan birinin **prop** kullanımı olduğu belirtiliyor [[00:00](https://www.youtube.com/watch?v=G6mFQabkLMo&t=0)].
+- **Prop** kullanımı konusunda özellikle **playwrights** (oyun yazarları) örnek alınıyor ve 19. yüzyıl Norveçli oyun yazarı **Henrik Ipson**'un (Henrik Ibsen) bu alandaki ustalığına dikkat çekiliyor [[00:05](https://www.youtube.com/watch?v=G6mFQabkLMo&t=5)], [[00:15](https://www.youtube.com/watch?v=G6mFQabkLMo&t=15)].
+- **Henrik Ipson**'un oyunlarından özellikle **het a gabbler** (Hedda Gabler) oyununun **prop** kullanımına çok iyi bir örnek olduğu ve okunması gerektiği vurgulanıyor [[00:23](https://www.youtube.com/watch?v=G6mFQabkLMo&t=23)].
+- Bu oyunun merkezinde, bir cultural historian (kültür tarihçisi) tarafından yazılmış ve kariyerini tanımlayacak nitelikte bir **manuscript** (el yazması/taslak) bulunduğu anlatılıyor [[00:36](https://www.youtube.com/watch?v=G6mFQabkLMo&t=36)].
+- Oyunda belirgin bir yerde bulunan **stove** (soba) unsurunun atmosferle ilişkisi açıklanıyor: Norveç'te ısınmak gerektiği belirtilirken, oyun açıldığında sobanın kapaklarının açık olduğu ve henüz bir şey olmadığı görülüyor [[00:49](https://www.youtube.com/watch?v=G6mFQabkLMo&t=49)].
+- Oyun ilerledikçe sobada önce **red ones** (kırmızı korlar), sonra küçük bir ateş ve sonunda **roaring Blaze** (gürleyen bir alev) ortaya çıkarken, gerilimin artması ve **manuscript**'in giderek daha fazla odak noktası haline gelmesiyle izleyicide bu taslağın eninde sonunda sobaya atılacağı hissinin oluştuğu aktarılıyor [[01:00](https://www.youtube.com/watch?v=G6mFQabkLMo&t=60)], [[01:08](https://www.youtube.com/watch?v=G6mFQabkLMo&t=68)].
+- Sonuç olarak **manuscript** sobaya atılıyor ve bu güçlü **prop** kullanımının ardından karakterlerin birbirini vurmaya başladığı söyleniyor [[01:23](https://www.youtube.com/watch?v=G6mFQabkLMo&t=83)].
+- **Prop** kullanımının yalnızca **playwrights** ile sınırlı olmadığı belirtilerek, konuşmacının **MIT**'de birinci sınıf **physics** (fizik) dersinde gördüğü bir örnek anlatılıyor [[01:29](https://www.youtube.com/watch?v=G6mFQabkLMo&t=89)], [[01:37](https://www.youtube.com/watch?v=G6mFQabkLMo&t=97)].
+- Bu **demonstration**'ın temel fizik derslerinde sıkça kullanılan **conservation of energy** (enerjinin korunumu) ve özellikle **potential and kinetic energy** (potansiyel ve kinetik enerji) dönüşümüyle ilgili olduğu; bu dönüşüm sırasında yeni enerji kazanılmadığı ifade ediliyor [[01:44](https://www.youtube.com/watch?v=G6mFQabkLMo&t=104)], [[01:53](https://www.youtube.com/watch?v=G6mFQabkLMo&t=113)].
+- Fizik deneyinde tavandan sarkan bir **wire** (tel) ucunda **cannonball** (gülle) bulunduğu, eğitmen duvar kenarına gidip güllesini burnunun ucuna getirdikten sonra bıraktığı anlatılıyor [[02:01](https://www.youtube.com/watch?v=G6mFQabkLMo&t=121)], [[02:10](https://www.youtube.com/watch?v=G6mFQabkLMo&t=130)].
+- **Pendulum**'un (sarkaç) odanın karşı tarafına gidip geri dönerken eğitmeninin burnuna neredeyse değdiği ("kissing the instructor's nose") ve bunun izleyicide "bu fiziği hiç kullanır mıyım bilmem ama bu adamın buna gerçekten inandığını biliyorum" düşüncesini uyandırdığı belirtiliyor [[02:23](https://www.youtube.com/watch?v=G6mFQabkLMo&t=143)], [[02:29](https://www.youtube.com/watch?v=G6mFQabkLMo&t=149)].
+
+<http://www.youtube.com/watch?v=G6mFQabkLMo>
